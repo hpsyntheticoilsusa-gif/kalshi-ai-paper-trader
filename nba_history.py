@@ -83,6 +83,12 @@ def main():
         for g in daily:
             histories.setdefault(g["home"]["id"],[]).append(g["home_win"])
             histories.setdefault(g["away"]["id"],[]).append(1-g["home_win"])
+    # Fair comparison: only the identical game IDs scored by BOTH models.
+    by_form={t["game_id"]:t for t in tested}
+    by_elo={t["game_id"]:t for t in elo_tested}
+    common=sorted(set(by_form)&set(by_elo))
+    paired_form=sum(by_form[k]["brier"] for k in common)/len(common) if common else None
+    paired_elo=sum(by_elo[k]["brier"] for k in common)/len(common) if common else None
     model=sum(t["brier"] for t in tested)/len(tested) if tested else None
     elo_brier=sum(t['brier'] for t in elo_tested)/len(elo_tested) if elo_tested else None
     phases={phase:sum(g.get("season_type")==phase for g in games) for phase in ("preseason","regular","postseason","unknown")}
@@ -93,6 +99,10 @@ def main():
          "completed_games":len(games),"by_phase":phases,"backtest_games":len(tested),
          "model_brier":round(model,4) if model is not None else None,
          "neutral_50_50_brier":.25 if tested else None,
+         "paired_backtest_games":len(common),
+         "paired_form_brier":round(paired_form,4) if paired_form is not None else None,
+         "paired_elo_brier":round(paired_elo,4) if paired_elo is not None else None,
+         "historical_backfill_complete":len(checked)>=len(days),
          "elo_backtest_games":len(elo_tested),"elo_brier":round(elo_brier,4) if elo_brier is not None else None,
          "status":"EXPLORATORY_NOT_VALIDATED",
          "warning":"Regular-season-only strictly chronological simple form model, with backfill potentially incomplete. No market odds, injuries, opponent adjustments, game matching or validated profitability.",
@@ -100,6 +110,7 @@ def main():
     (DOCS/"nba_history.json").write_text(json.dumps(out,indent=2),encoding="utf-8")
     def score(v):return "Not available" if v is None else str(v)
     block="<section style='background:#24344a;border-radius:12px;padding:18px;margin:18px 0'><h2>NBA history and backtesting (Step 12C)</h2><p>Historical dates checked: "+str(len(checked))+"/"+str(len(days))+". Completed games: "+str(len(games))+" (regular: "+str(phases["regular"])+", preseason: "+str(phases["preseason"])+", postseason: "+str(phases["postseason"])+"). Chronological regular-season test games: "+str(len(tested))+".</p><p>Model Brier: "+score(out["model_brier"])+". Neutral 50/50 baseline: "+score(out["neutral_50_50_brier"])+". Fixed-parameter Elo backtest: "+str(len(elo_tested))+" games, Brier "+score(out["elo_brier"])+". Lower is better.</p><p style='color:#ffd184'>RESEARCH ONLY. Historical backfill may be incomplete and the model is not calibrated or validated against actual Kalshi fills.</p><p><a href='./nba_history.json'>View historical audit</a></p></section>"
+    block+="<section style='background:#24344a;border-radius:12px;padding:18px;margin:18px 0'><h2>NBA matched-game comparison (Step 12E)</h2><p>Games evaluated by both models: "+str(len(common))+". Recent-form Brier on matched games: "+score(out["paired_form_brier"])+". Elo Brier on matched games: "+score(out["paired_elo_brier"])+". 50/50 benchmark: "+score(.25 if common else None)+". Lower is better.</p><p style='color:#ffd184'>"+("Historical dates fully checked; model validation still pending." if len(checked)>=len(days) else "HISTORICAL BACKFILL INCOMPLETE: "+str(len(checked))+" of "+str(len(days))+" dates checked.")+" These are exploratory scores, not demonstrated profitability or calibrated win probabilities.</p></section>"
     page=DOCS/"index.html"
     if not page.exists():raise RuntimeError("Dashboard missing")
     page.write_text(page.read_text(encoding="utf-8").replace("</body></html>",block+"</body></html>"),encoding="utf-8")
