@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-08T22:30:07.634581+00:00",
+  "generated_utc": "2026-10-08T22:30:46.166798+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 120,
+  "qualifying_nba_markets": 117,
   "scoreboard_games": [
     {
       "event_id": "401898392",
@@ -130,8 +130,8 @@
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-BOS4",
       "title": "Boston wins by over 3.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "53.0",
       "spread_cents": "1.0",
       "volume_24h": "15415.69",
       "close_time": "2026-10-10T23:00:00Z"
@@ -391,8 +391,8 @@
       "title": "Philadelphia wins by over 22.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08PHIBKN",
       "yes_ask_cents": "16.0",
-      "no_ask_cents": "85.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "88.0",
+      "spread_cents": "4.0",
       "volume_24h": "1219.77",
       "close_time": "2026-10-10T23:30:00Z"
     },
@@ -460,9 +460,9 @@
       "ticker": "KXNBA1HSPREAD-26OCT08PHIBKN-PHI4",
       "title": "Philadelphia wins the 1H by over 3.5 points",
       "event_ticker": "KXNBA1HSPREAD-26OCT08PHIBKN",
-      "yes_ask_cents": "64.0",
+      "yes_ask_cents": "67.0",
       "no_ask_cents": "37.0",
-      "spread_cents": "1.0",
+      "spread_cents": "4.0",
       "volume_24h": "689.87",
       "close_time": "2026-10-10T23:30:00Z"
     },

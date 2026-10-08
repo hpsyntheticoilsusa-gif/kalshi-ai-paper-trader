@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-10-08T22:30:07.565648+00:00",
+  "generated_utc": "2026-10-08T22:30:46.097125+00:00",
   "scope": "Only saved markets passing liquidity/spread filters; all qualifying saved from up to 20,000 scanned",
   "categories": {
-    "Sports": 952,
-    "Other": 109,
+    "Sports": 942,
+    "Other": 105,
     "Politics": 8,
     "Economics": 76,
-    "Weather": 145,
+    "Weather": 146,
     "Science": 1
   },
   "markets": [
@@ -14,22 +14,11 @@
       "ticker": "KXITFWMATCH-26OCT08MARMEA-MAR",
       "title": "Camila Markus wins",
       "event_ticker": "KXITFWMATCH-26OCT08MARMEA",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "1.0",
+      "yes_ask_cents": "46.0",
+      "no_ask_cents": "56.0",
+      "spread_cents": "2.0",
       "volume_24h": "708726.54",
       "close_time": "2026-10-22T20:27:21Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFWMATCH-26OCT08MOYZOR-ZOR",
-      "title": "Emily Zornada wins",
-      "event_ticker": "KXITFWMATCH-26OCT08MOYZOR",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "4.0",
-      "volume_24h": "279875.96",
-      "close_time": "2026-10-22T21:36:21Z",
       "category": "Sports"
     },
     {
@@ -39,16 +28,27 @@
       "yes_ask_cents": "10.0",
       "no_ask_cents": "91.0",
       "spread_cents": "1.0",
-      "volume_24h": "272271.13",
+      "volume_24h": "302481.17",
       "close_time": "2026-10-22T16:30:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXITFWMATCH-26OCT08MOYZOR-ZOR",
+      "title": "Emily Zornada wins",
+      "event_ticker": "KXITFWMATCH-26OCT08MOYZOR",
+      "yes_ask_cents": "9.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "1.0",
+      "volume_24h": "279875.96",
+      "close_time": "2026-10-22T21:36:21Z",
       "category": "Sports"
     },
     {
       "ticker": "KXITFWMATCH-26OCT08MARMEA-MEA",
       "title": "Sofia Meabe wins",
       "event_ticker": "KXITFWMATCH-26OCT08MARMEA",
-      "yes_ask_cents": "57.0",
-      "no_ask_cents": "44.0",
+      "yes_ask_cents": "56.0",
+      "no_ask_cents": "45.0",
       "spread_cents": "1.0",
       "volume_24h": "267697.46",
       "close_time": "2026-10-22T20:27:21Z",
@@ -69,9 +69,9 @@
       "ticker": "KXITFWMATCH-26OCT08MOYZOR-MOY",
       "title": "Luciana Moyano wins",
       "event_ticker": "KXITFWMATCH-26OCT08MOYZOR",
-      "yes_ask_cents": "89.0",
-      "no_ask_cents": "14.0",
-      "spread_cents": "3.0",
+      "yes_ask_cents": "92.0",
+      "no_ask_cents": "9.0",
+      "spread_cents": "1.0",
       "volume_24h": "119770.27",
       "close_time": "2026-10-22T21:36:21Z",
       "category": "Sports"
@@ -92,8 +92,8 @@
       "title": "Maryville University wins",
       "event_ticker": "KXLOLGAME-26OCT081700MVUCPD",
       "yes_ask_cents": "82.0",
-      "no_ask_cents": "22.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "20.0",
+      "spread_cents": "2.0",
       "volume_24h": "80030.34",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Other"
@@ -105,7 +105,7 @@
       "yes_ask_cents": "91.0",
       "no_ask_cents": "10.0",
       "spread_cents": "1.0",
-      "volume_24h": "53543.74",
+      "volume_24h": "63803.11",
       "close_time": "2026-10-22T16:30:00Z",
       "category": "Sports"
     },
@@ -157,8 +157,8 @@
       "ticker": "KXLOLMAP-26OCT081700MVUCPD-2-CPD",
       "title": "Cupid Esports wins map 2",
       "event_ticker": "KXLOLMAP-26OCT081700MVUCPD-2",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "90.0",
+      "yes_ask_cents": "12.0",
+      "no_ask_cents": "91.0",
       "spread_cents": "3.0",
       "volume_24h": "40487.93",
       "close_time": "2026-10-10T21:00:00Z",
@@ -179,9 +179,9 @@
       "ticker": "KXCS2GAME-26OCT081700TDPLARGA-TDP",
       "title": "Turma do Pagode wins",
       "event_ticker": "KXCS2GAME-26OCT081700TDPLARGA",
-      "yes_ask_cents": "10.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "1.0",
+      "yes_ask_cents": "4.0",
+      "no_ask_cents": "98.0",
+      "spread_cents": "2.0",
       "volume_24h": "34867.49",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
@@ -190,9 +190,9 @@
       "ticker": "KXLOLMAP-26OCT081700MVUCPD-2-MVU",
       "title": "Maryville University wins map 2",
       "event_ticker": "KXLOLMAP-26OCT081700MVUCPD-2",
-      "yes_ask_cents": "90.0",
+      "yes_ask_cents": "92.0",
       "no_ask_cents": "13.0",
-      "spread_cents": "3.0",
+      "spread_cents": "5.0",
       "volume_24h": "34495.18",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Other"
@@ -289,9 +289,9 @@
       "ticker": "KXAAAGASD-26OCT09-4.3700",
       "title": "Will average **gas prices** be above $4.3700?",
       "event_ticker": "KXAAAGASD-26OCT09",
-      "yes_ask_cents": "31.0",
+      "yes_ask_cents": "32.0",
       "no_ask_cents": "72.0",
-      "spread_cents": "3.0",
+      "spread_cents": "4.0",
       "volume_24h": "21784.7",
       "close_time": "2026-10-09T03:59:00Z",
       "category": "Economics"
@@ -410,9 +410,9 @@
       "ticker": "KXCS2GAME-26OCT081700TDPLARGA-LARGA",
       "title": "largadosypelados wins",
       "event_ticker": "KXCS2GAME-26OCT081700TDPLARGA",
-      "yes_ask_cents": "92.0",
-      "no_ask_cents": "10.0",
-      "spread_cents": "2.0",
+      "yes_ask_cents": "97.0",
+      "no_ask_cents": "4.0",
+      "spread_cents": "1.0",
       "volume_24h": "18573.56",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
@@ -498,8 +498,8 @@
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-BOS4",
       "title": "Boston wins by over 3.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "53.0",
       "spread_cents": "1.0",
       "volume_24h": "15415.69",
       "close_time": "2026-10-10T23:00:00Z",
@@ -740,9 +740,9 @@
       "ticker": "KXCS2GAME-26OCT081700EXKISG-ISG",
       "title": "Isurus wins",
       "event_ticker": "KXCS2GAME-26OCT081700EXKISG",
-      "yes_ask_cents": "11.0",
+      "yes_ask_cents": "10.0",
       "no_ask_cents": "91.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "9657.76",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
@@ -806,9 +806,9 @@
       "ticker": "KXWORLDNEWSMENTION-26OCT08-MADU",
       "title": "What will any host or reporter say during ABC World News Tonight originally scheduled for October 8, 2026?",
       "event_ticker": "KXWORLDNEWSMENTION-26OCT08",
-      "yes_ask_cents": "48.0",
+      "yes_ask_cents": "47.0",
       "no_ask_cents": "54.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "8967.65",
       "close_time": "2026-10-22T14:00:00Z",
       "category": "Other"
@@ -818,8 +818,8 @@
       "title": "What will any host or reporter say during ABC World News Tonight originally scheduled for October 8, 2026?",
       "event_ticker": "KXWORLDNEWSMENTION-26OCT08",
       "yes_ask_cents": "24.0",
-      "no_ask_cents": "80.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "77.0",
+      "spread_cents": "1.0",
       "volume_24h": "8699.4",
       "close_time": "2026-10-22T14:00:00Z",
       "category": "Other"
@@ -828,9 +828,9 @@
       "ticker": "KXCS2GAME-26OCT081700PROBSTA-PRO",
       "title": "Procyon Gaming wins",
       "event_ticker": "KXCS2GAME-26OCT081700PROBSTA",
-      "yes_ask_cents": "71.0",
+      "yes_ask_cents": "72.0",
       "no_ask_cents": "31.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "8477.18",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
@@ -850,9 +850,9 @@
       "ticker": "KXCS2GAME-26OCT081700PROBSTA-BSTA",
       "title": "BESTIA Academy wins",
       "event_ticker": "KXCS2GAME-26OCT081700PROBSTA",
-      "yes_ask_cents": "32.0",
-      "no_ask_cents": "69.0",
-      "spread_cents": "1.0",
+      "yes_ask_cents": "30.0",
+      "no_ask_cents": "72.0",
+      "spread_cents": "2.0",
       "volume_24h": "8385.88",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
@@ -872,9 +872,9 @@
       "ticker": "KXCS2GAME-26OCT081700CHAMAMW-CHAMA",
       "title": "BORRACHEIROS wins",
       "event_ticker": "KXCS2GAME-26OCT081700CHAMAMW",
-      "yes_ask_cents": "79.0",
+      "yes_ask_cents": "78.0",
       "no_ask_cents": "24.0",
-      "spread_cents": "3.0",
+      "spread_cents": "2.0",
       "volume_24h": "8168.89",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
@@ -938,9 +938,9 @@
       "ticker": "KXLOLTOTALMAPS-26OCT081700MVUCPD-4",
       "title": "Will over 3.5 maps be played in the Maryville University vs. Cupid Esports League of Legends match?",
       "event_ticker": "KXLOLTOTALMAPS-26OCT081700MVUCPD",
-      "yes_ask_cents": "60.0",
+      "yes_ask_cents": "59.0",
       "no_ask_cents": "47.0",
-      "spread_cents": "7.0",
+      "spread_cents": "6.0",
       "volume_24h": "7541.43",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Other"
@@ -1004,8 +1004,8 @@
       "ticker": "KXUFCMOV-26OCT10ALLDUN-ALLSUB",
       "title": "Brendan Allen wins by Submission?",
       "event_ticker": "KXUFCMOV-26OCT10ALLDUN",
-      "yes_ask_cents": "23.0",
-      "no_ask_cents": "78.0",
+      "yes_ask_cents": "24.0",
+      "no_ask_cents": "77.0",
       "spread_cents": "1.0",
       "volume_24h": "6852.47",
       "close_time": "2026-10-25T01:40:00Z",
@@ -1087,6 +1087,17 @@
       "volume_24h": "6276.0",
       "close_time": "2026-10-09T03:59:00Z",
       "category": "Economics"
+    },
+    {
+      "ticker": "KXWORLDNEWSMENTION-26OCT08-MEAS",
+      "title": "What will any host or reporter say during ABC World News Tonight originally scheduled for October 8, 2026?",
+      "event_ticker": "KXWORLDNEWSMENTION-26OCT08",
+      "yes_ask_cents": "15.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "8.0",
+      "volume_24h": "6241.29",
+      "close_time": "2026-10-22T14:00:00Z",
+      "category": "Other"
     },
     {
       "ticker": "KXNBATOTAL-26OCT08ATLSAS-225",
@@ -1202,8 +1213,8 @@
       "ticker": "KXWORLDNEWSMENTION-26OCT08-TRUM",
       "title": "What will any host or reporter say during ABC World News Tonight originally scheduled for October 8, 2026?",
       "event_ticker": "KXWORLDNEWSMENTION-26OCT08",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "50.0",
+      "yes_ask_cents": "55.0",
+      "no_ask_cents": "51.0",
       "spread_cents": "6.0",
       "volume_24h": "5768.48",
       "close_time": "2026-10-22T14:00:00Z",
@@ -1252,17 +1263,6 @@
       "volume_24h": "5633.23",
       "close_time": "2026-10-23T04:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXWORLDNEWSMENTION-26OCT08-UKRA",
-      "title": "What will any host or reporter say during ABC World News Tonight originally scheduled for October 8, 2026?",
-      "event_ticker": "KXWORLDNEWSMENTION-26OCT08",
-      "yes_ask_cents": "31.0",
-      "no_ask_cents": "76.0",
-      "spread_cents": "7.0",
-      "volume_24h": "5575.26",
-      "close_time": "2026-10-22T14:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXMLBHIT-26OCT082000CLECWS-CWSRGRICHUK34-2",
@@ -1430,17 +1430,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXCS2GAME-26OCT081700QUINMEI-QUIN",
-      "title": "QUINTESSENCIA wins",
-      "event_ticker": "KXCS2GAME-26OCT081700QUINMEI",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "7.0",
-      "volume_24h": "5042.47",
-      "close_time": "2026-10-10T21:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXAAAGASDCA-26OCT09-6.3450",
       "title": "Will average **gas prices** be above $6.3450?",
       "event_ticker": "KXAAAGASDCA-26OCT09",
@@ -1507,17 +1496,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXWORLDNEWSMENTION-26OCT08-LINC",
-      "title": "What will any host or reporter say during ABC World News Tonight originally scheduled for October 8, 2026?",
-      "event_ticker": "KXWORLDNEWSMENTION-26OCT08",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4768.51",
-      "close_time": "2026-10-22T14:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXMLBKS-26OCT081700CLECWS-CLEPMESSICK77-4",
       "title": "Parker Messick: 4+ strikeouts?",
       "event_ticker": "KXMLBKS-26OCT081700CLECWS",
@@ -1576,9 +1554,9 @@
       "ticker": "KXWORLDNEWSMENTION-26OCT08-PROT",
       "title": "What will any host or reporter say during ABC World News Tonight originally scheduled for October 8, 2026?",
       "event_ticker": "KXWORLDNEWSMENTION-26OCT08",
-      "yes_ask_cents": "26.0",
+      "yes_ask_cents": "25.0",
       "no_ask_cents": "77.0",
-      "spread_cents": "3.0",
+      "spread_cents": "2.0",
       "volume_24h": "4632.23",
       "close_time": "2026-10-22T14:00:00Z",
       "category": "Other"
@@ -1642,9 +1620,9 @@
       "ticker": "KXCS2MAP-26OCT081700TDPLARGA-2-LARGA",
       "title": "largadosypelados wins map 2",
       "event_ticker": "KXCS2MAP-26OCT081700TDPLARGA-2",
-      "yes_ask_cents": "88.0",
-      "no_ask_cents": "14.0",
-      "spread_cents": "2.0",
+      "yes_ask_cents": "89.0",
+      "no_ask_cents": "15.0",
+      "spread_cents": "4.0",
       "volume_24h": "4469.32",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
@@ -1708,9 +1686,9 @@
       "ticker": "KXWORLDNEWSMENTION-26OCT08-SOLA",
       "title": "What will any host or reporter say during ABC World News Tonight originally scheduled for October 8, 2026?",
       "event_ticker": "KXWORLDNEWSMENTION-26OCT08",
-      "yes_ask_cents": "15.0",
+      "yes_ask_cents": "16.0",
       "no_ask_cents": "86.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "4239.28",
       "close_time": "2026-10-22T14:00:00Z",
       "category": "Other"
@@ -2032,17 +2010,6 @@
       "spread_cents": "2.0",
       "volume_24h": "3535.9",
       "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXCS2GAME-26OCT081700QUINMEI-MEI",
-      "title": "MEIA NOITE wins",
-      "event_ticker": "KXCS2GAME-26OCT081700QUINMEI",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "58.0",
-      "spread_cents": "8.0",
-      "volume_24h": "3455.63",
-      "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
     },
     {
@@ -2398,17 +2365,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXWORLDNEWSMENTION-26OCT08-PNEU",
-      "title": "What will any host or reporter say during ABC World News Tonight originally scheduled for October 8, 2026?",
-      "event_ticker": "KXWORLDNEWSMENTION-26OCT08",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "62.0",
-      "spread_cents": "6.0",
-      "volume_24h": "2827.64",
-      "close_time": "2026-10-22T14:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXMLBKS-26OCT081700CLECWS-CWSHSMITH32-4",
       "title": "Hagen Smith: 4+ strikeouts?",
       "event_ticker": "KXMLBKS-26OCT081700CLECWS",
@@ -2478,9 +2434,9 @@
       "ticker": "KXMLBKS-26OCT081700CLECWS-CLEPMESSICK77-9",
       "title": "Parker Messick: 9+ strikeouts?",
       "event_ticker": "KXMLBKS-26OCT081700CLECWS",
-      "yes_ask_cents": "15.0",
+      "yes_ask_cents": "14.0",
       "no_ask_cents": "87.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "2691.01",
       "close_time": "2026-10-11T21:00:00Z",
       "category": "Sports"
@@ -2506,17 +2462,6 @@
       "volume_24h": "2680.73",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXWORLDNEWSMENTION-26OCT08-NOBE",
-      "title": "What will any host or reporter say during ABC World News Tonight originally scheduled for October 8, 2026?",
-      "event_ticker": "KXWORLDNEWSMENTION-26OCT08",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "2.0",
-      "volume_24h": "2670.67",
-      "close_time": "2026-10-22T14:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXNHLAST-26OCT08PHIOTT-OTTTSTUTZLE18-1",
@@ -2676,9 +2621,9 @@
       "ticker": "KXNFLTDPROT-26OCT08TBDAL-DALGPICKENS3-2",
       "title": "George Pickens: 2+ touchdowns (Protected)",
       "event_ticker": "KXNFLTDPROT-26OCT08TBDAL",
-      "yes_ask_cents": "9.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "1.0",
+      "yes_ask_cents": "10.0",
+      "no_ask_cents": "94.0",
+      "spread_cents": "4.0",
       "volume_24h": "2532.02",
       "close_time": "2026-10-11T00:15:00Z",
       "category": "Sports"
@@ -2893,17 +2838,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXWORLDNEWSMENTION-26OCT08-AI",
-      "title": "What will any host or reporter say during ABC World News Tonight originally scheduled for October 8, 2026?",
-      "event_ticker": "KXWORLDNEWSMENTION-26OCT08",
-      "yes_ask_cents": "16.0",
-      "no_ask_cents": "89.0",
-      "spread_cents": "5.0",
-      "volume_24h": "2310.19",
-      "close_time": "2026-10-22T14:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNHLGOAL-26OCT08NSHMTL-NSHMBOURQUE22-1",
       "title": "Mavrik Bourque: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08NSHMTL",
@@ -2946,17 +2880,6 @@
       "volume_24h": "2256.97",
       "close_time": "2026-10-23T02:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXWORLDNEWSMENTION-26OCT08-IRAN",
-      "title": "What will any host or reporter say during ABC World News Tonight originally scheduled for October 8, 2026?",
-      "event_ticker": "KXWORLDNEWSMENTION-26OCT08",
-      "yes_ask_cents": "92.0",
-      "no_ask_cents": "16.0",
-      "spread_cents": "8.0",
-      "volume_24h": "2250.23",
-      "close_time": "2026-10-22T14:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXNHLPTS-26OCT08MINTB-MINMBOLDY12-2",
@@ -3278,17 +3201,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXATPCHALLENGERDOUBLES-26OCT08COURIBCASVIL-CASVIL",
-      "title": "Hernan Casanova / Gonzalo Villanueva wins",
-      "event_ticker": "KXATPCHALLENGERDOUBLES-26OCT08COURIBCASVIL",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "7.0",
-      "volume_24h": "1965.25",
-      "close_time": "2026-10-22T21:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXMLBRBI-26OCT081700CLECWS-CWSMVARGAS20-1",
       "title": "Miguel Vargas: 1+ RBIs?",
       "event_ticker": "KXMLBRBI-26OCT081700CLECWS",
@@ -3601,8 +3513,8 @@
       "title": "Alexandre Carrier: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08NSHMTL",
       "yes_ask_cents": "6.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "96.0",
+      "spread_cents": "2.0",
       "volume_24h": "1673.45",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -3707,6 +3619,17 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXTEMPMIAH-26OCT0819-T83.99",
+      "title": "Will the temp in Miami be above 83.99\u00b0 on Oct 8, 2026 at 7pm EDT?",
+      "event_ticker": "KXTEMPMIAH-26OCT0819",
+      "yes_ask_cents": "99.0",
+      "no_ask_cents": "5.0",
+      "spread_cents": "4.0",
+      "volume_24h": "1575.29",
+      "close_time": "2026-10-08T23:00:00Z",
+      "category": "Weather"
+    },
+    {
       "ticker": "KXNHLGOAL-26OCT08NSHMTL-MTLMMATHESON8-1",
       "title": "Mike Matheson: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08NSHMTL",
@@ -3765,9 +3688,9 @@
       "ticker": "KXMLBRBI-26OCT081700CLECWS-CLEJRAMREZ11-1",
       "title": "Jos\u00e9 Ram\u00edrez: 1+ RBIs?",
       "event_ticker": "KXMLBRBI-26OCT081700CLECWS",
-      "yes_ask_cents": "32.0",
+      "yes_ask_cents": "33.0",
       "no_ask_cents": "71.0",
-      "spread_cents": "3.0",
+      "spread_cents": "4.0",
       "volume_24h": "1544.98",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
@@ -3865,8 +3788,8 @@
       "title": "What will any host or reporter say during ABC World News Tonight originally scheduled for October 8, 2026?",
       "event_ticker": "KXWORLDNEWSMENTION-26OCT08",
       "yes_ask_cents": "81.0",
-      "no_ask_cents": "23.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "24.0",
+      "spread_cents": "5.0",
       "volume_24h": "1493.04",
       "close_time": "2026-10-22T14:00:00Z",
       "category": "Other"
@@ -3947,6 +3870,17 @@
       "volume_24h": "1459.59",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
+    },
+    {
+      "ticker": "KXWORLDNEWSMENTION-26OCT08-PRIN",
+      "title": "What will any host or reporter say during ABC World News Tonight originally scheduled for October 8, 2026?",
+      "event_ticker": "KXWORLDNEWSMENTION-26OCT08",
+      "yes_ask_cents": "8.0",
+      "no_ask_cents": "96.0",
+      "spread_cents": "4.0",
+      "volume_24h": "1458.66",
+      "close_time": "2026-10-22T14:00:00Z",
+      "category": "Other"
     },
     {
       "ticker": "KXNBASPREAD-26OCT08ATLSAS-SAS7",
@@ -4167,17 +4101,6 @@
       "volume_24h": "1325.24",
       "close_time": "2026-10-13T10:00:00Z",
       "category": "Other"
-    },
-    {
-      "ticker": "KXMLBINNINGWIN-26OCT081700CLECWS-1-TIE",
-      "title": "Teams tie scoring in the 1st inning?",
-      "event_ticker": "KXMLBINNINGWIN-26OCT081700CLECWS-1",
-      "yes_ask_cents": "64.0",
-      "no_ask_cents": "42.0",
-      "spread_cents": "6.0",
-      "volume_24h": "1320.11",
-      "close_time": "2026-10-10T21:00:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXPGAROUNDSCORE-BAC26R2-ASCO68",
@@ -4503,8 +4426,8 @@
       "title": "Philadelphia wins by over 22.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08PHIBKN",
       "yes_ask_cents": "16.0",
-      "no_ask_cents": "85.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "88.0",
+      "spread_cents": "4.0",
       "volume_24h": "1219.77",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
@@ -4672,17 +4595,6 @@
       "spread_cents": "1.0",
       "volume_24h": "1169.61",
       "close_time": "2026-10-23T04:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXMLBINNINGWIN-26OCT081700CLECWS-1-CLE",
-      "title": "Cleveland scores more in the 1st inning?",
-      "event_ticker": "KXMLBINNINGWIN-26OCT081700CLECWS-1",
-      "yes_ask_cents": "26.0",
-      "no_ask_cents": "81.0",
-      "spread_cents": "7.0",
-      "volume_24h": "1164.68",
-      "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
     },
     {
@@ -4950,17 +4862,6 @@
       "category": "Economics"
     },
     {
-      "ticker": "KXMLBINNINGWIN-26OCT081700CLECWS-1-CWS",
-      "title": "Chicago WS scores more in the 1st inning?",
-      "event_ticker": "KXMLBINNINGWIN-26OCT081700CLECWS-1",
-      "yes_ask_cents": "26.0",
-      "no_ask_cents": "81.0",
-      "spread_cents": "7.0",
-      "volume_24h": "1051.0",
-      "close_time": "2026-10-10T21:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNHLGOAL-26OCT08VANCAR-CARKMILLER19-1",
       "title": "K'Andre Miller: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
@@ -4969,6 +4870,17 @@
       "spread_cents": "1.0",
       "volume_24h": "1047.0",
       "close_time": "2026-10-10T23:00:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXCS2MAP-26OCT081700GREYAW-2-GRE",
+      "title": "Gremio Esports wins map 2",
+      "event_ticker": "KXCS2MAP-26OCT081700GREYAW-2",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "68.0",
+      "spread_cents": "7.0",
+      "volume_24h": "1044.68",
+      "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
     },
     {
@@ -5041,9 +4953,9 @@
       "ticker": "KXCS2MAP-26OCT081700BHEALKAA-2-ALKAA",
       "title": "ALKA wins map 2",
       "event_ticker": "KXCS2MAP-26OCT081700BHEALKAA-2",
-      "yes_ask_cents": "5.0",
+      "yes_ask_cents": "4.0",
       "no_ask_cents": "97.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "1023.82",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
@@ -5264,7 +5176,7 @@
       "yes_ask_cents": "75.0",
       "no_ask_cents": "26.0",
       "spread_cents": "1.0",
-      "volume_24h": "956.0",
+      "volume_24h": "960.74",
       "close_time": "2026-10-13T17:00:00Z",
       "category": "Sports"
     },
@@ -5302,17 +5214,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXTEMPMIAH-26OCT0819-T85.99",
-      "title": "Will the temp in Miami be above 85.99\u00b0 on Oct 8, 2026 at 7pm EDT?",
-      "event_ticker": "KXTEMPMIAH-26OCT0819",
-      "yes_ask_cents": "2.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "1.0",
-      "volume_24h": "921.27",
-      "close_time": "2026-10-08T23:00:00Z",
-      "category": "Weather"
-    },
-    {
       "ticker": "KXNHLGOAL-26OCT08CHINYI-NYIOPALAT81-1",
       "title": "Ondrej Palat: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08CHINYI",
@@ -5344,17 +5245,6 @@
       "volume_24h": "917.88",
       "close_time": "2026-10-10T06:00:00Z",
       "category": "Weather"
-    },
-    {
-      "ticker": "KXCS2MAP-26OCT081700CHAMAMW-2-CHAMA",
-      "title": "BORRACHEIROS wins map 2",
-      "event_ticker": "KXCS2MAP-26OCT081700CHAMAMW-2",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "3.0",
-      "volume_24h": "916.91",
-      "close_time": "2026-10-10T21:00:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXMLBHIT-26OCT081700CLECWS-CLEJRAMREZ11-2",
@@ -5746,8 +5636,8 @@
       "title": "Indiana wins",
       "event_ticker": "KXNCAAWVMATCH-26OCT081830NEBIND",
       "yes_ask_cents": "13.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "6.0",
       "volume_24h": "807.98",
       "close_time": "2026-10-10T22:30:00Z",
       "category": "Sports"
@@ -6032,8 +5922,8 @@
       "title": "What will any host or reporter say during ABC World News Tonight originally scheduled for October 8, 2026?",
       "event_ticker": "KXWORLDNEWSMENTION-26OCT08",
       "yes_ask_cents": "5.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "98.0",
+      "spread_cents": "3.0",
       "volume_24h": "749.04",
       "close_time": "2026-10-22T14:00:00Z",
       "category": "Other"
@@ -6241,8 +6131,8 @@
       "title": "Will the maximum temperature be 91-92\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXHIGHTOKC-26OCT09",
       "yes_ask_cents": "17.0",
-      "no_ask_cents": "85.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "86.0",
+      "spread_cents": "3.0",
       "volume_24h": "697.0",
       "close_time": "2026-10-10T06:00:00Z",
       "category": "Weather"
@@ -6262,9 +6152,9 @@
       "ticker": "KXNBA1HSPREAD-26OCT08PHIBKN-PHI4",
       "title": "Philadelphia wins the 1H by over 3.5 points",
       "event_ticker": "KXNBA1HSPREAD-26OCT08PHIBKN",
-      "yes_ask_cents": "64.0",
+      "yes_ask_cents": "67.0",
       "no_ask_cents": "37.0",
-      "spread_cents": "1.0",
+      "spread_cents": "4.0",
       "volume_24h": "689.87",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
@@ -6438,9 +6328,9 @@
       "ticker": "KXNHLGOAL-26OCT08CHINYI-CHIJGREENWAY12-1",
       "title": "Jordan Greenway: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08CHINYI",
-      "yes_ask_cents": "9.0",
+      "yes_ask_cents": "8.0",
       "no_ask_cents": "93.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "657.15",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
@@ -6714,8 +6604,8 @@
       "title": "Los Angeles D vs Milwaukee Championship Series Game Spread: Milwaukee -1.5 games",
       "event_ticker": "KXMLBSERIESSPREAD-26LADMILNLCS",
       "yes_ask_cents": "34.0",
-      "no_ask_cents": "73.0",
-      "spread_cents": "7.0",
+      "no_ask_cents": "72.0",
+      "spread_cents": "6.0",
       "volume_24h": "619.82",
       "close_time": "2026-11-08T04:00:00Z",
       "category": "Sports"
@@ -7461,9 +7351,9 @@
       "ticker": "KXNFLRECYDS-26OCT11CINMIA-MIAGDULCICH85-70",
       "title": "Greg Dulcich: 70+ receiving yards",
       "event_ticker": "KXNFLRECYDS-26OCT11CINMIA",
-      "yes_ask_cents": "9.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "4.0",
+      "yes_ask_cents": "8.0",
+      "no_ask_cents": "94.0",
+      "spread_cents": "2.0",
       "volume_24h": "522.22",
       "close_time": "2026-10-13T17:00:00Z",
       "category": "Sports"
@@ -7594,8 +7484,8 @@
       "title": "Full Game: Over 236.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08NOPMIA",
       "yes_ask_cents": "47.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "1.0",
       "volume_24h": "503.97",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
@@ -7634,6 +7524,17 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXNBASPREAD-26OCT08BOSCLE-BOS11",
+      "title": "Boston wins by over 10.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
+      "yes_ask_cents": "30.0",
+      "no_ask_cents": "71.0",
+      "spread_cents": "1.0",
+      "volume_24h": "500.0",
+      "close_time": "2026-10-10T23:00:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXSUEZWEEKLY-26OCT11-T320",
       "title": "Will there be more than 320 transit calls through the Suez Canal from Oct 5, 2026 to Oct 11, 2026?",
       "event_ticker": "KXSUEZWEEKLY-26OCT11",
@@ -7645,17 +7546,6 @@
       "category": "Other"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT08BOSCLE-BOS11",
-      "title": "Boston wins by over 10.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "31.0",
-      "no_ask_cents": "72.0",
-      "spread_cents": "3.0",
-      "volume_24h": "500.0",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNFLFFPTS-26OCT11CLENYJ-CLECLEDST-7",
       "title": "CLE Browns D/ST: Over 7 fantasy points",
       "event_ticker": "KXNFLFFPTS-26OCT11CLENYJ",
@@ -7664,17 +7554,6 @@
       "spread_cents": "6.0",
       "volume_24h": "500.0",
       "close_time": "2026-10-13T17:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT08BOSCLE-CLE20",
-      "title": "Cleveland wins by over 19.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "9.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "2.0",
-      "volume_24h": "499.87",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -7843,6 +7722,17 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXTEMPNYCHS-26OCT0819-T66.99",
+      "title": "Will the temp in New York City be above 66.99\u00b0 on Oct 8, 2026 at 7pm EDT?",
+      "event_ticker": "KXTEMPNYCHS-26OCT0819",
+      "yes_ask_cents": "13.0",
+      "no_ask_cents": "94.0",
+      "spread_cents": "7.0",
+      "volume_24h": "470.54",
+      "close_time": "2026-10-08T23:00:00Z",
+      "category": "Weather"
+    },
+    {
       "ticker": "KXLALIGASCORE-26OCT10RMAVIL-RMA1VIL2",
       "title": "Final score Villarreal CF wins 2-1?",
       "event_ticker": "KXLALIGASCORE-26OCT10RMAVIL",
@@ -7946,8 +7836,8 @@
       "title": "Will either competitor win the Lupita Godinez vs. Ketlen Souza fight by decision or the fight result in a draw/no contest",
       "event_ticker": "KXUFCVICROUND-26OCT10GODSOU",
       "yes_ask_cents": "68.0",
-      "no_ask_cents": "40.0",
-      "spread_cents": "8.0",
+      "no_ask_cents": "38.0",
+      "spread_cents": "6.0",
       "volume_24h": "459.0",
       "close_time": "2026-10-25T01:00:00Z",
       "category": "Sports"
@@ -8386,8 +8276,8 @@
       "title": "Full Game: Over 209.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08SACLAL",
       "yes_ask_cents": "90.0",
-      "no_ask_cents": "17.0",
-      "spread_cents": "7.0",
+      "no_ask_cents": "13.0",
+      "spread_cents": "3.0",
       "volume_24h": "418.12",
       "close_time": "2026-10-11T02:30:00Z",
       "category": "Sports"
@@ -8407,9 +8297,9 @@
       "ticker": "KXTEMPCHIHS-26OCT0819-T67.99",
       "title": "Will the temp in Chicago Metro Area be above 67.99\u00b0 on Oct 8, 2026 at 7pm EDT?",
       "event_ticker": "KXTEMPCHIHS-26OCT0819",
-      "yes_ask_cents": "23.0",
+      "yes_ask_cents": "20.0",
       "no_ask_cents": "85.0",
-      "spread_cents": "8.0",
+      "spread_cents": "5.0",
       "volume_24h": "416.22",
       "close_time": "2026-10-08T23:00:00Z",
       "category": "Weather"
@@ -8440,9 +8330,9 @@
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-BOS7",
       "title": "Boston wins by over 6.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "41.0",
+      "yes_ask_cents": "42.0",
       "no_ask_cents": "61.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "411.78",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -8529,8 +8419,8 @@
       "title": "Boston wins by over 5.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
       "yes_ask_cents": "44.0",
-      "no_ask_cents": "59.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "60.0",
+      "spread_cents": "4.0",
       "volume_24h": "399.17",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -8595,8 +8485,8 @@
       "title": "Will the USD/JPY open price be between 158.250 and 158.499 at Oct 9, 2026 at 10am EDT?",
       "event_ticker": "KXUSDJPY-26OCT0910",
       "yes_ask_cents": "14.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "90.0",
+      "spread_cents": "4.0",
       "volume_24h": "393.92",
       "close_time": "2026-10-09T14:00:00Z",
       "category": "Other"
@@ -8804,8 +8694,8 @@
       "title": "Nathan MacKinnon: 3+ points",
       "event_ticker": "KXNHLPTS-26OCT08COLCGY",
       "yes_ask_cents": "26.0",
-      "no_ask_cents": "77.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "76.0",
+      "spread_cents": "2.0",
       "volume_24h": "377.51",
       "close_time": "2026-10-11T01:00:00Z",
       "category": "Sports"
@@ -9090,8 +8980,8 @@
       "title": "Konsta Helenius: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
       "yes_ask_cents": "17.0",
-      "no_ask_cents": "84.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "85.0",
+      "spread_cents": "2.0",
       "volume_24h": "353.04",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -9177,9 +9067,9 @@
       "ticker": "KXCS2MAP-26OCT081700PROBSTA-2-PRO",
       "title": "Procyon Gaming wins map 2",
       "event_ticker": "KXCS2MAP-26OCT081700PROBSTA-2",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "66.0",
-      "spread_cents": "7.0",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "64.0",
+      "spread_cents": "3.0",
       "volume_24h": "340.57",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
@@ -9463,9 +9353,9 @@
       "ticker": "KXNBASPREAD-26OCT08NOPMIA-MIA26",
       "title": "Miami wins by over 25.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08NOPMIA",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "6.0",
+      "yes_ask_cents": "12.0",
+      "no_ask_cents": "90.0",
+      "spread_cents": "2.0",
       "volume_24h": "323.0",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
@@ -9475,8 +9365,8 @@
       "title": "Nazem Kadri: 2+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08COLCGY",
       "yes_ask_cents": "5.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "98.0",
+      "spread_cents": "3.0",
       "volume_24h": "318.79",
       "close_time": "2026-10-11T01:00:00Z",
       "category": "Sports"
@@ -9672,9 +9562,9 @@
       "ticker": "KXLOWTDAL-26OCT09-B67.5",
       "title": "Will the minimum temperature be 67-68\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXLOWTDAL-26OCT09",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "80.0",
-      "spread_cents": "8.0",
+      "yes_ask_cents": "22.0",
+      "no_ask_cents": "79.0",
+      "spread_cents": "1.0",
       "volume_24h": "302.0",
       "close_time": "2026-10-10T06:00:00Z",
       "category": "Weather"
@@ -9761,8 +9651,8 @@
       "title": "Isurus wins map 2",
       "event_ticker": "KXCS2MAP-26OCT081700EXKISG-2",
       "yes_ask_cents": "23.0",
-      "no_ask_cents": "82.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "84.0",
+      "spread_cents": "7.0",
       "volume_24h": "293.27",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
@@ -9837,9 +9727,9 @@
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-BOS15",
       "title": "Boston wins by over 14.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "22.0",
-      "no_ask_cents": "81.0",
-      "spread_cents": "3.0",
+      "yes_ask_cents": "25.0",
+      "no_ask_cents": "82.0",
+      "spread_cents": "7.0",
       "volume_24h": "287.29",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -9936,9 +9826,9 @@
       "ticker": "KXCS2MAP-26OCT081700PROBSTA-2-BSTA",
       "title": "BESTIA Academy wins map 2",
       "event_ticker": "KXCS2MAP-26OCT081700PROBSTA-2",
-      "yes_ask_cents": "65.0",
-      "no_ask_cents": "41.0",
-      "spread_cents": "6.0",
+      "yes_ask_cents": "64.0",
+      "no_ask_cents": "39.0",
+      "spread_cents": "3.0",
       "volume_24h": "275.8",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
@@ -10036,8 +9926,8 @@
       "title": "Peyton Krebs: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
       "yes_ask_cents": "11.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "91.0",
+      "spread_cents": "2.0",
       "volume_24h": "269.46",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -10058,8 +9948,8 @@
       "title": "Casper Ruud wins",
       "event_ticker": "KXATPMATCH-26OCT08YUNRUU",
       "yes_ask_cents": "59.0",
-      "no_ask_cents": "43.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "42.0",
+      "spread_cents": "1.0",
       "volume_24h": "268.35",
       "close_time": "2026-10-23T02:00:00Z",
       "category": "Sports"
@@ -10102,8 +9992,8 @@
       "title": "Full Game: Over 236.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08PHIBKN",
       "yes_ask_cents": "21.0",
-      "no_ask_cents": "82.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "81.0",
+      "spread_cents": "2.0",
       "volume_24h": "267.0",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
@@ -10150,6 +10040,17 @@
       "spread_cents": "3.0",
       "volume_24h": "263.06",
       "close_time": "2026-10-10T23:30:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXUFCMOV-26OCT10GODSOU-GODDEC",
+      "title": "Lupita Godinez wins by Decision?",
+      "event_ticker": "KXUFCMOV-26OCT10GODSOU",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "5.0",
+      "volume_24h": "262.69",
+      "close_time": "2026-10-25T01:00:00Z",
       "category": "Sports"
     },
     {
@@ -10461,6 +10362,17 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXUFCMOV-26OCT10GODSOU-GODKOTKODQ",
+      "title": "Lupita Godinez wins by KO/TKO/DQ?",
+      "event_ticker": "KXUFCMOV-26OCT10GODSOU",
+      "yes_ask_cents": "5.0",
+      "no_ask_cents": "97.0",
+      "spread_cents": "2.0",
+      "volume_24h": "237.8",
+      "close_time": "2026-10-25T01:00:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXNBATOTAL-26OCT08PHIBKN-209",
       "title": "Full Game: Over 208.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08PHIBKN",
@@ -10615,17 +10527,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXMLBINNINGWIN-26OCT081700CLECWS-2-CLE",
-      "title": "Cleveland scores more in the 2nd inning?",
-      "event_ticker": "KXMLBINNINGWIN-26OCT081700CLECWS-2",
-      "yes_ask_cents": "20.0",
-      "no_ask_cents": "83.0",
-      "spread_cents": "3.0",
-      "volume_24h": "227.63",
-      "close_time": "2026-10-10T21:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNHLGOAL-26OCT08COLCGY-COLALEHKONEN62-2",
       "title": "Artturi Lehkonen: 2+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08COLCGY",
@@ -10674,8 +10575,8 @@
       "title": "Jaccob Slavin: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
       "yes_ask_cents": "8.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "94.0",
+      "spread_cents": "2.0",
       "volume_24h": "227.07",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -10788,17 +10689,6 @@
       "spread_cents": "1.0",
       "volume_24h": "223.61",
       "close_time": "2026-10-11T00:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT08BOSCLE-CLE5",
-      "title": "Cleveland wins by over 4.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "34.0",
-      "no_ask_cents": "68.0",
-      "spread_cents": "2.0",
-      "volume_24h": "223.52",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -10982,8 +10872,8 @@
       "title": "Radek Faksa: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
       "yes_ask_cents": "7.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "95.0",
+      "spread_cents": "2.0",
       "volume_24h": "214.0",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -11066,6 +10956,17 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXLOWTAUS-26OCT09-B59.5",
+      "title": "Will the minimum temperature be 59-60\u00b0 on Oct 9, 2026?",
+      "event_ticker": "KXLOWTAUS-26OCT09",
+      "yes_ask_cents": "16.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "8.0",
+      "volume_24h": "209.0",
+      "close_time": "2026-10-10T06:00:00Z",
+      "category": "Weather"
+    },
+    {
       "ticker": "KXNHLGOAL-26OCT08COLCGY-CGYSNEMEC71-1",
       "title": "Simon Nemec: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08COLCGY",
@@ -11091,9 +10992,9 @@
       "ticker": "KXNBATOTAL-26OCT08BOSCLE-207",
       "title": "Full Game: Over 206.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08BOSCLE",
-      "yes_ask_cents": "85.0",
-      "no_ask_cents": "22.0",
-      "spread_cents": "7.0",
+      "yes_ask_cents": "84.0",
+      "no_ask_cents": "19.0",
+      "spread_cents": "3.0",
       "volume_24h": "208.3",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -11140,17 +11041,6 @@
       "spread_cents": "1.0",
       "volume_24h": "205.69",
       "close_time": "2026-10-13T13:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXMLBINNINGWIN-26OCT081700CLECWS-2-TIE",
-      "title": "Teams tie scoring in the 2nd inning?",
-      "event_ticker": "KXMLBINNINGWIN-26OCT081700CLECWS-2",
-      "yes_ask_cents": "67.0",
-      "no_ask_cents": "38.0",
-      "spread_cents": "5.0",
-      "volume_24h": "205.51",
-      "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
     },
     {
@@ -11521,8 +11411,8 @@
       "title": "Miami wins by over 23.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08NOPMIA",
       "yes_ask_cents": "17.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "7.0",
+      "no_ask_cents": "88.0",
+      "spread_cents": "5.0",
       "volume_24h": "190.06",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
@@ -11620,8 +11510,8 @@
       "title": "Los Angeles D vs Milwaukee Championship Series Exact Score: Los Angeles D wins 4-0",
       "event_ticker": "KXMLBSERIESSCORE-26LADMILNLCS",
       "yes_ask_cents": "10.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "3.0",
       "volume_24h": "188.14",
       "close_time": "2026-11-08T04:00:00Z",
       "category": "Sports"
@@ -11784,9 +11674,9 @@
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-CLE2",
       "title": "Cleveland wins by over 1.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "42.0",
+      "yes_ask_cents": "44.0",
       "no_ask_cents": "60.0",
-      "spread_cents": "2.0",
+      "spread_cents": "4.0",
       "volume_24h": "180.92",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -12133,17 +12023,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT08BOSCLE-BOS19",
-      "title": "Boston wins by over 18.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "17.0",
-      "no_ask_cents": "86.0",
-      "spread_cents": "3.0",
-      "volume_24h": "166.0",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXHIGHTSAN-26OCT09-T80",
       "title": "Will the maximum temperature be <80\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXHIGHTSAN-26OCT09",
@@ -12170,8 +12049,8 @@
       "title": "Ketlen Souza wins by KO/TKO/DQ?",
       "event_ticker": "KXUFCMOV-26OCT10GODSOU",
       "yes_ask_cents": "9.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "94.0",
+      "spread_cents": "3.0",
       "volume_24h": "164.69",
       "close_time": "2026-10-25T01:00:00Z",
       "category": "Sports"
@@ -12224,9 +12103,9 @@
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-BOS13",
       "title": "Boston wins by over 12.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "26.0",
-      "no_ask_cents": "77.0",
-      "spread_cents": "3.0",
+      "yes_ask_cents": "28.0",
+      "no_ask_cents": "79.0",
+      "spread_cents": "7.0",
       "volume_24h": "162.78",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -12665,8 +12544,8 @@
       "title": "Will the maximum temperature be 90-91\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXHIGHTSATX-26OCT09",
       "yes_ask_cents": "66.0",
-      "no_ask_cents": "35.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "36.0",
+      "spread_cents": "2.0",
       "volume_24h": "148.0",
       "close_time": "2026-10-10T06:00:00Z",
       "category": "Weather"
@@ -12950,9 +12829,9 @@
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-CLE18",
       "title": "Cleveland wins by over 17.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "12.0",
+      "yes_ask_cents": "14.0",
       "no_ask_cents": "89.0",
-      "spread_cents": "1.0",
+      "spread_cents": "3.0",
       "volume_24h": "136.77",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -13006,8 +12885,8 @@
       "title": "Jalen Chatfield: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
       "yes_ask_cents": "7.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "95.0",
+      "spread_cents": "2.0",
       "volume_24h": "134.12",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -13022,17 +12901,6 @@
       "volume_24h": "134.0",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXTEMPCHIHS-26OCT0819-T65.99",
-      "title": "Will the temp in Chicago Metro Area be above 65.99\u00b0 on Oct 8, 2026 at 7pm EDT?",
-      "event_ticker": "KXTEMPCHIHS-26OCT0819",
-      "yes_ask_cents": "89.0",
-      "no_ask_cents": "12.0",
-      "spread_cents": "1.0",
-      "volume_24h": "133.05",
-      "close_time": "2026-10-08T23:00:00Z",
-      "category": "Weather"
     },
     {
       "ticker": "KXATPDOUBLES-26OCT09HARSKUARNGON-ARNGON",
@@ -13127,8 +12995,8 @@
       "title": "Cam York: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08PHIOTT",
       "yes_ask_cents": "6.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "96.0",
+      "spread_cents": "2.0",
       "volume_24h": "128.29",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -13343,17 +13211,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXCS2TOTALMAPS-26OCT081700TDPLARGA-3",
-      "title": "Will over 2.5 maps be played in the Turma do Pagode vs. largadosypelados CS2 match?",
-      "event_ticker": "KXCS2TOTALMAPS-26OCT081700TDPLARGA",
-      "yes_ask_cents": "20.0",
-      "no_ask_cents": "87.0",
-      "spread_cents": "7.0",
-      "volume_24h": "120.15",
-      "close_time": "2026-10-10T21:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXMLBHRR-26OCT082000CLECWS-CWSKTEEL8-1",
       "title": "Kyle Teel: 1+ hits + runs + RBIs?",
       "event_ticker": "KXMLBHRR-26OCT081700CLECWS",
@@ -13435,8 +13292,8 @@
       "title": "Will the minimum temperature be 54-55\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXLOWTBOS-26OCT09",
       "yes_ask_cents": "17.0",
-      "no_ask_cents": "89.0",
-      "spread_cents": "6.0",
+      "no_ask_cents": "91.0",
+      "spread_cents": "8.0",
       "volume_24h": "117.0",
       "close_time": "2026-10-10T05:00:00Z",
       "category": "Weather"
@@ -13618,17 +13475,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXLOWTPHX-26OCT09-B81.5",
-      "title": "Will the minimum temperature be 81-82\u00b0 on Oct 9, 2026?",
-      "event_ticker": "KXLOWTPHX-26OCT09",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "1.0",
-      "volume_24h": "112.0",
-      "close_time": "2026-10-10T07:00:00Z",
-      "category": "Weather"
-    },
-    {
       "ticker": "KXITFWMATCH-26OCT09CUROKT-CUR",
       "title": "Francesca Curmi wins",
       "event_ticker": "KXITFWMATCH-26OCT09CUROKT",
@@ -13638,6 +13484,17 @@
       "volume_24h": "112.0",
       "close_time": "2026-10-23T09:30:00Z",
       "category": "Sports"
+    },
+    {
+      "ticker": "KXLOWTPHX-26OCT09-B81.5",
+      "title": "Will the minimum temperature be 81-82\u00b0 on Oct 9, 2026?",
+      "event_ticker": "KXLOWTPHX-26OCT09",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "56.0",
+      "spread_cents": "4.0",
+      "volume_24h": "112.0",
+      "close_time": "2026-10-10T07:00:00Z",
+      "category": "Weather"
     },
     {
       "ticker": "KXNBATOTAL-26OCT08PHIBKN-227",
@@ -13710,8 +13567,8 @@
       "title": "Will average **gas prices** be above $4.4600?",
       "event_ticker": "KXAAAGASDPA-26OCT09",
       "yes_ask_cents": "3.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "99.0",
+      "spread_cents": "2.0",
       "volume_24h": "110.0",
       "close_time": "2026-10-09T03:59:00Z",
       "category": "Economics"
@@ -13852,9 +13709,9 @@
       "ticker": "KXMLBHRR-26OCT082000CLECWS-CLENLOWE31-2",
       "title": "Nathaniel Lowe: 2+ hits + runs + RBIs?",
       "event_ticker": "KXMLBHRR-26OCT081700CLECWS",
-      "yes_ask_cents": "41.0",
+      "yes_ask_cents": "40.0",
       "no_ask_cents": "61.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "104.88",
       "close_time": "2026-10-12T00:00:00Z",
       "category": "Sports"
@@ -13952,8 +13809,8 @@
       "title": "Will the maximum temperature be 98-99\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXHIGHTLV-26OCT09",
       "yes_ask_cents": "14.0",
-      "no_ask_cents": "89.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "90.0",
+      "spread_cents": "4.0",
       "volume_24h": "102.21",
       "close_time": "2026-10-10T08:00:00Z",
       "category": "Weather"
