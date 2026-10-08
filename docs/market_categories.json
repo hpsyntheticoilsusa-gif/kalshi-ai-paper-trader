@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-10-08T23:07:53.753514+00:00",
+  "generated_utc": "2026-10-08T23:10:38.519846+00:00",
   "scope": "Only saved markets passing liquidity/spread filters; all qualifying saved from up to 20,000 scanned",
   "categories": {
-    "Sports": 971,
-    "Other": 99,
+    "Sports": 895,
+    "Other": 102,
     "Politics": 9,
     "Economics": 57,
-    "Weather": 135,
+    "Weather": 133,
     "Science": 1,
     "Finance": 1
   },
@@ -15,9 +15,9 @@
       "ticker": "KXITFWMATCH-26OCT08MARMEA-MAR",
       "title": "Camila Markus wins",
       "event_ticker": "KXITFWMATCH-26OCT08MARMEA",
-      "yes_ask_cents": "37.0",
+      "yes_ask_cents": "38.0",
       "no_ask_cents": "64.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "909396.69",
       "close_time": "2026-10-22T20:27:21Z",
       "category": "Sports"
@@ -26,8 +26,8 @@
       "ticker": "KXITFWMATCH-26OCT08MARMEA-MEA",
       "title": "Sofia Meabe wins",
       "event_ticker": "KXITFWMATCH-26OCT08MARMEA",
-      "yes_ask_cents": "64.0",
-      "no_ask_cents": "37.0",
+      "yes_ask_cents": "63.0",
+      "no_ask_cents": "38.0",
       "spread_cents": "1.0",
       "volume_24h": "369741.48",
       "close_time": "2026-10-22T20:27:21Z",
@@ -37,9 +37,9 @@
       "ticker": "KXLOLGAME-26OCT081700MVUCPD-CPD",
       "title": "Cupid Esports wins",
       "event_ticker": "KXLOLGAME-26OCT081700MVUCPD",
-      "yes_ask_cents": "24.0",
-      "no_ask_cents": "77.0",
-      "spread_cents": "1.0",
+      "yes_ask_cents": "27.0",
+      "no_ask_cents": "75.0",
+      "spread_cents": "2.0",
       "volume_24h": "156059.88",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Other"
@@ -48,8 +48,8 @@
       "ticker": "KXLOLGAME-26OCT081700MVUCPD-MVU",
       "title": "Maryville University wins",
       "event_ticker": "KXLOLGAME-26OCT081700MVUCPD",
-      "yes_ask_cents": "77.0",
-      "no_ask_cents": "25.0",
+      "yes_ask_cents": "75.0",
+      "no_ask_cents": "27.0",
       "spread_cents": "2.0",
       "volume_24h": "112671.81",
       "close_time": "2026-10-10T21:00:00Z",
@@ -100,23 +100,12 @@
       "category": "Politics"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08NSHMTL-MTLJANDERSON17-1",
-      "title": "Josh Anderson: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08NSHMTL",
-      "yes_ask_cents": "16.0",
-      "no_ask_cents": "86.0",
-      "spread_cents": "2.0",
-      "volume_24h": "31787.2",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-BOS4",
       "title": "Boston wins by over 3.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
       "yes_ask_cents": "32.0",
-      "no_ask_cents": "72.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "71.0",
+      "spread_cents": "3.0",
       "volume_24h": "26834.74",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -136,9 +125,9 @@
       "ticker": "KXCS2GAME-26OCT081700GREYAW-GRE",
       "title": "Gremio Esports wins",
       "event_ticker": "KXCS2GAME-26OCT081700GREYAW",
-      "yes_ask_cents": "33.0",
-      "no_ask_cents": "70.0",
-      "spread_cents": "3.0",
+      "yes_ask_cents": "38.0",
+      "no_ask_cents": "64.0",
+      "spread_cents": "2.0",
       "volume_24h": "26561.03",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
@@ -147,8 +136,8 @@
       "ticker": "KXAAAGASD-26OCT09-4.3700",
       "title": "Will average **gas prices** be above $4.3700?",
       "event_ticker": "KXAAAGASD-26OCT09",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "63.0",
+      "yes_ask_cents": "42.0",
+      "no_ask_cents": "62.0",
       "spread_cents": "4.0",
       "volume_24h": "26467.47",
       "close_time": "2026-10-09T03:59:00Z",
@@ -158,22 +147,11 @@
       "ticker": "KXCS2GAME-26OCT081700GREYAW-YAW",
       "title": "Yawara Esports wins",
       "event_ticker": "KXCS2GAME-26OCT081700GREYAW",
-      "yes_ask_cents": "69.0",
-      "no_ask_cents": "35.0",
-      "spread_cents": "4.0",
+      "yes_ask_cents": "64.0",
+      "no_ask_cents": "38.0",
+      "spread_cents": "2.0",
       "volume_24h": "26108.39",
       "close_time": "2026-10-10T21:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08VANCAR-CARSAHO20-1",
-      "title": "Sebastian Aho: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "39.0",
-      "no_ask_cents": "62.0",
-      "spread_cents": "1.0",
-      "volume_24h": "24778.92",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -191,9 +169,9 @@
       "ticker": "KXLOLMAP-26OCT081700MVUCPD-3-CPD",
       "title": "Cupid Esports wins map 3",
       "event_ticker": "KXLOLMAP-26OCT081700MVUCPD-3",
-      "yes_ask_cents": "68.0",
-      "no_ask_cents": "35.0",
-      "spread_cents": "3.0",
+      "yes_ask_cents": "75.0",
+      "no_ask_cents": "29.0",
+      "spread_cents": "4.0",
       "volume_24h": "24753.64",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Other"
@@ -235,9 +213,9 @@
       "ticker": "KXMLBHR-26OCT082000CLECWS-CWSCMEIDROTH10-1",
       "title": "Chase Meidroth: 1+ home runs?",
       "event_ticker": "KXMLBHR-26OCT081700CLECWS",
-      "yes_ask_cents": "6.0",
+      "yes_ask_cents": "7.0",
       "no_ask_cents": "95.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "22813.95",
       "close_time": "2026-10-12T00:00:00Z",
       "category": "Sports"
@@ -290,9 +268,9 @@
       "ticker": "KXAAAGASD-26OCT09-4.3750",
       "title": "Will average **gas prices** be above $4.3750?",
       "event_ticker": "KXAAAGASD-26OCT09",
-      "yes_ask_cents": "18.0",
-      "no_ask_cents": "84.0",
-      "spread_cents": "2.0",
+      "yes_ask_cents": "13.0",
+      "no_ask_cents": "90.0",
+      "spread_cents": "3.0",
       "volume_24h": "21501.46",
       "close_time": "2026-10-09T03:59:00Z",
       "category": "Economics"
@@ -345,9 +323,9 @@
       "ticker": "KXLOLMAP-26OCT081700MVUCPD-3-MVU",
       "title": "Maryville University wins map 3",
       "event_ticker": "KXLOLMAP-26OCT081700MVUCPD-3",
-      "yes_ask_cents": "35.0",
-      "no_ask_cents": "68.0",
-      "spread_cents": "3.0",
+      "yes_ask_cents": "30.0",
+      "no_ask_cents": "74.0",
+      "spread_cents": "4.0",
       "volume_24h": "20342.57",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Other"
@@ -378,9 +356,9 @@
       "ticker": "KXTRUMPAPPROVE-26OCT09-E38.1",
       "title": "Will Trump's RCP approval average be exactly 38.1 on Oct 9, 2026?",
       "event_ticker": "KXTRUMPAPPROVE-26OCT09",
-      "yes_ask_cents": "6.0",
+      "yes_ask_cents": "8.0",
       "no_ask_cents": "96.0",
-      "spread_cents": "2.0",
+      "spread_cents": "4.0",
       "volume_24h": "19205.07",
       "close_time": "2026-10-09T16:59:00Z",
       "category": "Politics"
@@ -397,23 +375,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXATPCHALLENGERDOUBLES-26OCT08COURIBCASVIL-CASVIL",
-      "title": "Hernan Casanova / Gonzalo Villanueva wins",
-      "event_ticker": "KXATPCHALLENGERDOUBLES-26OCT08COURIBCASVIL",
-      "yes_ask_cents": "19.0",
-      "no_ask_cents": "89.0",
-      "spread_cents": "8.0",
-      "volume_24h": "18519.57",
-      "close_time": "2026-10-22T21:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXCS2GAME-26OCT081700CHAMAMW-CHAMA",
       "title": "BORRACHEIROS wins",
       "event_ticker": "KXCS2GAME-26OCT081700CHAMAMW",
-      "yes_ask_cents": "61.0",
-      "no_ask_cents": "41.0",
-      "spread_cents": "2.0",
+      "yes_ask_cents": "62.0",
+      "no_ask_cents": "39.0",
+      "spread_cents": "1.0",
       "volume_24h": "18341.55",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
@@ -434,8 +401,8 @@
       "title": "Los Angeles D wins",
       "event_ticker": "KXMLBGAME-26OCT112000LADMIL",
       "yes_ask_cents": "50.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "1.0",
       "volume_24h": "18176.38",
       "close_time": "2026-10-15T00:00:00Z",
       "category": "Sports"
@@ -455,9 +422,9 @@
       "ticker": "KXATPCHALLENGERDOUBLES-26OCT08COURIBCASVIL-COURIB",
       "title": "Joao Victor Couto Loureiro / Franco Ribero wins",
       "event_ticker": "KXATPCHALLENGERDOUBLES-26OCT08COURIBCASVIL",
-      "yes_ask_cents": "88.0",
-      "no_ask_cents": "18.0",
-      "spread_cents": "6.0",
+      "yes_ask_cents": "82.0",
+      "no_ask_cents": "26.0",
+      "spread_cents": "8.0",
       "volume_24h": "17816.24",
       "close_time": "2026-10-22T21:00:00Z",
       "category": "Sports"
@@ -507,17 +474,6 @@
       "category": "Economics"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08MINTB-MINOMAATTA3-1",
-      "title": "Olli Maatta: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08MINTB",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "4.0",
-      "volume_24h": "15423.42",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXATPMATCH-26OCT09DEMOL-MOL",
       "title": "Alex Molcan wins",
       "event_ticker": "KXATPMATCH-26OCT09DEMOL",
@@ -544,8 +500,8 @@
       "title": "Yiru Chen wins",
       "event_ticker": "KXITFWMATCH-26OCT08EGOCHE",
       "yes_ask_cents": "5.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "96.0",
+      "spread_cents": "1.0",
       "volume_24h": "14689.66",
       "close_time": "2026-10-23T02:00:00Z",
       "category": "Sports"
@@ -598,9 +554,9 @@
       "ticker": "KXNBASPREAD-26OCT08NOPMIA-MIA8",
       "title": "Miami wins by over 7.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08NOPMIA",
-      "yes_ask_cents": "49.0",
+      "yes_ask_cents": "50.0",
       "no_ask_cents": "52.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "12869.73",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
@@ -648,17 +604,6 @@
       "volume_24h": "12457.0",
       "close_time": "2026-10-09T03:59:00Z",
       "category": "Economics"
-    },
-    {
-      "ticker": "KXLOLTOTALMAPS-26OCT081700MVUCPD-4",
-      "title": "Will over 3.5 maps be played in the Maryville University vs. Cupid Esports League of Legends match?",
-      "event_ticker": "KXLOLTOTALMAPS-26OCT081700MVUCPD",
-      "yes_ask_cents": "71.0",
-      "no_ask_cents": "37.0",
-      "spread_cents": "8.0",
-      "volume_24h": "11897.76",
-      "close_time": "2026-10-10T21:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXRAIN-26OCT09-ATL",
@@ -720,8 +665,8 @@
       "title": "METANOIA WOLVES wins",
       "event_ticker": "KXCS2GAME-26OCT081700CHAMAMW",
       "yes_ask_cents": "41.0",
-      "no_ask_cents": "62.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "61.0",
+      "spread_cents": "2.0",
       "volume_24h": "10280.04",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
@@ -730,9 +675,9 @@
       "ticker": "KXNHLGOAL-26OCT08DALBUF-DALLBICHSEL6-1",
       "title": "Lian Bichsel: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "4.0",
+      "yes_ask_cents": "8.0",
       "no_ask_cents": "98.0",
-      "spread_cents": "2.0",
+      "spread_cents": "6.0",
       "volume_24h": "10203.0",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -785,22 +730,11 @@
       "ticker": "KXCS2GAME-26OCT081700QUINMEI-QUIN",
       "title": "QUINTESSENCIA wins",
       "event_ticker": "KXCS2GAME-26OCT081700QUINMEI",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "5.0",
+      "yes_ask_cents": "46.0",
+      "no_ask_cents": "58.0",
+      "spread_cents": "4.0",
       "volume_24h": "9205.9",
       "close_time": "2026-10-10T21:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08VANCAR-VANDOCONNOR18-1",
-      "title": "Drew O'Connor: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "11.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "5.0",
-      "volume_24h": "9006.82",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -829,9 +763,9 @@
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-CLE3",
       "title": "Cleveland wins by over 2.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "57.0",
+      "yes_ask_cents": "59.0",
       "no_ask_cents": "45.0",
-      "spread_cents": "2.0",
+      "spread_cents": "4.0",
       "volume_24h": "8583.77",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -852,8 +786,8 @@
       "title": "Haruna Arakawa wins",
       "event_ticker": "KXITFWMATCH-26OCT08ARAWAN",
       "yes_ask_cents": "42.0",
-      "no_ask_cents": "59.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "60.0",
+      "spread_cents": "2.0",
       "volume_24h": "8358.86",
       "close_time": "2026-10-22T23:00:00Z",
       "category": "Sports"
@@ -884,9 +818,9 @@
       "ticker": "KXNHLGOAL-26OCT08DALBUF-DALWJOHNSTON53-2",
       "title": "Wyatt Johnston: 2+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "9.0",
+      "yes_ask_cents": "10.0",
       "no_ask_cents": "97.0",
-      "spread_cents": "6.0",
+      "spread_cents": "7.0",
       "volume_24h": "7851.31",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -906,9 +840,9 @@
       "ticker": "KXDIMAYORSPREAD-26OCT08CANTOL-CAN2",
       "title": "Atletico Nacional wins by more than 1.5 goals?",
       "event_ticker": "KXDIMAYORSPREAD-26OCT08CANTOL",
-      "yes_ask_cents": "30.0",
-      "no_ask_cents": "75.0",
-      "spread_cents": "5.0",
+      "yes_ask_cents": "29.0",
+      "no_ask_cents": "72.0",
+      "spread_cents": "1.0",
       "volume_24h": "7840.67",
       "close_time": "2026-10-10T23:05:00Z",
       "category": "Other"
@@ -917,9 +851,9 @@
       "ticker": "KXHIGHTEWR-26OCT09-B72.5",
       "title": "Will the maximum temperature be 72-73\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXHIGHTEWR-26OCT09",
-      "yes_ask_cents": "38.0",
-      "no_ask_cents": "69.0",
-      "spread_cents": "7.0",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "65.0",
+      "spread_cents": "4.0",
       "volume_24h": "7468.26",
       "close_time": "2026-10-10T05:00:00Z",
       "category": "Weather"
@@ -929,8 +863,8 @@
       "title": "Will average **gas prices** be above $4.4550?",
       "event_ticker": "KXAAAGASDNY-26OCT09",
       "yes_ask_cents": "99.0",
-      "no_ask_cents": "4.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "7306.0",
       "close_time": "2026-10-09T03:59:00Z",
       "category": "Economics"
@@ -958,26 +892,15 @@
       "category": "Other"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08MINTB-TBGGONCALVES93-1",
-      "title": "Gage Goncalves: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08MINTB",
-      "yes_ask_cents": "17.0",
-      "no_ask_cents": "84.0",
-      "spread_cents": "1.0",
-      "volume_24h": "7051.89",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08NSHMTL-MTLMMATHESON8-1",
-      "title": "Mike Matheson: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08NSHMTL",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "3.0",
-      "volume_24h": "6970.33",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
+      "ticker": "KXAAAGASDAZ-26OCT09-4.7250",
+      "title": "Will average **gas prices** be above $4.7250?",
+      "event_ticker": "KXAAAGASDAZ-26OCT09",
+      "yes_ask_cents": "7.0",
+      "no_ask_cents": "99.0",
+      "spread_cents": "6.0",
+      "volume_24h": "7150.0",
+      "close_time": "2026-10-09T03:59:00Z",
+      "category": "Economics"
     },
     {
       "ticker": "KXATPMATCH-26OCT09GEAHUM-GEA",
@@ -1049,8 +972,8 @@
       "ticker": "KXCS2GAME-26OCT081700QUINMEI-MEI",
       "title": "MEIA NOITE wins",
       "event_ticker": "KXCS2GAME-26OCT081700QUINMEI",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "53.0",
+      "yes_ask_cents": "59.0",
+      "no_ask_cents": "46.0",
       "spread_cents": "5.0",
       "volume_24h": "6496.87",
       "close_time": "2026-10-10T21:00:00Z",
@@ -1116,8 +1039,8 @@
       "title": "Will average **gas prices** be above $4.0900?",
       "event_ticker": "KXAAAGASDCO-26OCT09",
       "yes_ask_cents": "98.0",
-      "no_ask_cents": "6.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "5.0",
+      "spread_cents": "3.0",
       "volume_24h": "6072.65",
       "close_time": "2026-10-09T03:59:00Z",
       "category": "Economics"
@@ -1132,6 +1055,17 @@
       "volume_24h": "6020.0",
       "close_time": "2026-10-09T03:59:00Z",
       "category": "Economics"
+    },
+    {
+      "ticker": "KXNHLAST-26OCT08DALBUF-BUFTTHOMPSON72-2",
+      "title": "Tage Thompson: 2+ assists",
+      "event_ticker": "KXNHLAST-26OCT08DALBUF",
+      "yes_ask_cents": "13.0",
+      "no_ask_cents": "91.0",
+      "spread_cents": "4.0",
+      "volume_24h": "5965.25",
+      "close_time": "2026-10-10T23:00:00Z",
+      "category": "Sports"
     },
     {
       "ticker": "KXNHLGOAL-26OCT08TORVGK-VGKNDOWD26-1",
@@ -1203,8 +1137,8 @@
       "ticker": "KXNBATOTAL-26OCT08WASNYK-228",
       "title": "Full Game: Over 227.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08WASNYK",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "48.0",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "47.0",
       "spread_cents": "1.0",
       "volume_24h": "5779.14",
       "close_time": "2026-10-10T23:30:00Z",
@@ -1244,17 +1178,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08VANCAR-VANPCOTTER47-1",
-      "title": "Paul Cotter: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "12.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "6.0",
-      "volume_24h": "5458.93",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNHLGOAL-26OCT08TORVGK-TORDRADDYSH43-1",
       "title": "Darren Raddysh: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08TORVGK",
@@ -1288,34 +1211,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXAAAGASDIN-26OCT09-3.8900",
-      "title": "Will average **gas prices** be above $3.8900?",
-      "event_ticker": "KXAAAGASDIN-26OCT09",
-      "yes_ask_cents": "4.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "3.0",
-      "volume_24h": "5198.22",
-      "close_time": "2026-10-09T03:59:00Z",
-      "category": "Economics"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08MINTB-MINMBOLDY12-1",
-      "title": "Matt Boldy: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08MINTB",
-      "yes_ask_cents": "34.0",
-      "no_ask_cents": "68.0",
-      "spread_cents": "2.0",
-      "volume_24h": "5183.95",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXMLBOUTS-26OCT081700CLECWS-CWSHSMITH32-7",
       "title": "Hagen Smith: 7+ Outs Recorded?",
       "event_ticker": "KXMLBOUTS-26OCT081700CLECWS",
-      "yes_ask_cents": "38.0",
-      "no_ask_cents": "63.0",
-      "spread_cents": "1.0",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "64.0",
+      "spread_cents": "3.0",
       "volume_24h": "5182.84",
       "close_time": "2026-10-11T21:00:00Z",
       "category": "Sports"
@@ -1368,9 +1269,9 @@
       "ticker": "KXNBA1HSPREAD-26OCT08BOSCLE-CLE4",
       "title": "Cleveland wins the 1H by over 3.5 points",
       "event_ticker": "KXNBA1HSPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "4.0",
+      "yes_ask_cents": "57.0",
+      "no_ask_cents": "45.0",
+      "spread_cents": "2.0",
       "volume_24h": "5022.29",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -1453,6 +1354,17 @@
       "category": "Economics"
     },
     {
+      "ticker": "KXMLBHRR-26OCT081700CLECWS-CWSMMURAKAMI5-1",
+      "title": "Munetaka Murakami: 1+ hits + runs + RBIs?",
+      "event_ticker": "KXMLBHRR-26OCT081700CLECWS",
+      "yes_ask_cents": "62.0",
+      "no_ask_cents": "40.0",
+      "spread_cents": "2.0",
+      "volume_24h": "4800.68",
+      "close_time": "2026-10-11T21:00:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXNFLRECYDS-26OCT11CINMIA-MIAMWASHINGTON6-40",
       "title": "Malik Washington: 40+ receiving yards",
       "event_ticker": "KXNFLRECYDS-26OCT11CINMIA",
@@ -1519,17 +1431,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08DALBUF-DALJROBERTSON21-1",
-      "title": "Jason Robertson: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "40.0",
-      "no_ask_cents": "63.0",
-      "spread_cents": "3.0",
-      "volume_24h": "4591.61",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNFLPASSYDS-26OCT11CINMIA-CINJBURROW9-250",
       "title": "Joe Burrow: 250+ passing yards",
       "event_ticker": "KXNFLPASSYDS-26OCT11CINMIA",
@@ -1538,17 +1439,6 @@
       "spread_cents": "2.0",
       "volume_24h": "4488.3",
       "close_time": "2026-10-13T17:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08NSHMTL-NSHSSTAMKOS91-1",
-      "title": "Steven Stamkos: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08NSHMTL",
-      "yes_ask_cents": "34.0",
-      "no_ask_cents": "70.0",
-      "spread_cents": "4.0",
-      "volume_24h": "4471.95",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -1621,9 +1511,9 @@
       "ticker": "KXRAIN-26OCT09-SEA",
       "title": "Will it rain in Seattle on Oct 9, 2026?",
       "event_ticker": "KXRAIN-26OCT09",
-      "yes_ask_cents": "87.0",
+      "yes_ask_cents": "89.0",
       "no_ask_cents": "14.0",
-      "spread_cents": "1.0",
+      "spread_cents": "3.0",
       "volume_24h": "4136.9",
       "close_time": "2026-10-10T08:00:00Z",
       "category": "Weather"
@@ -1687,9 +1577,9 @@
       "ticker": "KXNHLAST-26OCT08COLCGY-COLCMAKAR8-2",
       "title": "Cale Makar: 2+ assists",
       "event_ticker": "KXNHLAST-26OCT08COLCGY",
-      "yes_ask_cents": "25.0",
+      "yes_ask_cents": "24.0",
       "no_ask_cents": "77.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "4095.07",
       "close_time": "2026-10-11T01:00:00Z",
       "category": "Sports"
@@ -1699,21 +1589,10 @@
       "title": "Randal Grichuk: 4+ hits + runs + RBIs?",
       "event_ticker": "KXMLBHRR-26OCT081700CLECWS",
       "yes_ask_cents": "14.0",
-      "no_ask_cents": "88.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "87.0",
+      "spread_cents": "1.0",
       "volume_24h": "4055.0",
       "close_time": "2026-10-12T00:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLPTS-26OCT08NSHMTL-MTLCKREIDER22-1",
-      "title": "Chris Kreider: 1+ points",
-      "event_ticker": "KXNHLPTS-26OCT08NSHMTL",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "6.0",
-      "volume_24h": "4033.63",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -1726,17 +1605,6 @@
       "volume_24h": "4008.2",
       "close_time": "2026-10-10T08:00:00Z",
       "category": "Weather"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08DALBUF-DALWJOHNSTON53-1",
-      "title": "Wyatt Johnston: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "35.0",
-      "no_ask_cents": "73.0",
-      "spread_cents": "8.0",
-      "volume_24h": "4000.82",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXMLBHRR-26OCT082000CLECWS-CWSRGRICHUK34-3",
@@ -1764,9 +1632,9 @@
       "ticker": "KXDIMAYORSPREAD-26OCT08CANTOL-TOL3",
       "title": "Tolima wins by more than 2.5 goals?",
       "event_ticker": "KXDIMAYORSPREAD-26OCT08CANTOL",
-      "yes_ask_cents": "7.0",
+      "yes_ask_cents": "3.0",
       "no_ask_cents": "99.0",
-      "spread_cents": "6.0",
+      "spread_cents": "2.0",
       "volume_24h": "3954.53",
       "close_time": "2026-10-10T23:05:00Z",
       "category": "Other"
@@ -1783,22 +1651,11 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXAAAGASDCT-26OCT09-4.4100",
-      "title": "Will average **gas prices** be above $4.4100?",
-      "event_ticker": "KXAAAGASDCT-26OCT09",
-      "yes_ask_cents": "99.0",
-      "no_ask_cents": "3.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3825.01",
-      "close_time": "2026-10-09T03:59:00Z",
-      "category": "Economics"
-    },
-    {
       "ticker": "KXITFWMATCH-26OCT08SHIUEM-UEM",
       "title": "Mutsumi Uemura wins",
       "event_ticker": "KXITFWMATCH-26OCT08SHIUEM",
-      "yes_ask_cents": "20.0",
-      "no_ask_cents": "81.0",
+      "yes_ask_cents": "16.0",
+      "no_ask_cents": "85.0",
       "spread_cents": "1.0",
       "volume_24h": "3808.54",
       "close_time": "2026-10-22T23:00:00Z",
@@ -1808,9 +1665,9 @@
       "ticker": "KXNHLGOAL-26OCT08MINTB-TBECERNAK81-1",
       "title": "Erik Cernak: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08MINTB",
-      "yes_ask_cents": "5.0",
+      "yes_ask_cents": "8.0",
       "no_ask_cents": "98.0",
-      "spread_cents": "3.0",
+      "spread_cents": "6.0",
       "volume_24h": "3806.16",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -1824,17 +1681,6 @@
       "spread_cents": "2.0",
       "volume_24h": "3788.65",
       "close_time": "2026-10-13T17:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLFIRSTGOAL-26OCT08UTABOS-UTADGUENTHER11",
-      "title": "Dylan Guenther: First Goalscorer",
-      "event_ticker": "KXNHLFIRSTGOAL-26OCT08UTABOS",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "5.0",
-      "volume_24h": "3756.36",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -1857,17 +1703,6 @@
       "spread_cents": "1.0",
       "volume_24h": "3669.21",
       "close_time": "2026-10-23T04:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLAST-26OCT08MINTB-MINKKAPRIZOV97-1",
-      "title": "Kirill Kaprizov: 1+ assists",
-      "event_ticker": "KXNHLAST-26OCT08MINTB",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "64.0",
-      "spread_cents": "8.0",
-      "volume_24h": "3665.02",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -1907,9 +1742,9 @@
       "ticker": "KXNHLGOAL-26OCT08PHIOTT-OTTDBATHERSON19-1",
       "title": "Drake Batherson: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08PHIOTT",
-      "yes_ask_cents": "35.0",
+      "yes_ask_cents": "34.0",
       "no_ask_cents": "71.0",
-      "spread_cents": "6.0",
+      "spread_cents": "5.0",
       "volume_24h": "3551.66",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -1934,17 +1769,6 @@
       "spread_cents": "1.0",
       "volume_24h": "3498.78",
       "close_time": "2026-10-12T00:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLAST-26OCT08DALBUF-BUFTTHOMPSON72-1",
-      "title": "Tage Thompson: 1+ assists",
-      "event_ticker": "KXNHLAST-26OCT08DALBUF",
-      "yes_ask_cents": "42.0",
-      "no_ask_cents": "64.0",
-      "spread_cents": "6.0",
-      "volume_24h": "3442.39",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -2000,6 +1824,17 @@
       "spread_cents": "2.0",
       "volume_24h": "3333.98",
       "close_time": "2026-10-10T23:30:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXNFLREC-26OCT11PHIJAC-PHIMLEMON9-4",
+      "title": "Makai Lemon: 4+ receptions",
+      "event_ticker": "KXNFLREC-26OCT11PHIJAC",
+      "yes_ask_cents": "55.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "3.0",
+      "volume_24h": "3323.91",
+      "close_time": "2026-10-13T13:30:00Z",
       "category": "Sports"
     },
     {
@@ -2072,9 +1907,9 @@
       "ticker": "KXNBA1HTOTAL-26OCT08BOSCLE-118",
       "title": "1st Half: Over 117.5 points scored",
       "event_ticker": "KXNBA1HTOTAL-26OCT08BOSCLE",
-      "yes_ask_cents": "53.0",
+      "yes_ask_cents": "52.0",
       "no_ask_cents": "50.0",
-      "spread_cents": "3.0",
+      "spread_cents": "2.0",
       "volume_24h": "3250.36",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -2094,9 +1929,9 @@
       "ticker": "KXNFLREC-26OCT11SFSEA-SEAABARNER88-3",
       "title": "AJ Barner: 3+ receptions",
       "event_ticker": "KXNFLREC-26OCT11SFSEA",
-      "yes_ask_cents": "47.0",
+      "yes_ask_cents": "48.0",
       "no_ask_cents": "55.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "3235.02",
       "close_time": "2026-10-13T20:25:00Z",
       "category": "Sports"
@@ -2149,8 +1984,8 @@
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-CLE5",
       "title": "Cleveland wins by over 4.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "52.0",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "51.0",
       "spread_cents": "3.0",
       "volume_24h": "3212.19",
       "close_time": "2026-10-10T23:00:00Z",
@@ -2223,23 +2058,12 @@
       "category": "Other"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08DALBUF-BUFZBENSON6-1",
-      "title": "Zach Benson: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "25.0",
-      "no_ask_cents": "79.0",
-      "spread_cents": "4.0",
-      "volume_24h": "3089.89",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXMLBHRR-26OCT081700CLECWS-CWSMVARGAS20-2",
       "title": "Miguel Vargas: 2+ hits + runs + RBIs?",
       "event_ticker": "KXMLBHRR-26OCT081700CLECWS",
-      "yes_ask_cents": "44.0",
+      "yes_ask_cents": "45.0",
       "no_ask_cents": "57.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "3086.05",
       "close_time": "2026-10-11T21:00:00Z",
       "category": "Sports"
@@ -2270,22 +2094,11 @@
       "ticker": "KXNHLPTS-26OCT08COLCGY-COLALEHKONEN62-1",
       "title": "Artturi Lehkonen: 1+ points",
       "event_ticker": "KXNHLPTS-26OCT08COLCGY",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "53.0",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "52.0",
       "spread_cents": "2.0",
       "volume_24h": "3013.37",
       "close_time": "2026-10-11T01:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLFIRSTGOAL-26OCT08UTABOS-UTANSCHMALTZ8",
-      "title": "Nick Schmaltz: First Goalscorer",
-      "event_ticker": "KXNHLFIRSTGOAL-26OCT08UTABOS",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "5.0",
-      "volume_24h": "2979.11",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -2314,9 +2127,9 @@
       "ticker": "KXNHLGOAL-26OCT08PHIOTT-OTTTSTUTZLE18-1",
       "title": "Tim Stutzle: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08PHIOTT",
-      "yes_ask_cents": "35.0",
-      "no_ask_cents": "69.0",
-      "spread_cents": "4.0",
+      "yes_ask_cents": "34.0",
+      "no_ask_cents": "71.0",
+      "spread_cents": "5.0",
       "volume_24h": "2968.55",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -2341,17 +2154,6 @@
       "spread_cents": "1.0",
       "volume_24h": "2922.14",
       "close_time": "2026-10-23T04:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNBA1HSPREAD-26OCT08BOSCLE-CLE2",
-      "title": "Cleveland wins the 1H by over 1.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "70.0",
-      "no_ask_cents": "38.0",
-      "spread_cents": "8.0",
-      "volume_24h": "2899.32",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -2388,23 +2190,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08VANCAR-CARJBLAKE53-1",
-      "title": "Jackson Blake: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "35.0",
-      "no_ask_cents": "69.0",
-      "spread_cents": "4.0",
-      "volume_24h": "2795.83",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNBATOTAL-26OCT08BOSCLE-203",
       "title": "Full Game: Over 202.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08BOSCLE",
-      "yes_ask_cents": "91.0",
+      "yes_ask_cents": "92.0",
       "no_ask_cents": "11.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "2782.33",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -2432,17 +2223,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08MINTB-TBBHAGEL38-1",
-      "title": "Brandon Hagel: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08MINTB",
-      "yes_ask_cents": "36.0",
-      "no_ask_cents": "72.0",
-      "spread_cents": "8.0",
-      "volume_24h": "2680.73",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNHLGOAL-26OCT08PHIOTT-OTTJSPENCE10-1",
       "title": "Jordan Spence: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08PHIOTT",
@@ -2450,17 +2230,6 @@
       "no_ask_cents": "95.0",
       "spread_cents": "4.0",
       "volume_24h": "2659.87",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLAST-26OCT08PHIOTT-OTTTSTUTZLE18-1",
-      "title": "Tim Stutzle: 1+ assists",
-      "event_ticker": "KXNHLAST-26OCT08PHIOTT",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "8.0",
-      "volume_24h": "2650.5",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
@@ -2512,8 +2281,8 @@
       "ticker": "KXBRASILEIROBTOTAL-26OCT08NAUGRN-7",
       "title": "Will over 6.5 goals be scored?",
       "event_ticker": "KXBRASILEIROBTOTAL-26OCT08NAUGRN",
-      "yes_ask_cents": "5.0",
-      "no_ask_cents": "96.0",
+      "yes_ask_cents": "4.0",
+      "no_ask_cents": "97.0",
       "spread_cents": "1.0",
       "volume_24h": "2617.55",
       "close_time": "2026-10-10T22:30:00Z",
@@ -2564,17 +2333,6 @@
       "category": "Economics"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08DALBUF-DALMHEISKANEN4-1",
-      "title": "Miro Heiskanen: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "8.0",
-      "volume_24h": "2576.45",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-BOS15",
       "title": "Boston wins by over 14.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
@@ -2597,23 +2355,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNHLAST-26OCT08NSHMTL-MTLCCAUFIELD13-1",
-      "title": "Cole Caufield: 1+ assists",
-      "event_ticker": "KXNHLAST-26OCT08NSHMTL",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "65.0",
-      "spread_cents": "8.0",
-      "volume_24h": "2555.28",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNFLTDPROT-26OCT08TBDAL-DALGPICKENS3-2",
       "title": "George Pickens: 2+ touchdowns (Protected)",
       "event_ticker": "KXNFLTDPROT-26OCT08TBDAL",
-      "yes_ask_cents": "10.0",
+      "yes_ask_cents": "9.0",
       "no_ask_cents": "94.0",
-      "spread_cents": "4.0",
+      "spread_cents": "3.0",
       "volume_24h": "2532.03",
       "close_time": "2026-10-11T00:15:00Z",
       "category": "Sports"
@@ -2627,28 +2374,6 @@
       "spread_cents": "2.0",
       "volume_24h": "2514.01",
       "close_time": "2026-10-11T02:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLAST-26OCT08NSHMTL-MTLCKREIDER22-1",
-      "title": "Chris Kreider: 1+ assists",
-      "event_ticker": "KXNHLAST-26OCT08NSHMTL",
-      "yes_ask_cents": "35.0",
-      "no_ask_cents": "69.0",
-      "spread_cents": "4.0",
-      "volume_24h": "2511.97",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08NSHMTL-NSHJDRURY18-1",
-      "title": "Jack Drury: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08NSHMTL",
-      "yes_ask_cents": "9.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "3.0",
-      "volume_24h": "2487.32",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -2718,17 +2443,6 @@
       "category": "Weather"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08MINTB-MINKKAPRIZOV97-1",
-      "title": "Kirill Kaprizov: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08MINTB",
-      "yes_ask_cents": "40.0",
-      "no_ask_cents": "68.0",
-      "spread_cents": "8.0",
-      "volume_24h": "2401.4",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXATPMATCH-26OCT08DAVBRO-BRO",
       "title": "Jenson Brooksby wins",
       "event_ticker": "KXATPMATCH-26OCT08DAVBRO",
@@ -2776,9 +2490,9 @@
       "ticker": "KXNHLGOAL-26OCT08DALBUF-BUFZBENSON6-2",
       "title": "Zach Benson: 2+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "3.0",
+      "yes_ask_cents": "6.0",
       "no_ask_cents": "99.0",
-      "spread_cents": "2.0",
+      "spread_cents": "5.0",
       "volume_24h": "2341.04",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -2842,9 +2556,9 @@
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-CLE2",
       "title": "Cleveland wins by over 1.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "60.0",
+      "yes_ask_cents": "62.0",
       "no_ask_cents": "42.0",
-      "spread_cents": "2.0",
+      "spread_cents": "4.0",
       "volume_24h": "2293.27",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -2897,21 +2611,10 @@
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-BOS3",
       "title": "Boston wins by over 2.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "36.0",
-      "no_ask_cents": "70.0",
-      "spread_cents": "6.0",
+      "yes_ask_cents": "38.0",
+      "no_ask_cents": "69.0",
+      "spread_cents": "7.0",
       "volume_24h": "2187.2",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08NSHMTL-NSHNHOGLANDER21-1",
-      "title": "Nils Hoglander: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08NSHMTL",
-      "yes_ask_cents": "20.0",
-      "no_ask_cents": "84.0",
-      "spread_cents": "4.0",
-      "volume_24h": "2176.54",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
@@ -2924,17 +2627,6 @@
       "spread_cents": "1.0",
       "volume_24h": "2175.68",
       "close_time": "2026-10-12T00:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08NSHMTL-MTLCCAUFIELD13-1",
-      "title": "Cole Caufield: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08NSHMTL",
-      "yes_ask_cents": "42.0",
-      "no_ask_cents": "60.0",
-      "spread_cents": "2.0",
-      "volume_24h": "2173.89",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -3129,8 +2821,8 @@
       "title": "Will average **gas prices** be above $4.0850?",
       "event_ticker": "KXAAAGASDCO-26OCT09",
       "yes_ask_cents": "99.0",
-      "no_ask_cents": "8.0",
-      "spread_cents": "7.0",
+      "no_ask_cents": "6.0",
+      "spread_cents": "5.0",
       "volume_24h": "2000.0",
       "close_time": "2026-10-09T03:59:00Z",
       "category": "Economics"
@@ -3150,9 +2842,9 @@
       "ticker": "KXNHLGOAL-26OCT08COLCGY-COLZLHEUREUX68-1",
       "title": "Zachary L'Heureux: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08COLCGY",
-      "yes_ask_cents": "10.0",
+      "yes_ask_cents": "11.0",
       "no_ask_cents": "91.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "1977.92",
       "close_time": "2026-10-11T01:00:00Z",
       "category": "Sports"
@@ -3224,17 +2916,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08MINTB-TBNKUCHEROV86-1",
-      "title": "Nikita Kucherov: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08MINTB",
-      "yes_ask_cents": "40.0",
-      "no_ask_cents": "64.0",
-      "spread_cents": "4.0",
-      "volume_24h": "1927.54",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNBATOTAL-26OCT08NOPMIA-233",
       "title": "Full Game: Over 232.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08NOPMIA",
@@ -3276,17 +2957,6 @@
       "spread_cents": "2.0",
       "volume_24h": "1874.5",
       "close_time": "2026-10-10T23:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLAST-26OCT08DALBUF-BUFOPOWER25-1",
-      "title": "Owen Power: 1+ assists",
-      "event_ticker": "KXNHLAST-26OCT08DALBUF",
-      "yes_ask_cents": "30.0",
-      "no_ask_cents": "77.0",
-      "spread_cents": "7.0",
-      "volume_24h": "1869.84",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -3334,17 +3004,6 @@
       "category": "Economics"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08VANCAR-CARNEHLERS27-1",
-      "title": "Nikolaj Ehlers: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "34.0",
-      "no_ask_cents": "73.0",
-      "spread_cents": "7.0",
-      "volume_24h": "1798.44",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNBATOTAL-26OCT08NOPMIA-239",
       "title": "Full Game: Over 238.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08NOPMIA",
@@ -3364,17 +3023,6 @@
       "spread_cents": "1.0",
       "volume_24h": "1781.09",
       "close_time": "2026-10-10T23:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLFIRSTGOAL-26OCT08DALBUF-BUFRDAHLIN26",
-      "title": "Rasmus Dahlin: First Goalscorer",
-      "event_ticker": "KXNHLFIRSTGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "4.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1771.98",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -3403,21 +3051,10 @@
       "ticker": "KXNHLGOAL-26OCT08DALBUF-BUFJQUINN22-2",
       "title": "Jack Quinn: 2+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "4.0",
+      "yes_ask_cents": "6.0",
       "no_ask_cents": "99.0",
-      "spread_cents": "3.0",
+      "spread_cents": "5.0",
       "volume_24h": "1756.93",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08DALBUF-BUFJQUINN22-1",
-      "title": "Jack Quinn: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "27.0",
-      "no_ask_cents": "74.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1754.44",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
@@ -3491,9 +3128,9 @@
       "ticker": "KXNHLAST-26OCT08DALBUF-BUFOPOWER25-2",
       "title": "Owen Power: 2+ assists",
       "event_ticker": "KXNHLAST-26OCT08DALBUF",
-      "yes_ask_cents": "7.0",
+      "yes_ask_cents": "8.0",
       "no_ask_cents": "99.0",
-      "spread_cents": "6.0",
+      "spread_cents": "7.0",
       "volume_24h": "1702.68",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -3565,17 +3202,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNHLPTS-26OCT08NSHMTL-NSHMWOOD71-1",
-      "title": "Matthew Wood: 1+ points",
-      "event_ticker": "KXNHLPTS-26OCT08NSHMTL",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "64.0",
-      "spread_cents": "7.0",
-      "volume_24h": "1683.07",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNHLAST-26OCT08TORVGK-VGKMSTONE61-1",
       "title": "Mark Stone: 1+ assists",
       "event_ticker": "KXNHLAST-26OCT08TORVGK",
@@ -3590,9 +3216,9 @@
       "ticker": "KXNHLGOAL-26OCT08MINTB-TBBHAGEL38-2",
       "title": "Brandon Hagel: 2+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08MINTB",
-      "yes_ask_cents": "7.0",
+      "yes_ask_cents": "9.0",
       "no_ask_cents": "97.0",
-      "spread_cents": "4.0",
+      "spread_cents": "6.0",
       "volume_24h": "1676.56",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -3606,17 +3232,6 @@
       "spread_cents": "2.0",
       "volume_24h": "1675.33",
       "close_time": "2026-10-23T01:24:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08NSHMTL-MTLACARRIER45-1",
-      "title": "Alexandre Carrier: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08NSHMTL",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "5.0",
-      "volume_24h": "1673.45",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -3711,9 +3326,9 @@
       "ticker": "KXBSLGAME-26OCT110600BORTRA-BOR",
       "title": "Bordo BK wins",
       "event_ticker": "KXBSLGAME-26OCT110600BORTRA",
-      "yes_ask_cents": "35.0",
-      "no_ask_cents": "66.0",
-      "spread_cents": "1.0",
+      "yes_ask_cents": "36.0",
+      "no_ask_cents": "68.0",
+      "spread_cents": "4.0",
       "volume_24h": "1626.74",
       "close_time": "2026-10-13T10:00:00Z",
       "category": "Other"
@@ -3756,30 +3371,19 @@
       "title": "Dylan Cozens: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08PHIOTT",
       "yes_ask_cents": "32.0",
-      "no_ask_cents": "71.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "72.0",
+      "spread_cents": "4.0",
       "volume_24h": "1596.54",
       "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNCAAWVMATCH-26OCT081830NEBIND-IND",
-      "title": "Indiana wins",
-      "event_ticker": "KXNCAAWVMATCH-26OCT081830NEBIND",
-      "yes_ask_cents": "5.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1569.76",
-      "close_time": "2026-10-10T22:30:00Z",
       "category": "Sports"
     },
     {
       "ticker": "KXNHLGOAL-26OCT08MINTB-TBMCROZIER24-1",
       "title": "Max Crozier: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08MINTB",
-      "yes_ask_cents": "5.0",
+      "yes_ask_cents": "8.0",
       "no_ask_cents": "98.0",
-      "spread_cents": "3.0",
+      "spread_cents": "6.0",
       "volume_24h": "1568.01",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -3818,17 +3422,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNHLFIRSTGOAL-26OCT08MINTB-MINKKAPRIZOV97",
-      "title": "Kirill Kaprizov: First Goalscorer",
-      "event_ticker": "KXNHLFIRSTGOAL-26OCT08MINTB",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "5.0",
-      "volume_24h": "1528.11",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXRT-OTH-15",
       "title": "Other Mommy Rotten Tomatoes score?",
       "event_ticker": "KXRT-OTH",
@@ -3862,17 +3455,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08NSHMTL-MTLNDOBSON53-1",
-      "title": "Noah Dobson: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08NSHMTL",
-      "yes_ask_cents": "12.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "6.0",
-      "volume_24h": "1500.0",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNFLREC-26OCT08TBDAL-DALBSPANNFORD89-2",
       "title": "Brevyn Spann-Ford: 2+ receptions",
       "event_ticker": "KXNFLREC-26OCT08TBDAL",
@@ -3893,6 +3475,17 @@
       "volume_24h": "1488.2",
       "close_time": "2026-10-11T00:15:00Z",
       "category": "Sports"
+    },
+    {
+      "ticker": "KXDIMAYORTOTAL-26OCT08CANTOL-4",
+      "title": "Will over 3.5 goals be scored?",
+      "event_ticker": "KXDIMAYORTOTAL-26OCT08CANTOL",
+      "yes_ask_cents": "28.0",
+      "no_ask_cents": "73.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1484.0",
+      "close_time": "2026-10-10T23:05:00Z",
+      "category": "Other"
     },
     {
       "ticker": "KXNBATOTAL-26OCT08PHIBKN-217",
@@ -3920,9 +3513,9 @@
       "ticker": "KXNHLPTS-26OCT08PHIOTT-OTTDBATHERSON19-3",
       "title": "Drake Batherson: 3+ points",
       "event_ticker": "KXNHLPTS-26OCT08PHIOTT",
-      "yes_ask_cents": "6.0",
+      "yes_ask_cents": "9.0",
       "no_ask_cents": "99.0",
-      "spread_cents": "5.0",
+      "spread_cents": "8.0",
       "volume_24h": "1459.59",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -3947,17 +3540,6 @@
       "spread_cents": "2.0",
       "volume_24h": "1456.88",
       "close_time": "2026-10-10T23:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08MINTB-MINJSPURGEON46-1",
-      "title": "Jared Spurgeon: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08MINTB",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "6.0",
-      "volume_24h": "1452.92",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -3997,9 +3579,9 @@
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-BOS2",
       "title": "Boston wins by over 1.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "38.0",
-      "no_ask_cents": "64.0",
-      "spread_cents": "2.0",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "65.0",
+      "spread_cents": "4.0",
       "volume_24h": "1434.64",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -4042,8 +3624,8 @@
       "title": "Parker Messick: 4+ hits allowed?",
       "event_ticker": "KXMLBHA-26OCT081700CLECWS",
       "yes_ask_cents": "58.0",
-      "no_ask_cents": "44.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "45.0",
+      "spread_cents": "3.0",
       "volume_24h": "1424.83",
       "close_time": "2026-10-11T21:00:00Z",
       "category": "Sports"
@@ -4096,9 +3678,9 @@
       "ticker": "KXHIGHNY-26OCT09-B69.5",
       "title": "Will the maximum temperature be 69-70\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXHIGHNY-26OCT09",
-      "yes_ask_cents": "40.0",
+      "yes_ask_cents": "39.0",
       "no_ask_cents": "62.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "1410.37",
       "close_time": "2026-10-10T05:00:00Z",
       "category": "Weather"
@@ -4137,23 +3719,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08MINTB-MINBBRINK10-1",
-      "title": "Bobby Brink: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08MINTB",
-      "yes_ask_cents": "12.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "6.0",
-      "volume_24h": "1377.46",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-BOS11",
       "title": "Boston wins by over 10.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "17.0",
+      "yes_ask_cents": "19.0",
       "no_ask_cents": "86.0",
-      "spread_cents": "3.0",
+      "spread_cents": "5.0",
       "volume_24h": "1375.0",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -4250,9 +3821,9 @@
       "ticker": "KXITFWMATCH-26OCT08ARAWAN-WAN",
       "title": "I Wen Wan wins",
       "event_ticker": "KXITFWMATCH-26OCT08ARAWAN",
-      "yes_ask_cents": "59.0",
+      "yes_ask_cents": "60.0",
       "no_ask_cents": "42.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "1341.13",
       "close_time": "2026-10-22T23:00:00Z",
       "category": "Sports"
@@ -4360,9 +3931,9 @@
       "ticker": "KXNBASPREAD-26OCT08SACLAL-LAL12",
       "title": "Los Angeles L wins by over 11.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08SACLAL",
-      "yes_ask_cents": "46.0",
+      "yes_ask_cents": "47.0",
       "no_ask_cents": "55.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "1304.25",
       "close_time": "2026-10-11T02:30:00Z",
       "category": "Sports"
@@ -4401,6 +3972,17 @@
       "category": "Other"
     },
     {
+      "ticker": "KXDIMAYORTOTAL-26OCT08CANTOL-3",
+      "title": "Will over 2.5 goals be scored?",
+      "event_ticker": "KXDIMAYORTOTAL-26OCT08CANTOL",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1294.27",
+      "close_time": "2026-10-10T23:05:00Z",
+      "category": "Other"
+    },
+    {
       "ticker": "KXHIGHNY-26OCT09-B71.5",
       "title": "Will the maximum temperature be 71-72\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXHIGHNY-26OCT09",
@@ -4426,9 +4008,9 @@
       "ticker": "KXNHLGOAL-26OCT08DALBUF-DALOBACK10-1",
       "title": "Oskar Back: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "7.0",
+      "yes_ask_cents": "10.0",
       "no_ask_cents": "97.0",
-      "spread_cents": "4.0",
+      "spread_cents": "7.0",
       "volume_24h": "1274.0",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -4437,9 +4019,9 @@
       "ticker": "KXNHLGOAL-26OCT08DALBUF-BUFJDANFORTH15-1",
       "title": "Justin Danforth: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "7.0",
+      "yes_ask_cents": "9.0",
       "no_ask_cents": "95.0",
-      "spread_cents": "2.0",
+      "spread_cents": "4.0",
       "volume_24h": "1268.0",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -4453,28 +4035,6 @@
       "spread_cents": "1.0",
       "volume_24h": "1267.0",
       "close_time": "2026-10-12T00:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08VANCAR-VANVMANCINI90-1",
-      "title": "Victor Mancini: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "5.0",
-      "volume_24h": "1244.08",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08DALBUF-BUFTTHOMPSON72-1",
-      "title": "Tage Thompson: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "37.0",
-      "no_ask_cents": "66.0",
-      "spread_cents": "3.0",
-      "volume_24h": "1236.5",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -4497,17 +4057,6 @@
       "spread_cents": "5.0",
       "volume_24h": "1231.51",
       "close_time": "2026-10-24T03:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08VANCAR-VANMROSSI23-2",
-      "title": "Marco Rossi: 2+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "2.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1225.83",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -4581,8 +4130,8 @@
       "title": "Cleveland wins by over 19.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
       "yes_ask_cents": "15.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "6.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "7.0",
       "volume_24h": "1196.87",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -4591,9 +4140,9 @@
       "ticker": "KXNFLREC-26OCT11CINMIA-MIAGDULCICH85-4",
       "title": "Greg Dulcich: 4+ receptions",
       "event_ticker": "KXNFLREC-26OCT11CINMIA",
-      "yes_ask_cents": "35.0",
-      "no_ask_cents": "68.0",
-      "spread_cents": "3.0",
+      "yes_ask_cents": "34.0",
+      "no_ask_cents": "67.0",
+      "spread_cents": "1.0",
       "volume_24h": "1196.38",
       "close_time": "2026-10-13T17:00:00Z",
       "category": "Sports"
@@ -4614,8 +4163,8 @@
       "title": "Randal Grichuk: 5+ total bases?",
       "event_ticker": "KXMLBTB-26OCT081700CLECWS",
       "yes_ask_cents": "6.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "96.0",
+      "spread_cents": "2.0",
       "volume_24h": "1182.0",
       "close_time": "2026-10-12T00:00:00Z",
       "category": "Sports"
@@ -4702,8 +4251,8 @@
       "title": "Devon Toews: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08COLCGY",
       "yes_ask_cents": "11.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "91.0",
+      "spread_cents": "2.0",
       "volume_24h": "1144.16",
       "close_time": "2026-10-11T01:00:00Z",
       "category": "Sports"
@@ -4745,9 +4294,9 @@
       "ticker": "KXNHLGOAL-26OCT08NSHMTL-NSHAEDSTROM84-1",
       "title": "Adam Edstrom: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08NSHMTL",
-      "yes_ask_cents": "10.0",
+      "yes_ask_cents": "12.0",
       "no_ask_cents": "95.0",
-      "spread_cents": "5.0",
+      "spread_cents": "7.0",
       "volume_24h": "1128.32",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -4811,9 +4360,9 @@
       "ticker": "KXNBA1HSPREAD-26OCT08BOSCLE-CLE6",
       "title": "Cleveland wins the 1H by over 5.5 points",
       "event_ticker": "KXNBA1HSPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "3.0",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "2.0",
       "volume_24h": "1107.52",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -4833,9 +4382,9 @@
       "ticker": "KXNBASPREAD-26OCT08PHIBKN-PHI7",
       "title": "Philadelphia wins by over 6.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08PHIBKN",
-      "yes_ask_cents": "58.0",
+      "yes_ask_cents": "57.0",
       "no_ask_cents": "45.0",
-      "spread_cents": "3.0",
+      "spread_cents": "2.0",
       "volume_24h": "1103.1",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
@@ -4845,8 +4394,8 @@
       "title": "Jo Adell: 2+ RBIs?",
       "event_ticker": "KXMLBRBI-26OCT081700CLECWS",
       "yes_ask_cents": "15.0",
-      "no_ask_cents": "88.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "87.0",
+      "spread_cents": "2.0",
       "volume_24h": "1095.03",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
@@ -4940,17 +4489,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXAAAGASDVA-26OCT09-4.2400",
-      "title": "Will average **gas prices** be above $4.2400?",
-      "event_ticker": "KXAAAGASDVA-26OCT09",
-      "yes_ask_cents": "2.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1051.0",
-      "close_time": "2026-10-09T03:59:00Z",
-      "category": "Economics"
-    },
-    {
       "ticker": "KXAAAGASDCT-26OCT09-4.4400",
       "title": "Will average **gas prices** be above $4.4400?",
       "event_ticker": "KXAAAGASDCT-26OCT09",
@@ -4971,17 +4509,6 @@
       "volume_24h": "1050.0",
       "close_time": "2026-10-09T03:59:00Z",
       "category": "Economics"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08VANCAR-CARKMILLER19-1",
-      "title": "K'Andre Miller: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "10.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "4.0",
-      "volume_24h": "1047.0",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXLOLGAME-26OCT091700DSGFUE-DSG",
@@ -5031,9 +4558,9 @@
       "ticker": "KXNHLGOAL-26OCT08MINTB-MINYTRENIN13-1",
       "title": "Yakov Trenin: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08MINTB",
-      "yes_ask_cents": "9.0",
+      "yes_ask_cents": "11.0",
       "no_ask_cents": "94.0",
-      "spread_cents": "3.0",
+      "spread_cents": "5.0",
       "volume_24h": "1020.0",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -5185,9 +4712,9 @@
       "ticker": "KXNBATOTAL-26OCT08BOSCLE-211",
       "title": "Full Game: Over 210.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08BOSCLE",
-      "yes_ask_cents": "78.0",
+      "yes_ask_cents": "79.0",
       "no_ask_cents": "23.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "994.13",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -5207,9 +4734,9 @@
       "ticker": "KXMLBHA-26OCT081700CLECWS-CLEPMESSICK77-2",
       "title": "Parker Messick: 2+ hits allowed?",
       "event_ticker": "KXMLBHA-26OCT081700CLECWS",
-      "yes_ask_cents": "92.0",
+      "yes_ask_cents": "93.0",
       "no_ask_cents": "13.0",
-      "spread_cents": "5.0",
+      "spread_cents": "6.0",
       "volume_24h": "987.59",
       "close_time": "2026-10-11T21:00:00Z",
       "category": "Sports"
@@ -5240,9 +4767,9 @@
       "ticker": "KXDOTA2GAME-26OCT090500AURTS-TS",
       "title": "Team Spirit wins",
       "event_ticker": "KXDOTA2GAME-26OCT090500AURTS",
-      "yes_ask_cents": "69.0",
+      "yes_ask_cents": "70.0",
       "no_ask_cents": "32.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "984.23",
       "close_time": "2026-10-11T09:00:00Z",
       "category": "Sports"
@@ -5274,8 +4801,8 @@
       "title": "Philadelphia wins the 1H by over 3.5 points",
       "event_ticker": "KXNBA1HSPREAD-26OCT08PHIBKN",
       "yes_ask_cents": "67.0",
-      "no_ask_cents": "36.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "37.0",
+      "spread_cents": "4.0",
       "volume_24h": "981.34",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
@@ -5427,9 +4954,9 @@
       "ticker": "KXNFLPASSYDS-26OCT11CINMIA-CINJBURROW9-225",
       "title": "Joe Burrow: 225+ passing yards",
       "event_ticker": "KXNFLPASSYDS-26OCT11CINMIA",
-      "yes_ask_cents": "63.0",
+      "yes_ask_cents": "62.0",
       "no_ask_cents": "42.0",
-      "spread_cents": "5.0",
+      "spread_cents": "4.0",
       "volume_24h": "903.84",
       "close_time": "2026-10-13T17:00:00Z",
       "category": "Sports"
@@ -5449,9 +4976,9 @@
       "ticker": "KXBRASILEIROBSPREAD-26OCT08NAUGRN-GRN4",
       "title": "Gremio Novorizontino wins by more than 3.5 goals?",
       "event_ticker": "KXBRASILEIROBSPREAD-26OCT08NAUGRN",
-      "yes_ask_cents": "18.0",
+      "yes_ask_cents": "17.0",
       "no_ask_cents": "84.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "898.83",
       "close_time": "2026-10-10T22:30:00Z",
       "category": "Other"
@@ -5516,21 +5043,10 @@
       "title": "Philadelphia wins by over 4.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08PHIBKN",
       "yes_ask_cents": "63.0",
-      "no_ask_cents": "39.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "38.0",
+      "spread_cents": "1.0",
       "volume_24h": "868.49",
       "close_time": "2026-10-10T23:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08MINTB-TBBPOINT21-1",
-      "title": "Brayden Point: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08MINTB",
-      "yes_ask_cents": "37.0",
-      "no_ask_cents": "70.0",
-      "spread_cents": "7.0",
-      "volume_24h": "857.37",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -5542,28 +5058,6 @@
       "spread_cents": "4.0",
       "volume_24h": "855.77",
       "close_time": "2026-10-13T17:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08VANCAR-VANPCOTTER47-2",
-      "title": "Paul Cotter: 2+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "2.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "1.0",
-      "volume_24h": "854.0",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08MINTB-TBSSABOURIN49-1",
-      "title": "Scott Sabourin: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08MINTB",
-      "yes_ask_cents": "10.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "1.0",
-      "volume_24h": "850.01",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -5582,8 +5076,8 @@
       "title": "Turk Telekom wins",
       "event_ticker": "KXBSLGAME-26OCT111100BJKTTS",
       "yes_ask_cents": "47.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "59.0",
+      "spread_cents": "6.0",
       "volume_24h": "847.31",
       "close_time": "2026-10-13T15:00:00Z",
       "category": "Other"
@@ -5644,17 +5138,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08DALBUF-BUFRDAHLIN26-1",
-      "title": "Rasmus Dahlin: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "21.0",
-      "no_ask_cents": "80.0",
-      "spread_cents": "1.0",
-      "volume_24h": "839.66",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXMLBSB-26OCT082000CLECWS-CLETBAZZANA37-1",
       "title": "Travis Bazzana: 1+ stolen bases?",
       "event_ticker": "KXMLBSB-26OCT081700CLECWS",
@@ -5669,8 +5152,8 @@
       "ticker": "KXMLBHA-26OCT082000CLECWS-CWSHSMITH32-2",
       "title": "Hagen Smith: 2+ hits allowed?",
       "event_ticker": "KXMLBHA-26OCT081700CLECWS",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "63.0",
+      "yes_ask_cents": "40.0",
+      "no_ask_cents": "64.0",
       "spread_cents": "4.0",
       "volume_24h": "837.95",
       "close_time": "2026-10-12T00:00:00Z",
@@ -5702,9 +5185,9 @@
       "ticker": "KXNHLPTS-26OCT08SJSTL-STLDHOLLOWAY81-1",
       "title": "Dylan Holloway: 1+ points",
       "event_ticker": "KXNHLPTS-26OCT08SJSTL",
-      "yes_ask_cents": "61.0",
+      "yes_ask_cents": "60.0",
       "no_ask_cents": "41.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "828.88",
       "close_time": "2026-10-11T00:00:00Z",
       "category": "Sports"
@@ -5724,9 +5207,9 @@
       "ticker": "KXDIMAYORBTTS-26OCT08CANTOL-BTTS",
       "title": "Both Teams To Score",
       "event_ticker": "KXDIMAYORBTTS-26OCT08CANTOL",
-      "yes_ask_cents": "55.0",
+      "yes_ask_cents": "53.0",
       "no_ask_cents": "48.0",
-      "spread_cents": "3.0",
+      "spread_cents": "1.0",
       "volume_24h": "822.68",
       "close_time": "2026-10-10T23:05:00Z",
       "category": "Other"
@@ -5752,17 +5235,6 @@
       "volume_24h": "817.63",
       "close_time": "2026-10-10T05:00:00Z",
       "category": "Weather"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08VANCAR-CARJCHATFIELD5-1",
-      "title": "Jalen Chatfield: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "6.0",
-      "volume_24h": "815.74",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXNFLPASSTDS-26OCT12BUFLAR-BUFJALLEN17-2",
@@ -5828,17 +5300,6 @@
       "spread_cents": "1.0",
       "volume_24h": "802.13",
       "close_time": "2026-10-10T23:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08DALBUF-DALSSTEEL18-1",
-      "title": "Sam Steel: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "15.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "8.0",
-      "volume_24h": "801.02",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -5912,8 +5373,8 @@
       "title": "Atletico Nacional wins by more than 2.5 goals?",
       "event_ticker": "KXDIMAYORSPREAD-26OCT08CANTOL",
       "yes_ask_cents": "13.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "89.0",
+      "spread_cents": "2.0",
       "volume_24h": "792.17",
       "close_time": "2026-10-10T23:05:00Z",
       "category": "Other"
@@ -5963,6 +5424,17 @@
       "category": "Weather"
     },
     {
+      "ticker": "KXDIMAYORSPREAD-26OCT08CANTOL-TOL2",
+      "title": "Tolima wins by more than 1.5 goals?",
+      "event_ticker": "KXDIMAYORSPREAD-26OCT08CANTOL",
+      "yes_ask_cents": "8.0",
+      "no_ask_cents": "94.0",
+      "spread_cents": "2.0",
+      "volume_24h": "773.65",
+      "close_time": "2026-10-10T23:05:00Z",
+      "category": "Other"
+    },
+    {
       "ticker": "KXNFLREC-26OCT11HOUTEN-HOUXHUTCHINSON19-2",
       "title": "Xavier Hutchinson: 2+ receptions",
       "event_ticker": "KXNFLREC-26OCT11HOUTEN",
@@ -5982,17 +5454,6 @@
       "spread_cents": "1.0",
       "volume_24h": "770.98",
       "close_time": "2026-10-12T00:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNBA1HSPREAD-26OCT08BOSCLE-BOS2",
-      "title": "Boston wins the 1H by over 1.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "30.0",
-      "no_ask_cents": "74.0",
-      "spread_cents": "4.0",
-      "volume_24h": "756.88",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -6095,17 +5556,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08VANCAR-CARLSTANKOVEN22-1",
-      "title": "Logan Stankoven: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "32.0",
-      "no_ask_cents": "70.0",
-      "spread_cents": "2.0",
-      "volume_24h": "725.52",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXATPEXACTMATCH-26OCT09MANCOB-COB20",
       "title": "Will Flavio Cobolli win the Adrian Mannarino vs Flavio Cobolli match by a set score of 2-0?",
       "event_ticker": "KXATPEXACTMATCH-26OCT09MANCOB",
@@ -6121,8 +5571,8 @@
       "title": "Full Game: Over 212.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08NOPMIA",
       "yes_ask_cents": "89.0",
-      "no_ask_cents": "13.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "14.0",
+      "spread_cents": "3.0",
       "volume_24h": "715.7",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
@@ -6131,9 +5581,9 @@
       "ticker": "KXNHLGOAL-26OCT08MINTB-MINMMCCARRON47-1",
       "title": "Michael McCarron: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08MINTB",
-      "yes_ask_cents": "8.0",
+      "yes_ask_cents": "12.0",
       "no_ask_cents": "94.0",
-      "spread_cents": "2.0",
+      "spread_cents": "6.0",
       "volume_24h": "709.03",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -6153,9 +5603,9 @@
       "ticker": "KXNBASPREAD-26OCT08WASNYK-WAS14",
       "title": "Washington wins by over 13.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08WASNYK",
-      "yes_ask_cents": "11.0",
+      "yes_ask_cents": "8.0",
       "no_ask_cents": "93.0",
-      "spread_cents": "4.0",
+      "spread_cents": "1.0",
       "volume_24h": "704.85",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
@@ -6169,17 +5619,6 @@
       "spread_cents": "3.0",
       "volume_24h": "697.95",
       "close_time": "2026-10-13T17:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08VANCAR-VANJDEBRUSK74-1",
-      "title": "Jake DeBrusk: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "24.0",
-      "no_ask_cents": "77.0",
-      "spread_cents": "1.0",
-      "volume_24h": "691.84",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -6208,9 +5647,9 @@
       "ticker": "KXDIMAYORTOTAL-26OCT08CANTOL-6",
       "title": "Will over 5.5 goals be scored?",
       "event_ticker": "KXDIMAYORTOTAL-26OCT08CANTOL",
-      "yes_ask_cents": "12.0",
+      "yes_ask_cents": "6.0",
       "no_ask_cents": "95.0",
-      "spread_cents": "7.0",
+      "spread_cents": "1.0",
       "volume_24h": "682.31",
       "close_time": "2026-10-10T23:05:00Z",
       "category": "Other"
@@ -6285,8 +5724,8 @@
       "ticker": "KXHIGHDEN-26OCT09-B88.5",
       "title": "Will the maximum temperature be 88-89\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXHIGHDEN-26OCT09",
-      "yes_ask_cents": "15.0",
-      "no_ask_cents": "86.0",
+      "yes_ask_cents": "14.0",
+      "no_ask_cents": "87.0",
       "spread_cents": "1.0",
       "volume_24h": "670.35",
       "close_time": "2026-10-10T07:00:00Z",
@@ -6351,9 +5790,9 @@
       "ticker": "KXDIMAYORTOTAL-26OCT08CANTOL-2",
       "title": "Will over 1.5 goals be scored?",
       "event_ticker": "KXDIMAYORTOTAL-26OCT08CANTOL",
-      "yes_ask_cents": "81.0",
-      "no_ask_cents": "24.0",
-      "spread_cents": "5.0",
+      "yes_ask_cents": "75.0",
+      "no_ask_cents": "26.0",
+      "spread_cents": "1.0",
       "volume_24h": "658.08",
       "close_time": "2026-10-10T23:05:00Z",
       "category": "Other"
@@ -6480,12 +5919,23 @@
       "category": "Economics"
     },
     {
+      "ticker": "KXNBA1HSPREAD-26OCT08NOPMIA-MIA4",
+      "title": "Miami wins the 1H by over 3.5 points",
+      "event_ticker": "KXNBA1HSPREAD-26OCT08NOPMIA",
+      "yes_ask_cents": "55.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "5.0",
+      "volume_24h": "644.85",
+      "close_time": "2026-10-10T23:30:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-BOS6",
       "title": "Boston wins by over 5.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "28.0",
+      "yes_ask_cents": "27.0",
       "no_ask_cents": "76.0",
-      "spread_cents": "4.0",
+      "spread_cents": "3.0",
       "volume_24h": "641.95",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -6513,6 +5963,17 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXMLBHRR-26OCT081700CLECWS-CWSCMONTGOMERY12-1",
+      "title": "Colson Montgomery: 1+ hits + runs + RBIs?",
+      "event_ticker": "KXMLBHRR-26OCT081700CLECWS",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "1.0",
+      "volume_24h": "640.9",
+      "close_time": "2026-10-11T21:00:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXMLBKS-26OCT081700CLECWS-CWSHSMITH32-6",
       "title": "Hagen Smith: 6+ strikeouts?",
       "event_ticker": "KXMLBKS-26OCT081700CLECWS",
@@ -6527,9 +5988,9 @@
       "ticker": "KXITFMATCH-26OCT08EHRTOM-TOM",
       "title": "Yuta Tomida wins",
       "event_ticker": "KXITFMATCH-26OCT08EHRTOM",
-      "yes_ask_cents": "29.0",
+      "yes_ask_cents": "30.0",
       "no_ask_cents": "72.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "640.14",
       "close_time": "2026-10-23T02:00:00Z",
       "category": "Sports"
@@ -6546,17 +6007,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08DALBUF-BUFRMCLEOD71-1",
-      "title": "Ryan McLeod: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "8.0",
-      "volume_24h": "637.93",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXMLBHR-26OCT082000CLECWS-CLETBAZZANA37-1",
       "title": "Travis Bazzana: 1+ home runs?",
       "event_ticker": "KXMLBHR-26OCT081700CLECWS",
@@ -6566,6 +6016,17 @@
       "volume_24h": "632.22",
       "close_time": "2026-10-12T00:00:00Z",
       "category": "Sports"
+    },
+    {
+      "ticker": "KXRT-OTH-23",
+      "title": "Other Mommy Rotten Tomatoes score?",
+      "event_ticker": "KXRT-OTH",
+      "yes_ask_cents": "79.0",
+      "no_ask_cents": "25.0",
+      "spread_cents": "4.0",
+      "volume_24h": "631.21",
+      "close_time": "2026-10-12T14:00:00Z",
+      "category": "Other"
     },
     {
       "ticker": "KXWNBASPREAD-26OCT09ATLNY-ATL4",
@@ -6642,17 +6103,6 @@
       "spread_cents": "3.0",
       "volume_24h": "625.54",
       "close_time": "2026-10-23T01:35:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNBA1HSPREAD-26OCT08BOSCLE-BOS10",
-      "title": "Boston wins the 1H by over 9.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "8.0",
-      "volume_24h": "624.72",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -6825,8 +6275,8 @@
       "title": "Martin Necas: 2+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08COLCGY",
       "yes_ask_cents": "9.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "94.0",
+      "spread_cents": "3.0",
       "volume_24h": "606.38",
       "close_time": "2026-10-11T01:00:00Z",
       "category": "Sports"
@@ -6934,8 +6384,8 @@
       "ticker": "KXITFWMATCH-26OCT08SHIUEM-SHI",
       "title": "Ena Shibahara wins",
       "event_ticker": "KXITFWMATCH-26OCT08SHIUEM",
-      "yes_ask_cents": "81.0",
-      "no_ask_cents": "20.0",
+      "yes_ask_cents": "84.0",
+      "no_ask_cents": "17.0",
       "spread_cents": "1.0",
       "volume_24h": "591.38",
       "close_time": "2026-10-22T23:00:00Z",
@@ -6946,8 +6396,8 @@
       "title": "Los Angeles L wins by over 10.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08SACLAL",
       "yes_ask_cents": "51.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "2.0",
       "volume_24h": "590.6",
       "close_time": "2026-10-11T02:30:00Z",
       "category": "Sports"
@@ -6956,9 +6406,9 @@
       "ticker": "KXNHLGOAL-26OCT08DALBUF-BUFNOSTLUND86-1",
       "title": "Noah Ostlund: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "20.0",
+      "yes_ask_cents": "21.0",
       "no_ask_cents": "82.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "585.92",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -6979,8 +6429,8 @@
       "title": "Full Game: Over 218.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08BOSCLE",
       "yes_ask_cents": "63.0",
-      "no_ask_cents": "38.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "39.0",
+      "spread_cents": "2.0",
       "volume_24h": "584.64",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -7000,9 +6450,9 @@
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-BOS5",
       "title": "Boston wins by over 4.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "30.0",
+      "yes_ask_cents": "28.0",
       "no_ask_cents": "73.0",
-      "spread_cents": "3.0",
+      "spread_cents": "1.0",
       "volume_24h": "584.49",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -7077,8 +6527,8 @@
       "ticker": "KXHIGHDEN-26OCT09-B84.5",
       "title": "Will the maximum temperature be 84-85\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXHIGHDEN-26OCT09",
-      "yes_ask_cents": "26.0",
-      "no_ask_cents": "75.0",
+      "yes_ask_cents": "27.0",
+      "no_ask_cents": "74.0",
       "spread_cents": "1.0",
       "volume_24h": "567.02",
       "close_time": "2026-10-10T07:00:00Z",
@@ -7088,9 +6538,9 @@
       "ticker": "KXNHLGOAL-26OCT08MINTB-MINMFOLIGNO17-1",
       "title": "Marcus Foligno: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08MINTB",
-      "yes_ask_cents": "10.0",
+      "yes_ask_cents": "12.0",
       "no_ask_cents": "94.0",
-      "spread_cents": "4.0",
+      "spread_cents": "6.0",
       "volume_24h": "563.4",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -7151,28 +6601,6 @@
       "category": "Weather"
     },
     {
-      "ticker": "KXNHLFIRSTGOAL-26OCT08DALBUF-BUFTTHOMPSON72",
-      "title": "Tage Thompson: First Goalscorer",
-      "event_ticker": "KXNHLFIRSTGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "6.0",
-      "volume_24h": "557.19",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLFIRSTGOAL-26OCT08NSHMTL-MTLCCAUFIELD13",
-      "title": "Cole Caufield: First Goalscorer",
-      "event_ticker": "KXNHLFIRSTGOAL-26OCT08NSHMTL",
-      "yes_ask_cents": "9.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "7.0",
-      "volume_24h": "556.98",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXHIGHPHIL-26OCT09-B72.5",
       "title": "Will the maximum temperature be 72-73\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXHIGHPHIL-26OCT09",
@@ -7187,9 +6615,9 @@
       "ticker": "KXNHLGOAL-26OCT08DALBUF-DALJROBERTSON21-2",
       "title": "Jason Robertson: 2+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "10.0",
+      "yes_ask_cents": "11.0",
       "no_ask_cents": "95.0",
-      "spread_cents": "5.0",
+      "spread_cents": "6.0",
       "volume_24h": "555.4",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -7209,9 +6637,9 @@
       "ticker": "KXNHLGOAL-26OCT08DALBUF-DALTHARLEY55-1",
       "title": "Thomas Harley: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "10.0",
+      "yes_ask_cents": "12.0",
       "no_ask_cents": "94.0",
-      "spread_cents": "4.0",
+      "spread_cents": "6.0",
       "volume_24h": "553.22",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -7232,8 +6660,8 @@
       "title": "Real Madrid wins",
       "event_ticker": "KXACBGAME-26OCT110600MANRMA",
       "yes_ask_cents": "93.0",
-      "no_ask_cents": "13.0",
-      "spread_cents": "6.0",
+      "no_ask_cents": "14.0",
+      "spread_cents": "7.0",
       "volume_24h": "549.89",
       "close_time": "2026-10-13T10:00:00Z",
       "category": "Other"
@@ -7265,8 +6693,8 @@
       "title": "Cleveland wins by over 3.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
       "yes_ask_cents": "55.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "4.0",
       "volume_24h": "540.79",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -7291,17 +6719,6 @@
       "spread_cents": "1.0",
       "volume_24h": "539.61",
       "close_time": "2026-10-13T17:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLFIRSTGOAL-26OCT08VANCAR-CARSAHO20",
-      "title": "Sebastian Aho: First Goalscorer",
-      "event_ticker": "KXNHLFIRSTGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "9.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "7.0",
-      "volume_24h": "538.96",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -7418,9 +6835,9 @@
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-BOS7",
       "title": "Boston wins by over 6.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "26.0",
+      "yes_ask_cents": "27.0",
       "no_ask_cents": "77.0",
-      "spread_cents": "3.0",
+      "spread_cents": "4.0",
       "volume_24h": "520.78",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -7451,9 +6868,9 @@
       "ticker": "KXDIMAYORTOTAL-26OCT08CANTOL-1",
       "title": "Will over 0.5 goals be scored?",
       "event_ticker": "KXDIMAYORTOTAL-26OCT08CANTOL",
-      "yes_ask_cents": "97.0",
+      "yes_ask_cents": "94.0",
       "no_ask_cents": "7.0",
-      "spread_cents": "4.0",
+      "spread_cents": "1.0",
       "volume_24h": "516.21",
       "close_time": "2026-10-10T23:05:00Z",
       "category": "Other"
@@ -7473,9 +6890,9 @@
       "ticker": "KXNBASPREAD-26OCT08WASNYK-NYK25",
       "title": "New York wins by over 24.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08WASNYK",
-      "yes_ask_cents": "12.0",
+      "yes_ask_cents": "13.0",
       "no_ask_cents": "92.0",
-      "spread_cents": "4.0",
+      "spread_cents": "5.0",
       "volume_24h": "514.05",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
@@ -7518,8 +6935,8 @@
       "title": "Ashton Jeanty: 4+ receptions",
       "event_ticker": "KXNFLREC-26OCT11LVNE",
       "yes_ask_cents": "55.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "3.0",
       "volume_24h": "502.35",
       "close_time": "2026-10-13T17:00:00Z",
       "category": "Sports"
@@ -7561,9 +6978,9 @@
       "ticker": "KXNHLGOAL-26OCT08VANCAR-CARSWALKER26-1",
       "title": "Sean Walker: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "12.0",
+      "yes_ask_cents": "13.0",
       "no_ask_cents": "94.0",
-      "spread_cents": "6.0",
+      "spread_cents": "7.0",
       "volume_24h": "500.0",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -7627,9 +7044,9 @@
       "ticker": "KXNHLGOAL-26OCT08MINTB-MINMBOLDY12-2",
       "title": "Matt Boldy: 2+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08MINTB",
-      "yes_ask_cents": "7.0",
+      "yes_ask_cents": "10.0",
       "no_ask_cents": "97.0",
-      "spread_cents": "4.0",
+      "spread_cents": "7.0",
       "volume_24h": "488.03",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -7811,6 +7228,17 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXUFCVICROUND-26OCT10GODSOU-OTHER",
+      "title": "Will either competitor win the Lupita Godinez vs. Ketlen Souza fight by decision or the fight result in a draw/no contest",
+      "event_ticker": "KXUFCVICROUND-26OCT10GODSOU",
+      "yes_ask_cents": "66.0",
+      "no_ask_cents": "36.0",
+      "spread_cents": "2.0",
+      "volume_24h": "471.0",
+      "close_time": "2026-10-25T01:00:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXNHLAST-26OCT08COLCGY-COLMNECAS88-1",
       "title": "Martin Necas: 1+ assists",
       "event_ticker": "KXNHLAST-26OCT08COLCGY",
@@ -7836,9 +7264,9 @@
       "ticker": "KXNHLGOAL-26OCT08MINTB-TBRMCDONAGH27-1",
       "title": "Ryan McDonagh: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08MINTB",
-      "yes_ask_cents": "4.0",
+      "yes_ask_cents": "6.0",
       "no_ask_cents": "98.0",
-      "spread_cents": "2.0",
+      "spread_cents": "4.0",
       "volume_24h": "468.51",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -8133,9 +7561,9 @@
       "ticker": "KXNHLAST-26OCT08TORVGK-VGKSTHEODORE27-1",
       "title": "Shea Theodore: 1+ assists",
       "event_ticker": "KXNHLAST-26OCT08TORVGK",
-      "yes_ask_cents": "35.0",
+      "yes_ask_cents": "36.0",
       "no_ask_cents": "67.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "438.43",
       "close_time": "2026-10-11T02:00:00Z",
       "category": "Sports"
@@ -8210,8 +7638,8 @@
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-CLE6",
       "title": "Cleveland wins by over 5.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "55.0",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "54.0",
       "spread_cents": "3.0",
       "volume_24h": "430.78",
       "close_time": "2026-10-10T23:00:00Z",
@@ -8287,9 +7715,9 @@
       "ticker": "KXNHLGOAL-26OCT08VANCAR-VANFHRONEK17-1",
       "title": "Filip Hronek: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "9.0",
+      "yes_ask_cents": "12.0",
       "no_ask_cents": "95.0",
-      "spread_cents": "4.0",
+      "spread_cents": "7.0",
       "volume_24h": "419.59",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -8397,9 +7825,9 @@
       "ticker": "KXHIGHTBOS-26OCT09-B70.5",
       "title": "Will the maximum temperature be 70-71\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXHIGHTBOS-26OCT09",
-      "yes_ask_cents": "43.0",
+      "yes_ask_cents": "42.0",
       "no_ask_cents": "59.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "403.44",
       "close_time": "2026-10-10T05:00:00Z",
       "category": "Weather"
@@ -8464,8 +7892,8 @@
       "title": "Will the USD/JPY open price be between 158.250 and 158.499 at Oct 9, 2026 at 10am EDT?",
       "event_ticker": "KXUSDJPY-26OCT0910",
       "yes_ask_cents": "15.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "88.0",
+      "spread_cents": "3.0",
       "volume_24h": "393.92",
       "close_time": "2026-10-09T14:00:00Z",
       "category": "Other"
@@ -8497,8 +7925,8 @@
       "title": "Will Brandon Nakashima win at least 4.5 more games than Matteo Berrettini?",
       "event_ticker": "KXATPGSPREAD-26OCT09BERNAK",
       "yes_ask_cents": "24.0",
-      "no_ask_cents": "79.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "80.0",
+      "spread_cents": "4.0",
       "volume_24h": "390.0",
       "close_time": "2026-10-23T04:00:00Z",
       "category": "Sports"
@@ -8592,17 +8020,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNHLFIRSTGOAL-26OCT08DALBUF-DALJROBERTSON21",
-      "title": "Jason Robertson: First Goalscorer",
-      "event_ticker": "KXNHLFIRSTGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "9.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "7.0",
-      "volume_24h": "383.03",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXHIGHTPHX-26OCT09-B101.5",
       "title": "Will the maximum temperature be 101-102\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXHIGHTPHX-26OCT09",
@@ -8625,6 +8042,17 @@
       "category": "Weather"
     },
     {
+      "ticker": "KXMLBHRR-26OCT081700CLECWS-CWSCMONTGOMERY12-2",
+      "title": "Colson Montgomery: 2+ hits + runs + RBIs?",
+      "event_ticker": "KXMLBHRR-26OCT081700CLECWS",
+      "yes_ask_cents": "33.0",
+      "no_ask_cents": "70.0",
+      "spread_cents": "3.0",
+      "volume_24h": "381.36",
+      "close_time": "2026-10-11T21:00:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXHIGHDEN-26OCT09-B82.5",
       "title": "Will the maximum temperature be 82-83\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXHIGHDEN-26OCT09",
@@ -8639,9 +8067,9 @@
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-BOS19",
       "title": "Boston wins by over 18.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "9.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "3.0",
+      "yes_ask_cents": "12.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "5.0",
       "volume_24h": "380.51",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -8691,17 +8119,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08NSHMTL-NSHFFORSBERG9-1",
-      "title": "Filip Forsberg: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08NSHMTL",
-      "yes_ask_cents": "32.0",
-      "no_ask_cents": "76.0",
-      "spread_cents": "8.0",
-      "volume_24h": "377.96",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNHLPTS-26OCT08COLCGY-COLNMACKINNON29-3",
       "title": "Nathan MacKinnon: 3+ points",
       "event_ticker": "KXNHLPTS-26OCT08COLCGY",
@@ -8716,9 +8133,9 @@
       "ticker": "KXITFWMATCH-26OCT08EGOCHE-EGO",
       "title": "Daria Egorova wins",
       "event_ticker": "KXITFWMATCH-26OCT08EGOCHE",
-      "yes_ask_cents": "97.0",
+      "yes_ask_cents": "96.0",
       "no_ask_cents": "5.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "377.38",
       "close_time": "2026-10-23T02:00:00Z",
       "category": "Sports"
@@ -8738,9 +8155,9 @@
       "ticker": "KXNHLGOAL-26OCT08MINTB-MINKKAPRIZOV97-3",
       "title": "Kirill Kaprizov: 3+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08MINTB",
-      "yes_ask_cents": "2.0",
+      "yes_ask_cents": "4.0",
       "no_ask_cents": "99.0",
-      "spread_cents": "1.0",
+      "spread_cents": "3.0",
       "volume_24h": "374.32",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -8771,9 +8188,9 @@
       "ticker": "KXNBA1HSPREAD-26OCT08PHIBKN-PHI6",
       "title": "Philadelphia wins the 1H by over 5.5 points",
       "event_ticker": "KXNBA1HSPREAD-26OCT08PHIBKN",
-      "yes_ask_cents": "60.0",
+      "yes_ask_cents": "62.0",
       "no_ask_cents": "43.0",
-      "spread_cents": "3.0",
+      "spread_cents": "5.0",
       "volume_24h": "372.2",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
@@ -8838,8 +8255,8 @@
       "title": "Full Game: Over 240.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08BOSCLE",
       "yes_ask_cents": "22.0",
-      "no_ask_cents": "85.0",
-      "spread_cents": "7.0",
+      "no_ask_cents": "86.0",
+      "spread_cents": "8.0",
       "volume_24h": "366.3",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -8864,28 +8281,6 @@
       "spread_cents": "1.0",
       "volume_24h": "363.59",
       "close_time": "2026-10-23T08:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08VANCAR-VANLOHGREN92-1",
-      "title": "Liam Ohgren: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "12.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "5.0",
-      "volume_24h": "363.19",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT08BOSCLE-CLE12",
-      "title": "Cleveland wins by over 11.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "34.0",
-      "no_ask_cents": "71.0",
-      "spread_cents": "5.0",
-      "volume_24h": "362.9",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -8947,9 +8342,9 @@
       "ticker": "KXNBASPREAD-26OCT08SACLAL-SAC14",
       "title": "Sacramento wins by over 13.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08SACLAL",
-      "yes_ask_cents": "10.0",
+      "yes_ask_cents": "11.0",
       "no_ask_cents": "95.0",
-      "spread_cents": "5.0",
+      "spread_cents": "6.0",
       "volume_24h": "356.09",
       "close_time": "2026-10-11T02:30:00Z",
       "category": "Sports"
@@ -8966,23 +8361,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNBA1HSPREAD-26OCT08BOSCLE-BOS4",
-      "title": "Boston wins the 1H by over 3.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "25.0",
-      "no_ask_cents": "79.0",
-      "spread_cents": "4.0",
-      "volume_24h": "353.33",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNHLGOAL-26OCT08DALBUF-BUFOPOWER25-1",
       "title": "Owen Power: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "10.0",
+      "yes_ask_cents": "11.0",
       "no_ask_cents": "95.0",
-      "spread_cents": "5.0",
+      "spread_cents": "6.0",
       "volume_24h": "351.6",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -8992,8 +8376,8 @@
       "title": "Full Game: Over 228.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08ATLSAS",
       "yes_ask_cents": "47.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "56.0",
+      "spread_cents": "3.0",
       "volume_24h": "350.95",
       "close_time": "2026-10-11T00:00:00Z",
       "category": "Sports"
@@ -9051,17 +8435,6 @@
       "spread_cents": "1.0",
       "volume_24h": "341.53",
       "close_time": "2026-10-12T00:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLPTS-26OCT08PHIOTT-PHITZEGRAS46-1",
-      "title": "Trevor Zegras: 1+ points",
-      "event_ticker": "KXNHLPTS-26OCT08PHIOTT",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "8.0",
-      "volume_24h": "340.99",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -9123,8 +8496,8 @@
       "ticker": "KXNBASPREAD-26OCT08SACLAL-LAL13",
       "title": "Los Angeles L wins by over 12.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08SACLAL",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "58.0",
+      "yes_ask_cents": "45.0",
+      "no_ask_cents": "57.0",
       "spread_cents": "2.0",
       "volume_24h": "335.26",
       "close_time": "2026-10-11T02:30:00Z",
@@ -9241,17 +8614,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08DALBUF-BUFPKREBS19-1",
-      "title": "Peyton Krebs: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "12.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "6.0",
-      "volume_24h": "325.21",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXISRNLTOTAL-26OCT09KQABYE-4",
       "title": "Will over 3.5 goals be scored?",
       "event_ticker": "KXISRNLTOTAL-26OCT09KQABYE",
@@ -9261,17 +8623,6 @@
       "volume_24h": "324.89",
       "close_time": "2026-10-11T13:00:00Z",
       "category": "Other"
-    },
-    {
-      "ticker": "KXNHLFIRSTGOAL-26OCT08VANCAR-CARASVECHNIKOV37",
-      "title": "Andrei Svechnikov: First Goalscorer",
-      "event_ticker": "KXNHLFIRSTGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "6.0",
-      "volume_24h": "324.57",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXNFLTD-26OCT12BUFLAR-LARDADAMS17-1",
@@ -9299,9 +8650,9 @@
       "ticker": "KXNBASPREAD-26OCT08NOPMIA-MIA26",
       "title": "Miami wins by over 25.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08NOPMIA",
-      "yes_ask_cents": "10.0",
+      "yes_ask_cents": "13.0",
       "no_ask_cents": "92.0",
-      "spread_cents": "2.0",
+      "spread_cents": "5.0",
       "volume_24h": "324.0",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
@@ -9406,17 +8757,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXUSDJPY15M-26OCT081915-30",
-      "title": "USD/JPY price up in next 15 mins?",
-      "event_ticker": "KXUSDJPY15M-26OCT081915",
-      "yes_ask_cents": "98.0",
-      "no_ask_cents": "4.0",
-      "spread_cents": "2.0",
-      "volume_24h": "313.91",
-      "close_time": "2026-10-08T23:15:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNHLAST-26OCT08COLCGY-COLNMACKINNON29-3",
       "title": "Nathan MacKinnon: 3+ assists",
       "event_ticker": "KXNHLAST-26OCT08COLCGY",
@@ -9442,9 +8782,9 @@
       "ticker": "KXITFWDOUBLES-26OCT08CHEPACABBGOM-ABBGOM",
       "title": "Abbagnato / Gomez Pezuela Cano wins",
       "event_ticker": "KXITFWDOUBLES-26OCT08CHEPACABBGOM",
-      "yes_ask_cents": "30.0",
+      "yes_ask_cents": "29.0",
       "no_ask_cents": "72.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "310.62",
       "close_time": "2026-10-22T20:30:00Z",
       "category": "Sports"
@@ -9508,9 +8848,9 @@
       "ticker": "KXNHLGOAL-26OCT08DALBUF-BUFTTHOMPSON72-3",
       "title": "Tage Thompson: 3+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "2.0",
+      "yes_ask_cents": "3.0",
       "no_ask_cents": "99.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "307.34",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -9626,17 +8966,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNHLAST-26OCT08PHIOTT-OTTWEKLUND27-1",
-      "title": "William Eklund: 1+ assists",
-      "event_ticker": "KXNHLAST-26OCT08PHIOTT",
-      "yes_ask_cents": "40.0",
-      "no_ask_cents": "67.0",
-      "spread_cents": "7.0",
-      "volume_24h": "294.2",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXATPEXACTMATCH-26OCT09KECMEN-MEN20",
       "title": "Will Jakub Mensik win the Miomir Kecmanovic vs Jakub Mensik match by a set score of 2-0?",
       "event_ticker": "KXATPEXACTMATCH-26OCT09KECMEN",
@@ -9706,9 +9035,9 @@
       "ticker": "KXNBASPREAD-26OCT08BOSCLE-BOS9",
       "title": "Boston wins by over 8.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "21.0",
+      "yes_ask_cents": "24.0",
       "no_ask_cents": "81.0",
-      "spread_cents": "2.0",
+      "spread_cents": "5.0",
       "volume_24h": "288.36",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -9718,8 +9047,8 @@
       "title": "Christian Harrison / Neal Skupski wins",
       "event_ticker": "KXATPDOUBLES-26OCT09HARSKUARNGON",
       "yes_ask_cents": "83.0",
-      "no_ask_cents": "20.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "19.0",
+      "spread_cents": "2.0",
       "volume_24h": "288.27",
       "close_time": "2026-10-23T04:00:00Z",
       "category": "Sports"
@@ -9802,17 +9131,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNBATOTAL-26OCT08BOSCLE-237",
-      "title": "Full Game: Over 236.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT08BOSCLE",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "80.0",
-      "spread_cents": "8.0",
-      "volume_24h": "283.68",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXITFWMATCH-26OCT09JASFOR-JAS",
       "title": "Anika Jaskova wins",
       "event_ticker": "KXITFWMATCH-26OCT09JASFOR",
@@ -9832,17 +9150,6 @@
       "spread_cents": "1.0",
       "volume_24h": "282.01",
       "close_time": "2026-10-23T08:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLPTS-26OCT08PHIOTT-OTTWEKLUND27-1",
-      "title": "William Eklund: 1+ points",
-      "event_ticker": "KXNHLPTS-26OCT08PHIOTT",
-      "yes_ask_cents": "57.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "7.0",
-      "volume_24h": "279.78",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -9893,8 +9200,8 @@
       "ticker": "KXHIGHTNOLA-26OCT09-B82.5",
       "title": "Will the maximum temperature be 82-83\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXHIGHTNOLA-26OCT09",
-      "yes_ask_cents": "37.0",
-      "no_ask_cents": "64.0",
+      "yes_ask_cents": "38.0",
+      "no_ask_cents": "63.0",
       "spread_cents": "1.0",
       "volume_24h": "274.64",
       "close_time": "2026-10-10T06:00:00Z",
@@ -9938,8 +9245,8 @@
       "title": "Iowa Stormboar wins",
       "event_ticker": "KXCS2GAME-26OCT082100IOWREGAIN",
       "yes_ask_cents": "50.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "3.0",
       "volume_24h": "270.37",
       "close_time": "2026-10-11T01:00:00Z",
       "category": "Sports"
@@ -10003,8 +9310,8 @@
       "ticker": "KXHIGHTNOLA-26OCT09-B78.5",
       "title": "Will the maximum temperature be 78-79\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXHIGHTNOLA-26OCT09",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "94.0",
+      "yes_ask_cents": "8.0",
+      "no_ask_cents": "93.0",
       "spread_cents": "1.0",
       "volume_24h": "268.19",
       "close_time": "2026-10-10T06:00:00Z",
@@ -10102,9 +9409,9 @@
       "ticker": "KXNBASPREAD-26OCT08NOPMIA-NOP11",
       "title": "New Orleans wins by over 10.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08NOPMIA",
-      "yes_ask_cents": "14.0",
+      "yes_ask_cents": "13.0",
       "no_ask_cents": "92.0",
-      "spread_cents": "6.0",
+      "spread_cents": "5.0",
       "volume_24h": "263.06",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
@@ -10129,17 +9436,6 @@
       "spread_cents": "6.0",
       "volume_24h": "261.1",
       "close_time": "2026-10-10T23:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLAST-26OCT08PHIOTT-OTTDBATHERSON19-2",
-      "title": "Drake Batherson: 2+ assists",
-      "event_ticker": "KXNHLAST-26OCT08PHIOTT",
-      "yes_ask_cents": "9.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "8.0",
-      "volume_24h": "261.0",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -10169,8 +9465,8 @@
       "title": "Colson Montgomery: 1+ RBIs?",
       "event_ticker": "KXMLBRBI-26OCT081700CLECWS",
       "yes_ask_cents": "25.0",
-      "no_ask_cents": "77.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "78.0",
+      "spread_cents": "3.0",
       "volume_24h": "255.99",
       "close_time": "2026-10-10T21:00:00Z",
       "category": "Sports"
@@ -10201,9 +9497,9 @@
       "ticker": "KXCS2GAME-26OCT082100IOWREGAIN-REGAIN",
       "title": "regain wins",
       "event_ticker": "KXCS2GAME-26OCT082100IOWREGAIN",
-      "yes_ask_cents": "54.0",
+      "yes_ask_cents": "53.0",
       "no_ask_cents": "50.0",
-      "spread_cents": "4.0",
+      "spread_cents": "3.0",
       "volume_24h": "255.28",
       "close_time": "2026-10-11T01:00:00Z",
       "category": "Sports"
@@ -10240,6 +9536,17 @@
       "volume_24h": "253.0",
       "close_time": "2026-10-11T00:00:00Z",
       "category": "Sports"
+    },
+    {
+      "ticker": "KXDIMAYORTOTAL-26OCT08CANTOL-5",
+      "title": "Will over 4.5 goals be scored?",
+      "event_ticker": "KXDIMAYORTOTAL-26OCT08CANTOL",
+      "yes_ask_cents": "13.0",
+      "no_ask_cents": "88.0",
+      "spread_cents": "1.0",
+      "volume_24h": "250.28",
+      "close_time": "2026-10-10T23:05:00Z",
+      "category": "Other"
     },
     {
       "ticker": "KXSUEZWEEKLY-26OCT11-T310",
@@ -10352,17 +9659,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNHLFIRSTGOAL-26OCT08MINTB-TBJGUENTZEL59",
-      "title": "Jake Guentzel: First Goalscorer",
-      "event_ticker": "KXNHLFIRSTGOAL-26OCT08MINTB",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "6.0",
-      "volume_24h": "240.09",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXUFCVICROUND-26OCT10WALMEE-WAL1",
       "title": "Will Julius Walker win the Julius Walker vs. Gerald Meerschaert UFC Fight Night: Allen vs. Duncan fight in Round 1",
       "event_ticker": "KXUFCVICROUND-26OCT10WALMEE",
@@ -10371,17 +9667,6 @@
       "spread_cents": "3.0",
       "volume_24h": "240.0",
       "close_time": "2026-10-25T00:20:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08VANCAR-VANMROSSI23-1",
-      "title": "Marco Rossi: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "19.0",
-      "no_ask_cents": "86.0",
-      "spread_cents": "5.0",
-      "volume_24h": "239.0",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -10399,9 +9684,9 @@
       "ticker": "KXITFDOUBLES-26OCT08HOLMENBOBMCC-HOLMEN",
       "title": "Hollender / Meneo wins",
       "event_ticker": "KXITFDOUBLES-26OCT08HOLMENBOBMCC",
-      "yes_ask_cents": "36.0",
-      "no_ask_cents": "69.0",
-      "spread_cents": "5.0",
+      "yes_ask_cents": "26.0",
+      "no_ask_cents": "78.0",
+      "spread_cents": "4.0",
       "volume_24h": "238.07",
       "close_time": "2026-10-22T17:30:00Z",
       "category": "Sports"
@@ -10561,22 +9846,11 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXLOWTATL-26OCT09-B58.5",
-      "title": "Will the minimum temperature be 58-59\u00b0 on Oct 9, 2026?",
-      "event_ticker": "KXLOWTATL-26OCT09",
-      "yes_ask_cents": "5.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "4.0",
-      "volume_24h": "229.93",
-      "close_time": "2026-10-10T05:00:00Z",
-      "category": "Weather"
-    },
-    {
       "ticker": "KXNBA1HSPREAD-26OCT08WASNYK-NYK12",
       "title": "New York wins the 1H by over 11.5 points",
       "event_ticker": "KXNBA1HSPREAD-26OCT08WASNYK",
-      "yes_ask_cents": "24.0",
-      "no_ask_cents": "81.0",
+      "yes_ask_cents": "26.0",
+      "no_ask_cents": "79.0",
       "spread_cents": "5.0",
       "volume_24h": "228.36",
       "close_time": "2026-10-10T23:30:00Z",
@@ -10619,9 +9893,9 @@
       "ticker": "KXNHLGOAL-26OCT08VANCAR-CARJSLAVIN74-1",
       "title": "Jaccob Slavin: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "8.0",
+      "yes_ask_cents": "11.0",
       "no_ask_cents": "95.0",
-      "spread_cents": "3.0",
+      "spread_cents": "6.0",
       "volume_24h": "227.07",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -10685,9 +9959,9 @@
       "ticker": "KXNHLGOAL-26OCT08DALBUF-BUFOZELLWEGER8-1",
       "title": "Olen Zellweger: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "7.0",
+      "yes_ask_cents": "9.0",
       "no_ask_cents": "97.0",
-      "spread_cents": "4.0",
+      "spread_cents": "6.0",
       "volume_24h": "224.72",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -10735,17 +10009,6 @@
       "volume_24h": "222.12",
       "close_time": "2026-10-10T08:00:00Z",
       "category": "Weather"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08VANCAR-VANMSASSON63-1",
-      "title": "Max Sasson: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "11.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "5.0",
-      "volume_24h": "222.0",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXATPGSPREAD-26OCT09FILKOT-FIL6",
@@ -10806,9 +10069,9 @@
       "ticker": "KXNHLGOAL-26OCT08DALBUF-DALRFAKSA12-1",
       "title": "Radek Faksa: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "7.0",
+      "yes_ask_cents": "10.0",
       "no_ask_cents": "97.0",
-      "spread_cents": "4.0",
+      "spread_cents": "7.0",
       "volume_24h": "219.0",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -10828,9 +10091,9 @@
       "ticker": "KXMLBSERIESSPREAD-26LADMILNLCS-LAD2",
       "title": "Los Angeles D vs Milwaukee Championship Series Game Spread: Los Angeles D -1.5 games",
       "event_ticker": "KXMLBSERIESSPREAD-26LADMILNLCS",
-      "yes_ask_cents": "47.0",
+      "yes_ask_cents": "46.0",
       "no_ask_cents": "61.0",
-      "spread_cents": "8.0",
+      "spread_cents": "7.0",
       "volume_24h": "217.26",
       "close_time": "2026-11-08T04:00:00Z",
       "category": "Sports"
@@ -10839,9 +10102,9 @@
       "ticker": "KXNBASPREAD-26OCT08WASNYK-NYK23",
       "title": "New York wins by over 22.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08WASNYK",
-      "yes_ask_cents": "15.0",
+      "yes_ask_cents": "17.0",
       "no_ask_cents": "90.0",
-      "spread_cents": "5.0",
+      "spread_cents": "7.0",
       "volume_24h": "217.06",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
@@ -10872,9 +10135,9 @@
       "ticker": "KXNHLGOAL-26OCT08DALBUF-BUFTTHOMPSON72-2",
       "title": "Tage Thompson: 2+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "8.0",
+      "yes_ask_cents": "10.0",
       "no_ask_cents": "97.0",
-      "spread_cents": "5.0",
+      "spread_cents": "7.0",
       "volume_24h": "215.84",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -10891,28 +10154,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08NSHMTL-NSHMWOOD71-1",
-      "title": "Matthew Wood: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08NSHMTL",
-      "yes_ask_cents": "22.0",
-      "no_ask_cents": "86.0",
-      "spread_cents": "8.0",
-      "volume_24h": "215.0",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08NSHMTL-MTLANEWHOOK15-1",
-      "title": "Alex Newhook: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08NSHMTL",
-      "yes_ask_cents": "22.0",
-      "no_ask_cents": "86.0",
-      "spread_cents": "8.0",
-      "volume_24h": "215.0",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXUFCVICROUND-26OCT10ALLDUN-DUN3",
       "title": "Will Christian Duncan win the Brendan Allen vs. Christian Duncan UFC Fight Night: Allen vs. Duncan fight in Round 3",
       "event_ticker": "KXUFCVICROUND-26OCT10ALLDUN",
@@ -10921,17 +10162,6 @@
       "spread_cents": "1.0",
       "volume_24h": "214.0",
       "close_time": "2026-10-25T01:40:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT08BOSCLE-CLE14",
-      "title": "Cleveland wins by over 13.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "30.0",
-      "no_ask_cents": "77.0",
-      "spread_cents": "7.0",
-      "volume_24h": "212.71",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -10949,9 +10179,9 @@
       "ticker": "KXMLBRBI-26OCT082000CLECWS-CWSCMEIDROTH10-1",
       "title": "Chase Meidroth: 1+ RBIs?",
       "event_ticker": "KXMLBRBI-26OCT081700CLECWS",
-      "yes_ask_cents": "22.0",
+      "yes_ask_cents": "23.0",
       "no_ask_cents": "80.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "212.14",
       "close_time": "2026-10-11T00:00:00Z",
       "category": "Sports"
@@ -11026,9 +10256,9 @@
       "ticker": "KXNHLGOAL-26OCT08COLCGY-CGYSNEMEC71-1",
       "title": "Simon Nemec: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08COLCGY",
-      "yes_ask_cents": "8.0",
+      "yes_ask_cents": "9.0",
       "no_ask_cents": "93.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "208.91",
       "close_time": "2026-10-11T01:00:00Z",
       "category": "Sports"
@@ -11081,9 +10311,9 @@
       "ticker": "KXNBASPREAD-26OCT08ATLSAS-SAS26",
       "title": "San Antonio wins by over 25.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08ATLSAS",
-      "yes_ask_cents": "14.0",
+      "yes_ask_cents": "12.0",
       "no_ask_cents": "89.0",
-      "spread_cents": "3.0",
+      "spread_cents": "1.0",
       "volume_24h": "205.11",
       "close_time": "2026-10-11T00:00:00Z",
       "category": "Sports"
@@ -11115,8 +10345,8 @@
       "title": "Sacramento wins by over 9.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08SACLAL",
       "yes_ask_cents": "15.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "8.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "7.0",
       "volume_24h": "204.07",
       "close_time": "2026-10-11T02:30:00Z",
       "category": "Sports"
@@ -11279,9 +10509,9 @@
       "ticker": "KXNFLPASSATT-26OCT11CHIGB-GBJLOVE10-34",
       "title": "Jordan Love: 34+ passing attempts",
       "event_ticker": "KXNFLPASSATT-26OCT11CHIGB",
-      "yes_ask_cents": "52.0",
+      "yes_ask_cents": "53.0",
       "no_ask_cents": "50.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "199.44",
       "close_time": "2026-10-13T17:00:00Z",
       "category": "Sports"
@@ -11291,8 +10521,8 @@
       "title": "Full Game: Over 213.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08WASNYK",
       "yes_ask_cents": "78.0",
-      "no_ask_cents": "23.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "24.0",
+      "spread_cents": "2.0",
       "volume_24h": "198.36",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
@@ -11307,17 +10537,6 @@
       "volume_24h": "197.8",
       "close_time": "2026-10-12T03:00:00Z",
       "category": "Other"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT08BOSCLE-CLE10",
-      "title": "Cleveland wins by over 9.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
-      "yes_ask_cents": "40.0",
-      "no_ask_cents": "68.0",
-      "spread_cents": "8.0",
-      "volume_24h": "197.51",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXLOWTBOS-26OCT09-T55",
@@ -11375,17 +10594,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNHLPTS-26OCT08PHIOTT-OTTDBATHERSON19-1",
-      "title": "Drake Batherson: 1+ points",
-      "event_ticker": "KXNHLPTS-26OCT08PHIOTT",
-      "yes_ask_cents": "60.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "8.0",
-      "volume_24h": "191.53",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXMLBHRR-26OCT082000CLECWS-CWSKTEEL8-1",
       "title": "Kyle Teel: 1+ hits + runs + RBIs?",
       "event_ticker": "KXMLBHRR-26OCT081700CLECWS",
@@ -11401,8 +10609,8 @@
       "title": "Miami wins by over 23.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08NOPMIA",
       "yes_ask_cents": "15.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "91.0",
+      "spread_cents": "6.0",
       "volume_24h": "190.06",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
@@ -11417,6 +10625,17 @@
       "volume_24h": "190.0",
       "close_time": "2026-10-14T21:15:00Z",
       "category": "Other"
+    },
+    {
+      "ticker": "KXNBA1HTOTAL-26OCT08PHIBKN-116",
+      "title": "1st Half: Over 115.5 points scored",
+      "event_ticker": "KXNBA1HTOTAL-26OCT08PHIBKN",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "5.0",
+      "volume_24h": "189.97",
+      "close_time": "2026-10-10T23:30:00Z",
+      "category": "Sports"
     },
     {
       "ticker": "KXNHLGOAL-26OCT08CHINYI-CHITBERTUZZI59-1",
@@ -11444,9 +10663,9 @@
       "ticker": "KXLOWTNYC-26OCT09-B56.5",
       "title": "Will the minimum temperature be 56-57\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXLOWTNYC-26OCT09",
-      "yes_ask_cents": "8.0",
+      "yes_ask_cents": "7.0",
       "no_ask_cents": "96.0",
-      "spread_cents": "4.0",
+      "spread_cents": "3.0",
       "volume_24h": "189.01",
       "close_time": "2026-10-10T05:00:00Z",
       "category": "Weather"
@@ -11522,8 +10741,8 @@
       "title": "Cale Makar: 3+ points",
       "event_ticker": "KXNHLPTS-26OCT08COLCGY",
       "yes_ask_cents": "14.0",
-      "no_ask_cents": "88.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "89.0",
+      "spread_cents": "3.0",
       "volume_24h": "188.02",
       "close_time": "2026-10-11T01:00:00Z",
       "category": "Sports"
@@ -11595,6 +10814,17 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXNBA1HTOTAL-26OCT08PHIBKN-118",
+      "title": "1st Half: Over 117.5 points scored",
+      "event_ticker": "KXNBA1HTOTAL-26OCT08PHIBKN",
+      "yes_ask_cents": "45.0",
+      "no_ask_cents": "59.0",
+      "spread_cents": "4.0",
+      "volume_24h": "186.87",
+      "close_time": "2026-10-10T23:30:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXATPMATCH-26OCT08VANMIC-MIC",
       "title": "Alex Michelsen wins",
       "event_ticker": "KXATPMATCH-26OCT08VANMIC",
@@ -11603,17 +10833,6 @@
       "spread_cents": "1.0",
       "volume_24h": "185.56",
       "close_time": "2026-10-23T02:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08DALBUF-BUFLCREVIER46-1",
-      "title": "Louis Crevier: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "6.0",
-      "volume_24h": "185.08",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -11626,6 +10845,17 @@
       "volume_24h": "184.48",
       "close_time": "2026-10-11T01:00:00Z",
       "category": "Sports"
+    },
+    {
+      "ticker": "KXAAAGASDCO-26OCT09-4.0950",
+      "title": "Will average **gas prices** be above $4.0950?",
+      "event_ticker": "KXAAAGASDCO-26OCT09",
+      "yes_ask_cents": "97.0",
+      "no_ask_cents": "11.0",
+      "spread_cents": "8.0",
+      "volume_24h": "184.0",
+      "close_time": "2026-10-09T03:59:00Z",
+      "category": "Economics"
     },
     {
       "ticker": "KXMLBWA-26OCT082000CLECWS-CWSHSMITH32-1",
@@ -11653,9 +10883,9 @@
       "ticker": "KXNHLGOAL-26OCT08DALBUF-BUFBMALENSTYN29-1",
       "title": "Beck Malenstyn: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "7.0",
+      "yes_ask_cents": "10.0",
       "no_ask_cents": "97.0",
-      "spread_cents": "4.0",
+      "spread_cents": "7.0",
       "volume_24h": "182.06",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -11676,8 +10906,8 @@
       "title": "Cleveland wins by over 7.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08BOSCLE",
       "yes_ask_cents": "45.0",
-      "no_ask_cents": "62.0",
-      "spread_cents": "7.0",
+      "no_ask_cents": "61.0",
+      "spread_cents": "6.0",
       "volume_24h": "182.0",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -11708,9 +10938,9 @@
       "ticker": "KXNBASPREAD-26OCT08SACLAL-SAC8",
       "title": "Sacramento wins by over 7.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08SACLAL",
-      "yes_ask_cents": "17.0",
+      "yes_ask_cents": "18.0",
       "no_ask_cents": "89.0",
-      "spread_cents": "6.0",
+      "spread_cents": "7.0",
       "volume_24h": "180.35",
       "close_time": "2026-10-11T02:30:00Z",
       "category": "Sports"
@@ -11752,9 +10982,9 @@
       "ticker": "KXNHLGOAL-26OCT08DALBUF-DALMRANTANEN96-2",
       "title": "Mikko Rantanen: 2+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "5.0",
+      "yes_ask_cents": "9.0",
       "no_ask_cents": "98.0",
-      "spread_cents": "3.0",
+      "spread_cents": "7.0",
       "volume_24h": "178.63",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -11791,6 +11021,17 @@
       "volume_24h": "177.59",
       "close_time": "2026-10-11T00:00:00Z",
       "category": "Sports"
+    },
+    {
+      "ticker": "KXLOWTAUS-26OCT09-B61.5",
+      "title": "Will the minimum temperature be 61-62\u00b0 on Oct 9, 2026?",
+      "event_ticker": "KXLOWTAUS-26OCT09",
+      "yes_ask_cents": "47.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "2.0",
+      "volume_24h": "177.0",
+      "close_time": "2026-10-10T06:00:00Z",
+      "category": "Weather"
     },
     {
       "ticker": "KXNFLTD-26OCT11CINMIA-CINMGESICKI88-2",
@@ -11830,8 +11071,8 @@
       "title": "Steven Kwan: 2+ total bases?",
       "event_ticker": "KXMLBTB-26OCT081700CLECWS",
       "yes_ask_cents": "35.0",
-      "no_ask_cents": "66.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "67.0",
+      "spread_cents": "2.0",
       "volume_24h": "174.16",
       "close_time": "2026-10-12T00:00:00Z",
       "category": "Sports"
@@ -11884,9 +11125,9 @@
       "ticker": "KXNHLGOAL-26OCT08NSHMTL-MTLJEVANS71-1",
       "title": "Jake Evans: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08NSHMTL",
-      "yes_ask_cents": "12.0",
+      "yes_ask_cents": "14.0",
       "no_ask_cents": "89.0",
-      "spread_cents": "1.0",
+      "spread_cents": "3.0",
       "volume_24h": "171.82",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -11914,6 +11155,17 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXAAAGASDCO-26OCT09-4.1000",
+      "title": "Will average **gas prices** be above $4.1000?",
+      "event_ticker": "KXAAAGASDCO-26OCT09",
+      "yes_ask_cents": "97.0",
+      "no_ask_cents": "11.0",
+      "spread_cents": "8.0",
+      "volume_24h": "171.0",
+      "close_time": "2026-10-09T03:59:00Z",
+      "category": "Economics"
+    },
+    {
       "ticker": "KXATPGSPREAD-26OCT09MANCOB-COB4",
       "title": "Will Flavio Cobolli win at least 3.5 more games than Adrian Mannarino?",
       "event_ticker": "KXATPGSPREAD-26OCT09MANCOB",
@@ -11929,21 +11181,10 @@
       "title": "Tommy Pham: 1+ hits?",
       "event_ticker": "KXMLBHIT-26OCT081700CLECWS",
       "yes_ask_cents": "47.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "58.0",
+      "spread_cents": "5.0",
       "volume_24h": "170.71",
       "close_time": "2026-10-12T00:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLPTS-26OCT08NSHMTL-NSHRJOSI59-1",
-      "title": "Roman Josi: 1+ points",
-      "event_ticker": "KXNHLPTS-26OCT08NSHMTL",
-      "yes_ask_cents": "59.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "8.0",
-      "volume_24h": "170.14",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -12027,9 +11268,9 @@
       "ticker": "KXHIGHTSAN-26OCT09-T80",
       "title": "Will the maximum temperature be <80\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXHIGHTSAN-26OCT09",
-      "yes_ask_cents": "34.0",
+      "yes_ask_cents": "33.0",
       "no_ask_cents": "68.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "165.52",
       "close_time": "2026-10-10T08:00:00Z",
       "category": "Weather"
@@ -12115,9 +11356,9 @@
       "ticker": "KXNHL3P-26OCT09NYRWSH-WSH",
       "title": "Washington wins the 3rd period",
       "event_ticker": "KXNHL3P-26OCT09NYRWSH",
-      "yes_ask_cents": "38.0",
-      "no_ask_cents": "66.0",
-      "spread_cents": "4.0",
+      "yes_ask_cents": "37.0",
+      "no_ask_cents": "65.0",
+      "spread_cents": "2.0",
       "volume_24h": "163.6",
       "close_time": "2026-10-11T23:00:00Z",
       "category": "Sports"
@@ -12137,9 +11378,9 @@
       "ticker": "KXMLBHRR-26OCT081700CLECWS-CWSMMURAKAMI5-4",
       "title": "Munetaka Murakami: 4+ hits + runs + RBIs?",
       "event_ticker": "KXMLBHRR-26OCT081700CLECWS",
-      "yes_ask_cents": "17.0",
+      "yes_ask_cents": "18.0",
       "no_ask_cents": "85.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "162.43",
       "close_time": "2026-10-11T21:00:00Z",
       "category": "Sports"
@@ -12192,9 +11433,9 @@
       "ticker": "KXWTASETWINNER-26OCT09ZHESVI-1-ZHE",
       "title": "Will Qinwen Zheng win set 1 in the Qinwen Zheng vs Elina Svitolina match",
       "event_ticker": "KXWTASETWINNER-26OCT09ZHESVI-1",
-      "yes_ask_cents": "45.0",
+      "yes_ask_cents": "44.0",
       "no_ask_cents": "57.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "160.44",
       "close_time": "2026-10-23T05:00:00Z",
       "category": "Sports"
@@ -12203,9 +11444,9 @@
       "ticker": "KXHIGHTNOLA-26OCT09-B80.5",
       "title": "Will the maximum temperature be 80-81\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXHIGHTNOLA-26OCT09",
-      "yes_ask_cents": "38.0",
-      "no_ask_cents": "67.0",
-      "spread_cents": "5.0",
+      "yes_ask_cents": "35.0",
+      "no_ask_cents": "66.0",
+      "spread_cents": "1.0",
       "volume_24h": "160.0",
       "close_time": "2026-10-10T06:00:00Z",
       "category": "Weather"
@@ -12215,8 +11456,8 @@
       "title": "Cherubini / Pace wins",
       "event_ticker": "KXITFWDOUBLES-26OCT08CHEPACABBGOM",
       "yes_ask_cents": "72.0",
-      "no_ask_cents": "32.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "30.0",
+      "spread_cents": "2.0",
       "volume_24h": "159.84",
       "close_time": "2026-10-22T20:30:00Z",
       "category": "Sports"
@@ -12310,17 +11551,6 @@
       "category": "Weather"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08DALBUF-BUFNOSTLUND86-2",
-      "title": "Noah Ostlund: 2+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "2.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "1.0",
-      "volume_24h": "156.06",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNHLGOAL-26OCT08TORVGK-TORGMCKENNA92-2",
       "title": "Gavin McKenna: 2+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08TORVGK",
@@ -12329,6 +11559,17 @@
       "spread_cents": "2.0",
       "volume_24h": "156.06",
       "close_time": "2026-10-11T02:00:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXNHLGOAL-26OCT08DALBUF-BUFNOSTLUND86-2",
+      "title": "Noah Ostlund: 2+ goals",
+      "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
+      "yes_ask_cents": "5.0",
+      "no_ask_cents": "99.0",
+      "spread_cents": "4.0",
+      "volume_24h": "156.06",
+      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -12365,17 +11606,6 @@
       "category": "Weather"
     },
     {
-      "ticker": "KXNHLGOAL-26OCT08MINTB-MINBCOLEMAN20-1",
-      "title": "Blake Coleman: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08MINTB",
-      "yes_ask_cents": "22.0",
-      "no_ask_cents": "79.0",
-      "spread_cents": "1.0",
-      "volume_24h": "155.03",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNFLTD-26OCT11CINMIA-CINDMEYERS81-2",
       "title": "Dohnte Meyers: 2+ touchdowns",
       "event_ticker": "KXNFLTD-26OCT11CINMIA",
@@ -12401,9 +11631,9 @@
       "ticker": "KXATPDOUBLES-26OCT09POLZIEJIAZHA-JIAZHA",
       "title": "Fumin Jiang / Tianhui Zhang wins",
       "event_ticker": "KXATPDOUBLES-26OCT09POLZIEJIAZHA",
-      "yes_ask_cents": "8.0",
+      "yes_ask_cents": "9.0",
       "no_ask_cents": "95.0",
-      "spread_cents": "3.0",
+      "spread_cents": "4.0",
       "volume_24h": "151.8",
       "close_time": "2026-10-23T04:00:00Z",
       "category": "Sports"
@@ -12412,8 +11642,8 @@
       "ticker": "KXNHLGOAL-26OCT08TORVGK-VGKMMARNER93-2",
       "title": "Mitch Marner: 2+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08TORVGK",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "95.0",
+      "yes_ask_cents": "7.0",
+      "no_ask_cents": "96.0",
       "spread_cents": "3.0",
       "volume_24h": "151.4",
       "close_time": "2026-10-11T02:00:00Z",
@@ -12445,9 +11675,9 @@
       "ticker": "KXITFDOUBLES-26OCT08HOLMENBOBMCC-BOBMCC",
       "title": "Bobo / McCormick wins",
       "event_ticker": "KXITFDOUBLES-26OCT08HOLMENBOBMCC",
-      "yes_ask_cents": "67.0",
-      "no_ask_cents": "40.0",
-      "spread_cents": "7.0",
+      "yes_ask_cents": "74.0",
+      "no_ask_cents": "27.0",
+      "spread_cents": "1.0",
       "volume_24h": "150.45",
       "close_time": "2026-10-22T17:30:00Z",
       "category": "Sports"
@@ -12461,17 +11691,6 @@
       "spread_cents": "2.0",
       "volume_24h": "150.17",
       "close_time": "2026-10-10T23:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLPTS-26OCT08MINTB-MINQHUGHES43-3",
-      "title": "Quinn Hughes: 3+ points",
-      "event_ticker": "KXNHLPTS-26OCT08MINTB",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "7.0",
-      "volume_24h": "150.17",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -12643,9 +11862,9 @@
       "ticker": "KXNBATOTAL-26OCT08BOSCLE-209",
       "title": "Full Game: Over 208.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08BOSCLE",
-      "yes_ask_cents": "82.0",
+      "yes_ask_cents": "83.0",
       "no_ask_cents": "22.0",
-      "spread_cents": "4.0",
+      "spread_cents": "5.0",
       "volume_24h": "145.1",
       "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
@@ -12720,11 +11939,22 @@
       "ticker": "KXNBA1HTOTAL-26OCT08WASNYK-118",
       "title": "1st Half: Over 117.5 points scored",
       "event_ticker": "KXNBA1HTOTAL-26OCT08WASNYK",
-      "yes_ask_cents": "54.0",
+      "yes_ask_cents": "53.0",
       "no_ask_cents": "50.0",
-      "spread_cents": "4.0",
+      "spread_cents": "3.0",
       "volume_24h": "141.0",
       "close_time": "2026-10-10T23:30:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXMLBHRR-26OCT081700CLECWS-CWSCMONTGOMERY12-3",
+      "title": "Colson Montgomery: 3+ hits + runs + RBIs?",
+      "event_ticker": "KXMLBHRR-26OCT081700CLECWS",
+      "yes_ask_cents": "21.0",
+      "no_ask_cents": "82.0",
+      "spread_cents": "3.0",
+      "volume_24h": "140.73",
+      "close_time": "2026-10-11T21:00:00Z",
       "category": "Sports"
     },
     {
@@ -12732,8 +11962,8 @@
       "title": "Full Game: Over 237.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08SACLAL",
       "yes_ask_cents": "35.0",
-      "no_ask_cents": "67.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "68.0",
+      "spread_cents": "3.0",
       "volume_24h": "140.55",
       "close_time": "2026-10-11T02:30:00Z",
       "category": "Sports"
@@ -12764,9 +11994,9 @@
       "ticker": "KXEURUSD-26OCT0910-B1.121",
       "title": "Will the EUR/USD open price be between 1.12000 and 1.12199 at Oct 9, 2026 at 10am EDT?",
       "event_ticker": "KXEURUSD-26OCT0910",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "79.0",
-      "spread_cents": "7.0",
+      "yes_ask_cents": "29.0",
+      "no_ask_cents": "77.0",
+      "spread_cents": "6.0",
       "volume_24h": "138.89",
       "close_time": "2026-10-09T14:00:00Z",
       "category": "Other"
@@ -12885,9 +12115,9 @@
       "ticker": "KXMLBHRR-26OCT082000CLECWS-CLECDELAUTER24-2",
       "title": "Chase DeLauter: 2+ hits + runs + RBIs?",
       "event_ticker": "KXMLBHRR-26OCT081700CLECWS",
-      "yes_ask_cents": "51.0",
+      "yes_ask_cents": "50.0",
       "no_ask_cents": "52.0",
-      "spread_cents": "3.0",
+      "spread_cents": "2.0",
       "volume_24h": "133.29",
       "close_time": "2026-10-12T00:00:00Z",
       "category": "Sports"
@@ -12907,9 +12137,9 @@
       "ticker": "KXNASDAQ100U-26OCT09H1600-T30809.99",
       "title": "Will the Nasdaq-100 be above 30809.99 at the end of Oct 9, 2026 at 4pm EDT?",
       "event_ticker": "KXNASDAQ100U-26OCT09H1600",
-      "yes_ask_cents": "57.0",
+      "yes_ask_cents": "58.0",
       "no_ask_cents": "50.0",
-      "spread_cents": "7.0",
+      "spread_cents": "8.0",
       "volume_24h": "132.02",
       "close_time": "2026-10-09T20:00:00Z",
       "category": "Finance"
@@ -12923,17 +12153,6 @@
       "spread_cents": "1.0",
       "volume_24h": "131.99",
       "close_time": "2026-10-23T04:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08DALBUF-DALRHINTZ24-1",
-      "title": "Roope Hintz: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08DALBUF",
-      "yes_ask_cents": "27.0",
-      "no_ask_cents": "79.0",
-      "spread_cents": "6.0",
-      "volume_24h": "131.65",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -12963,8 +12182,8 @@
       "title": "Will the maximum temperature be 66-67\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXHIGHTBOS-26OCT09",
       "yes_ask_cents": "7.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "94.0",
+      "spread_cents": "1.0",
       "volume_24h": "130.44",
       "close_time": "2026-10-10T05:00:00Z",
       "category": "Weather"
@@ -13161,8 +12380,8 @@
       "title": "Will average **gas prices** be above $6.3350?",
       "event_ticker": "KXAAAGASDCA-26OCT09",
       "yes_ask_cents": "22.0",
-      "no_ask_cents": "83.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "85.0",
+      "spread_cents": "7.0",
       "volume_24h": "125.0",
       "close_time": "2026-10-09T03:59:00Z",
       "category": "Economics"
@@ -13171,9 +12390,9 @@
       "ticker": "KXATPGSPREAD-26OCT09HALBLO-BLO2",
       "title": "Will Alexander Blockx win at least 1.5 more games than Quentin Halys?",
       "event_ticker": "KXATPGSPREAD-26OCT09HALBLO",
-      "yes_ask_cents": "49.0",
+      "yes_ask_cents": "48.0",
       "no_ask_cents": "53.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "124.01",
       "close_time": "2026-10-23T04:00:00Z",
       "category": "Sports"
@@ -13209,28 +12428,6 @@
       "spread_cents": "2.0",
       "volume_24h": "123.3",
       "close_time": "2026-10-13T17:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08NSHMTL-MTLNSUZUKI14-1",
-      "title": "Nick Suzuki: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08NSHMTL",
-      "yes_ask_cents": "34.0",
-      "no_ask_cents": "68.0",
-      "spread_cents": "2.0",
-      "volume_24h": "122.29",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNHLGOAL-26OCT08VANCAR-CARTHALL71-1",
-      "title": "Taylor Hall: 1+ goals",
-      "event_ticker": "KXNHLGOAL-26OCT08VANCAR",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "76.0",
-      "spread_cents": "4.0",
-      "volume_24h": "121.81",
-      "close_time": "2026-10-10T23:00:00Z",
       "category": "Sports"
     },
     {
@@ -13377,17 +12574,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXLOWTCHI-26OCT09-T46",
-      "title": "Will the minimum temperature be <46\u00b0 on Oct 9, 2026?",
-      "event_ticker": "KXLOWTCHI-26OCT09",
-      "yes_ask_cents": "3.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "2.0",
-      "volume_24h": "116.28",
-      "close_time": "2026-10-10T06:00:00Z",
-      "category": "Weather"
-    },
-    {
       "ticker": "KXHIGHTDC-26OCT09-B78.5",
       "title": "Will the maximum temperature be 78-79\u00b0 on Oct 9, 2026?",
       "event_ticker": "KXHIGHTDC-26OCT09",
@@ -13513,8 +12699,8 @@
       "title": "Brooklyn wins by over 9.5 points",
       "event_ticker": "KXNBASPREAD-26OCT08PHIBKN",
       "yes_ask_cents": "11.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "90.0",
+      "spread_cents": "1.0",
       "volume_24h": "113.0",
       "close_time": "2026-10-10T23:30:00Z",
       "category": "Sports"
@@ -13787,9 +12973,9 @@
       "ticker": "KXMLBHRR-26OCT082000CLECWS-CLESKWAN38-2",
       "title": "Steven Kwan: 2+ hits + runs + RBIs?",
       "event_ticker": "KXMLBHRR-26OCT081700CLECWS",
-      "yes_ask_cents": "51.0",
+      "yes_ask_cents": "50.0",
       "no_ask_cents": "53.0",
-      "spread_cents": "4.0",
+      "spread_cents": "3.0",
       "volume_24h": "105.14",
       "close_time": "2026-10-12T00:00:00Z",
       "category": "Sports"
@@ -13839,17 +13025,6 @@
       "category": "Weather"
     },
     {
-      "ticker": "KXNBATOTAL-26OCT08BOSCLE-239",
-      "title": "Full Game: Over 238.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT08BOSCLE",
-      "yes_ask_cents": "25.0",
-      "no_ask_cents": "83.0",
-      "spread_cents": "8.0",
-      "volume_24h": "103.59",
-      "close_time": "2026-10-10T23:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNHLGOAL-26OCT08SJSTL-SJMMISA77-1",
       "title": "Michael Misa: 1+ goals",
       "event_ticker": "KXNHLGOAL-26OCT08SJSTL",
@@ -13872,15 +13047,15 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXLOWTCHI-26OCT09-B46.5",
-      "title": "Will the minimum temperature be 46-47\u00b0 on Oct 9, 2026?",
-      "event_ticker": "KXLOWTCHI-26OCT09",
-      "yes_ask_cents": "3.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "1.0",
-      "volume_24h": "101.14",
-      "close_time": "2026-10-10T06:00:00Z",
-      "category": "Weather"
+      "ticker": "KXNHLGOAL-26OCT08PHIOTT-PHIOTIPPETT74-1",
+      "title": "Owen Tippett: 1+ goals",
+      "event_ticker": "KXNHLGOAL-26OCT08PHIOTT",
+      "yes_ask_cents": "23.0",
+      "no_ask_cents": "85.0",
+      "spread_cents": "8.0",
+      "volume_24h": "101.59",
+      "close_time": "2026-10-10T23:00:00Z",
+      "category": "Sports"
     },
     {
       "ticker": "KXITFMATCH-26OCT09ECHWIE-WIE",
@@ -13920,8 +13095,8 @@
       "title": "Lupita Godinez wins by Submission?",
       "event_ticker": "KXUFCMOV-26OCT10GODSOU",
       "yes_ask_cents": "14.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "89.0",
+      "spread_cents": "3.0",
       "volume_24h": "100.28",
       "close_time": "2026-10-25T01:00:00Z",
       "category": "Sports"
