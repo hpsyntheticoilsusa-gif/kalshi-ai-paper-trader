@@ -2,7 +2,7 @@
 import datetime,json,pathlib,urllib.parse,urllib.request
 ROOT=pathlib.Path(__file__).parent;DOCS=ROOT/"docs";DATA=ROOT/"data"
 HISTORY=DATA/"nba_games_history.json"
-DAILY_BATCH=14
+DAILY_BATCH=28
 BASE="https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard"
 def fetch(day):
     url=BASE+"?"+urllib.parse.urlencode({"dates":day.strftime("%Y%m%d"),"limit":100})
@@ -23,6 +23,8 @@ def score_event(event):
         result[side]={"id":str(tid),"name":(t.get("team") or {}).get("displayName",""),"points":pts}
     if len(result)!=2 or result["home"]["points"]==result["away"]["points"]:return None
     kind=(event.get("season") or {}).get("type")
+    try:kind=int(kind)
+    except (ValueError,TypeError):kind=None
     phase={1:"preseason",2:"regular",3:"postseason"}.get(kind,"unknown")
     return {"date":event.get("date"),"id":str(event.get("id","")),"season_type":phase,"home":result["home"],"away":result["away"],"home_win":int(result["home"]["points"]>result["away"]["points"])}
 def main():
@@ -41,7 +43,7 @@ def main():
     checked=set(archive["checked_days"])
     days=[first+datetime.timedelta(days=i) for i in range((today-first).days)]
     pending=[day for day in days if day.isoformat() not in checked]
-    # Up to 14 distinct historical dates each run. Revisit recent dates only once caught up.
+    # Up to 28 distinct historical dates each run. Revisit recent dates only once caught up.
     chosen=pending[:DAILY_BATCH] if pending else days[-3:]
     byid={g["id"]:g for g in archive["games"] if g.get("id")}
     failed=0
@@ -57,19 +59,32 @@ def main():
     games=sorted(byid.values(),key=lambda g:(g.get("date") or "",g["id"]))
     HISTORY.write_text(json.dumps({"checked_days":sorted(checked),"games":games},separators=(",",":")),encoding="utf-8")
     regular=[g for g in games if g.get("season_type")=="regular"]
-    histories={}; tested=[]
+    histories={}; tested=[]; elo={}; elo_tested=[]
     for day in sorted({(g.get("date") or "")[:10] for g in regular}):
         daily=[g for g in regular if (g.get("date") or "")[:10]==day]
         for g in daily:
             home=histories.get(g["home"]["id"],[])
             away=histories.get(g["away"]["id"],[])
-            if len(home)<5 or len(away)<5:continue
-            p=max(.05,min(.95,.5+.55*((sum(home[-5:])+1)/7-(sum(away[-5:])+1)/7)))
-            tested.append({"game_id":g["id"],"date":g["date"],"predicted_home_win":round(p,4),"actual_home_win":g["home_win"],"brier":round((p-g["home_win"])**2,5)})
+            if len(home)>=5 and len(away)>=5:
+                p=max(.05,min(.95,.5+.55*((sum(home[-5:])+1)/7-(sum(away[-5:])+1)/7)))
+                tested.append({"game_id":g["id"],"date":g["date"],"predicted_home_win":round(p,4),"actual_home_win":g["home_win"],"brier":round((p-g["home_win"])**2,5)})
+            if len(home)>=10 and len(away)>=10:
+                eh=elo.get(g["home"]["id"],1500);ea=elo.get(g["away"]["id"],1500)
+                p_elo=1/(1+10**((ea-eh-65)/400))
+                elo_tested.append({"game_id":g["id"],"date":g["date"],"predicted_home_win":round(p_elo,4),"actual_home_win":g["home_win"],"brier":round((p_elo-g["home_win"])**2,5)})
+        changes={}
+        for g in daily:
+            hid=g["home"]["id"];aid=g["away"]["id"]
+            eh=elo.get(hid,1500);ea=elo.get(aid,1500)
+            delta=16*(g["home_win"]-1/(1+10**((ea-eh-65)/400)))
+            changes[hid]=changes.get(hid,0)+delta
+            changes[aid]=changes.get(aid,0)-delta
+        for tid,delta in changes.items():elo[tid]=elo.get(tid,1500)+delta
         for g in daily:
             histories.setdefault(g["home"]["id"],[]).append(g["home_win"])
             histories.setdefault(g["away"]["id"],[]).append(1-g["home_win"])
     model=sum(t["brier"] for t in tested)/len(tested) if tested else None
+    elo_brier=sum(t['brier'] for t in elo_tested)/len(elo_tested) if elo_tested else None
     phases={phase:sum(g.get("season_type")==phase for g in games) for phase in ("preseason","regular","postseason","unknown")}
     out={"generated_utc":datetime.datetime.now(datetime.timezone.utc).isoformat(),
          "source":"ESPN public scoreboard; not Kalshi settlement source",
@@ -78,12 +93,13 @@ def main():
          "completed_games":len(games),"by_phase":phases,"backtest_games":len(tested),
          "model_brier":round(model,4) if model is not None else None,
          "neutral_50_50_brier":.25 if tested else None,
+         "elo_backtest_games":len(elo_tested),"elo_brier":round(elo_brier,4) if elo_brier is not None else None,
          "status":"EXPLORATORY_NOT_VALIDATED",
          "warning":"Regular-season-only strictly chronological simple form model, with backfill potentially incomplete. No market odds, injuries, opponent adjustments, game matching or validated profitability.",
-         "examples":tested[-20:]}
+         "examples":tested[-20:],"elo_examples":elo_tested[-20:]}
     (DOCS/"nba_history.json").write_text(json.dumps(out,indent=2),encoding="utf-8")
     def score(v):return "Not available" if v is None else str(v)
-    block="<section style='background:#24344a;border-radius:12px;padding:18px;margin:18px 0'><h2>NBA history and backtesting (Step 12C)</h2><p>Historical dates checked: "+str(len(checked))+"/"+str(len(days))+". Completed games: "+str(len(games))+" (regular: "+str(phases["regular"])+", preseason: "+str(phases["preseason"])+", postseason: "+str(phases["postseason"])+"). Chronological regular-season test games: "+str(len(tested))+".</p><p>Model Brier: "+score(out["model_brier"])+". Neutral 50/50 baseline: "+score(out["neutral_50_50_brier"])+". Lower is better.</p><p style='color:#ffd184'>RESEARCH ONLY. Historical backfill may be incomplete and the model is not calibrated or validated against actual Kalshi fills.</p><p><a href='./nba_history.json'>View historical audit</a></p></section>"
+    block="<section style='background:#24344a;border-radius:12px;padding:18px;margin:18px 0'><h2>NBA history and backtesting (Step 12C)</h2><p>Historical dates checked: "+str(len(checked))+"/"+str(len(days))+". Completed games: "+str(len(games))+" (regular: "+str(phases["regular"])+", preseason: "+str(phases["preseason"])+", postseason: "+str(phases["postseason"])+"). Chronological regular-season test games: "+str(len(tested))+".</p><p>Model Brier: "+score(out["model_brier"])+". Neutral 50/50 baseline: "+score(out["neutral_50_50_brier"])+". Fixed-parameter Elo backtest: "+str(len(elo_tested))+" games, Brier "+score(out["elo_brier"])+". Lower is better.</p><p style='color:#ffd184'>RESEARCH ONLY. Historical backfill may be incomplete and the model is not calibrated or validated against actual Kalshi fills.</p><p><a href='./nba_history.json'>View historical audit</a></p></section>"
     page=DOCS/"index.html"
     if not page.exists():raise RuntimeError("Dashboard missing")
     page.write_text(page.read_text(encoding="utf-8").replace("</body></html>",block+"</body></html>"),encoding="utf-8")
