@@ -1,0 +1,25 @@
+{
+  "id": "/kalshi-ai-paper-trader/",
+  "name": "Kalshi Scanner — Paper Trading",
+  "short_name": "Kalshi Scanner",
+  "description": "Research-only prediction market scanner and paper trade simulator. No real-money orders.",
+  "start_url": "/kalshi-ai-paper-trader/",
+  "scope": "/kalshi-ai-paper-trader/",
+  "display": "standalone",
+  "background_color": "#101827",
+  "theme_color": "#101827",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
