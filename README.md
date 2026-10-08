@@ -38,3 +38,16 @@ The cloud workflow now runs `weather_research.py`, pulling GFS ensemble forecast
 ## Weather research audit upgrade
 
 `weather_audit.py` records timestamped contract-price/forecast observations in `data/weather_history.csv`, retaining a rolling 30-day window. It calculates **illustrative** one-contract taker fees using the general Kalshi fee formula; it does not check series-specific fee exceptions or orderbook fills. **These observations are not paper trades.** Calibration and exact station/date/contract-rule verification have NOT been completed, so automatic paper entry from weather research remains disabled. Only after forward-logged predictions are compared with exact official settlement observations should performance be claimed. Public repository files show all recorded research.
+
+## Forecast-versus-market baseline (October 2026)
+The outcome checker now stores both weather-ensemble Brier scores and a **rough market-price reference** score for the earliest saved quote per ticker. The reference is calculated as YES ask divided by (YES ask + NO ask); this normalizes two asks, **not** a validated midprice or a true executable consensus probability. Lower Brier score is better. Only finalized YES/NO markets receive scores, and contracts tied to the same day's temperature are correlated; do not treat them as independent samples.
+
+### Mandatory validation gate before any weather paper trade
+- Confirm the exact official weather station and NWS climate-report product named in each Kalshi market's rules.
+- Align the forecast with the *local standard-time* observation day (DST days can run 1:00am to 12:59am the next day in civil clock time).
+- Apply exact inclusive/exclusive temperature boundaries and official integer temperature reporting/rounding.
+- Backtest calibration **out of sample** over multiple independent city-days, not just multiple contracts from the same day.
+- Capture actual orderbook depth at signal time, not merely ask quotes; verify series-specific fees.
+- Keep snapshot timestamps immutable and separate unverified research from hypothetical executable fills.
+
+Until all checks pass, **weather contracts stay OBSERVATION_ONLY**, with no automated paper entries or claims of demonstrated profit.
