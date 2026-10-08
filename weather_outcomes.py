@@ -22,7 +22,7 @@ def main():
     now=datetime.datetime.now(datetime.timezone.utc).isoformat()
     errors=0
     for ticker,record in first.items():
-        if ticker in oldmap and oldmap[ticker].get("result") in ("yes","no"):continue
+        if ticker in oldmap and oldmap[ticker].get("result") in ("yes","no") and oldmap[ticker].get("market_brier_score") not in ("",None):continue
         try:
             m=market(ticker)
             status=str(m.get("status") or "")
