@@ -1,0 +1,56 @@
+"""Read-only Kalshi market scanner: NO trading credentials or order placement."""
+import csv, json, html, pathlib, datetime, urllib.request, urllib.parse, time
+ROOT=pathlib.Path(__file__).parent
+DATA=ROOT/"data"; DOCS=ROOT/"docs"
+DATA.mkdir(exist_ok=True); DOCS.mkdir(exist_ok=True)
+NOW=datetime.datetime.now(datetime.timezone.utc)
+BASE="https://external-api.kalshi.com/trade-api/v2"
+def fetch(path, params):
+    url=BASE+path+"?"+urllib.parse.urlencode(params)
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url,headers={"User-Agent":"PaperResearchScanner/1.0","Accept":"application/json"}),timeout=30) as response:
+                return json.load(response)
+        except Exception:
+            if attempt==2: raise
+            time.sleep(2**attempt)
+def cents(m, key):
+    value=m.get(key+"_dollars")
+    if value is not None:
+        try: return round(float(value)*100,3)
+        except (TypeError,ValueError): return None
+    value=m.get(key)
+    try: return float(value) if value is not None else None
+    except (TypeError,ValueError): return None
+def main():
+    raw=[]; cursor=None
+    for i in range(4):
+        opts={"limit":1000,"status":"open","mve_filter":"exclude"}
+        if cursor: opts["cursor"]=cursor
+        result=fetch("/markets",opts)
+        raw.extend(result.get("markets",[]))
+        cursor=result.get("cursor")
+        if not cursor: break
+    if not raw: raise RuntimeError("No markets returned; refusing to overwrite report")
+    items=[]
+    for m in raw:
+        ya,yb,na,nb=[cents(m,k) for k in ("yes_ask","yes_bid","no_ask","no_bid")]
+        if ya is None and nb is not None: ya=100-nb
+        if na is None and yb is not None: na=100-yb
+        try: volume=float(m.get("volume_24h_fp") or m.get("volume_24h") or 0)
+        except (TypeError,ValueError): volume=0
+        spread=ya-yb if ya is not None and yb is not None else None
+        if not (ya is not None and na is not None and spread is not None and 1<=ya<=99 and 1<=na<=99 and 0<=spread<=8 and volume>=100): continue
+        items.append({"ticker":m.get("ticker",""),"title":m.get("title",""),"event_ticker":m.get("event_ticker",""),"yes_ask_cents":ya,"no_ask_cents":na,"spread_cents":round(spread,2),"volume_24h":volume,"close_time":m.get("close_time","")})
+    items.sort(key=lambda x:(-x["volume_24h"],x["spread_cents"]))
+    fields=["ticker","title","event_ticker","yes_ask_cents","no_ask_cents","spread_cents","volume_24h","close_time"]
+    with (DATA/"latest_markets.csv").open("w",newline="",encoding="utf-8") as f:
+        writer=csv.DictWriter(f,fieldnames=fields);writer.writeheader();writer.writerows(items[:500])
+    status={"last_scan_utc":NOW.isoformat(),"fetched":len(raw),"passing_filters":len(items),"paper_trades":0,"note":"Screening only. No AI forecasts, simulated fills, or real trading."}
+    (DATA/"status.json").write_text(json.dumps(status,indent=2),encoding="utf-8")
+    def cell(v): return html.escape(str(v))
+    table="".join("<tr><td>"+cell(m["ticker"])+"</td><td>"+cell(m["title"])+"</td><td>"+cell(m["yes_ask_cents"])+"¢</td><td>"+cell(m["no_ask_cents"])+"¢</td><td>"+cell(m["spread_cents"])+"¢</td><td>"+cell(int(m["volume_24h"]))+"</td></tr>" for m in items[:75])
+    page='''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Kalshi Paper Scanner</title><style>body{background:#101827;color:#f1f5fd;font:16px system-ui;margin:0 auto;max-width:1100px;padding:18px}p{color:#bfcce0}table{border-collapse:collapse;min-width:680px;width:100%}th,td{padding:10px;border-bottom:1px solid #39465d;text-align:left}.scroll{overflow-x:auto}.stats{display:flex;gap:12px;flex-wrap:wrap}.tile{background:#24344a;border-radius:12px;padding:16px;flex:1;min-width:130px}.tile strong{display:block;font-size:28px}.warning{border-left:4px solid orange;padding:12px;background:#2b3343}</style></head><body><h1>Kalshi Paper Market Scanner</h1><p>Scan: '''+cell(NOW.strftime("%Y-%m-%d %H:%M UTC"))+'''</p><div class="warning"><b>Research only: no AI probability model or paper trades yet.</b><p>Screening is not a profitable trading signal. Quotes can change; fees, depth and fill availability are not verified.</p></div><div class="stats"><div class="tile">Markets scanned<strong>'''+str(len(raw))+'''</strong></div><div class="tile">Passing filters<strong>'''+str(len(items))+'''</strong></div></div><h2>Market watchlist</h2><p>24h volume ≥100 and indicative YES spread ≤8¢.</p><div class="scroll"><table><thead><tr><th>Ticker</th><th>Market</th><th>YES ask</th><th>NO ask</th><th>Spread</th><th>24h volume</th></tr></thead><tbody>'''+table+'''</tbody></table></div></body></html>'''
+    (DOCS/"index.html").write_text(page,encoding="utf-8")
+    print("Scan completed:",len(raw),"markets,",len(items),"passed")
+if __name__=="__main__": main()
