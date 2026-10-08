@@ -55,6 +55,8 @@ def main():
             why="REVIEW REQUIRED: station, local-standard-time observation window, exact rule boundary, ensemble calibration, market depth, and fees unverified"
             candidates.append(dict(scan_utc=now,city=f["city"],ticker=m.get("ticker",""),market_title=m.get("title",""),target_date=date,series_ticker=series,strike_type=m.get("strike_type"),floor_strike=m.get("floor_strike"),cap_strike=m.get("cap_strike"),yes_ask_cents=ya,no_ask_cents=na,median_high_f=f.get("median_high_f"),rough_yes_probability=round(p,4),rough_edge_yes_cents=round(p*100-ya,2),rough_edge_no_cents=round((1-p)*100-na,2),status="RESEARCH_ONLY_NO_TRADE",review_reason=why))
     candidates.sort(key=lambda r:max(r["rough_edge_yes_cents"],r["rough_edge_no_cents"]),reverse=True)
+    # Published research snapshots for the LOCAL-ONLY ticket. These are not executable exchange quotes.
+    (DOCS/"candidates.json").write_text(json.dumps(candidates[:100],ensure_ascii=False),encoding="utf-8")
     with (DATA/"weather_candidates.csv").open("w",newline="",encoding="utf-8") as o:
         w=csv.DictWriter(o,fieldnames=COLS);w.writeheader();w.writerows(candidates)
     # Escaped presentation; separate from the auto paper trade journal.
