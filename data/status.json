@@ -1,7 +1,9 @@
 {
-  "last_scan_utc": "2026-10-08T16:38:02.200952+00:00",
+  "last_scan_utc": "2026-10-08T16:44:53.429715+00:00",
   "fetched": 4000,
-  "passing_filters": 128,
+  "passing_filters": 124,
   "paper_trades": 0,
-  "note": "Screening only. No AI forecasts, simulated fills, or real trading."
+  "note": "Forecast-led paper trades only. Fee assumption 3c per contract; fills and depth not confirmed. NOT an AI model.",
+  "settled_trades": 0,
+  "estimated_paper_net_pnl_cents": 0
 }
