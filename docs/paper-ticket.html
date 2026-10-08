@@ -6,6 +6,7 @@
 <p>Practice recording decisions. No Kalshi login, no exchange API orders, no real funds.</p>
 <div class="warning"><strong>Research candidates are unverified.</strong> Weather station, contract boundaries, model calibration, liquidity and actual execution prices may differ. Saved tickets are assumed fills, not proof of executable trades.</div>
 <section class="panel" aria-label="Virtual account balance"><h2 style="margin-top:0">Virtual account</h2><div class="grid"><div class="metric"><span class="small">Available virtual cash</span><b id="accountBalance">$1,000.00</b></div><div class="metric"><span class="small">Open funded positions</span><b id="fundedCount">0</b></div></div><div class="grid" style="margin-top:12px"><div class="metric"><span class="small">Settled funded trades</span><b id="settledCount">0</b></div><div class="metric"><span class="small">Realized paper P&L</span><b id="realizedPnl">$0.00</b></div></div><p class="small">Starting funds: $1,000.00. Only new funded paper orders deduct cash; previous practice tickets remain separate. Finalized outcomes automatically update simulated cash once when this page checks the published feed. Stored on this device only. Export CSV backups regularly.</p></section>
+<section class="panel"><h2>Performance dashboard</h2><p class="small">Paper account only. Open positions are valued at their original cost, not current market prices; this is not a live portfolio valuation.</p><div class="grid"><div class="metric"><span class="small">Account value at cost basis</span><b id="perfValue">$1,000.00</b></div><div class="metric"><span class="small">Open cost basis</span><b id="perfOpen">$0.00</b></div><div class="metric"><span class="small">Settled win rate</span><b id="perfWins">—</b></div><div class="metric"><span class="small">Settled net P&L</span><b id="perfPnl">$0.00</b></div></div><h3>Settled account performance</h3><svg id="perfChart" viewBox="0 0 320 132" role="img" aria-label="Chart of account value after finalized paper trades" style="display:block;width:100%;background:#142237;border-radius:12px"></svg><p class="small" id="perfChartNote">No settled trades yet; chart begins at $1,000.</p></section>
 <section class="panel"><h2 style="margin-top:0">New simulated order</h2>
 <label for="market">Market from last cloud scan</label><select id="market"><option value="">Loading saved research candidates…</option></select>
 <p id="marketInfo" class="small">Prices reflect the latest published snapshot, not a live orderbook.</p>
@@ -40,6 +41,21 @@ if(valid&&!affordable){$('notice').textContent='Insufficient virtual cash for th
 $('marketInfo').textContent=item?('Recorded: '+item.scan_utc+' · '+item.city+' · '+item.target_date+' · '+item.ticker+' · Quote snapshot YES '+item.yes_ask_cents+'¢ / NO '+item.no_ask_cents+'¢'):'Choose a market to begin.';
 }
 function choose(){const m=markets[Number($('market').value)];if(m){$('price').value=($('side').value==='yes'?m.yes_ask_cents:m.no_ask_cents)}update();}
+function renderPerformanceChart(closed){
+const svg=$('perfChart');while(svg.firstChild)svg.removeChild(svg.firstChild);
+const NS='http://www.w3.org/2000/svg';
+const add=(tag,attrs,content)=>{const el=document.createElementNS(NS,tag);for(const [k,v] of Object.entries(attrs))el.setAttribute(k,String(v));if(content!==undefined)el.textContent=content;svg.appendChild(el);return el;};
+const ordered=closed.slice().sort((a,b)=>String(a.settled_at||'').localeCompare(String(b.settled_at||''))||String(a.timestamp).localeCompare(String(b.timestamp)));
+const values=[INITIAL_CENTS];let running=INITIAL_CENTS;for(const t of ordered){running+=payoutCents(t)-costCents(t);values.push(running);}
+let lo=Math.min(...values),hi=Math.max(...values);if(lo===hi){lo-=100;hi+=100;}const x=i=>24+(i/Math.max(1,values.length-1))*272,y=v=>112-((v-lo)/(hi-lo))*90;
+add('line',{x1:24,y1:112,x2:296,y2:112,stroke:'#61738a','stroke-width':1});
+const pts=values.map((v,i)=>x(i)+','+y(v)).join(' ');
+add('polyline',{points:pts,fill:'none',stroke:'#37d67a','stroke-width':3,'stroke-linecap':'round','stroke-linejoin':'round'});
+for(let i=0;i<values.length;i++)add('circle',{cx:x(i),cy:y(values[i]),r:3,fill:'#b5ffd2'});
+add('text',{x:24,y:126,fill:'#b9c5d6','font-size':10},'Start');
+add('text',{x:296,y:126,fill:'#b9c5d6','font-size':10,'text-anchor':'end'},ordered.length+' settled');
+$('perfChartNote').textContent=ordered.length?'End value '+dollars(running)+' after '+ordered.length+' settled funded trade(s); chart excludes open positions.':'No settled trades yet; chart begins at $1,000. No profitability claim.';
+}
 function render(){
 $('settlementFeed').textContent=settlementFeedStatus;
 $('accountBalance').textContent=dollars(cashCents());
@@ -47,6 +63,13 @@ const opened=funded.filter(t=>!settled(t)),closed=funded.filter(settled);
 $('fundedCount').textContent=opened.length;
 $('settledCount').textContent=closed.length;
 const pnl=closed.reduce((sum,t)=>sum+payoutCents(t)-costCents(t),0);
+const openBasis=opened.reduce((sum,t)=>sum+costCents(t),0);
+const winCount=closed.filter(t=>payoutCents(t)>costCents(t)).length;
+$('perfValue').textContent=dollars(cashCents()+openBasis);
+$('perfOpen').textContent=dollars(openBasis);
+$('perfWins').textContent=closed.length?(100*winCount/closed.length).toFixed(1)+'% ('+winCount+'/'+closed.length+')':'—';
+$('perfPnl').textContent=(pnl<0?'−':'')+dollars(Math.abs(pnl));
+renderPerformanceChart(closed);
 $('realizedPnl').textContent=(pnl<0?'−':'')+dollars(Math.abs(pnl));
 const makeCard=(t,isClosed)=>{const card=document.createElement('div');card.className='trade';const heading=document.createElement('strong');heading.textContent=String(t.side).toUpperCase()+' · '+t.ticker;const detail=document.createElement('p');detail.className='small';const cost=costCents(t);detail.textContent='Entry '+t.price+'¢ × '+t.qty+' contracts · Fees '+t.fee+'¢ · Total paid '+dollars(cost);const state=document.createElement('p');state.className='small';if(isClosed){const pay=payoutCents(t),net=pay-cost;state.textContent='SETTLED · Kalshi result '+t.settled_result.toUpperCase()+' · '+(net>=0?'WIN':'LOSS')+' · Payout '+dollars(pay)+' · Net '+(net>=0?'+':'−')+dollars(Math.abs(net))+' · Credited once';}else{state.textContent='OPEN · No finalized result credited';}const when=document.createElement('p');when.className='small';when.textContent='Recorded '+t.timestamp+(isClosed?' · Result checked '+t.settled_at:'');card.append(heading,detail,state,when);return card;};
 for(const [name,arr,closedFlag] of [['openPositions',opened,false],['settledPositions',closed,true]]){const root=$(name);root.replaceChildren();if(!arr.length){const p=document.createElement('p');p.className='small';p.textContent=closedFlag?'No settled funded trades yet.':'No open funded positions.';root.append(p);}else for(const t of arr.slice().reverse())root.append(makeCard(t,closedFlag));}
