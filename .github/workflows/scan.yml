@@ -29,13 +29,14 @@ jobs:
           python weather_matcher.py
           python weather_audit.py
           python weather_outcomes.py
+          python forecast_accuracy.py
       - name: Generate Android app icons
         run: python generate_pwa_icons.py
       - name: Save newest market snapshot
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/latest_markets.csv data/status.json data/paper_trades.csv data/weather_research.csv data/weather_candidates.csv data/weather_history.csv data/weather_outcomes.csv docs/settlements.json docs/index.html docs/icon-192.png docs/icon-512.png
+          git add data/latest_markets.csv data/status.json data/paper_trades.csv data/weather_research.csv data/weather_candidates.csv data/weather_history.csv data/weather_outcomes.csv docs/settlements.json docs/forecast_accuracy.json docs/index.html docs/icon-192.png docs/icon-512.png
           if ! git diff --cached --quiet; then
             git commit -m "Update paper market watchlist"
             for attempt in 1 2 3; do
