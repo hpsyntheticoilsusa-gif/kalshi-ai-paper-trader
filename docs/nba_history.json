@@ -1,13 +1,21 @@
 {
-  "generated_utc": "2026-10-08T22:25:23.493186+00:00",
-  "source": "ESPN public scoreboard; not a Kalshi settlement source",
-  "lookback_days": 21,
+  "generated_utc": "2026-10-08T22:30:09.690295+00:00",
+  "source": "ESPN public scoreboard; not Kalshi settlement source",
+  "historical_dates_checked": 14,
+  "historical_dates_target": 372,
+  "dates_requested_this_run": 14,
   "failed_daily_fetches": 0,
-  "completed_games": 17,
+  "completed_games": 54,
+  "by_phase": {
+    "preseason": 54,
+    "regular": 0,
+    "postseason": 0,
+    "unknown": 0
+  },
   "backtest_games": 0,
   "model_brier": null,
   "neutral_50_50_brier": null,
   "status": "EXPLORATORY_NOT_VALIDATED",
-  "warning": "21-day rolling scoreboard only; limited samples and possible preseason games. No opponent-strength or injury modeling, no contract matching, no odds at decision time, no live game predictions. This is an illustrative historical baseline only.",
+  "warning": "Regular-season-only strictly chronological simple form model, with backfill potentially incomplete. No market odds, injuries, opponent adjustments, game matching or validated profitability.",
   "examples": []
 }
