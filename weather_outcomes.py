@@ -43,6 +43,10 @@ def main():
     results=sorted(oldmap.values(),key=lambda x:(x["target_date"],x["ticker"]))
     with DEST.open("w",newline="",encoding="utf-8") as h:
         w=csv.DictWriter(h,fieldnames=FIELDS);w.writeheader();w.writerows(results)
+    # Phone-readable finalized outcomes only. Never expose provisional results.
+    settled=[{"ticker":r["ticker"],"result":r["result"],"market_status":"finalized","checked_utc":r["checked_utc"]}
+             for r in results if r.get("market_status")=="finalized" and r.get("result") in ("yes","no")]
+    (DOCS/"settlements.json").write_text(json.dumps({"generated_utc":now,"settlements":settled},indent=2),encoding="utf-8")
     finished=[r for r in results if r["result"] in ("yes","no")]
     brier=sum(float(r["brier_score"]) for r in finished)/len(finished) if finished else None
     market_brier=sum(float(r["market_brier_score"]) for r in finished)/len(finished) if finished else None
