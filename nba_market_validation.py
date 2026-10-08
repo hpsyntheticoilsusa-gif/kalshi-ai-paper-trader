@@ -14,6 +14,13 @@ def valid(r):
         ya=float(r["yes_ask_cents"]);na=float(r["no_ask_cents"]);sp=float(r["spread_cents"]);volume=float(r["volume_24h"])
         return all(math.isfinite(n) for n in (ya,na,sp,volume)) and 0<ya<100 and 0<na<100 and 0<=sp<=8 and volume>=100
     except (TypeError,ValueError,KeyError):return False
+def contract_family(ticker):
+    t=(ticker or "").upper()
+    if t.startswith("KXNBA1H"):return "FIRST_HALF"
+    if t.startswith("KXNBASPREAD"):return "SPREAD"
+    if t.startswith("KXNBATOTAL"):return "TOTAL"
+    if t.startswith(("KXNBAGAME","KXNBAML","KXNBAMONEYLINE")):return "POSSIBLE_GAME_WINNER"
+    return "OTHER_NBA"
 def main():
     now=datetime.datetime.now(datetime.timezone.utc)
     scan=now.isoformat()
@@ -30,17 +37,19 @@ def main():
     with DEST.open("w",newline="",encoding="utf-8") as f:
         w=csv.DictWriter(f,fieldnames=FIELDS,extrasaction="ignore");w.writeheader();w.writerows(records)
     events=len({r["event_ticker"] for r in records if r.get("event_ticker")})
+    families={name:sum(contract_family(r["ticker"])==name for r in fresh) for name in ("FIRST_HALF","SPREAD","TOTAL","POSSIBLE_GAME_WINNER","OTHER_NBA")}
     report={"generated_utc":scan,"observations":len(records),"new_observations":len(fresh),"distinct_events":events,
        "first_snapshot_utc":records[0]["scan_utc"] if records else None,
        "last_snapshot_utc":records[-1]["scan_utc"] if records else None,
        "verified_contract_to_game_matches":0,"validated_expected_edge_count":0,
-       "status":"OBSERVATION_ONLY",
+       "status":"OBSERVATION_ONLY","contract_families_latest_scan":families,"game_winner_model_matches_allowed":0,
        "warnings":["24h market volume and indicative asks are not proof of executable liquidity.",
                    "Game outcomes and exact settlement rules not matched to market tickers.",
                    "Historical quote archive starts when this module is activated; past prices cannot be reconstructed from current quotes.",
                    "No Kalshi profitability, calibration or edge can be computed yet."]}
     (DOCS/"nba_market_validation.json").write_text(json.dumps(report,indent=2),encoding="utf-8")
     block="<section style='background:#24344a;border-radius:12px;padding:18px;margin:18px 0'><h2>NBA market-price validation (Step 12F)</h2><p>Timestamped NBA quote snapshots: "+str(len(records))+"; new in this scan: "+str(len(fresh))+"; distinct events: "+str(events)+".</p><p>Verified contract-to-game matches: 0. Validated expected-edge signals: 0.</p><p style='color:#ffd184'>OBSERVATION ONLY — we are collecting contemporaneous prices for later testing. No verified resolution mapping, trade fills, or profitable model edge. Historical quotes cannot be backfilled retroactively.</p><p><a href='./nba_market_validation.json'>View validation status</a></p></section>"
+    block+="<section style='background:#24344a;padding:18px;border-radius:12px;margin:18px 0'><h2>NBA contract types (Step 12G)</h2><p>"+", ".join(k+": "+str(v) for k,v in families.items())+"</p><p style='color:#ffd184'>RESEARCH ONLY: A full-game winner model cannot evaluate spreads, totals, or first-half contracts. Possible outright-winner markets still require verified game and settlement matching.</p></section>"
     dash=DOCS/"index.html"
     if not dash.exists():raise RuntimeError("Dashboard missing")
     dash.write_text(dash.read_text(encoding="utf-8").replace("</body></html>",block+"</body></html>"),encoding="utf-8")
