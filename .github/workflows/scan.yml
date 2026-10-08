@@ -25,6 +25,7 @@ jobs:
           python multi_market.py
           python nba_research.py
           python nba_history.py
+          python nba_market_validation.py
           python paper_engine.py
       - name: Independent weather ensemble research
         run: |
@@ -39,7 +40,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/nba_games_history.json data/latest_markets.csv data/status.json data/paper_trades.csv data/weather_research.csv data/weather_candidates.csv data/weather_history.csv data/weather_outcomes.csv docs/settlements.json docs/forecast_accuracy.json docs/market_categories.json docs/nba_research.json docs/nba_history.json docs/index.html docs/icon-192.png docs/icon-512.png
+          git add data/nba_quote_history.csv data/nba_games_history.json data/latest_markets.csv data/status.json data/paper_trades.csv data/weather_research.csv data/weather_candidates.csv data/weather_history.csv data/weather_outcomes.csv docs/settlements.json docs/forecast_accuracy.json docs/market_categories.json docs/nba_research.json docs/nba_history.json docs/nba_market_validation.json docs/index.html docs/icon-192.png docs/icon-512.png
           if ! git diff --cached --quiet; then
             git commit -m "Update paper market watchlist"
             for attempt in 1 2 3; do
