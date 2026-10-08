@@ -4,7 +4,7 @@ ROOT=pathlib.Path(__file__).parent
 DATA=ROOT/"data";DATA.mkdir(exist_ok=True)
 # Locations are research examples only. Model forecast is NOT settlement-station data.
 CITIES=[("Salt Lake City, UT",40.7884,-111.9778,"America/Denver"),("New York City, NY",40.7789,-73.9692,"America/New_York"),("Chicago, IL",41.9742,-87.9073,"America/Chicago")]
-FIELDS=["forecast_utc","city","target_date","ensemble_members","median_high_f","p_high_at_least_50f","p_high_at_least_60f","p_high_at_least_70f","p_high_at_least_80f","p_high_at_least_90f","source","warning"]
+FIELDS=["forecast_utc","city","target_date","ensemble_members","median_high_f","ensemble_highs_f","p_high_at_least_50f","p_high_at_least_60f","p_high_at_least_70f","p_high_at_least_80f","p_high_at_least_90f","source","warning"]
 def request(lat,lon,timezone):
     options={"latitude":lat,"longitude":lon,"hourly":"temperature_2m","models":"gfs_seamless","forecast_days":3,"timezone":timezone}
     url="https://ensemble-api.open-meteo.com/v1/ensemble?"+urllib.parse.urlencode(options)
@@ -27,7 +27,7 @@ def evaluate(name,lat,lon,zone):
     if len(highs)<10:raise ValueError("Too few complete ensemble members")
     def probability(threshold):return round(sum(h>=threshold for h in highs)/len(highs),4)
     now=datetime.datetime.now(datetime.timezone.utc).isoformat()
-    return dict(forecast_utc=now,city=name,target_date=tomorrow,ensemble_members=len(highs),median_high_f=round(statistics.median(highs),1),p_high_at_least_50f=probability(50),p_high_at_least_60f=probability(60),p_high_at_least_70f=probability(70),p_high_at_least_80f=probability(80),p_high_at_least_90f=probability(90),source="Open-Meteo GFS ensemble hourly temperature_2m; daily maximum of hourly members",warning="Research only: uncalibrated model; not NWS settlement-station value; no Kalshi contract mapped")
+    return dict(forecast_utc=now,city=name,target_date=tomorrow,ensemble_members=len(highs),median_high_f=round(statistics.median(highs),1),ensemble_highs_f=json.dumps([round(h,2) for h in highs]),p_high_at_least_50f=probability(50),p_high_at_least_60f=probability(60),p_high_at_least_70f=probability(70),p_high_at_least_80f=probability(80),p_high_at_least_90f=probability(90),source="Open-Meteo GFS ensemble hourly temperature_2m; daily maximum of hourly members",warning="Research only: uncalibrated model; not NWS settlement-station value; no Kalshi contract mapped")
 def main():
     output=[];failures=[]
     for city,lat,lon,zone in CITIES:
