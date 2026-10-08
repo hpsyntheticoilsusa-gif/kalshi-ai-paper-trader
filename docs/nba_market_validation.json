@@ -1,13 +1,21 @@
 {
-  "generated_utc": "2026-10-08T22:40:47.190191+00:00",
-  "observations": 124,
-  "new_observations": 124,
-  "distinct_events": 17,
+  "generated_utc": "2026-10-08T23:05:52.511176+00:00",
+  "observations": 273,
+  "new_observations": 149,
+  "distinct_events": 18,
   "first_snapshot_utc": "2026-10-08T22:40:47.190191+00:00",
-  "last_snapshot_utc": "2026-10-08T22:40:47.190191+00:00",
+  "last_snapshot_utc": "2026-10-08T23:05:52.511176+00:00",
   "verified_contract_to_game_matches": 0,
   "validated_expected_edge_count": 0,
   "status": "OBSERVATION_ONLY",
+  "contract_families_latest_scan": {
+    "FIRST_HALF": 14,
+    "SPREAD": 77,
+    "TOTAL": 58,
+    "POSSIBLE_GAME_WINNER": 0,
+    "OTHER_NBA": 0
+  },
+  "game_winner_model_matches_allowed": 0,
   "warnings": [
     "24h market volume and indicative asks are not proof of executable liquidity.",
     "Game outcomes and exact settlement rules not matched to market tickers.",

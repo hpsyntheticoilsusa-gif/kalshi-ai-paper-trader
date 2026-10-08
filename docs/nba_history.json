@@ -1,310 +1,310 @@
 {
-  "generated_utc": "2026-10-08T22:40:47.153079+00:00",
+  "generated_utc": "2026-10-08T23:05:52.485205+00:00",
   "source": "ESPN public scoreboard; not Kalshi settlement source",
-  "historical_dates_checked": 112,
+  "historical_dates_checked": 140,
   "historical_dates_target": 372,
   "dates_requested_this_run": 28,
   "failed_daily_fetches": 0,
-  "completed_games": 720,
+  "completed_games": 895,
   "by_phase": {
     "preseason": 71,
-    "regular": 649,
+    "regular": 824,
     "postseason": 0,
     "unknown": 0
   },
-  "backtest_games": 570,
-  "model_brier": 0.2386,
+  "backtest_games": 741,
+  "model_brier": 0.2385,
   "neutral_50_50_brier": 0.25,
-  "paired_backtest_games": 494,
-  "paired_form_brier": 0.2392,
-  "paired_elo_brier": 0.2312,
+  "paired_backtest_games": 665,
+  "paired_form_brier": 0.2389,
+  "paired_elo_brier": 0.2314,
   "historical_backfill_complete": false,
-  "elo_backtest_games": 494,
-  "elo_brier": 0.2312,
+  "elo_backtest_games": 665,
+  "elo_brier": 0.2314,
   "status": "EXPLORATORY_NOT_VALIDATED",
   "warning": "Regular-season-only strictly chronological simple form model, with backfill potentially incomplete. No market odds, injuries, opponent adjustments, game matching or validated profitability.",
   "examples": [
     {
-      "game_id": "401810459",
-      "date": "2026-01-19T00:00Z",
+      "game_id": "401810627",
+      "date": "2026-02-11T01:00Z",
       "predicted_home_win": 0.5,
       "actual_home_win": 1,
       "brier": 0.25
     },
     {
-      "game_id": "401810460",
-      "date": "2026-01-19T01:00Z",
-      "predicted_home_win": 0.6571,
-      "actual_home_win": 0,
-      "brier": 0.43184
-    },
-    {
-      "game_id": "401810461",
-      "date": "2026-01-19T02:00Z",
-      "predicted_home_win": 0.5786,
-      "actual_home_win": 0,
-      "brier": 0.33474
-    },
-    {
-      "game_id": "401810462",
-      "date": "2026-01-19T02:30Z",
-      "predicted_home_win": 0.4214,
-      "actual_home_win": 1,
-      "brier": 0.33474
-    },
-    {
-      "game_id": "401809247",
-      "date": "2026-01-19T18:00Z",
-      "predicted_home_win": 0.5786,
-      "actual_home_win": 0,
-      "brier": 0.33474
-    },
-    {
-      "game_id": "401809248",
-      "date": "2026-01-19T19:30Z",
-      "predicted_home_win": 0.4214,
-      "actual_home_win": 0,
-      "brier": 0.1776
-    },
-    {
-      "game_id": "401810463",
-      "date": "2026-01-19T20:00Z",
-      "predicted_home_win": 0.1071,
-      "actual_home_win": 0,
-      "brier": 0.01148
-    },
-    {
-      "game_id": "401809249",
-      "date": "2026-01-19T22:00Z",
-      "predicted_home_win": 0.3429,
-      "actual_home_win": 0,
-      "brier": 0.11755
-    },
-    {
-      "game_id": "401810466",
-      "date": "2026-01-19T22:00Z",
+      "game_id": "401810628",
+      "date": "2026-02-11T02:00Z",
       "predicted_home_win": 0.6571,
       "actual_home_win": 1,
       "brier": 0.11755
     },
     {
-      "game_id": "401810464",
-      "date": "2026-01-20T00:00Z",
+      "game_id": "401810629",
+      "date": "2026-02-11T03:30Z",
       "predicted_home_win": 0.4214,
-      "actual_home_win": 1,
-      "brier": 0.33474
-    },
-    {
-      "game_id": "401810465",
-      "date": "2026-01-20T00:30Z",
-      "predicted_home_win": 0.3429,
       "actual_home_win": 0,
-      "brier": 0.11755
-    },
-    {
-      "game_id": "401809250",
-      "date": "2026-01-20T01:00Z",
-      "predicted_home_win": 0.5786,
-      "actual_home_win": 1,
       "brier": 0.1776
     },
     {
-      "game_id": "401810467",
-      "date": "2026-01-20T03:00Z",
+      "game_id": "401810630",
+      "date": "2026-02-12T00:00Z",
       "predicted_home_win": 0.6571,
       "actual_home_win": 1,
       "brier": 0.11755
     },
     {
-      "game_id": "401810468",
-      "date": "2026-01-21T00:00Z",
-      "predicted_home_win": 0.4214,
-      "actual_home_win": 0,
-      "brier": 0.1776
-    },
-    {
-      "game_id": "401810469",
-      "date": "2026-01-21T01:00Z",
-      "predicted_home_win": 0.3429,
+      "game_id": "401810631",
+      "date": "2026-02-12T00:00Z",
+      "predicted_home_win": 0.6571,
       "actual_home_win": 1,
-      "brier": 0.43184
+      "brier": 0.11755
     },
     {
-      "game_id": "401810470",
-      "date": "2026-01-21T01:00Z",
+      "game_id": "401810632",
+      "date": "2026-02-12T00:00Z",
       "predicted_home_win": 0.5,
-      "actual_home_win": 1,
+      "actual_home_win": 0,
       "brier": 0.25
     },
     {
-      "game_id": "401810471",
-      "date": "2026-01-21T02:00Z",
+      "game_id": "401810633",
+      "date": "2026-02-12T00:30Z",
+      "predicted_home_win": 0.8143,
+      "actual_home_win": 1,
+      "brier": 0.03449
+    },
+    {
+      "game_id": "401810634",
+      "date": "2026-02-12T00:30Z",
+      "predicted_home_win": 0.5786,
+      "actual_home_win": 0,
+      "brier": 0.33474
+    },
+    {
+      "game_id": "401810635",
+      "date": "2026-02-12T00:30Z",
+      "predicted_home_win": 0.5,
+      "actual_home_win": 0,
+      "brier": 0.25
+    },
+    {
+      "game_id": "401810636",
+      "date": "2026-02-12T00:30Z",
+      "predicted_home_win": 0.4214,
+      "actual_home_win": 0,
+      "brier": 0.1776
+    },
+    {
+      "game_id": "401810637",
+      "date": "2026-02-12T01:00Z",
+      "predicted_home_win": 0.5786,
+      "actual_home_win": 0,
+      "brier": 0.33474
+    },
+    {
+      "game_id": "401810638",
+      "date": "2026-02-12T01:00Z",
       "predicted_home_win": 0.4214,
       "actual_home_win": 1,
       "brier": 0.33474
     },
     {
-      "game_id": "401810472",
-      "date": "2026-01-21T03:00Z",
-      "predicted_home_win": 0.6571,
+      "game_id": "401810639",
+      "date": "2026-02-12T01:00Z",
+      "predicted_home_win": 0.5,
       "actual_home_win": 0,
-      "brier": 0.43184
+      "brier": 0.25
     },
     {
-      "game_id": "401810473",
-      "date": "2026-01-21T03:00Z",
-      "predicted_home_win": 0.6571,
+      "game_id": "401810640",
+      "date": "2026-02-12T02:00Z",
+      "predicted_home_win": 0.4214,
       "actual_home_win": 0,
-      "brier": 0.43184
+      "brier": 0.1776
     },
     {
-      "game_id": "401810474",
-      "date": "2026-01-21T03:00Z",
+      "game_id": "401810641",
+      "date": "2026-02-12T02:00Z",
       "predicted_home_win": 0.6571,
+      "actual_home_win": 1,
+      "brier": 0.11755
+    },
+    {
+      "game_id": "401810642",
+      "date": "2026-02-12T02:00Z",
+      "predicted_home_win": 0.4214,
+      "actual_home_win": 1,
+      "brier": 0.33474
+    },
+    {
+      "game_id": "401810643",
+      "date": "2026-02-12T03:00Z",
+      "predicted_home_win": 0.2643,
       "actual_home_win": 0,
-      "brier": 0.43184
+      "brier": 0.06985
+    },
+    {
+      "game_id": "401810644",
+      "date": "2026-02-13T00:30Z",
+      "predicted_home_win": 0.4214,
+      "actual_home_win": 0,
+      "brier": 0.1776
+    },
+    {
+      "game_id": "401810645",
+      "date": "2026-02-13T02:00Z",
+      "predicted_home_win": 0.5,
+      "actual_home_win": 0,
+      "brier": 0.25
+    },
+    {
+      "game_id": "401810646",
+      "date": "2026-02-13T03:00Z",
+      "predicted_home_win": 0.7357,
+      "actual_home_win": 1,
+      "brier": 0.06985
     }
   ],
   "elo_examples": [
     {
-      "game_id": "401810459",
-      "date": "2026-01-19T00:00Z",
-      "predicted_home_win": 0.7897,
+      "game_id": "401810627",
+      "date": "2026-02-11T01:00Z",
+      "predicted_home_win": 0.6397,
       "actual_home_win": 1,
-      "brier": 0.04423
+      "brier": 0.1298
     },
     {
-      "game_id": "401810460",
-      "date": "2026-01-19T01:00Z",
-      "predicted_home_win": 0.7557,
-      "actual_home_win": 0,
-      "brier": 0.57112
-    },
-    {
-      "game_id": "401810461",
-      "date": "2026-01-19T02:00Z",
-      "predicted_home_win": 0.4623,
-      "actual_home_win": 0,
-      "brier": 0.21375
-    },
-    {
-      "game_id": "401810462",
-      "date": "2026-01-19T02:30Z",
-      "predicted_home_win": 0.5915,
+      "game_id": "401810628",
+      "date": "2026-02-11T02:00Z",
+      "predicted_home_win": 0.7422,
       "actual_home_win": 1,
-      "brier": 0.1669
+      "brier": 0.06646
     },
     {
-      "game_id": "401809247",
-      "date": "2026-01-19T18:00Z",
-      "predicted_home_win": 0.6153,
+      "game_id": "401810629",
+      "date": "2026-02-11T03:30Z",
+      "predicted_home_win": 0.5279,
       "actual_home_win": 0,
-      "brier": 0.37862
+      "brier": 0.27865
     },
     {
-      "game_id": "401809248",
-      "date": "2026-01-19T19:30Z",
-      "predicted_home_win": 0.4452,
-      "actual_home_win": 0,
-      "brier": 0.19817
-    },
-    {
-      "game_id": "401810463",
-      "date": "2026-01-19T20:00Z",
-      "predicted_home_win": 0.4426,
-      "actual_home_win": 0,
-      "brier": 0.19588
-    },
-    {
-      "game_id": "401809249",
-      "date": "2026-01-19T22:00Z",
-      "predicted_home_win": 0.6922,
-      "actual_home_win": 0,
-      "brier": 0.47919
-    },
-    {
-      "game_id": "401810466",
-      "date": "2026-01-19T22:00Z",
-      "predicted_home_win": 0.7801,
+      "game_id": "401810630",
+      "date": "2026-02-12T00:00Z",
+      "predicted_home_win": 0.6364,
       "actual_home_win": 1,
-      "brier": 0.04838
+      "brier": 0.13222
     },
     {
-      "game_id": "401810464",
-      "date": "2026-01-20T00:00Z",
-      "predicted_home_win": 0.756,
+      "game_id": "401810631",
+      "date": "2026-02-12T00:00Z",
+      "predicted_home_win": 0.8063,
       "actual_home_win": 1,
-      "brier": 0.05955
+      "brier": 0.03752
     },
     {
-      "game_id": "401810465",
-      "date": "2026-01-20T00:30Z",
-      "predicted_home_win": 0.3824,
+      "game_id": "401810632",
+      "date": "2026-02-12T00:00Z",
+      "predicted_home_win": 0.6702,
       "actual_home_win": 0,
-      "brier": 0.14626
+      "brier": 0.44913
     },
     {
-      "game_id": "401809250",
-      "date": "2026-01-20T01:00Z",
-      "predicted_home_win": 0.6319,
+      "game_id": "401810633",
+      "date": "2026-02-12T00:30Z",
+      "predicted_home_win": 0.7472,
       "actual_home_win": 1,
-      "brier": 0.13547
+      "brier": 0.06389
     },
     {
-      "game_id": "401810467",
-      "date": "2026-01-20T03:00Z",
-      "predicted_home_win": 0.6199,
-      "actual_home_win": 1,
-      "brier": 0.14448
-    },
-    {
-      "game_id": "401810468",
-      "date": "2026-01-21T00:00Z",
-      "predicted_home_win": 0.5312,
+      "game_id": "401810634",
+      "date": "2026-02-12T00:30Z",
+      "predicted_home_win": 0.5939,
       "actual_home_win": 0,
-      "brier": 0.28218
+      "brier": 0.35271
     },
     {
-      "game_id": "401810469",
-      "date": "2026-01-21T01:00Z",
-      "predicted_home_win": 0.5409,
-      "actual_home_win": 1,
-      "brier": 0.21078
-    },
-    {
-      "game_id": "401810470",
-      "date": "2026-01-21T01:00Z",
-      "predicted_home_win": 0.5291,
-      "actual_home_win": 1,
-      "brier": 0.22179
-    },
-    {
-      "game_id": "401810471",
-      "date": "2026-01-21T02:00Z",
-      "predicted_home_win": 0.4057,
-      "actual_home_win": 1,
-      "brier": 0.35324
-    },
-    {
-      "game_id": "401810472",
-      "date": "2026-01-21T03:00Z",
-      "predicted_home_win": 0.646,
+      "game_id": "401810635",
+      "date": "2026-02-12T00:30Z",
+      "predicted_home_win": 0.5503,
       "actual_home_win": 0,
-      "brier": 0.41729
+      "brier": 0.30287
     },
     {
-      "game_id": "401810473",
-      "date": "2026-01-21T03:00Z",
-      "predicted_home_win": 0.6171,
+      "game_id": "401810636",
+      "date": "2026-02-12T00:30Z",
+      "predicted_home_win": 0.4854,
       "actual_home_win": 0,
-      "brier": 0.38083
+      "brier": 0.23561
     },
     {
-      "game_id": "401810474",
-      "date": "2026-01-21T03:00Z",
-      "predicted_home_win": 0.4637,
+      "game_id": "401810637",
+      "date": "2026-02-12T01:00Z",
+      "predicted_home_win": 0.6549,
       "actual_home_win": 0,
-      "brier": 0.21498
+      "brier": 0.42885
+    },
+    {
+      "game_id": "401810638",
+      "date": "2026-02-12T01:00Z",
+      "predicted_home_win": 0.65,
+      "actual_home_win": 1,
+      "brier": 0.1225
+    },
+    {
+      "game_id": "401810639",
+      "date": "2026-02-12T01:00Z",
+      "predicted_home_win": 0.4593,
+      "actual_home_win": 0,
+      "brier": 0.211
+    },
+    {
+      "game_id": "401810640",
+      "date": "2026-02-12T02:00Z",
+      "predicted_home_win": 0.509,
+      "actual_home_win": 0,
+      "brier": 0.25904
+    },
+    {
+      "game_id": "401810641",
+      "date": "2026-02-12T02:00Z",
+      "predicted_home_win": 0.6698,
+      "actual_home_win": 1,
+      "brier": 0.10903
+    },
+    {
+      "game_id": "401810642",
+      "date": "2026-02-12T02:00Z",
+      "predicted_home_win": 0.7456,
+      "actual_home_win": 1,
+      "brier": 0.0647
+    },
+    {
+      "game_id": "401810643",
+      "date": "2026-02-12T03:00Z",
+      "predicted_home_win": 0.4703,
+      "actual_home_win": 0,
+      "brier": 0.22119
+    },
+    {
+      "game_id": "401810644",
+      "date": "2026-02-13T00:30Z",
+      "predicted_home_win": 0.7793,
+      "actual_home_win": 0,
+      "brier": 0.60726
+    },
+    {
+      "game_id": "401810645",
+      "date": "2026-02-13T02:00Z",
+      "predicted_home_win": 0.4787,
+      "actual_home_win": 0,
+      "brier": 0.22912
+    },
+    {
+      "game_id": "401810646",
+      "date": "2026-02-13T03:00Z",
+      "predicted_home_win": 0.7409,
+      "actual_home_win": 1,
+      "brier": 0.06714
     }
   ]
 }
