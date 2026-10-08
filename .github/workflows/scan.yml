@@ -22,12 +22,14 @@ jobs:
         with:
           python-version: '3.12'
       - name: Scan public markets
-        run: python scanner.py
+        run: |
+          python scanner.py
+          python paper_engine.py
       - name: Save newest market snapshot
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/latest_markets.csv data/status.json docs/index.html
+          git add data/latest_markets.csv data/status.json data/paper_trades.csv docs/index.html
           git diff --cached --quiet || (git commit -m "Update paper market watchlist" && git push)
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
