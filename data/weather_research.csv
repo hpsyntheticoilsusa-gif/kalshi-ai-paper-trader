@@ -1,0 +1,4 @@
+forecast_utc,city,target_date,ensemble_members,median_high_f,p_high_at_least_50f,p_high_at_least_60f,p_high_at_least_70f,p_high_at_least_80f,p_high_at_least_90f,source,warning
+2026-10-08T17:08:31.534880+00:00,"Salt Lake City, UT",2026-10-09,30,82.0,1.0,1.0,1.0,1.0,0.0,Open-Meteo GFS ensemble hourly temperature_2m; daily maximum of hourly members,Research only: uncalibrated model; not NWS settlement-station value; no Kalshi contract mapped
+2026-10-08T17:08:32.118084+00:00,"New York City, NY",2026-10-09,30,70.0,1.0,1.0,0.5,0.0,0.0,Open-Meteo GFS ensemble hourly temperature_2m; daily maximum of hourly members,Research only: uncalibrated model; not NWS settlement-station value; no Kalshi contract mapped
+2026-10-08T17:08:32.684412+00:00,"Chicago, IL",2026-10-09,30,69.6,1.0,1.0,0.4,0.0,0.0,Open-Meteo GFS ensemble hourly temperature_2m; daily maximum of hourly members,Research only: uncalibrated model; not NWS settlement-station value; no Kalshi contract mapped
