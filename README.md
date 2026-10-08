@@ -34,3 +34,7 @@ This repository and its GitHub Pages site are public: do not enter private accou
 ## Independent weather research (new)
 
 The cloud workflow now runs `weather_research.py`, pulling GFS ensemble forecasts for Salt Lake City, New York City, and Chicago. It records tomorrow's estimated high temperature and example threshold probabilities in [`data/weather_research.csv`](data/weather_research.csv). These are **uncalibrated weather-model probabilities**, not LLM-generated signals and not verified against Kalshi settlement rules. No Kalshi contracts are auto-matched or paper traded by this module. Before any market-linked simulation, verify the exact observation station, reported statistic, market range boundaries, cutoff time, model calibration, and costs. If the weather source is unavailable the workflow may fail rather than show invented predictions.
+
+## Weather research audit upgrade
+
+`weather_audit.py` records timestamped contract-price/forecast observations in `data/weather_history.csv`, retaining a rolling 30-day window. It calculates **illustrative** one-contract taker fees using the general Kalshi fee formula; it does not check series-specific fee exceptions or orderbook fills. **These observations are not paper trades.** Calibration and exact station/date/contract-rule verification have NOT been completed, so automatic paper entry from weather research remains disabled. Only after forward-logged predictions are compared with exact official settlement observations should performance be claimed. Public repository files show all recorded research.
