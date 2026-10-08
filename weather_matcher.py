@@ -61,7 +61,7 @@ def main():
     import html
     def esc(x):return html.escape(str(x))
     cards="".join('<article style="background:#25354a;padding:14px;border-radius:12px;margin:12px 0"><strong>'+esc(x["city"])+' — '+esc(x["market_title"])+'</strong><p>'+esc(x["ticker"])+'</p><p>Rough YES probability: '+esc(round(x["rough_yes_probability"]*100,1))+'% | YES ask '+esc(x["yes_ask_cents"])+'¢ | NO ask '+esc(x["no_ask_cents"])+'¢</p><p>Raw gross edge (YES/NO): '+esc(x["rough_edge_yes_cents"])+'¢ / '+esc(x["rough_edge_no_cents"])+'¢</p><p style="color:#ffd184">RESEARCH ONLY — not eligible for trading</p></article>' for x in candidates[:20])
-    summary='<section style="padding:16px;border-radius:12px;background:#142034;color:white"><h2>Weather contract research</h2><p>Potential contract matches: '+str(len(candidates))+'. None are authorized paper trades; apparent edges are uncalibrated, before fees and execution costs. Station and settlement-time mismatch can reverse an apparent edge.</p>'+cards+'</section>'
+    summary='<section style="padding:16px;border-radius:12px;background:#142034;color:white"><h2 id="weather-research">Weather contract research</h2><p>Potential contract matches: '+str(len(candidates))+'. None are authorized paper trades; apparent edges are uncalibrated, before fees and execution costs. Station and settlement-time mismatch can reverse an apparent edge.</p>'+cards+'</section>'
     page=DOCS/"index.html"
     if page.exists():
         current=page.read_text(encoding="utf-8")
