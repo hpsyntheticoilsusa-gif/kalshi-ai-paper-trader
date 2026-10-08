@@ -51,3 +51,8 @@ The outcome checker now stores both weather-ensemble Brier scores and a **rough 
 - Keep snapshot timestamps immutable and separate unverified research from hypothetical executable fills.
 
 Until all checks pass, **weather contracts stay OBSERVATION_ONLY**, with no automated paper entries or claims of demonstrated profit.
+
+## Android Paper Trade Ticket
+The GitHub Pages dashboard now links to `paper-ticket.html`. This is a manual **simulation**, not a Kalshi order or fill. Research candidates are refreshed into `docs/candidates.json` on each cloud run. The ticket preloads the last observed YES/NO asking prices as editable assumptions; those can be stale and are NOT verified executable. The user selects side, assumed fill price, quantity (1–20), and estimated fees before explicitly saving a record.
+
+Paper tickets are stored **only in that device/browser's localStorage**, not in GitHub. They are not settled, graded, synchronized, or linked to a live account. CSV export is provided for backups. Browser-data clearing or private mode may erase them. The trading permission surface is deliberately absent: no API keys, account access, exchange orders, or real-money workflows.
