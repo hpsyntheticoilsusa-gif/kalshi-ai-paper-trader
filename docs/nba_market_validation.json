@@ -1,0 +1,17 @@
+{
+  "generated_utc": "2026-10-08T22:40:47.190191+00:00",
+  "observations": 124,
+  "new_observations": 124,
+  "distinct_events": 17,
+  "first_snapshot_utc": "2026-10-08T22:40:47.190191+00:00",
+  "last_snapshot_utc": "2026-10-08T22:40:47.190191+00:00",
+  "verified_contract_to_game_matches": 0,
+  "validated_expected_edge_count": 0,
+  "status": "OBSERVATION_ONLY",
+  "warnings": [
+    "24h market volume and indicative asks are not proof of executable liquidity.",
+    "Game outcomes and exact settlement rules not matched to market tickers.",
+    "Historical quote archive starts when this module is activated; past prices cannot be reconstructed from current quotes.",
+    "No Kalshi profitability, calibration or edge can be computed yet."
+  ]
+}
