@@ -40,6 +40,17 @@ def main():
             current[id_]={"game_id":id_,"game_date":g["date"],"home_id":str(h["team_id"]),"away_id":str(a["team_id"]),"home_name":h["team"],"away_name":a["team"],"recorded_utc":now.isoformat(),"raw_home_probability":f"{p:.6f}","result_home_win":"","scored_utc":""}
             new+=1
     outcomes={str(g["id"]):g for g in history}
+    # Today's finalized scoreboard result can be scored before the historical day backfill.
+    for game in research.get("scoreboard_games",[]):
+        if game.get("status") not in ("STATUS_FINAL","STATUS_FINAL_OT"):continue
+        teams={t.get("home_away"):t for t in game.get("teams",[])}
+        h=teams.get("home",{});a=teams.get("away",{})
+        try:
+            hp=int(h["score"]);ap=int(a["score"])
+        except (ValueError,TypeError,KeyError):continue
+        if hp==ap or not h.get("team_id") or not a.get("team_id"):continue
+        outcomes[str(game.get("event_id"))]={"date":game.get("date"),"home":{"id":str(h["team_id"])},"away":{"id":str(a["team_id"])},"home_win":int(hp>ap)}
+
     scored=0
     for row in current.values():
         if row["result_home_win"]!="":continue
