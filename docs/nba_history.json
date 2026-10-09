@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-09T12:12:12.258013+00:00",
+  "generated_utc": "2026-10-09T12:15:30.325239+00:00",
   "source": "ESPN public scoreboard; not Kalshi settlement source",
   "historical_dates_checked": 373,
   "historical_dates_target": 373,
@@ -55,6 +55,17 @@
       "actual_home_win_rate": 0.9
     }
   ],
+  "calibration_experiment": {
+    "status": "RETROSPECTIVE_RESEARCH_ONLY",
+    "training_games": 645,
+    "validation_games": 215,
+    "evaluation_games": 216,
+    "selected_log_odds_slope": 1.4,
+    "selected_log_odds_offset": -0.25,
+    "evaluation_raw_elo_brier": 0.1635,
+    "evaluation_calibrated_brier": 0.1538,
+    "note": "Parameters selected using middle 20% only; final 20% used for evaluation. Both historical periods were previously examined during development. Not untouched prospective validation and not live probabilities."
+  },
   "calibration_diagnostics": {
     "minimum_bin_games": 20,
     "weighted_absolute_gap": 0.1117,

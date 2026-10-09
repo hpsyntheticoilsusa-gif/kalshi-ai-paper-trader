@@ -1,14 +1,14 @@
 {
-  "generated_utc": "2026-10-09T12:12:11.836124+00:00",
+  "generated_utc": "2026-10-09T12:15:29.530167+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 18,
+  "qualifying_nba_markets": 15,
   "scoreboard_games": [
     {
       "event_id": "401898395",
       "date": "2026-10-09T12:00Z",
       "name": "Houston Rockets at Dallas Mavericks",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "teams": [
         {
           "team": "Dallas Mavericks",
@@ -47,36 +47,6 @@
   ],
   "market_samples": [
     {
-      "ticker": "KXNBATOTAL-26OCT09HOUDAL-225",
-      "title": "Full Game: Over 224.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT09HOUDAL",
-      "yes_ask_cents": "65.0",
-      "no_ask_cents": "42.0",
-      "spread_cents": "7.0",
-      "volume_24h": "8196.66",
-      "close_time": "2026-10-11T12:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT09HOUDAL-229",
-      "title": "Full Game: Over 228.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT09HOUDAL",
-      "yes_ask_cents": "57.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "5.0",
-      "volume_24h": "5475.75",
-      "close_time": "2026-10-11T12:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT09HOUDAL-DAL2",
-      "title": "Dallas wins by over 1.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT09HOUDAL",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "64.0",
-      "spread_cents": "7.0",
-      "volume_24h": "3668.15",
-      "close_time": "2026-10-11T12:00:00Z"
-    },
-    {
       "ticker": "KXNBATOTAL-26OCT09MEMCHI-239",
       "title": "Full Game: Over 238.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT09MEMCHI",
@@ -107,6 +77,16 @@
       "close_time": "2026-10-11T12:00:00Z"
     },
     {
+      "ticker": "KXNBATOTAL-26OCT09HOUDAL-205",
+      "title": "Full Game: Over 204.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT09HOUDAL",
+      "yes_ask_cents": "92.0",
+      "no_ask_cents": "16.0",
+      "spread_cents": "8.0",
+      "volume_24h": "717.98",
+      "close_time": "2026-10-11T12:00:00Z"
+    },
+    {
       "ticker": "KXNBATOTAL-26OCT09MEMCHI-237",
       "title": "Full Game: Over 236.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT09MEMCHI",
@@ -115,16 +95,6 @@
       "spread_cents": "4.0",
       "volume_24h": "434.73",
       "close_time": "2026-10-12T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT09HOUDAL-209",
-      "title": "Full Game: Over 208.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT09HOUDAL",
-      "yes_ask_cents": "90.0",
-      "no_ask_cents": "18.0",
-      "spread_cents": "8.0",
-      "volume_24h": "396.12",
-      "close_time": "2026-10-11T12:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT09MEMCHI-243",
