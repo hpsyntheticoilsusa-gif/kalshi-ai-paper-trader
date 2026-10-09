@@ -98,6 +98,14 @@ def main():
              "elo_brier":round(sum(by_elo[k]["brier"] for k in held)/len(held),4) if held else None,
              "neutral_brier":.25 if held else None,
              "first_game_date":by_elo[held[0]]["date"] if held else None}
+    reliability=[]
+    for low in (0,.2,.4,.6,.8):
+        high=low+.2
+        subset=[by_elo[k] for k in held if low<=by_elo[k]["predicted_home_win"]<(high if high<1 else 1.000001)]
+        n=len(subset)
+        reliability.append({"bin":str(round(low,1))+"-"+str(round(high,1)),
+                            "games":n,"mean_predicted":round(sum(x["predicted_home_win"] for x in subset)/n,3) if n else None,
+                            "actual_home_win_rate":round(sum(x["actual_home_win"] for x in subset)/n,3) if n else None})
     model=sum(t["brier"] for t in tested)/len(tested) if tested else None
     elo_brier=sum(t['brier'] for t in elo_tested)/len(elo_tested) if elo_tested else None
     phases={phase:sum(g.get("season_type")==phase for g in games) for phase in ("preseason","regular","postseason","unknown")}
@@ -108,7 +116,7 @@ def main():
          "completed_games":len(games),"by_phase":phases,"backtest_games":len(tested),
          "model_brier":round(model,4) if model is not None else None,
          "neutral_50_50_brier":.25 if tested else None,
-         "paired_backtest_games":len(common),"chronological_holdout":holdout,
+         "paired_backtest_games":len(common),"chronological_holdout":holdout,"elo_holdout_calibration":reliability,
          "paired_form_brier":round(paired_form,4) if paired_form is not None else None,
          "paired_elo_brier":round(paired_elo,4) if paired_elo is not None else None,
          "historical_backfill_complete":len(checked)>=len(days),
@@ -122,6 +130,8 @@ def main():
     block+="<section style='background:#24344a;border-radius:12px;padding:18px;margin:18px 0'><h2>NBA matched-game comparison (Step 12E)</h2><p>Games evaluated by both models: "+str(len(common))+". Recent-form Brier on matched games: "+score(out["paired_form_brier"])+". Elo Brier on matched games: "+score(out["paired_elo_brier"])+". 50/50 benchmark: "+score(.25 if common else None)+". Lower is better.</p><p style='color:#ffd184'>"+("Historical dates fully checked; model validation still pending." if len(checked)>=len(days) else "HISTORICAL BACKFILL INCOMPLETE: "+str(len(checked))+" of "+str(len(days))+" dates checked.")+" These are exploratory scores, not demonstrated profitability or calibrated win probabilities.</p></section>"
     hold_brier=lambda v:"Not available" if v is None else str(v)
     block+="<section style='background:#24344a;border-radius:12px;padding:18px;margin:18px 0'><h2>NBA chronological holdout (Step 12J)</h2><p>Later matched games: "+str(holdout["games"])+". Elo Brier: "+hold_brier(holdout["elo_brier"])+". Recent-form Brier: "+hold_brier(holdout["form_brier"])+". Neutral benchmark: "+hold_brier(holdout["neutral_brier"])+". Lower is better.</p><p style='color:#ffd184'>DIAGNOSTIC ONLY: parameters were previously chosen and these historical games may have influenced prior development. This is not a pristine unseen-data or live-market validation; no profitable signal is verified.</p></section>"
+    rows="".join("<tr><td>"+bucket["bin"]+"</td><td>"+str(bucket["games"])+"</td><td>"+hold_brier(bucket["mean_predicted"])+"</td><td>"+hold_brier(bucket["actual_home_win_rate"])+"</td></tr>" for bucket in reliability)
+    block+="<section style='background:#24344a;border-radius:12px;padding:18px;margin:18px 0'><h2>NBA Elo probability calibration (Step 12K)</h2><p>Later-game diagnostic only ("+str(len(held))+" games). Compare prediction ranges with actual home-team wins.</p><div style='overflow-x:auto'><table><thead><tr><th>Probability</th><th>Games</th><th>Avg forecast</th><th>Actual wins</th></tr></thead><tbody>"+rows+"</tbody></table></div><p style='color:#ffd184'>Small bins are unstable; these results are not an untouched validation set and do not establish a trading edge. No NBA live signals permitted.</p></section>"
     page=DOCS/"index.html"
     if not page.exists():raise RuntimeError("Dashboard missing")
     page.write_text(page.read_text(encoding="utf-8").replace("</body></html>",block+"</body></html>"),encoding="utf-8")
