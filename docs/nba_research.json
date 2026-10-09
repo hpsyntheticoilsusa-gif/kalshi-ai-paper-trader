@@ -1,28 +1,28 @@
 {
-  "generated_utc": "2026-10-09T13:34:01.134227+00:00",
+  "generated_utc": "2026-10-09T14:35:14.609400+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 24,
+  "qualifying_nba_markets": 15,
   "scoreboard_games": [
     {
       "event_id": "401898395",
       "date": "2026-10-09T12:00Z",
       "name": "Houston Rockets at Dallas Mavericks",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "teams": [
         {
           "team_id": "6",
           "team": "Dallas Mavericks",
           "abbreviation": "DAL",
           "home_away": "home",
-          "score": "51"
+          "score": "117"
         },
         {
           "team_id": "10",
           "team": "Houston Rockets",
           "abbreviation": "HOU",
           "home_away": "away",
-          "score": "69"
+          "score": "135"
         }
       ]
     },
@@ -51,153 +51,93 @@
   ],
   "market_samples": [
     {
-      "ticker": "KXNBATOTAL-26OCT09HOUDAL-223",
-      "title": "Full Game: Over 222.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT09HOUDAL",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "7.0",
-      "volume_24h": "49850.39",
-      "close_time": "2026-10-11T12:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT09HOUDAL-225",
-      "title": "Full Game: Over 224.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT09HOUDAL",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "59.0",
-      "spread_cents": "5.0",
-      "volume_24h": "15244.33",
-      "close_time": "2026-10-11T12:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT09HOUDAL-215",
-      "title": "Full Game: Over 214.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT09HOUDAL",
-      "yes_ask_cents": "80.0",
-      "no_ask_cents": "27.0",
-      "spread_cents": "7.0",
-      "volume_24h": "13971.44",
-      "close_time": "2026-10-11T12:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT09HOUDAL-219",
-      "title": "Full Game: Over 218.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT09HOUDAL",
-      "yes_ask_cents": "68.0",
-      "no_ask_cents": "40.0",
-      "spread_cents": "8.0",
-      "volume_24h": "12003.39",
-      "close_time": "2026-10-11T12:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT09HOUDAL-HOU18",
-      "title": "Houston wins by over 17.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT09HOUDAL",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "2.0",
-      "volume_24h": "11294.94",
-      "close_time": "2026-10-11T12:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT09HOUDAL-HOU6",
-      "title": "Houston wins by over 5.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT09HOUDAL",
-      "yes_ask_cents": "88.0",
-      "no_ask_cents": "18.0",
-      "spread_cents": "6.0",
-      "volume_24h": "4625.35",
-      "close_time": "2026-10-11T12:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT09HOUDAL-HOU16",
-      "title": "Houston wins by over 15.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT09HOUDAL",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "6.0",
-      "volume_24h": "4536.96",
-      "close_time": "2026-10-11T12:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT09HOUDAL-DAL2",
-      "title": "Dallas wins by over 1.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT09HOUDAL",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "6.0",
-      "volume_24h": "4449.92",
-      "close_time": "2026-10-11T12:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT09HOUDAL-HOU14",
-      "title": "Houston wins by over 13.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT09HOUDAL",
-      "yes_ask_cents": "61.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "7.0",
-      "volume_24h": "4073.36",
-      "close_time": "2026-10-11T12:00:00Z"
-    },
-    {
       "ticker": "KXNBATOTAL-26OCT09MEMCHI-239",
       "title": "Full Game: Over 238.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT09MEMCHI",
       "yes_ask_cents": "53.0",
       "no_ask_cents": "48.0",
       "spread_cents": "1.0",
-      "volume_24h": "1441.91",
+      "volume_24h": "1518.59",
       "close_time": "2026-10-12T00:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT09MEMCHI-243",
       "title": "Full Game: Over 242.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT09MEMCHI",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1102.08",
+      "yes_ask_cents": "47.0",
+      "no_ask_cents": "56.0",
+      "spread_cents": "3.0",
+      "volume_24h": "1104.48",
       "close_time": "2026-10-12T00:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT09MEMCHI-237",
       "title": "Full Game: Over 236.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT09MEMCHI",
-      "yes_ask_cents": "59.0",
-      "no_ask_cents": "44.0",
+      "yes_ask_cents": "58.0",
+      "no_ask_cents": "45.0",
       "spread_cents": "3.0",
-      "volume_24h": "434.73",
+      "volume_24h": "502.45",
+      "close_time": "2026-10-12T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT09MEMCHI-241",
+      "title": "Full Game: Over 240.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT09MEMCHI",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "1.0",
+      "volume_24h": "277.73",
       "close_time": "2026-10-12T00:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT09MEMCHI-CHI4",
       "title": "Chicago wins by over 3.5 points",
       "event_ticker": "KXNBASPREAD-26OCT09MEMCHI",
-      "yes_ask_cents": "49.0",
+      "yes_ask_cents": "48.0",
       "no_ask_cents": "54.0",
-      "spread_cents": "3.0",
-      "volume_24h": "225.78",
+      "spread_cents": "2.0",
+      "volume_24h": "229.8",
       "close_time": "2026-10-12T00:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT09MEMCHI-219",
       "title": "Full Game: Over 218.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT09MEMCHI",
-      "yes_ask_cents": "89.0",
-      "no_ask_cents": "14.0",
-      "spread_cents": "3.0",
-      "volume_24h": "211.86",
+      "yes_ask_cents": "88.0",
+      "no_ask_cents": "13.0",
+      "spread_cents": "1.0",
+      "volume_24h": "218.1",
+      "close_time": "2026-10-12T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT09MEMCHI-259",
+      "title": "Full Game: Over 258.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT09MEMCHI",
+      "yes_ask_cents": "20.0",
+      "no_ask_cents": "88.0",
+      "spread_cents": "8.0",
+      "volume_24h": "216.92",
       "close_time": "2026-10-12T00:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT09MEMCHI-229",
       "title": "Full Game: Over 228.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT09MEMCHI",
-      "yes_ask_cents": "76.0",
-      "no_ask_cents": "27.0",
+      "yes_ask_cents": "74.0",
+      "no_ask_cents": "29.0",
       "spread_cents": "3.0",
       "volume_24h": "193.89",
+      "close_time": "2026-10-12T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT09MEMCHI-247",
+      "title": "Full Game: Over 246.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT09MEMCHI",
+      "yes_ask_cents": "38.0",
+      "no_ask_cents": "66.0",
+      "spread_cents": "4.0",
+      "volume_24h": "177.47",
       "close_time": "2026-10-12T00:00:00Z"
     },
     {
@@ -211,23 +151,13 @@
       "close_time": "2026-10-12T00:00:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26OCT09MEMCHI-241",
-      "title": "Full Game: Over 240.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT09MEMCHI",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "1.0",
-      "volume_24h": "144.48",
-      "close_time": "2026-10-12T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT09MEMCHI-247",
-      "title": "Full Game: Over 246.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT09MEMCHI",
-      "yes_ask_cents": "39.0",
-      "no_ask_cents": "64.0",
-      "spread_cents": "3.0",
-      "volume_24h": "140.47",
+      "ticker": "KXNBASPREAD-26OCT09MEMCHI-CHI3",
+      "title": "Chicago wins by over 2.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT09MEMCHI",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "2.0",
+      "volume_24h": "145.43",
       "close_time": "2026-10-12T00:00:00Z"
     },
     {
@@ -235,8 +165,8 @@
       "title": "Full Game: Over 252.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT09MEMCHI",
       "yes_ask_cents": "28.0",
-      "no_ask_cents": "76.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "77.0",
+      "spread_cents": "5.0",
       "volume_24h": "138.66",
       "close_time": "2026-10-12T00:00:00Z"
     },
@@ -244,39 +174,19 @@
       "ticker": "KXNBATOTAL-26OCT09MEMCHI-245",
       "title": "Full Game: Over 244.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT09MEMCHI",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "60.0",
-      "spread_cents": "3.0",
+      "yes_ask_cents": "42.0",
+      "no_ask_cents": "62.0",
+      "spread_cents": "4.0",
       "volume_24h": "123.8",
-      "close_time": "2026-10-12T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT09MEMCHI-CHI3",
-      "title": "Chicago wins by over 2.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT09MEMCHI",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "3.0",
-      "volume_24h": "115.43",
-      "close_time": "2026-10-12T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT09MEMCHI-CHI21",
-      "title": "Chicago wins by over 20.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT09MEMCHI",
-      "yes_ask_cents": "17.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "8.0",
-      "volume_24h": "103.0",
       "close_time": "2026-10-12T00:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT09MEMCHI-MEM18",
       "title": "Memphis wins by over 17.5 points",
       "event_ticker": "KXNBASPREAD-26OCT09MEMCHI",
-      "yes_ask_cents": "12.0",
+      "yes_ask_cents": "14.0",
       "no_ask_cents": "92.0",
-      "spread_cents": "4.0",
+      "spread_cents": "6.0",
       "volume_24h": "100.0",
       "close_time": "2026-10-12T00:00:00Z"
     },
@@ -284,9 +194,9 @@
       "ticker": "KXNBASPREAD-26OCT09MEMCHI-MEM16",
       "title": "Memphis wins by over 15.5 points",
       "event_ticker": "KXNBASPREAD-26OCT09MEMCHI",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "5.0",
+      "yes_ask_cents": "16.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "8.0",
       "volume_24h": "100.0",
       "close_time": "2026-10-12T00:00:00Z"
     }
