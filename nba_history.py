@@ -106,6 +106,38 @@ def main():
         reliability.append({"bin":str(round(low,1))+"-"+str(round(high,1)),
                             "games":n,"mean_predicted":round(sum(x["predicted_home_win"] for x in subset)/n,3) if n else None,
                             "actual_home_win_rate":round(sum(x["actual_home_win"] for x in subset)/n,3) if n else None})
+    # Three strictly ordered historical segments. Calibration parameters are selected
+    # exclusively on the middle segment; the last segment is evaluation only.
+    # Note: earlier model development already inspected this dataset, so it is
+    # a retrospective diagnostic and NOT a pristine prospective holdout.
+    import math
+    n_all=len(ordered_common)
+    train_ids=ordered_common[:int(.6*n_all)]
+    validation_ids=ordered_common[int(.6*n_all):int(.8*n_all)]
+    evaluation_ids=ordered_common[int(.8*n_all):]
+    def calibrate(p,slope,offset):
+        p=min(.9999,max(.0001,p))
+        logit=math.log(p/(1-p))
+        z=max(-30,min(30,slope*logit+offset))
+        return 1/(1+math.exp(-z))
+    def brier_set(ids,slope,offset):
+        return sum((calibrate(by_elo[k]["predicted_home_win"],slope,offset)-by_elo[k]["actual_home_win"])**2 for k in ids)/len(ids) if ids else None
+    calibration_candidate=None
+    if len(train_ids)>=100 and len(validation_ids)>=40 and len(evaluation_ids)>=40:
+        # Fixed grid specified before looking at model scores in this run.
+        options=[(scale,offset) for scale in (.65,.8,1.,1.2,1.4) for offset in (-.25,0.,.25)]
+        calibration_candidate=min(options,key=lambda opt:(brier_set(validation_ids,*opt),abs(opt[0]-1),abs(opt[1])))
+    selected_slope,selected_offset=calibration_candidate if calibration_candidate else (1.,0.)
+    calibration_experiment={
+        "status":"RETROSPECTIVE_RESEARCH_ONLY",
+        "training_games":len(train_ids),"validation_games":len(validation_ids),
+        "evaluation_games":len(evaluation_ids),
+        "selected_log_odds_slope":selected_slope,
+        "selected_log_odds_offset":selected_offset,
+        "evaluation_raw_elo_brier":round(brier_set(evaluation_ids,1.,0.),4) if evaluation_ids else None,
+        "evaluation_calibrated_brier":round(brier_set(evaluation_ids,selected_slope,selected_offset),4) if evaluation_ids else None,
+        "note":"Parameters selected using middle 20% only; final 20% used for evaluation. Both historical periods were previously examined during development. Not untouched prospective validation and not live probabilities."
+    }
     # Calibration audit, descriptive only. Do not fit parameters on these evaluation games.
     populated=[b for b in reliability if b["games"]>=20]
     calibration_gap=sum(b["games"]*abs(b["mean_predicted"]-b["actual_home_win_rate"]) for b in populated)/sum(b["games"] for b in populated) if populated else None
@@ -120,7 +152,7 @@ def main():
          "completed_games":len(games),"by_phase":phases,"backtest_games":len(tested),
          "model_brier":round(model,4) if model is not None else None,
          "neutral_50_50_brier":.25 if tested else None,
-         "paired_backtest_games":len(common),"chronological_holdout":holdout,"elo_holdout_calibration":reliability,"calibration_diagnostics":{"minimum_bin_games":20,"weighted_absolute_gap":round(calibration_gap,4) if calibration_gap is not None else None,"largest_bin_gap":round(largest_gap,4) if largest_gap is not None else None,"validation":"DESCRIPTIVE_ONLY_NO_RECALIBRATION"},
+         "paired_backtest_games":len(common),"chronological_holdout":holdout,"elo_holdout_calibration":reliability,"calibration_experiment":calibration_experiment,"calibration_diagnostics":{"minimum_bin_games":20,"weighted_absolute_gap":round(calibration_gap,4) if calibration_gap is not None else None,"largest_bin_gap":round(largest_gap,4) if largest_gap is not None else None,"validation":"DESCRIPTIVE_ONLY_NO_RECALIBRATION"},
          "paired_form_brier":round(paired_form,4) if paired_form is not None else None,
          "paired_elo_brier":round(paired_elo,4) if paired_elo is not None else None,
          "historical_backfill_complete":len(checked)>=len(days),
@@ -137,6 +169,7 @@ def main():
     cards="".join("<div style='background:#17253a;padding:12px;border-radius:10px'><strong>Forecast band "+b["bin"]+"</strong><p style='margin:6px 0'>Games: "+str(b["games"])+"</p><p style='margin:6px 0'>Average forecast: "+("N/A" if b["mean_predicted"] is None else str(round(b["mean_predicted"]*100,1))+"%")+"</p><p style='margin:6px 0'>Actual win rate: "+("N/A" if b["actual_home_win_rate"] is None else str(round(b["actual_home_win_rate"]*100,1))+"%")+"</p>"+("<small style='color:#ffd184'>Too few games to interpret</small>" if b["games"]<20 else "")+"</div>" for b in reliability)
     block+="<section style='background:#24344a;border-radius:12px;padding:18px;margin:18px 0'><h2>NBA Elo probability calibration (Step 12K)</h2><p>Later-game diagnostic only ("+str(len(held))+" games). Predicted versus actual win frequency:</p><div style='display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:10px'>"+cards+"</div><p style='color:#ffd184'>Small bins are unstable; historical results are not untouched validation, and no trading advantage or live signal is verified.</p></section>"
     block+="<section style='background:#24344a;border-radius:12px;padding:18px;margin:18px 0'><h2>NBA calibration quality (Step 12L)</h2><p>Weighted prediction-to-outcome gap across bins with at least 20 games: "+hold_brier(round(calibration_gap*100,1) if calibration_gap is not None else None)+" percentage points. Largest bin gap: "+hold_brier(round(largest_gap*100,1) if largest_gap is not None else None)+" percentage points.</p><p style='color:#ffd184'>Descriptive diagnostic only. These are previously reviewed historical games, not untouched evidence; do not fit calibration on this evaluation sample or infer tradable opportunities.</p></section>"
+    block+="<section style='background:#24344a;border-radius:12px;padding:18px;margin:18px 0'><h2>NBA Elo calibration experiment (Step 12M)</h2><p>Historical validation games: "+str(calibration_experiment["validation_games"])+". Later evaluation games: "+str(calibration_experiment["evaluation_games"])+".</p><p>Original Elo Brier: "+hold_brier(calibration_experiment["evaluation_raw_elo_brier"])+". Adjusted Elo Brier: "+hold_brier(calibration_experiment["evaluation_calibrated_brier"])+". Lower is better.</p><p style='color:#ffd184'>RETROSPECTIVE ONLY. The evaluation data were previously examined during development. These adjustments are not deployed as live probabilities or paper-trade signals.</p></section>"
     page=DOCS/"index.html"
     if not page.exists():raise RuntimeError("Dashboard missing")
     page.write_text(page.read_text(encoding="utf-8").replace("</body></html>",block+"</body></html>"),encoding="utf-8")
