@@ -17,7 +17,7 @@ def main():
             teams=[]
             for item in comp.get("competitors",[]):
                 team=item.get("team") or {}
-                teams.append({"team":team.get("displayName"),"abbreviation":team.get("abbreviation"),"home_away":item.get("homeAway"),"score":item.get("score")})
+                teams.append({"team_id":str(team.get("id","")),"team":team.get("displayName"),"abbreviation":team.get("abbreviation"),"home_away":item.get("homeAway"),"score":item.get("score")})
             games.append({"event_id":str(event.get("id","")),"date":event.get("date"),"name":event.get("name"),"status":(event.get("status") or {}).get("type",{}).get("name"),"teams":teams})
         source_ok=True
     except Exception as exc:
