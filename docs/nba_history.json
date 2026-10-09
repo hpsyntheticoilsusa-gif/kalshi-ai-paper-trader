@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-09T12:09:43.026660+00:00",
+  "generated_utc": "2026-10-09T12:12:12.258013+00:00",
   "source": "ESPN public scoreboard; not Kalshi settlement source",
   "historical_dates_checked": 373,
   "historical_dates_target": 373,
@@ -55,6 +55,12 @@
       "actual_home_win_rate": 0.9
     }
   ],
+  "calibration_diagnostics": {
+    "minimum_bin_games": 20,
+    "weighted_absolute_gap": 0.1117,
+    "largest_bin_gap": 0.218,
+    "validation": "DESCRIPTIVE_ONLY_NO_RECALIBRATION"
+  },
   "paired_form_brier": 0.2275,
   "paired_elo_brier": 0.2115,
   "historical_backfill_complete": true,
