@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-09T11:29:21.554699+00:00",
+  "generated_utc": "2026-10-09T11:57:30.046688+00:00",
   "source": "ESPN public scoreboard; not Kalshi settlement source",
   "historical_dates_checked": 373,
   "historical_dates_target": 373,
@@ -16,6 +16,13 @@
   "model_brier": 0.228,
   "neutral_50_50_brier": 0.25,
   "paired_backtest_games": 1076,
+  "chronological_holdout": {
+    "games": 216,
+    "form_brier": 0.2034,
+    "elo_brier": 0.1635,
+    "neutral_brier": 0.25,
+    "first_game_date": "2026-03-16T23:30Z"
+  },
   "paired_form_brier": 0.2275,
   "paired_elo_brier": 0.2115,
   "historical_backfill_complete": true,
