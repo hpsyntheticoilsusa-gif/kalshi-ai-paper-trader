@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-09T18:32:50.501168+00:00",
+  "generated_utc": "2026-10-09T19:29:46.033858+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
   "qualifying_nba_markets": 20,
@@ -55,9 +55,9 @@
       "title": "Full Game: Over 240.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT09MEMCHI",
       "yes_ask_cents": "50.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "4.0",
-      "volume_24h": "9226.32",
+      "no_ask_cents": "53.0",
+      "spread_cents": "3.0",
+      "volume_24h": "10856.76",
       "close_time": "2026-10-12T00:00:00Z"
     },
     {
@@ -65,9 +65,29 @@
       "title": "Full Game: Over 238.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT09MEMCHI",
       "yes_ask_cents": "54.0",
-      "no_ask_cents": "47.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "2.0",
+      "volume_24h": "4754.59",
+      "close_time": "2026-10-12T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT09MEMCHI-CHI3",
+      "title": "Chicago wins by over 2.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT09MEMCHI",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "48.0",
       "spread_cents": "1.0",
-      "volume_24h": "4676.93",
+      "volume_24h": "2432.88",
+      "close_time": "2026-10-12T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT09MEMCHI-CHI4",
+      "title": "Chicago wins by over 3.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT09MEMCHI",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1789.9",
       "close_time": "2026-10-12T00:00:00Z"
     },
     {
@@ -75,19 +95,9 @@
       "title": "Full Game: Over 242.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT09MEMCHI",
       "yes_ask_cents": "44.0",
-      "no_ask_cents": "58.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1509.82",
-      "close_time": "2026-10-12T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT09MEMCHI-CHI3",
-      "title": "Chicago wins by over 2.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT09MEMCHI",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "49.0",
+      "no_ask_cents": "57.0",
       "spread_cents": "1.0",
-      "volume_24h": "1299.02",
+      "volume_24h": "1509.82",
       "close_time": "2026-10-12T00:00:00Z"
     },
     {
@@ -95,29 +105,19 @@
       "title": "Full Game: Over 236.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT09MEMCHI",
       "yes_ask_cents": "59.0",
-      "no_ask_cents": "44.0",
-      "spread_cents": "3.0",
-      "volume_24h": "1026.18",
+      "no_ask_cents": "43.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1281.07",
       "close_time": "2026-10-12T00:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT09MEMCHI-227",
       "title": "Full Game: Over 226.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT09MEMCHI",
-      "yes_ask_cents": "81.0",
+      "yes_ask_cents": "80.0",
       "no_ask_cents": "24.0",
-      "spread_cents": "5.0",
+      "spread_cents": "4.0",
       "volume_24h": "936.96",
-      "close_time": "2026-10-12T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT09MEMCHI-CHI4",
-      "title": "Chicago wins by over 3.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT09MEMCHI",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "1.0",
-      "volume_24h": "850.35",
       "close_time": "2026-10-12T00:00:00Z"
     },
     {
@@ -141,6 +141,16 @@
       "close_time": "2026-10-12T00:00:00Z"
     },
     {
+      "ticker": "KXNBASPREAD-26OCT09MEMCHI-CHI5",
+      "title": "Chicago wins by over 4.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT09MEMCHI",
+      "yes_ask_cents": "46.0",
+      "no_ask_cents": "57.0",
+      "spread_cents": "3.0",
+      "volume_24h": "404.86",
+      "close_time": "2026-10-12T00:00:00Z"
+    },
+    {
       "ticker": "KXNBATOTAL-26OCT09MEMCHI-247",
       "title": "Full Game: Over 246.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT09MEMCHI",
@@ -148,16 +158,6 @@
       "no_ask_cents": "67.0",
       "spread_cents": "4.0",
       "volume_24h": "377.39",
-      "close_time": "2026-10-12T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT09MEMCHI-CHI5",
-      "title": "Chicago wins by over 4.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT09MEMCHI",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "2.0",
-      "volume_24h": "341.46",
       "close_time": "2026-10-12T00:00:00Z"
     },
     {
@@ -184,8 +184,8 @@
       "ticker": "KXNBASPREAD-26OCT09MEMCHI-MEM3",
       "title": "Memphis wins by over 2.5 points",
       "event_ticker": "KXNBASPREAD-26OCT09MEMCHI",
-      "yes_ask_cents": "39.0",
-      "no_ask_cents": "64.0",
+      "yes_ask_cents": "38.0",
+      "no_ask_cents": "65.0",
       "spread_cents": "3.0",
       "volume_24h": "208.0",
       "close_time": "2026-10-12T00:00:00Z"
@@ -194,9 +194,9 @@
       "ticker": "KXNBASPREAD-26OCT09MEMCHI-MEM8",
       "title": "Memphis wins by over 7.5 points",
       "event_ticker": "KXNBASPREAD-26OCT09MEMCHI",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "75.0",
-      "spread_cents": "3.0",
+      "yes_ask_cents": "27.0",
+      "no_ask_cents": "77.0",
+      "spread_cents": "4.0",
       "volume_24h": "204.18",
       "close_time": "2026-10-12T00:00:00Z"
     },
@@ -205,8 +205,8 @@
       "title": "Chicago wins by over 7.5 points",
       "event_ticker": "KXNBASPREAD-26OCT09MEMCHI",
       "yes_ask_cents": "36.0",
-      "no_ask_cents": "65.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "66.0",
+      "spread_cents": "2.0",
       "volume_24h": "153.89",
       "close_time": "2026-10-12T00:00:00Z"
     },
