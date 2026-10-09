@@ -1,26 +1,26 @@
 {
-  "generated_utc": "2026-10-09T00:42:45.090391+00:00",
+  "generated_utc": "2026-10-09T01:31:40.274076+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 197,
+  "qualifying_nba_markets": 102,
   "scoreboard_games": [
     {
       "event_id": "401898392",
       "date": "2026-10-08T23:00Z",
       "name": "Boston Celtics at Cleveland Cavaliers",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "teams": [
         {
           "team": "Cleveland Cavaliers",
           "abbreviation": "CLE",
           "home_away": "home",
-          "score": "84"
+          "score": "113"
         },
         {
           "team": "Boston Celtics",
           "abbreviation": "BOS",
           "home_away": "away",
-          "score": "84"
+          "score": "124"
         }
       ]
     },
@@ -34,13 +34,13 @@
           "team": "Miami Heat",
           "abbreviation": "MIA",
           "home_away": "home",
-          "score": "73"
+          "score": "100"
         },
         {
           "team": "New Orleans Pelicans",
           "abbreviation": "NO",
           "home_away": "away",
-          "score": "63"
+          "score": "102"
         }
       ]
     },
@@ -54,13 +54,13 @@
           "team": "Brooklyn Nets",
           "abbreviation": "BKN",
           "home_away": "home",
-          "score": "49"
+          "score": "87"
         },
         {
           "team": "Philadelphia 76ers",
           "abbreviation": "PHI",
           "home_away": "away",
-          "score": "51"
+          "score": "79"
         }
       ]
     },
@@ -68,19 +68,19 @@
       "event_id": "401906508",
       "date": "2026-10-08T23:30Z",
       "name": "Washington Wizards at New York Knicks",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "teams": [
         {
           "team": "New York Knicks",
           "abbreviation": "NY",
           "home_away": "home",
-          "score": "63"
+          "score": "86"
         },
         {
           "team": "Washington Wizards",
           "abbreviation": "WSH",
           "home_away": "away",
-          "score": "57"
+          "score": "83"
         }
       ]
     },
@@ -88,19 +88,19 @@
       "event_id": "401898394",
       "date": "2026-10-09T00:00Z",
       "name": "Atlanta Hawks at San Antonio Spurs",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "teams": [
         {
           "team": "San Antonio Spurs",
           "abbreviation": "SA",
           "home_away": "home",
-          "score": "39"
+          "score": "76"
         },
         {
           "team": "Atlanta Hawks",
           "abbreviation": "ATL",
           "home_away": "away",
-          "score": "20"
+          "score": "72"
         }
       ]
     },
@@ -127,404 +127,404 @@
   ],
   "market_samples": [
     {
-      "ticker": "KXNBATOTAL-26OCT08BOSCLE-223",
-      "title": "Full Game: Over 222.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT08BOSCLE",
-      "yes_ask_cents": "99.0",
-      "no_ask_cents": "8.0",
-      "spread_cents": "7.0",
-      "volume_24h": "60582.97",
-      "close_time": "2026-10-10T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT08BOSCLE-221",
-      "title": "Full Game: Over 220.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT08BOSCLE",
-      "yes_ask_cents": "99.0",
-      "no_ask_cents": "5.0",
-      "spread_cents": "4.0",
-      "volume_24h": "60481.0",
-      "close_time": "2026-10-10T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT08BOSCLE-241",
-      "title": "Full Game: Over 240.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT08BOSCLE",
-      "yes_ask_cents": "74.0",
-      "no_ask_cents": "31.0",
-      "spread_cents": "5.0",
-      "volume_24h": "37619.33",
-      "close_time": "2026-10-10T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT08BOSCLE-225",
-      "title": "Full Game: Over 224.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT08BOSCLE",
-      "yes_ask_cents": "96.0",
-      "no_ask_cents": "9.0",
-      "spread_cents": "5.0",
-      "volume_24h": "32368.82",
-      "close_time": "2026-10-10T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT08BOSCLE-239",
-      "title": "Full Game: Over 238.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT08BOSCLE",
-      "yes_ask_cents": "76.0",
-      "no_ask_cents": "25.0",
-      "spread_cents": "1.0",
-      "volume_24h": "31437.43",
-      "close_time": "2026-10-10T23:00:00Z"
-    },
-    {
       "ticker": "KXNBATOTAL-26OCT08WASNYK-230",
       "title": "Full Game: Over 229.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08WASNYK",
-      "yes_ask_cents": "61.0",
-      "no_ask_cents": "40.0",
-      "spread_cents": "1.0",
-      "volume_24h": "29488.28",
+      "yes_ask_cents": "17.0",
+      "no_ask_cents": "85.0",
+      "spread_cents": "2.0",
+      "volume_24h": "38830.34",
       "close_time": "2026-10-10T23:30:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT08ATLSAS-SAS9",
-      "title": "San Antonio wins by over 8.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT08ATLSAS",
-      "yes_ask_cents": "86.0",
-      "no_ask_cents": "20.0",
-      "spread_cents": "6.0",
-      "volume_24h": "21844.11",
+      "ticker": "KXNBATOTAL-26OCT08ATLSAS-243",
+      "title": "Full Game: Over 242.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08ATLSAS",
+      "yes_ask_cents": "45.0",
+      "no_ask_cents": "58.0",
+      "spread_cents": "3.0",
+      "volume_24h": "37677.13",
       "close_time": "2026-10-11T00:00:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26OCT08NOPMIA-237",
-      "title": "Full Game: Over 236.5 points scored",
+      "ticker": "KXNBATOTAL-26OCT08NOPMIA-251",
+      "title": "Full Game: Over 250.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08NOPMIA",
-      "yes_ask_cents": "90.0",
-      "no_ask_cents": "15.0",
-      "spread_cents": "5.0",
-      "volume_24h": "19720.44",
-      "close_time": "2026-10-10T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT08NOPMIA-MIA8",
-      "title": "Miami wins by over 7.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT08NOPMIA",
-      "yes_ask_cents": "62.0",
-      "no_ask_cents": "43.0",
-      "spread_cents": "5.0",
-      "volume_24h": "17712.18",
+      "yes_ask_cents": "38.0",
+      "no_ask_cents": "66.0",
+      "spread_cents": "4.0",
+      "volume_24h": "28967.18",
       "close_time": "2026-10-10T23:30:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT08WASNYK-228",
       "title": "Full Game: Over 227.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08WASNYK",
-      "yes_ask_cents": "66.0",
-      "no_ask_cents": "36.0",
-      "spread_cents": "2.0",
-      "volume_24h": "17182.05",
+      "yes_ask_cents": "21.0",
+      "no_ask_cents": "82.0",
+      "spread_cents": "3.0",
+      "volume_24h": "20310.87",
       "close_time": "2026-10-10T23:30:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26OCT08BOSCLE-231",
-      "title": "Full Game: Over 230.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT08BOSCLE",
-      "yes_ask_cents": "91.0",
-      "no_ask_cents": "13.0",
-      "spread_cents": "4.0",
-      "volume_24h": "16791.05",
-      "close_time": "2026-10-10T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT08WASNYK-NYK7",
-      "title": "New York wins by over 6.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT08WASNYK",
-      "yes_ask_cents": "57.0",
-      "no_ask_cents": "45.0",
-      "spread_cents": "2.0",
-      "volume_24h": "12638.7",
-      "close_time": "2026-10-10T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT08PHIBKN-219",
-      "title": "Full Game: Over 218.5 points scored",
+      "ticker": "KXNBATOTAL-26OCT08PHIBKN-223",
+      "title": "Full Game: Over 222.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08PHIBKN",
-      "yes_ask_cents": "62.0",
-      "no_ask_cents": "43.0",
-      "spread_cents": "5.0",
-      "volume_24h": "11247.62",
+      "yes_ask_cents": "69.0",
+      "no_ask_cents": "35.0",
+      "spread_cents": "4.0",
+      "volume_24h": "19925.03",
       "close_time": "2026-10-10T23:30:00Z"
     },
     {
-      "ticker": "KXNBA1HTOTAL-26OCT08ATLSAS-116",
-      "title": "1st Half: Over 115.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT08ATLSAS",
-      "yes_ask_cents": "59.0",
-      "no_ask_cents": "45.0",
-      "spread_cents": "4.0",
-      "volume_24h": "9467.16",
+      "ticker": "KXNBATOTAL-26OCT08ATLSAS-245",
+      "title": "Full Game: Over 244.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08ATLSAS",
+      "yes_ask_cents": "41.0",
+      "no_ask_cents": "65.0",
+      "spread_cents": "6.0",
+      "volume_24h": "16029.29",
       "close_time": "2026-10-11T00:00:00Z"
     },
     {
-      "ticker": "KXNBA1HTOTAL-26OCT08PHIBKN-118",
-      "title": "1st Half: Over 117.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT08PHIBKN",
-      "yes_ask_cents": "20.0",
-      "no_ask_cents": "87.0",
-      "spread_cents": "7.0",
-      "volume_24h": "9307.18",
-      "close_time": "2026-10-10T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT08BOSCLE-227",
-      "title": "Full Game: Over 226.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT08BOSCLE",
-      "yes_ask_cents": "97.0",
-      "no_ask_cents": "9.0",
-      "spread_cents": "6.0",
-      "volume_24h": "9291.04",
-      "close_time": "2026-10-10T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT08PHIBKN-221",
-      "title": "Full Game: Over 220.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT08PHIBKN",
-      "yes_ask_cents": "55.0",
+      "ticker": "KXNBATOTAL-26OCT08ATLSAS-241",
+      "title": "Full Game: Over 240.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08ATLSAS",
+      "yes_ask_cents": "54.0",
       "no_ask_cents": "49.0",
-      "spread_cents": "4.0",
-      "volume_24h": "9099.2",
-      "close_time": "2026-10-10T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT08WASNYK-NYK6",
-      "title": "New York wins by over 5.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT08WASNYK",
-      "yes_ask_cents": "58.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "4.0",
-      "volume_24h": "9050.51",
-      "close_time": "2026-10-10T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT08PHIBKN-PHI10",
-      "title": "Philadelphia wins by over 9.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT08PHIBKN",
-      "yes_ask_cents": "33.0",
-      "no_ask_cents": "73.0",
-      "spread_cents": "6.0",
-      "volume_24h": "8636.19",
-      "close_time": "2026-10-10T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26OCT08ATLSAS-118",
-      "title": "1st Half: Over 117.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT08ATLSAS",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "1.0",
-      "volume_24h": "8117.12",
+      "spread_cents": "3.0",
+      "volume_24h": "12852.42",
       "close_time": "2026-10-11T00:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT08ATLSAS-225",
       "title": "Full Game: Over 224.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08ATLSAS",
-      "yes_ask_cents": "61.0",
-      "no_ask_cents": "43.0",
+      "yes_ask_cents": "91.0",
+      "no_ask_cents": "13.0",
       "spread_cents": "4.0",
-      "volume_24h": "8035.26",
+      "volume_24h": "10167.5",
       "close_time": "2026-10-11T00:00:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26OCT08ATLSAS-227",
-      "title": "Full Game: Over 226.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT08ATLSAS",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "4.0",
-      "volume_24h": "7010.0",
-      "close_time": "2026-10-11T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT08NOPMIA-235",
-      "title": "Full Game: Over 234.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT08NOPMIA",
-      "yes_ask_cents": "92.0",
-      "no_ask_cents": "12.0",
-      "spread_cents": "4.0",
-      "volume_24h": "6888.1",
-      "close_time": "2026-10-10T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT08BOSCLE-217",
-      "title": "Full Game: Over 216.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT08BOSCLE",
-      "yes_ask_cents": "99.0",
-      "no_ask_cents": "5.0",
-      "spread_cents": "4.0",
-      "volume_24h": "6857.8",
-      "close_time": "2026-10-10T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT08NOPMIA-245",
-      "title": "Full Game: Over 244.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT08NOPMIA",
-      "yes_ask_cents": "76.0",
-      "no_ask_cents": "27.0",
+      "ticker": "KXNBASPREAD-26OCT08PHIBKN-PHI10",
+      "title": "Philadelphia wins by over 9.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT08PHIBKN",
+      "yes_ask_cents": "14.0",
+      "no_ask_cents": "89.0",
       "spread_cents": "3.0",
-      "volume_24h": "6828.01",
+      "volume_24h": "9680.9",
       "close_time": "2026-10-10T23:30:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT08ATLSAS-229",
       "title": "Full Game: Over 228.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08ATLSAS",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "3.0",
-      "volume_24h": "6416.67",
+      "yes_ask_cents": "84.0",
+      "no_ask_cents": "20.0",
+      "spread_cents": "4.0",
+      "volume_24h": "9505.04",
       "close_time": "2026-10-11T00:00:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26OCT08WASNYK-222",
-      "title": "Full Game: Over 221.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT08WASNYK",
-      "yes_ask_cents": "76.0",
-      "no_ask_cents": "27.0",
-      "spread_cents": "3.0",
-      "volume_24h": "6235.32",
-      "close_time": "2026-10-10T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26OCT08PHIBKN-114",
-      "title": "1st Half: Over 113.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT08PHIBKN",
-      "yes_ask_cents": "37.0",
-      "no_ask_cents": "68.0",
-      "spread_cents": "5.0",
-      "volume_24h": "6211.09",
-      "close_time": "2026-10-10T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBA1HSPREAD-26OCT08PHIBKN-PHI4",
-      "title": "Philadelphia wins the 1H by over 3.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26OCT08PHIBKN",
-      "yes_ask_cents": "35.0",
-      "no_ask_cents": "71.0",
-      "spread_cents": "6.0",
-      "volume_24h": "6024.06",
-      "close_time": "2026-10-10T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT08NOPMIA-241",
-      "title": "Full Game: Over 240.5 points scored",
+      "ticker": "KXNBATOTAL-26OCT08NOPMIA-245",
+      "title": "Full Game: Over 244.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08NOPMIA",
-      "yes_ask_cents": "84.0",
-      "no_ask_cents": "21.0",
+      "yes_ask_cents": "65.0",
+      "no_ask_cents": "40.0",
       "spread_cents": "5.0",
-      "volume_24h": "5820.31",
+      "volume_24h": "9001.5",
       "close_time": "2026-10-10T23:30:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT08PHIBKN-PHI9",
-      "title": "Philadelphia wins by over 8.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT08PHIBKN",
-      "yes_ask_cents": "36.0",
-      "no_ask_cents": "71.0",
+      "ticker": "KXNBATOTAL-26OCT08ATLSAS-227",
+      "title": "Full Game: Over 226.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08ATLSAS",
+      "yes_ask_cents": "89.0",
+      "no_ask_cents": "16.0",
+      "spread_cents": "5.0",
+      "volume_24h": "7590.44",
+      "close_time": "2026-10-11T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT08NOPMIA-235",
+      "title": "Full Game: Over 234.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08NOPMIA",
+      "yes_ask_cents": "90.0",
+      "no_ask_cents": "17.0",
       "spread_cents": "7.0",
-      "volume_24h": "5671.93",
-      "close_time": "2026-10-10T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT08WASNYK-NYK8",
-      "title": "New York wins by over 7.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT08WASNYK",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "1.0",
-      "volume_24h": "5463.67",
+      "volume_24h": "7493.01",
       "close_time": "2026-10-10T23:30:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT08PHIBKN-229",
       "title": "Full Game: Over 228.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08PHIBKN",
-      "yes_ask_cents": "34.0",
-      "no_ask_cents": "70.0",
-      "spread_cents": "4.0",
-      "volume_24h": "5350.2",
+      "yes_ask_cents": "56.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "7.0",
+      "volume_24h": "7410.11",
       "close_time": "2026-10-10T23:30:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26OCT08BOSCLE-237",
-      "title": "Full Game: Over 236.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT08BOSCLE",
-      "yes_ask_cents": "80.0",
-      "no_ask_cents": "22.0",
+      "ticker": "KXNBATOTAL-26OCT08NOPMIA-247",
+      "title": "Full Game: Over 246.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08NOPMIA",
+      "yes_ask_cents": "56.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "7.0",
+      "volume_24h": "6845.79",
+      "close_time": "2026-10-10T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT08WASNYK-222",
+      "title": "Full Game: Over 221.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08WASNYK",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "60.0",
+      "spread_cents": "8.0",
+      "volume_24h": "6509.81",
+      "close_time": "2026-10-10T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT08WASNYK-208",
+      "title": "Full Game: Over 207.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08WASNYK",
+      "yes_ask_cents": "90.0",
+      "no_ask_cents": "12.0",
       "spread_cents": "2.0",
-      "volume_24h": "4785.11",
-      "close_time": "2026-10-10T23:00:00Z"
+      "volume_24h": "4613.08",
+      "close_time": "2026-10-10T23:30:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26OCT08PHIBKN-201",
-      "title": "Full Game: Over 200.5 points scored",
+      "ticker": "KXNBATOTAL-26OCT08WASNYK-226",
+      "title": "Full Game: Over 225.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08WASNYK",
+      "yes_ask_cents": "24.0",
+      "no_ask_cents": "79.0",
+      "spread_cents": "3.0",
+      "volume_24h": "4436.24",
+      "close_time": "2026-10-10T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT08PHIBKN-235",
+      "title": "Full Game: Over 234.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT08PHIBKN",
-      "yes_ask_cents": "97.0",
-      "no_ask_cents": "7.0",
-      "spread_cents": "4.0",
-      "volume_24h": "4598.1",
+      "yes_ask_cents": "29.0",
+      "no_ask_cents": "74.0",
+      "spread_cents": "3.0",
+      "volume_24h": "4415.26",
       "close_time": "2026-10-10T23:30:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT08NOPMIA-MIA5",
-      "title": "Miami wins by over 4.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT08NOPMIA",
-      "yes_ask_cents": "74.0",
-      "no_ask_cents": "30.0",
-      "spread_cents": "4.0",
-      "volume_24h": "4547.74",
+      "ticker": "KXNBATOTAL-26OCT08NOPMIA-233",
+      "title": "Full Game: Over 232.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08NOPMIA",
+      "yes_ask_cents": "95.0",
+      "no_ask_cents": "10.0",
+      "spread_cents": "5.0",
+      "volume_24h": "4232.63",
       "close_time": "2026-10-10T23:30:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT08PHIBKN-PHI6",
-      "title": "Philadelphia wins by over 5.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT08PHIBKN",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4310.18",
-      "close_time": "2026-10-10T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT08NOPMIA-MIA9",
-      "title": "Miami wins by over 8.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT08NOPMIA",
-      "yes_ask_cents": "58.0",
-      "no_ask_cents": "43.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4167.48",
-      "close_time": "2026-10-10T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT08BOSCLE-219",
-      "title": "Full Game: Over 218.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT08BOSCLE",
-      "yes_ask_cents": "99.0",
-      "no_ask_cents": "3.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3952.72",
-      "close_time": "2026-10-10T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT08PHIBKN-223",
-      "title": "Full Game: Over 222.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT08PHIBKN",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "57.0",
+      "ticker": "KXNBASPREAD-26OCT08ATLSAS-SAS14",
+      "title": "San Antonio wins by over 13.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT08ATLSAS",
+      "yes_ask_cents": "32.0",
+      "no_ask_cents": "74.0",
       "spread_cents": "6.0",
-      "volume_24h": "3892.83",
+      "volume_24h": "4222.72",
+      "close_time": "2026-10-11T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT08NOPMIA-MIA11",
+      "title": "Miami wins by over 10.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT08NOPMIA",
+      "yes_ask_cents": "8.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "1.0",
+      "volume_24h": "3840.63",
       "close_time": "2026-10-10T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT08NOPMIA-249",
+      "title": "Full Game: Over 248.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08NOPMIA",
+      "yes_ask_cents": "47.0",
+      "no_ask_cents": "58.0",
+      "spread_cents": "5.0",
+      "volume_24h": "3826.39",
+      "close_time": "2026-10-10T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT08SACLAL-232",
+      "title": "Full Game: Over 231.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08SACLAL",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "1.0",
+      "volume_24h": "3823.48",
+      "close_time": "2026-10-11T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT08ATLSAS-209",
+      "title": "Full Game: Over 208.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08ATLSAS",
+      "yes_ask_cents": "98.0",
+      "no_ask_cents": "6.0",
+      "spread_cents": "4.0",
+      "volume_24h": "3816.54",
+      "close_time": "2026-10-11T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT08NOPMIA-231",
+      "title": "Full Game: Over 230.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08NOPMIA",
+      "yes_ask_cents": "95.0",
+      "no_ask_cents": "9.0",
+      "spread_cents": "4.0",
+      "volume_24h": "3776.84",
+      "close_time": "2026-10-10T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT08ATLSAS-231",
+      "title": "Full Game: Over 230.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08ATLSAS",
+      "yes_ask_cents": "84.0",
+      "no_ask_cents": "20.0",
+      "spread_cents": "4.0",
+      "volume_24h": "3272.64",
+      "close_time": "2026-10-11T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT08PHIBKN-217",
+      "title": "Full Game: Over 216.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08PHIBKN",
+      "yes_ask_cents": "90.0",
+      "no_ask_cents": "15.0",
+      "spread_cents": "5.0",
+      "volume_24h": "3174.38",
+      "close_time": "2026-10-10T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT08WASNYK-220",
+      "title": "Full Game: Over 219.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08WASNYK",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "58.0",
+      "spread_cents": "6.0",
+      "volume_24h": "2872.92",
+      "close_time": "2026-10-10T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT08ATLSAS-217",
+      "title": "Full Game: Over 216.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08ATLSAS",
+      "yes_ask_cents": "99.0",
+      "no_ask_cents": "8.0",
+      "spread_cents": "7.0",
+      "volume_24h": "2747.88",
+      "close_time": "2026-10-11T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT08ATLSAS-219",
+      "title": "Full Game: Over 218.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08ATLSAS",
+      "yes_ask_cents": "96.0",
+      "no_ask_cents": "8.0",
+      "spread_cents": "4.0",
+      "volume_24h": "2679.49",
+      "close_time": "2026-10-11T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT08SACLAL-LAL12",
+      "title": "Los Angeles L wins by over 11.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT08SACLAL",
+      "yes_ask_cents": "46.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "1.0",
+      "volume_24h": "2467.21",
+      "close_time": "2026-10-11T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT08NOPMIA-243",
+      "title": "Full Game: Over 242.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08NOPMIA",
+      "yes_ask_cents": "66.0",
+      "no_ask_cents": "42.0",
+      "spread_cents": "8.0",
+      "volume_24h": "2441.02",
+      "close_time": "2026-10-10T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT08SACLAL-LAL11",
+      "title": "Los Angeles L wins by over 10.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT08SACLAL",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "1.0",
+      "volume_24h": "2254.82",
+      "close_time": "2026-10-11T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT08ATLSAS-213",
+      "title": "Full Game: Over 212.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08ATLSAS",
+      "yes_ask_cents": "98.0",
+      "no_ask_cents": "4.0",
+      "spread_cents": "2.0",
+      "volume_24h": "2251.48",
+      "close_time": "2026-10-11T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT08SACLAL-LAL7",
+      "title": "Los Angeles L wins by over 6.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT08SACLAL",
+      "yes_ask_cents": "68.0",
+      "no_ask_cents": "33.0",
+      "spread_cents": "1.0",
+      "volume_24h": "2079.98",
+      "close_time": "2026-10-11T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT08WASNYK-240",
+      "title": "Full Game: Over 239.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08WASNYK",
+      "yes_ask_cents": "14.0",
+      "no_ask_cents": "94.0",
+      "spread_cents": "8.0",
+      "volume_24h": "2078.13",
+      "close_time": "2026-10-10T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT08ATLSAS-SAS7",
+      "title": "San Antonio wins by over 6.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT08ATLSAS",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "5.0",
+      "volume_24h": "2068.56",
+      "close_time": "2026-10-11T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT08ATLSAS-SAS8",
+      "title": "San Antonio wins by over 7.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT08ATLSAS",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1949.0",
+      "close_time": "2026-10-11T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT08ATLSAS-211",
+      "title": "Full Game: Over 210.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT08ATLSAS",
+      "yes_ask_cents": "98.0",
+      "no_ask_cents": "6.0",
+      "spread_cents": "4.0",
+      "volume_24h": "1735.47",
+      "close_time": "2026-10-11T00:00:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
