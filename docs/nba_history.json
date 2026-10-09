@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-09T11:57:30.046688+00:00",
+  "generated_utc": "2026-10-09T12:00:24.867333+00:00",
   "source": "ESPN public scoreboard; not Kalshi settlement source",
   "historical_dates_checked": 373,
   "historical_dates_target": 373,
@@ -23,6 +23,38 @@
     "neutral_brier": 0.25,
     "first_game_date": "2026-03-16T23:30Z"
   },
+  "elo_holdout_calibration": [
+    {
+      "bin": "0-0.2",
+      "games": 2,
+      "mean_predicted": 0.184,
+      "actual_home_win_rate": 0.0
+    },
+    {
+      "bin": "0.2-0.4",
+      "games": 41,
+      "mean_predicted": 0.316,
+      "actual_home_win_rate": 0.098
+    },
+    {
+      "bin": "0.4-0.6",
+      "games": 61,
+      "mean_predicted": 0.494,
+      "actual_home_win_rate": 0.459
+    },
+    {
+      "bin": "0.6-0.8",
+      "games": 82,
+      "mean_predicted": 0.692,
+      "actual_home_win_rate": 0.829
+    },
+    {
+      "bin": "0.8-1.0",
+      "games": 30,
+      "mean_predicted": 0.847,
+      "actual_home_win_rate": 0.9
+    }
+  ],
   "paired_form_brier": 0.2275,
   "paired_elo_brier": 0.2115,
   "historical_backfill_complete": true,
