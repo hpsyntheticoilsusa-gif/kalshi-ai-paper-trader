@@ -106,6 +106,10 @@ def main():
         reliability.append({"bin":str(round(low,1))+"-"+str(round(high,1)),
                             "games":n,"mean_predicted":round(sum(x["predicted_home_win"] for x in subset)/n,3) if n else None,
                             "actual_home_win_rate":round(sum(x["actual_home_win"] for x in subset)/n,3) if n else None})
+    # Calibration audit, descriptive only. Do not fit parameters on these evaluation games.
+    populated=[b for b in reliability if b["games"]>=20]
+    calibration_gap=sum(b["games"]*abs(b["mean_predicted"]-b["actual_home_win_rate"]) for b in populated)/sum(b["games"] for b in populated) if populated else None
+    largest_gap=max((abs(b["mean_predicted"]-b["actual_home_win_rate"]) for b in populated),default=None)
     model=sum(t["brier"] for t in tested)/len(tested) if tested else None
     elo_brier=sum(t['brier'] for t in elo_tested)/len(elo_tested) if elo_tested else None
     phases={phase:sum(g.get("season_type")==phase for g in games) for phase in ("preseason","regular","postseason","unknown")}
@@ -116,7 +120,7 @@ def main():
          "completed_games":len(games),"by_phase":phases,"backtest_games":len(tested),
          "model_brier":round(model,4) if model is not None else None,
          "neutral_50_50_brier":.25 if tested else None,
-         "paired_backtest_games":len(common),"chronological_holdout":holdout,"elo_holdout_calibration":reliability,
+         "paired_backtest_games":len(common),"chronological_holdout":holdout,"elo_holdout_calibration":reliability,"calibration_diagnostics":{"minimum_bin_games":20,"weighted_absolute_gap":round(calibration_gap,4) if calibration_gap is not None else None,"largest_bin_gap":round(largest_gap,4) if largest_gap is not None else None,"validation":"DESCRIPTIVE_ONLY_NO_RECALIBRATION"},
          "paired_form_brier":round(paired_form,4) if paired_form is not None else None,
          "paired_elo_brier":round(paired_elo,4) if paired_elo is not None else None,
          "historical_backfill_complete":len(checked)>=len(days),
@@ -132,6 +136,7 @@ def main():
     block+="<section style='background:#24344a;border-radius:12px;padding:18px;margin:18px 0'><h2>NBA chronological holdout (Step 12J)</h2><p>Later matched games: "+str(holdout["games"])+". Elo Brier: "+hold_brier(holdout["elo_brier"])+". Recent-form Brier: "+hold_brier(holdout["form_brier"])+". Neutral benchmark: "+hold_brier(holdout["neutral_brier"])+". Lower is better.</p><p style='color:#ffd184'>DIAGNOSTIC ONLY: parameters were previously chosen and these historical games may have influenced prior development. This is not a pristine unseen-data or live-market validation; no profitable signal is verified.</p></section>"
     cards="".join("<div style='background:#17253a;padding:12px;border-radius:10px'><strong>Forecast band "+b["bin"]+"</strong><p style='margin:6px 0'>Games: "+str(b["games"])+"</p><p style='margin:6px 0'>Average forecast: "+("N/A" if b["mean_predicted"] is None else str(round(b["mean_predicted"]*100,1))+"%")+"</p><p style='margin:6px 0'>Actual win rate: "+("N/A" if b["actual_home_win_rate"] is None else str(round(b["actual_home_win_rate"]*100,1))+"%")+"</p>"+("<small style='color:#ffd184'>Too few games to interpret</small>" if b["games"]<20 else "")+"</div>" for b in reliability)
     block+="<section style='background:#24344a;border-radius:12px;padding:18px;margin:18px 0'><h2>NBA Elo probability calibration (Step 12K)</h2><p>Later-game diagnostic only ("+str(len(held))+" games). Predicted versus actual win frequency:</p><div style='display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:10px'>"+cards+"</div><p style='color:#ffd184'>Small bins are unstable; historical results are not untouched validation, and no trading advantage or live signal is verified.</p></section>"
+    block+="<section style='background:#24344a;border-radius:12px;padding:18px;margin:18px 0'><h2>NBA calibration quality (Step 12L)</h2><p>Weighted prediction-to-outcome gap across bins with at least 20 games: "+hold_brier(round(calibration_gap*100,1) if calibration_gap is not None else None)+" percentage points. Largest bin gap: "+hold_brier(round(largest_gap*100,1) if largest_gap is not None else None)+" percentage points.</p><p style='color:#ffd184'>Descriptive diagnostic only. These are previously reviewed historical games, not untouched evidence; do not fit calibration on this evaluation sample or infer tradable opportunities.</p></section>"
     page=DOCS/"index.html"
     if not page.exists():raise RuntimeError("Dashboard missing")
     page.write_text(page.read_text(encoding="utf-8").replace("</body></html>",block+"</body></html>"),encoding="utf-8")
