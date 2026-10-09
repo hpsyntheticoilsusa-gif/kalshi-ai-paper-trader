@@ -1,13 +1,13 @@
 {
-  "generated_utc": "2026-10-09T04:32:02.577979+00:00",
+  "generated_utc": "2026-10-09T05:31:10.621210+00:00",
   "source": "ESPN public scoreboard; not Kalshi settlement source",
-  "historical_dates_checked": 364,
+  "historical_dates_checked": 373,
   "historical_dates_target": 373,
-  "dates_requested_this_run": 28,
+  "dates_requested_this_run": 9,
   "failed_daily_fetches": 0,
-  "completed_games": 1397,
+  "completed_games": 1420,
   "by_phase": {
-    "preseason": 71,
+    "preseason": 94,
     "regular": 1235,
     "postseason": 85,
     "unknown": 6
@@ -18,7 +18,7 @@
   "paired_backtest_games": 1076,
   "paired_form_brier": 0.2275,
   "paired_elo_brier": 0.2115,
-  "historical_backfill_complete": false,
+  "historical_backfill_complete": true,
   "elo_backtest_games": 1076,
   "elo_brier": 0.2115,
   "status": "EXPLORATORY_NOT_VALIDATED",
