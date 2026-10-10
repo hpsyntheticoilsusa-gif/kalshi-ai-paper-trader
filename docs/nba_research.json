@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-10T12:33:49.819328+00:00",
+  "generated_utc": "2026-10-10T13:29:27.682410+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 49,
+  "qualifying_nba_markets": 44,
   "scoreboard_games": [
     {
       "event_id": "401898395",
@@ -71,6 +71,16 @@
       "close_time": "2026-10-12T23:00:00Z"
     },
     {
+      "ticker": "KXNBASPREAD-26OCT10SACGSW-GSW6",
+      "title": "Golden State wins by over 5.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT10SACGSW",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "1.0",
+      "volume_24h": "2270.23",
+      "close_time": "2026-10-13T00:30:00Z"
+    },
+    {
       "ticker": "KXNBATOTAL-26OCT10SACGSW-230",
       "title": "Full Game: Over 229.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT10SACGSW",
@@ -85,9 +95,9 @@
       "title": "Detroit wins by over 3.5 points",
       "event_ticker": "KXNBASPREAD-26OCT10DETWAS",
       "yes_ask_cents": "56.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1666.0",
+      "no_ask_cents": "45.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1676.32",
       "close_time": "2026-10-12T23:00:00Z"
     },
     {
@@ -107,7 +117,7 @@
       "yes_ask_cents": "49.0",
       "no_ask_cents": "52.0",
       "spread_cents": "1.0",
-      "volume_24h": "1490.29",
+      "volume_24h": "1495.76",
       "close_time": "2026-10-12T22:30:00Z"
     },
     {
@@ -115,8 +125,8 @@
       "title": "Full Game: Over 242.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT10PHIBOS",
       "yes_ask_cents": "16.0",
-      "no_ask_cents": "89.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "88.0",
+      "spread_cents": "4.0",
       "volume_24h": "1237.19",
       "close_time": "2026-10-13T00:00:00Z"
     },
@@ -134,21 +144,11 @@
       "ticker": "KXNBASPREAD-26OCT10SACGSW-GSW26",
       "title": "Golden State wins by over 25.5 points",
       "event_ticker": "KXNBASPREAD-26OCT10SACGSW",
-      "yes_ask_cents": "7.0",
+      "yes_ask_cents": "6.0",
       "no_ask_cents": "96.0",
-      "spread_cents": "3.0",
+      "spread_cents": "2.0",
       "volume_24h": "761.52",
       "close_time": "2026-10-13T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT10MINMIA-MIA20",
-      "title": "Miami wins by over 19.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT10MINMIA",
-      "yes_ask_cents": "11.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "3.0",
-      "volume_24h": "751.88",
-      "close_time": "2026-10-13T00:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT10DETWAS-225",
@@ -175,18 +175,28 @@
       "title": "Golden State wins by over 23.5 points",
       "event_ticker": "KXNBASPREAD-26OCT10SACGSW",
       "yes_ask_cents": "9.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "2.0",
       "volume_24h": "516.75",
       "close_time": "2026-10-13T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT10LACTOR-200",
+      "title": "Full Game: Over 199.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT10LACTOR",
+      "yes_ask_cents": "86.0",
+      "no_ask_cents": "18.0",
+      "spread_cents": "4.0",
+      "volume_24h": "513.83",
+      "close_time": "2026-10-12T22:30:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT10DETWAS-DET16",
       "title": "Detroit wins by over 15.5 points",
       "event_ticker": "KXNBASPREAD-26OCT10DETWAS",
-      "yes_ask_cents": "24.0",
-      "no_ask_cents": "78.0",
-      "spread_cents": "2.0",
+      "yes_ask_cents": "26.0",
+      "no_ask_cents": "77.0",
+      "spread_cents": "3.0",
       "volume_24h": "477.22",
       "close_time": "2026-10-12T23:00:00Z"
     },
@@ -198,16 +208,6 @@
       "no_ask_cents": "48.0",
       "spread_cents": "2.0",
       "volume_24h": "474.89",
-      "close_time": "2026-10-12T22:30:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT10LACTOR-200",
-      "title": "Full Game: Over 199.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT10LACTOR",
-      "yes_ask_cents": "86.0",
-      "no_ask_cents": "18.0",
-      "spread_cents": "4.0",
-      "volume_24h": "458.68",
       "close_time": "2026-10-12T22:30:00Z"
     },
     {
@@ -234,8 +234,8 @@
       "ticker": "KXNBASPREAD-26OCT10SACGSW-GSW7",
       "title": "Golden State wins by over 6.5 points",
       "event_ticker": "KXNBASPREAD-26OCT10SACGSW",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "55.0",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "54.0",
       "spread_cents": "3.0",
       "volume_24h": "394.69",
       "close_time": "2026-10-13T00:30:00Z"
@@ -244,9 +244,9 @@
       "ticker": "KXNBATOTAL-26OCT10SASPHX-207",
       "title": "Full Game: Over 206.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT10SASPHX",
-      "yes_ask_cents": "85.0",
+      "yes_ask_cents": "84.0",
       "no_ask_cents": "20.0",
-      "spread_cents": "5.0",
+      "spread_cents": "4.0",
       "volume_24h": "385.0",
       "close_time": "2026-10-13T02:30:00Z"
     },
@@ -265,8 +265,8 @@
       "title": "Full Game: Over 219.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT10LACTOR",
       "yes_ask_cents": "47.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "2.0",
       "volume_24h": "303.91",
       "close_time": "2026-10-12T22:30:00Z"
     },
@@ -274,29 +274,19 @@
       "ticker": "KXNBASPREAD-26OCT10DETWAS-DET7",
       "title": "Detroit wins by over 6.5 points",
       "event_ticker": "KXNBASPREAD-26OCT10DETWAS",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "55.0",
+      "yes_ask_cents": "47.0",
+      "no_ask_cents": "54.0",
       "spread_cents": "1.0",
       "volume_24h": "266.0",
       "close_time": "2026-10-12T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT10PHIBOS-PHI16",
-      "title": "Philadelphia wins by over 15.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT10PHIBOS",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "7.0",
-      "volume_24h": "265.17",
-      "close_time": "2026-10-13T00:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT10DETWAS-WAS17",
       "title": "Washington wins by over 16.5 points",
       "event_ticker": "KXNBASPREAD-26OCT10DETWAS",
       "yes_ask_cents": "13.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "6.0",
       "volume_24h": "259.0",
       "close_time": "2026-10-12T23:00:00Z"
     },
@@ -307,16 +297,16 @@
       "yes_ask_cents": "53.0",
       "no_ask_cents": "48.0",
       "spread_cents": "1.0",
-      "volume_24h": "258.01",
+      "volume_24h": "258.43",
       "close_time": "2026-10-13T00:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT10PHIBOS-233",
       "title": "Full Game: Over 232.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT10PHIBOS",
-      "yes_ask_cents": "30.0",
+      "yes_ask_cents": "34.0",
       "no_ask_cents": "72.0",
-      "spread_cents": "2.0",
+      "spread_cents": "6.0",
       "volume_24h": "241.74",
       "close_time": "2026-10-13T00:00:00Z"
     },
@@ -324,9 +314,9 @@
       "ticker": "KXNBASPREAD-26OCT10DETWAS-DET5",
       "title": "Detroit wins by over 4.5 points",
       "event_ticker": "KXNBASPREAD-26OCT10DETWAS",
-      "yes_ask_cents": "53.0",
+      "yes_ask_cents": "54.0",
       "no_ask_cents": "48.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "235.0",
       "close_time": "2026-10-12T23:00:00Z"
     },
@@ -341,22 +331,12 @@
       "close_time": "2026-10-13T02:30:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT10SACGSW-GSW6",
-      "title": "Golden State wins by over 5.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT10SACGSW",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "1.0",
-      "volume_24h": "200.23",
-      "close_time": "2026-10-13T00:30:00Z"
-    },
-    {
       "ticker": "KXNBATOTAL-26OCT10PHIBOS-213",
       "title": "Full Game: Over 212.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT10PHIBOS",
       "yes_ask_cents": "72.0",
-      "no_ask_cents": "31.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "32.0",
+      "spread_cents": "4.0",
       "volume_24h": "189.87",
       "close_time": "2026-10-13T00:00:00Z"
     },
@@ -365,8 +345,8 @@
       "title": "Indiana wins by over 20.5 points",
       "event_ticker": "KXNBASPREAD-26OCT10ATLIND",
       "yes_ask_cents": "9.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "2.0",
       "volume_24h": "189.0",
       "close_time": "2026-10-12T23:00:00Z"
     },
@@ -374,9 +354,9 @@
       "ticker": "KXNBASPREAD-26OCT10DETWAS-WAS15",
       "title": "Washington wins by over 14.5 points",
       "event_ticker": "KXNBASPREAD-26OCT10DETWAS",
-      "yes_ask_cents": "14.0",
+      "yes_ask_cents": "13.0",
       "no_ask_cents": "89.0",
-      "spread_cents": "3.0",
+      "spread_cents": "2.0",
       "volume_24h": "178.08",
       "close_time": "2026-10-12T23:00:00Z"
     },
@@ -384,9 +364,9 @@
       "ticker": "KXNBASPREAD-26OCT10SACGSW-GSW22",
       "title": "Golden State wins by over 21.5 points",
       "event_ticker": "KXNBASPREAD-26OCT10SACGSW",
-      "yes_ask_cents": "12.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "3.0",
+      "yes_ask_cents": "13.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "5.0",
       "volume_24h": "160.0",
       "close_time": "2026-10-13T00:30:00Z"
     },
@@ -399,16 +379,6 @@
       "spread_cents": "5.0",
       "volume_24h": "157.69",
       "close_time": "2026-10-13T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT10LACTOR-LAC16",
-      "title": "Los Angeles C wins by over 15.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT10LACTOR",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "5.0",
-      "volume_24h": "142.0",
-      "close_time": "2026-10-12T22:30:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT10PHIBOS-BOS23",
@@ -425,20 +395,10 @@
       "title": "Minnesota wins by over 16.5 points",
       "event_ticker": "KXNBASPREAD-26OCT10MINMIA",
       "yes_ask_cents": "18.0",
-      "no_ask_cents": "88.0",
-      "spread_cents": "6.0",
+      "no_ask_cents": "89.0",
+      "spread_cents": "7.0",
       "volume_24h": "132.0",
       "close_time": "2026-10-13T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT10LACTOR-TOR23",
-      "title": "Toronto wins by over 22.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT10LACTOR",
-      "yes_ask_cents": "17.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "8.0",
-      "volume_24h": "131.0",
-      "close_time": "2026-10-12T22:30:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT10ATLIND-ATL18",
@@ -449,6 +409,46 @@
       "spread_cents": "5.0",
       "volume_24h": "119.0",
       "close_time": "2026-10-12T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT10SASPHX-203",
+      "title": "Full Game: Over 202.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT10SASPHX",
+      "yes_ask_cents": "88.0",
+      "no_ask_cents": "14.0",
+      "spread_cents": "2.0",
+      "volume_24h": "117.0",
+      "close_time": "2026-10-13T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT10PHIBOS-PHI14",
+      "title": "Philadelphia wins by over 13.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT10PHIBOS",
+      "yes_ask_cents": "14.0",
+      "no_ask_cents": "91.0",
+      "spread_cents": "5.0",
+      "volume_24h": "113.06",
+      "close_time": "2026-10-13T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT10DETWAS-DET22",
+      "title": "Detroit wins by over 21.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT10DETWAS",
+      "yes_ask_cents": "19.0",
+      "no_ask_cents": "86.0",
+      "spread_cents": "5.0",
+      "volume_24h": "109.58",
+      "close_time": "2026-10-12T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT10SASPHX-SAS19",
+      "title": "San Antonio wins by over 18.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT10SASPHX",
+      "yes_ask_cents": "26.0",
+      "no_ask_cents": "79.0",
+      "spread_cents": "5.0",
+      "volume_24h": "102.0",
+      "close_time": "2026-10-13T02:30:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
