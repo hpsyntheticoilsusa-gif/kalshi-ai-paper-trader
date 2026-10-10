@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-10-10T11:27:49.204109+00:00",
-  "finalized_contracts": 6,
-  "independent_city_days": 1,
-  "model_brier": 0.49,
-  "rough_market_baseline_brier": 0.4942,
+  "generated_utc": "2026-10-10T12:33:59.566649+00:00",
+  "finalized_contracts": 12,
+  "independent_city_days": 2,
+  "model_brier": 0.265,
+  "rough_market_baseline_brier": 0.2828,
   "enough_data_for_conclusions": false,
   "minimum_city_days_for_preliminary_review": 30,
   "caution": "Uncalibrated GFS hourly ensemble differs from Kalshi settlement stations/products. Market benchmark is normalized two-sided asks, not executable probability. City-days overlap across markets. Scores are exploratory, not a proven edge.",
@@ -16,9 +16,9 @@
     },
     {
       "range": "20%\u201340%",
-      "count": 1,
-      "mean_predicted": 0.3,
-      "observed_yes_rate": 1.0
+      "count": 2,
+      "mean_predicted": 0.25,
+      "observed_yes_rate": 0.5
     },
     {
       "range": "40%\u201360%",
