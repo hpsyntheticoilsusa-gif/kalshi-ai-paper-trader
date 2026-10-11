@@ -1,11 +1,11 @@
 {
-  "last_scan_utc": "2026-10-11T11:28:13.279438+00:00",
+  "last_scan_utc": "2026-10-11T12:34:53.362505+00:00",
   "fetched": 20000,
-  "passing_filters": 1054,
+  "passing_filters": 1059,
   "pages_fetched": 20,
   "discovery_cap_markets": 20000,
   "more_pages_possible": true,
-  "saved_filtered_markets": 1054,
+  "saved_filtered_markets": 1059,
   "paper_trades": 0,
   "note": "Forecast-led paper trades only. Fee assumption 3c per contract; fills and depth not confirmed. NOT an AI model.",
   "settled_trades": 0,
@@ -16,9 +16,9 @@
   "weather_paper_trades": 0,
   "forecast_calibration": "NOT MEASURED: no verified station settlement observations collected",
   "outcomes_checked": 36,
-  "outcomes_finalized": 18,
-  "weather_brier_score": 0.1439,
-  "market_reference_brier_score": 0.1154,
+  "outcomes_finalized": 24,
+  "weather_brier_score": 0.1401,
+  "market_reference_brier_score": 0.1053,
   "weather_outcome_errors": 0,
   "weather_validation": "Exploratory only: station/window/rounding and calibration not verified; correlated contracts are NOT independent observations"
 }
