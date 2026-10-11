@@ -18,7 +18,7 @@ def main():
             for item in comp.get("competitors",[]):
                 team=item.get("team") or {}
                 teams.append({"team_id":str(team.get("id","")),"team":team.get("displayName"),"abbreviation":team.get("abbreviation"),"home_away":item.get("homeAway"),"score":item.get("score")})
-            games.append({"event_id":str(event.get("id","")),"date":event.get("date"),"name":event.get("name"),"status":(event.get("status") or {}).get("type",{}).get("name"),"teams":teams})
+            games.append({"event_id":str(event.get("id","")),"date":event.get("date"),"name":event.get("name"),"status":(event.get("status") or {}).get("type",{}).get("name"),"season_type":(event.get("season") or {}).get("type"),"teams":teams})
         source_ok=True
     except Exception as exc:
         print("NBA independent scoreboard unavailable:",type(exc).__name__)
