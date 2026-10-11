@@ -27,18 +27,27 @@ def main():
     for low,high in [(0,.2),(.2,.4),(.4,.6),(.6,.8),(.8,1.00001)]:
         b=[(p,y) for _,p,_,y in sample if low<=p<high]
         buckets.append({"range":f"{low:.0%}–{min(high,1):.0%}","count":len(b),"mean_predicted":round(sum(p for p,y in b)/len(b),3) if b else None,"observed_yes_rate":round(sum(y for p,y in b)/len(b),3) if b else None})
+    MIN_DAYS=30
+    # Sample-size gate is necessary but never sufficient: exact settlement alignment and
+    # out-of-sample calibration still require independent verification.
+    sample_gate_passed=len(sample)>=MIN_DAYS
     report={"generated_utc":datetime.datetime.now(datetime.timezone.utc).isoformat(),
        "finalized_contracts":len(finalized),"independent_city_days":len(sample),
        "model_brier":score(1),"rough_market_baseline_brier":score(2),
        "enough_data_for_conclusions":False,
-       "minimum_city_days_for_preliminary_review":30,
+       "sample_size_gate_passed":sample_gate_passed,
+       "additional_independent_city_days_needed":max(0,MIN_DAYS-len(sample)),
+       "settlement_source_alignment_verified":False,
+       "probability_calibration_verified":False,
+       "research_gate":"BLOCKED" if not(sample_gate_passed) else "BLOCKED_PENDING_SOURCE_AND_CALIBRATION",
+       "minimum_city_days_for_preliminary_review":MIN_DAYS,
        "caution":"Uncalibrated GFS hourly ensemble differs from Kalshi settlement stations/products. Market benchmark is normalized two-sided asks, not executable probability. City-days overlap across markets. Scores are exploratory, not a proven edge.",
        "reliability_bins":buckets}
     (DOCS/"forecast_accuracy.json").write_text(json.dumps(report,indent=2),encoding="utf-8")
     def display(v):return "Not available" if v is None else str(v)
     p='<section style="padding:16px;background:#21354b;border-radius:12px;margin:20px 0"><h2 id="forecast-accuracy">Forecast accuracy audit (Step 8B)</h2>'
     p+='<p>Finalized contracts: '+str(len(finalized))+'; representative city-days: '+str(len(sample))+'. Model Brier: '+display(report["model_brier"])+'; approximate market baseline Brier: '+display(report["rough_market_baseline_brier"])+'. Lower is better.</p>'
-    p+='<p style="color:#ffd184">NOT VALIDATED: Fewer than 30 independent city-days, or station/product mismatch unresolved. No accuracy or profitability claim. This report is descriptive, NOT trained or calibrated.</p>'
+    p+='<p style="color:#ffd184">RESEARCH GATE BLOCKED: '+str(len(sample))+':30 representative city-days (need '+str(report["additional_independent_city_days_needed"])+' more for preliminary review). Station/settlement source alignment and forecast calibration remain unverified even once sample size is met. No accuracy or profitability claim.</p>'
     p+='<p>Raw ensemble forecast highs are not necessarily Kalshi’s designated settlement observations. Related contracts are correlated; one representative market per city-day is used for the overview.</p>'
     p+='<p><a style="color:#a6d2ff" href="./forecast_accuracy.json">View accuracy report and probability bins</a></p></section>'
     page=DOCS/"index.html"
