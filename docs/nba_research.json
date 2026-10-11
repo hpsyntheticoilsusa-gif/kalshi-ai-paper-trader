@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-11T05:29:21.914719+00:00",
+  "generated_utc": "2026-10-11T06:35:09.199973+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 7,
+  "qualifying_nba_markets": 14,
   "scoreboard_games": [
     {
       "event_id": "401902645",
@@ -161,32 +161,32 @@
   ],
   "market_samples": [
     {
-      "ticker": "KXNBASPREAD-26OCT11DALHOU-HOU3",
-      "title": "Houston wins by over 2.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT11DALHOU",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3360.31",
-      "close_time": "2026-10-13T10:00:00Z"
-    },
-    {
       "ticker": "KXNBASPREAD-26OCT11DALHOU-HOU2",
       "title": "Houston wins by over 1.5 points",
       "event_ticker": "KXNBASPREAD-26OCT11DALHOU",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "49.0",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "51.0",
       "spread_cents": "2.0",
-      "volume_24h": "2267.18",
+      "volume_24h": "3982.07",
+      "close_time": "2026-10-13T10:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT11DALHOU-HOU3",
+      "title": "Houston wins by over 2.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT11DALHOU",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "2.0",
+      "volume_24h": "3595.23",
       "close_time": "2026-10-13T10:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT11DALHOU-233",
       "title": "Full Game: Over 232.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT11DALHOU",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "3.0",
+      "yes_ask_cents": "47.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "2.0",
       "volume_24h": "1771.43",
       "close_time": "2026-10-13T10:00:00Z"
     },
@@ -194,21 +194,91 @@
       "ticker": "KXNBATOTAL-26OCT11DALHOU-231",
       "title": "Full Game: Over 230.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT11DALHOU",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "47.0",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "51.0",
       "spread_cents": "1.0",
-      "volume_24h": "774.54",
+      "volume_24h": "838.32",
+      "close_time": "2026-10-13T10:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT11DALHOU-219",
+      "title": "Full Game: Over 218.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT11DALHOU",
+      "yes_ask_cents": "76.0",
+      "no_ask_cents": "27.0",
+      "spread_cents": "3.0",
+      "volume_24h": "460.59",
+      "close_time": "2026-10-13T10:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT11DALHOU-227",
+      "title": "Full Game: Over 226.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT11DALHOU",
+      "yes_ask_cents": "60.0",
+      "no_ask_cents": "41.0",
+      "spread_cents": "1.0",
+      "volume_24h": "274.85",
+      "close_time": "2026-10-13T10:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT11CHIDEN-213",
+      "title": "Full Game: Over 212.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT11CHIDEN",
+      "yes_ask_cents": "89.0",
+      "no_ask_cents": "14.0",
+      "spread_cents": "3.0",
+      "volume_24h": "262.0",
+      "close_time": "2026-10-14T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT11DALHOU-DAL2",
+      "title": "Dallas wins by over 1.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT11DALHOU",
+      "yes_ask_cents": "45.0",
+      "no_ask_cents": "57.0",
+      "spread_cents": "2.0",
+      "volume_24h": "251.53",
+      "close_time": "2026-10-13T10:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT11ORLCLE-CLE25",
+      "title": "Cleveland wins by over 24.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT11ORLCLE",
+      "yes_ask_cents": "13.0",
+      "no_ask_cents": "91.0",
+      "spread_cents": "4.0",
+      "volume_24h": "251.0",
+      "close_time": "2026-10-13T22:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT11DALHOU-211",
+      "title": "Full Game: Over 210.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT11DALHOU",
+      "yes_ask_cents": "88.0",
+      "no_ask_cents": "14.0",
+      "spread_cents": "2.0",
+      "volume_24h": "202.69",
       "close_time": "2026-10-13T10:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT11DALHOU-HOU11",
       "title": "Houston wins by over 10.5 points",
       "event_ticker": "KXNBASPREAD-26OCT11DALHOU",
-      "yes_ask_cents": "27.0",
-      "no_ask_cents": "75.0",
-      "spread_cents": "2.0",
+      "yes_ask_cents": "25.0",
+      "no_ask_cents": "76.0",
+      "spread_cents": "1.0",
       "volume_24h": "200.0",
       "close_time": "2026-10-13T10:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT11CHIDEN-DEN27",
+      "title": "Denver wins by over 26.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT11CHIDEN",
+      "yes_ask_cents": "15.0",
+      "no_ask_cents": "90.0",
+      "spread_cents": "5.0",
+      "volume_24h": "146.0",
+      "close_time": "2026-10-14T01:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT11DALHOU-241",
@@ -224,8 +294,8 @@
       "ticker": "KXNBATOTAL-26OCT11DALHOU-239",
       "title": "Full Game: Over 238.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT11DALHOU",
-      "yes_ask_cents": "35.0",
-      "no_ask_cents": "67.0",
+      "yes_ask_cents": "34.0",
+      "no_ask_cents": "68.0",
       "spread_cents": "2.0",
       "volume_24h": "119.0",
       "close_time": "2026-10-13T10:00:00Z"
