@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-11T20:57:47.037688+00:00",
+  "generated_utc": "2026-10-11T21:10:21.159048+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 47,
+  "qualifying_nba_markets": 52,
   "scoreboard_games": [
     {
       "event_id": "401898400",
@@ -142,9 +142,9 @@
       "ticker": "KXNBATOTAL-26OCT11MILCHA-203",
       "title": "Full Game: Over 202.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT11MILCHA",
-      "yes_ask_cents": "90.0",
+      "yes_ask_cents": "91.0",
       "no_ask_cents": "11.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "3449.27",
       "close_time": "2026-10-13T23:00:00Z"
     },
@@ -189,6 +189,16 @@
       "close_time": "2026-10-14T01:00:00Z"
     },
     {
+      "ticker": "KXNBASPREAD-26OCT11CHIDEN-DEN27",
+      "title": "Denver wins by over 26.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT11CHIDEN",
+      "yes_ask_cents": "13.0",
+      "no_ask_cents": "90.0",
+      "spread_cents": "3.0",
+      "volume_24h": "967.33",
+      "close_time": "2026-10-14T01:00:00Z"
+    },
+    {
       "ticker": "KXNBASPREAD-26OCT11CHIDEN-DEN10",
       "title": "Denver wins by over 9.5 points",
       "event_ticker": "KXNBASPREAD-26OCT11CHIDEN",
@@ -196,16 +206,6 @@
       "no_ask_cents": "56.0",
       "spread_cents": "1.0",
       "volume_24h": "967.22",
-      "close_time": "2026-10-14T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT11CHIDEN-DEN27",
-      "title": "Denver wins by over 26.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT11CHIDEN",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "3.0",
-      "volume_24h": "965.81",
       "close_time": "2026-10-14T01:00:00Z"
     },
     {
@@ -233,8 +233,8 @@
       "title": "Full Game: Over 209.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT11ORLCLE",
       "yes_ask_cents": "88.0",
-      "no_ask_cents": "13.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "14.0",
+      "spread_cents": "2.0",
       "volume_24h": "767.33",
       "close_time": "2026-10-13T22:30:00Z"
     },
@@ -252,9 +252,9 @@
       "ticker": "KXNBASPREAD-26OCT11MILCHA-MIL3",
       "title": "Milwaukee wins by over 2.5 points",
       "event_ticker": "KXNBASPREAD-26OCT11MILCHA",
-      "yes_ask_cents": "38.0",
+      "yes_ask_cents": "39.0",
       "no_ask_cents": "63.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "700.61",
       "close_time": "2026-10-13T23:00:00Z"
     },
@@ -273,18 +273,18 @@
       "title": "Full Game: Over 218.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT11MILCHA",
       "yes_ask_cents": "60.0",
-      "no_ask_cents": "42.0",
-      "spread_cents": "2.0",
-      "volume_24h": "547.34",
+      "no_ask_cents": "43.0",
+      "spread_cents": "3.0",
+      "volume_24h": "619.5",
       "close_time": "2026-10-13T23:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT11MILCHA-CHA3",
       "title": "Charlotte wins by over 2.5 points",
       "event_ticker": "KXNBASPREAD-26OCT11MILCHA",
-      "yes_ask_cents": "53.0",
+      "yes_ask_cents": "54.0",
       "no_ask_cents": "49.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "498.0",
       "close_time": "2026-10-13T23:00:00Z"
     },
@@ -302,9 +302,9 @@
       "ticker": "KXNBASPREAD-26OCT11ORLCLE-CLE25",
       "title": "Cleveland wins by over 24.5 points",
       "event_ticker": "KXNBASPREAD-26OCT11ORLCLE",
-      "yes_ask_cents": "9.0",
+      "yes_ask_cents": "10.0",
       "no_ask_cents": "93.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "459.09",
       "close_time": "2026-10-13T22:30:00Z"
     },
@@ -319,12 +319,22 @@
       "close_time": "2026-10-13T23:00:00Z"
     },
     {
+      "ticker": "KXNBATOTAL-26OCT11MILCHA-243",
+      "title": "Full Game: Over 242.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT11MILCHA",
+      "yes_ask_cents": "14.0",
+      "no_ask_cents": "89.0",
+      "spread_cents": "3.0",
+      "volume_24h": "440.56",
+      "close_time": "2026-10-13T23:00:00Z"
+    },
+    {
       "ticker": "KXNBASPREAD-26OCT11ORLCLE-CLE9",
       "title": "Cleveland wins by over 8.5 points",
       "event_ticker": "KXNBASPREAD-26OCT11ORLCLE",
-      "yes_ask_cents": "39.0",
+      "yes_ask_cents": "40.0",
       "no_ask_cents": "63.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "433.56",
       "close_time": "2026-10-13T22:30:00Z"
     },
@@ -342,9 +352,9 @@
       "ticker": "KXNBASPREAD-26OCT11MILCHA-MIL4",
       "title": "Milwaukee wins by over 3.5 points",
       "event_ticker": "KXNBASPREAD-26OCT11MILCHA",
-      "yes_ask_cents": "35.0",
+      "yes_ask_cents": "37.0",
       "no_ask_cents": "66.0",
-      "spread_cents": "1.0",
+      "spread_cents": "3.0",
       "volume_24h": "300.0",
       "close_time": "2026-10-13T23:00:00Z"
     },
@@ -389,12 +399,22 @@
       "close_time": "2026-10-13T22:30:00Z"
     },
     {
+      "ticker": "KXNBATOTAL-26OCT11ORLCLE-250",
+      "title": "Full Game: Over 249.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT11ORLCLE",
+      "yes_ask_cents": "15.0",
+      "no_ask_cents": "89.0",
+      "spread_cents": "4.0",
+      "volume_24h": "220.12",
+      "close_time": "2026-10-13T22:30:00Z"
+    },
+    {
       "ticker": "KXNBASPREAD-26OCT11ORLCLE-CLE21",
       "title": "Cleveland wins by over 20.5 points",
       "event_ticker": "KXNBASPREAD-26OCT11ORLCLE",
-      "yes_ask_cents": "17.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "7.0",
+      "yes_ask_cents": "14.0",
+      "no_ask_cents": "89.0",
+      "spread_cents": "3.0",
       "volume_24h": "215.0",
       "close_time": "2026-10-13T22:30:00Z"
     },
@@ -442,19 +462,29 @@
       "ticker": "KXNBATOTAL-26OCT11MILCHA-207",
       "title": "Full Game: Over 206.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT11MILCHA",
-      "yes_ask_cents": "84.0",
+      "yes_ask_cents": "85.0",
       "no_ask_cents": "19.0",
-      "spread_cents": "3.0",
+      "spread_cents": "4.0",
       "volume_24h": "169.16",
       "close_time": "2026-10-13T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT11ORLCLE-232",
+      "title": "Full Game: Over 231.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT11ORLCLE",
+      "yes_ask_cents": "46.0",
+      "no_ask_cents": "57.0",
+      "spread_cents": "3.0",
+      "volume_24h": "162.86",
+      "close_time": "2026-10-13T22:30:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT11ORLCLE-212",
       "title": "Full Game: Over 211.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT11ORLCLE",
-      "yes_ask_cents": "85.0",
+      "yes_ask_cents": "87.0",
       "no_ask_cents": "17.0",
-      "spread_cents": "2.0",
+      "spread_cents": "4.0",
       "volume_24h": "129.14",
       "close_time": "2026-10-13T22:30:00Z"
     },
@@ -467,36 +497,6 @@
       "spread_cents": "4.0",
       "volume_24h": "121.91",
       "close_time": "2026-10-13T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT11CHIDEN-DEN25",
-      "title": "Denver wins by over 24.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT11CHIDEN",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "89.0",
-      "spread_cents": "3.0",
-      "volume_24h": "119.49",
-      "close_time": "2026-10-14T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT11MILCHA-MIL17",
-      "title": "Milwaukee wins by over 16.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT11MILCHA",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "5.0",
-      "volume_24h": "116.3",
-      "close_time": "2026-10-13T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT11ORLCLE-216",
-      "title": "Full Game: Over 215.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT11ORLCLE",
-      "yes_ask_cents": "79.0",
-      "no_ask_cents": "24.0",
-      "spread_cents": "3.0",
-      "volume_24h": "115.03",
-      "close_time": "2026-10-13T22:30:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
