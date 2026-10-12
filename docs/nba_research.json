@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-12T12:53:23.967700+00:00",
+  "generated_utc": "2026-10-12T13:43:47.903193+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 36,
+  "qualifying_nba_markets": 38,
   "scoreboard_games": [
     {
       "event_id": "401898400",
@@ -102,10 +102,10 @@
       "ticker": "KXNBAGAME-26OCT12LIOPOR-LIO",
       "title": "London Lions wins",
       "event_ticker": "KXNBAGAME-26OCT12LIOPOR",
-      "yes_ask_cents": "11.0",
+      "yes_ask_cents": "8.0",
       "no_ask_cents": "93.0",
-      "spread_cents": "4.0",
-      "volume_24h": "17496.73",
+      "spread_cents": "1.0",
+      "volume_24h": "18022.48",
       "close_time": "2026-10-14T20:00:00Z"
     },
     {
@@ -113,9 +113,9 @@
       "title": "Portland wins",
       "event_ticker": "KXNBAGAME-26OCT12LIOPOR",
       "yes_ask_cents": "94.0",
-      "no_ask_cents": "10.0",
-      "spread_cents": "4.0",
-      "volume_24h": "12727.12",
+      "no_ask_cents": "7.0",
+      "spread_cents": "1.0",
+      "volume_24h": "16898.4",
       "close_time": "2026-10-14T20:00:00Z"
     },
     {
@@ -132,20 +132,20 @@
       "ticker": "KXNBATOTAL-26OCT12OKCATL-224",
       "title": "Full Game: Over 223.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT12OKCATL",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "50.0",
       "spread_cents": "1.0",
-      "volume_24h": "2554.0",
+      "volume_24h": "2610.0",
       "close_time": "2026-10-14T23:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT12OKCATL-202",
       "title": "Full Game: Over 201.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT12OKCATL",
-      "yes_ask_cents": "92.0",
+      "yes_ask_cents": "91.0",
       "no_ask_cents": "11.0",
-      "spread_cents": "3.0",
-      "volume_24h": "1350.99",
+      "spread_cents": "2.0",
+      "volume_24h": "1489.25",
       "close_time": "2026-10-14T23:00:00Z"
     },
     {
@@ -162,10 +162,10 @@
       "ticker": "KXNBASPREAD-26OCT12LIOPOR-POR29",
       "title": "Portland wins by over 28.5 points",
       "event_ticker": "KXNBASPREAD-26OCT12LIOPOR",
-      "yes_ask_cents": "68.0",
-      "no_ask_cents": "34.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1081.39",
+      "yes_ask_cents": "67.0",
+      "no_ask_cents": "38.0",
+      "spread_cents": "5.0",
+      "volume_24h": "1132.33",
       "close_time": "2026-10-14T20:00:00Z"
     },
     {
@@ -173,8 +173,8 @@
       "title": "Full Game: Over 225.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT12OKCATL",
       "yes_ask_cents": "47.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "56.0",
+      "spread_cents": "3.0",
       "volume_24h": "643.68",
       "close_time": "2026-10-14T23:00:00Z"
     },
@@ -182,9 +182,9 @@
       "ticker": "KXNBATOTAL-26OCT12OKCATL-234",
       "title": "Full Game: Over 233.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT12OKCATL",
-      "yes_ask_cents": "34.0",
+      "yes_ask_cents": "33.0",
       "no_ask_cents": "70.0",
-      "spread_cents": "4.0",
+      "spread_cents": "3.0",
       "volume_24h": "641.11",
       "close_time": "2026-10-14T23:00:00Z"
     },
@@ -222,21 +222,11 @@
       "ticker": "KXNBASPREAD-26OCT12OKCATL-ATL8",
       "title": "Atlanta wins by over 7.5 points",
       "event_ticker": "KXNBASPREAD-26OCT12OKCATL",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "48.0",
+      "yes_ask_cents": "55.0",
+      "no_ask_cents": "47.0",
       "spread_cents": "2.0",
       "volume_24h": "469.0",
       "close_time": "2026-10-14T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT12LIOPOR-LIO8",
-      "title": "London Lions wins by over 7.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT12LIOPOR",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "5.0",
-      "volume_24h": "462.07",
-      "close_time": "2026-10-14T20:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT12OKCATL-ATL9",
@@ -245,8 +235,18 @@
       "yes_ask_cents": "50.0",
       "no_ask_cents": "52.0",
       "spread_cents": "2.0",
-      "volume_24h": "423.3",
+      "volume_24h": "463.3",
       "close_time": "2026-10-14T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT12LIOPOR-LIO8",
+      "title": "London Lions wins by over 7.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT12LIOPOR",
+      "yes_ask_cents": "3.0",
+      "no_ask_cents": "98.0",
+      "spread_cents": "1.0",
+      "volume_24h": "462.07",
+      "close_time": "2026-10-14T20:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT12LIOPOR-LIO6",
@@ -332,8 +332,8 @@
       "ticker": "KXNBATOTAL-26OCT12OKCATL-220",
       "title": "Full Game: Over 219.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT12OKCATL",
-      "yes_ask_cents": "60.0",
-      "no_ask_cents": "42.0",
+      "yes_ask_cents": "61.0",
+      "no_ask_cents": "41.0",
       "spread_cents": "2.0",
       "volume_24h": "158.0",
       "close_time": "2026-10-14T23:00:00Z"
@@ -342,11 +342,21 @@
       "ticker": "KXNBASPREAD-26OCT12MINNYK-NYK3",
       "title": "New York wins by over 2.5 points",
       "event_ticker": "KXNBASPREAD-26OCT12MINNYK",
-      "yes_ask_cents": "50.0",
+      "yes_ask_cents": "51.0",
       "no_ask_cents": "51.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "154.73",
       "close_time": "2026-10-14T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT12OKCATL-222",
+      "title": "Full Game: Over 221.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT12OKCATL",
+      "yes_ask_cents": "56.0",
+      "no_ask_cents": "46.0",
+      "spread_cents": "2.0",
+      "volume_24h": "150.62",
+      "close_time": "2026-10-14T23:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT12BKNWAS-204",
@@ -372,10 +382,20 @@
       "ticker": "KXNBATOTAL-26OCT12BKNWAS-230",
       "title": "Full Game: Over 229.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT12BKNWAS",
-      "yes_ask_cents": "37.0",
+      "yes_ask_cents": "36.0",
       "no_ask_cents": "67.0",
-      "spread_cents": "4.0",
+      "spread_cents": "3.0",
       "volume_24h": "116.34",
+      "close_time": "2026-10-14T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT12BKNWAS-BKN17",
+      "title": "Brooklyn wins by over 16.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT12BKNWAS",
+      "yes_ask_cents": "11.0",
+      "no_ask_cents": "91.0",
+      "spread_cents": "2.0",
+      "volume_24h": "113.64",
       "close_time": "2026-10-14T23:00:00Z"
     },
     {
@@ -392,9 +412,9 @@
       "ticker": "KXNBASPREAD-26OCT12SASUTA-SAS22",
       "title": "San Antonio wins by over 21.5 points",
       "event_ticker": "KXNBASPREAD-26OCT12SASUTA",
-      "yes_ask_cents": "12.0",
+      "yes_ask_cents": "16.0",
       "no_ask_cents": "91.0",
-      "spread_cents": "3.0",
+      "spread_cents": "7.0",
       "volume_24h": "113.0",
       "close_time": "2026-10-15T01:00:00Z"
     },
@@ -412,9 +432,9 @@
       "ticker": "KXNBATOTAL-26OCT12MINNYK-230",
       "title": "Full Game: Over 229.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT12MINNYK",
-      "yes_ask_cents": "48.0",
+      "yes_ask_cents": "47.0",
       "no_ask_cents": "55.0",
-      "spread_cents": "3.0",
+      "spread_cents": "2.0",
       "volume_24h": "107.0",
       "close_time": "2026-10-14T23:30:00Z"
     },
@@ -423,40 +443,40 @@
       "title": "Washington wins by over 21.5 points",
       "event_ticker": "KXNBASPREAD-26OCT12BKNWAS",
       "yes_ask_cents": "10.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "2.0",
       "volume_24h": "101.0",
       "close_time": "2026-10-14T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT12BKNWAS-WAS20",
+      "title": "Washington wins by over 19.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT12BKNWAS",
+      "yes_ask_cents": "15.0",
+      "no_ask_cents": "89.0",
+      "spread_cents": "4.0",
+      "volume_24h": "100.0",
+      "close_time": "2026-10-14T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT12MINNYK-NYK19",
+      "title": "New York wins by over 18.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT12MINNYK",
+      "yes_ask_cents": "15.0",
+      "no_ask_cents": "89.0",
+      "spread_cents": "4.0",
+      "volume_24h": "100.0",
+      "close_time": "2026-10-14T23:30:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT12MINNYK-MIN18",
       "title": "Minnesota wins by over 17.5 points",
       "event_ticker": "KXNBASPREAD-26OCT12MINNYK",
       "yes_ask_cents": "12.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "3.0",
-      "volume_24h": "100.0",
-      "close_time": "2026-10-14T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT12MINNYK-NYK19",
-      "title": "New York wins by over 18.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT12MINNYK",
-      "yes_ask_cents": "16.0",
-      "no_ask_cents": "88.0",
+      "no_ask_cents": "92.0",
       "spread_cents": "4.0",
       "volume_24h": "100.0",
       "close_time": "2026-10-14T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT12BKNWAS-WAS20",
-      "title": "Washington wins by over 19.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT12BKNWAS",
-      "yes_ask_cents": "16.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "6.0",
-      "volume_24h": "100.0",
-      "close_time": "2026-10-14T23:00:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
