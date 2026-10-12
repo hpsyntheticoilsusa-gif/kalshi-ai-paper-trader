@@ -31,5 +31,5 @@ class PaperAccountingTests(unittest.TestCase):
     def test_mixed_positions(self):
         a=settle_once(dict(price=55,qty=1,fee=2,side="yes"),"no")
         b=settle_once(dict(price=30,qty=2,fee=3,side="no"),"no")
-        self.assertEqual(cash([a,b]),100077)
+        self.assertEqual(cash([a,b]),100080)
 if __name__=="__main__":unittest.main()
