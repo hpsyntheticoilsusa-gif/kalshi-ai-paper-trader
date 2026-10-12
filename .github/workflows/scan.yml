@@ -19,6 +19,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Test paper settlement accounting
+        run: python -m unittest -v test_paper_accounting.py
       - name: Scan public markets
         run: |
           python scanner.py
