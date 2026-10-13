@@ -1,0 +1,30 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Kalshi Market Decisions</title><style>
+    body{font:16px system-ui,Arial;background:#101827;color:#eff5ff;margin:0}main{max-width:730px;margin:auto;padding:20px 16px 45px}
+    a{color:#9cc9ff}.panel{background:#22344b;border-radius:15px;padding:18px;margin:15px 0}.card{background:#17283e;border-radius:12px;margin:10px 0;padding:14px;overflow-wrap:anywhere}
+    input,select{font:16px system-ui;width:100%;box-sizing:border-box;padding:13px;border:1px solid #67809c;border-radius:9px;background:#112136;color:white;margin:8px 0}
+    small{color:#b9c6d6}strong{display:block;margin:4px 0}.tag{color:#ffdb8d;font-weight:800}button{padding:12px 20px;border:0;border-radius:10px;background:#37d67a;color:#081c12;font-weight:bold}
+    </style></head><body><main><a href="./">← Dashboard</a><h1>Market research decisions</h1>
+    <div class="panel"><p id="overview">Loading current scan…</p><p>Research only. PASS means no validated trading recommendation—not that YES or NO must lose.</p>
+    <label for="query">Search market name or ticker</label><input id="query" type="search" placeholder="Search markets…">
+    <label for="signal">Research direction</label><select id="signal"><option value="ALL">All directions</option><option>YES</option><option>NO</option><option>PASS</option></select>
+    <p id="count" role="status"></p><div id="results"></div><button id="more" type="button" hidden>Show more</button></div>
+    <p><a href="./research_directions.json">Raw JSON data</a></p></main><script>
+    const $=id=>document.getElementById(id);let entries=[],limit=25;
+    function draw(){const q=$('query').value.toLowerCase().trim(),side=$('signal').value;
+      const filtered=entries.filter(x=>(side==='ALL'||x.signal===side)&&(!q||(String(x.title)+' '+String(x.ticker)).toLowerCase().includes(q)));
+      $('count').textContent='Showing '+Math.min(limit,filtered.length)+' of '+filtered.length+' matching markets.';
+      $('results').replaceChildren();
+      for(const item of filtered.slice(0,limit)){const card=document.createElement('article');card.className='card';
+       const title=document.createElement('strong');title.textContent=item.title||item.ticker;
+       const ticket=document.createElement('small');ticket.textContent=item.ticker;
+       const label=document.createElement('p');label.className='tag';label.textContent='Direction: '+item.signal;
+       const why=document.createElement('p');why.textContent=item.reason;
+       card.append(title,ticket,label,why);$('results').append(card);}
+      $('more').hidden=filtered.length<=limit;
+    }
+    for(const id of ['query','signal'])$(id).addEventListener('input',()=>{limit=25;draw();});
+    $('more').addEventListener('click',()=>{limit+=25;draw();});
+    fetch('./research_directions.json?refresh='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()})
+      .then(d=>{entries=Array.isArray(d.entries)?d.entries:[];$('overview').textContent='Scan: '+d.generated_utc+' · Markets reviewed: '+d.saved_markets_reviewed+' · YES '+d.yes+' · NO '+d.no+' · PASS '+d.pass;draw();})
+      .catch(e=>{$('overview').textContent='Could not load current decisions: '+e.message;});
+    </script></body></html>
