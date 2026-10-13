@@ -15,9 +15,54 @@ def direction(yes_ask,no_ask,yes_probability=None,validated=False,fee_cents=3,mi
     return {"signal":"PASS","reason":"Execution depth, fees and contract settlement still unverified"}
 def main():
     with (DATA/"latest_markets.csv").open(newline="",encoding="utf-8") as f:markets=list(csv.DictReader(f))
-    rows=[{"ticker":m["ticker"],"title":m.get("title",""),**direction(m.get("yes_ask_cents"),m.get("no_ask_cents"))} for m in markets]
+    candidates_path=DOCS/"candidates.json"
+    try:
+        candidates=json.loads(candidates_path.read_text(encoding="utf-8")) if candidates_path.exists() else []
+        if not isinstance(candidates,list):candidates=[]
+    except (ValueError,OSError):candidates=[]
+    weather={x.get("ticker"):x for x in candidates if isinstance(x,dict) and x.get("ticker")}
+    rows=[]
+    for m in markets:
+        w=weather.get(m["ticker"])
+        row={"ticker":m["ticker"],"title":m.get("title",""),"yes_ask_cents":m.get("yes_ask_cents"),
+          "no_ask_cents":m.get("no_ask_cents"),"probability_source":None,"rough_yes_probability":None,
+          "rough_no_probability":None,"gross_yes_edge_cents":None,"gross_no_edge_cents":None,
+          "illustrative_yes_edge_after_3c":None,"illustrative_no_edge_after_3c":None,
+          **direction(m.get("yes_ask_cents"),m.get("no_ask_cents"))}
+        if w and w.get("status")=="RESEARCH_ONLY_NO_TRADE":
+            try:
+                p=float(w["rough_yes_probability"])
+                ya=float(w["yes_ask_cents"]);na=float(w["no_ask_cents"])
+                if not (0<=p<=1 and 1<=ya<=99 and 1<=na<=99):raise ValueError("Invalid model data")
+                row.update(probability_source="Uncalibrated GFS weather ensemble",
+                  rough_yes_probability=round(p,4),rough_no_probability=round(1-p,4),
+                  yes_ask_cents=ya,no_ask_cents=na,
+                  gross_yes_edge_cents=round(p*100-ya,2),
+                  gross_no_edge_cents=round((1-p)*100-na,2),
+                  illustrative_yes_edge_after_3c=round(p*100-ya-3,2),
+                  illustrative_no_edge_after_3c=round((1-p)*100-na-3,2),
+                  reason="PASS: weather forecast not calibrated to Kalshi settlement source; exact rules, live fills and fees unverified")
+            except (ValueError,KeyError,TypeError):pass
+        rows.append(row)
+    # Weather research may include contracts outside our liquidity-filtered market export.
+    # Include them explicitly as standalone research observations, without claiming they passed filters.
+    existing={r["ticker"] for r in rows}
+    for ticker,w in weather.items():
+        if ticker in existing or w.get("status")!="RESEARCH_ONLY_NO_TRADE":continue
+        try:
+            p=float(w["rough_yes_probability"]);ya=float(w["yes_ask_cents"]);na=float(w["no_ask_cents"])
+            if not (0<=p<=1 and 1<=ya<=99 and 1<=na<=99):continue
+        except (ValueError,TypeError,KeyError):continue
+        rows.append({"ticker":ticker,"title":w.get("market_title",""),"yes_ask_cents":ya,"no_ask_cents":na,
+          "probability_source":"Uncalibrated GFS weather ensemble","rough_yes_probability":round(p,4),
+          "rough_no_probability":round(1-p,4),"gross_yes_edge_cents":round(p*100-ya,2),
+          "gross_no_edge_cents":round((1-p)*100-na,2),
+          "illustrative_yes_edge_after_3c":round(p*100-ya-3,2),
+          "illustrative_no_edge_after_3c":round((1-p)*100-na-3,2),
+          "signal":"PASS","reason":"PASS: weather research outside scanner liquidity filters; settlement, calibration and fillability unverified"})
+
     report={"generated_utc":datetime.datetime.now(datetime.timezone.utc).isoformat(),
-      "saved_markets_reviewed":len(rows),"yes":0,"no":0,"pass":len(rows),
+      "saved_markets_reviewed":len(markets),"additional_weather_research_contracts":len(rows)-len(markets),"research_entries":len(rows),"yes":0,"no":0,"pass":len(rows),
       "policy":"ALL PASS until independently validated event-specific probabilities, contract settlement rules, orderbook liquidity, costs, and forward results are available.",
       "entries":rows}
     (DOCS/"research_directions.json").write_text(json.dumps(report,indent=2),encoding="utf-8")
@@ -43,13 +88,21 @@ def main():
        const ticket=document.createElement('small');ticket.textContent=item.ticker;
        const label=document.createElement('p');label.className='tag';label.textContent='Direction: '+item.signal;
        const why=document.createElement('p');why.textContent=item.reason;
-       card.append(title,ticket,label,why);$('results').append(card);}
+       card.append(title,ticket,label);
+       if(item.rough_yes_probability!==null&&item.rough_yes_probability!==undefined){
+        const info=document.createElement('p');
+        info.textContent='Experimental YES '+(item.rough_yes_probability*100).toFixed(1)+'% · NO '+(item.rough_no_probability*100).toFixed(1)+'% · Snapshot asks YES '+item.yes_ask_cents+'¢ / NO '+item.no_ask_cents+'¢';
+        const edge=document.createElement('p');
+        edge.textContent='Illustrative gross edge YES '+item.gross_yes_edge_cents+'¢ / NO '+item.gross_no_edge_cents+'¢; after assumed 3¢ fee YES '+item.illustrative_yes_edge_after_3c+'¢ / NO '+item.illustrative_no_edge_after_3c+'¢ (not an exchange fee quote)';
+        card.append(info,edge);
+       }else{const info=document.createElement('p');info.textContent='No validated event probability available; no theoretical edge calculated.';card.append(info);}
+       card.append(why);$('results').append(card);}
       $('more').hidden=filtered.length<=limit;
     }
     for(const id of ['query','signal'])$(id).addEventListener('input',()=>{limit=25;draw();});
     $('more').addEventListener('click',()=>{limit+=25;draw();});
     fetch('./research_directions.json?refresh='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()})
-      .then(d=>{entries=Array.isArray(d.entries)?d.entries:[];$('overview').textContent='Scan: '+d.generated_utc+' · Markets reviewed: '+d.saved_markets_reviewed+' · YES '+d.yes+' · NO '+d.no+' · PASS '+d.pass;draw();})
+      .then(d=>{entries=Array.isArray(d.entries)?d.entries:[];$('overview').textContent='Scan: '+d.generated_utc+' · Markets reviewed: '+d.saved_markets_reviewed+' · YES '+d.yes+' · NO '+d.no+' · PASS '+d.pass+' · '+(d.additional_weather_research_contracts||0)+' extra weather research contracts';draw();})
       .catch(e=>{$('overview').textContent='Could not load current decisions: '+e.message;});
     </script></body></html>"""
     (DOCS/"market-decisions.html").write_text(page,encoding="utf-8")
