@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-13T13:45:37.810708+00:00",
+  "generated_utc": "2026-10-13T14:36:45.148154+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 51,
+  "qualifying_nba_markets": 57,
   "scoreboard_games": [
     {
       "event_id": "401914130",
@@ -125,10 +125,10 @@
       "ticker": "KXNBATOTAL-26OCT13GSWLAL-230",
       "title": "Full Game: Over 229.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT13GSWLAL",
-      "yes_ask_cents": "50.0",
+      "yes_ask_cents": "49.0",
       "no_ask_cents": "52.0",
-      "spread_cents": "2.0",
-      "volume_24h": "5097.12",
+      "spread_cents": "1.0",
+      "volume_24h": "5215.12",
       "close_time": "2026-10-16T02:00:00Z"
     },
     {
@@ -138,7 +138,7 @@
       "yes_ask_cents": "50.0",
       "no_ask_cents": "52.0",
       "spread_cents": "2.0",
-      "volume_24h": "1967.36",
+      "volume_24h": "2072.36",
       "close_time": "2026-10-15T23:00:00Z"
     },
     {
@@ -146,9 +146,19 @@
       "title": "Full Game: Over 218.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT13NYKTOR",
       "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1904.95",
+      "close_time": "2026-10-15T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT13NYKTOR-TOR11",
+      "title": "Toronto wins by over 10.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT13NYKTOR",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "52.0",
       "spread_cents": "1.0",
-      "volume_24h": "1884.1",
+      "volume_24h": "1848.82",
       "close_time": "2026-10-15T23:00:00Z"
     },
     {
@@ -162,23 +172,13 @@
       "close_time": "2026-10-16T00:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT13NYKTOR-TOR11",
-      "title": "Toronto wins by over 10.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT13NYKTOR",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1629.82",
-      "close_time": "2026-10-15T23:00:00Z"
-    },
-    {
       "ticker": "KXNBATOTAL-26OCT13CLEORL-232",
       "title": "Full Game: Over 231.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT13CLEORL",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1573.57",
+      "yes_ask_cents": "46.0",
+      "no_ask_cents": "56.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1575.36",
       "close_time": "2026-10-15T23:00:00Z"
     },
     {
@@ -208,7 +208,7 @@
       "yes_ask_cents": "22.0",
       "no_ask_cents": "81.0",
       "spread_cents": "3.0",
-      "volume_24h": "1001.77",
+      "volume_24h": "1023.43",
       "close_time": "2026-10-15T23:00:00Z"
     },
     {
@@ -225,10 +225,10 @@
       "ticker": "KXNBATOTAL-26OCT13CLEORL-230",
       "title": "Full Game: Over 229.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT13CLEORL",
-      "yes_ask_cents": "51.0",
+      "yes_ask_cents": "50.0",
       "no_ask_cents": "51.0",
-      "spread_cents": "2.0",
-      "volume_24h": "771.03",
+      "spread_cents": "1.0",
+      "volume_24h": "859.03",
       "close_time": "2026-10-15T23:00:00Z"
     },
     {
@@ -242,12 +242,22 @@
       "close_time": "2026-10-15T23:00:00Z"
     },
     {
+      "ticker": "KXNBATOTAL-26OCT13INDOKC-209",
+      "title": "Full Game: Over 208.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT13INDOKC",
+      "yes_ask_cents": "89.0",
+      "no_ask_cents": "14.0",
+      "spread_cents": "3.0",
+      "volume_24h": "748.65",
+      "close_time": "2026-10-16T00:00:00Z"
+    },
+    {
       "ticker": "KXNBATOTAL-26OCT13GSWLAL-208",
       "title": "Full Game: Over 207.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT13GSWLAL",
       "yes_ask_cents": "88.0",
-      "no_ask_cents": "14.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "15.0",
+      "spread_cents": "3.0",
       "volume_24h": "704.62",
       "close_time": "2026-10-16T02:00:00Z"
     },
@@ -275,10 +285,10 @@
       "ticker": "KXNBATOTAL-26OCT13PORSAC-228",
       "title": "Full Game: Over 227.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT13PORSAC",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "50.0",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "49.0",
       "spread_cents": "2.0",
-      "volume_24h": "614.25",
+      "volume_24h": "617.97",
       "close_time": "2026-10-16T02:00:00Z"
     },
     {
@@ -286,9 +296,29 @@
       "title": "Los Angeles L wins by over 12.5 points",
       "event_ticker": "KXNBASPREAD-26OCT13GSWLAL",
       "yes_ask_cents": "29.0",
-      "no_ask_cents": "74.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "73.0",
+      "spread_cents": "2.0",
       "volume_24h": "603.26",
+      "close_time": "2026-10-16T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT13NYKTOR-TOR12",
+      "title": "Toronto wins by over 11.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT13NYKTOR",
+      "yes_ask_cents": "46.0",
+      "no_ask_cents": "57.0",
+      "spread_cents": "3.0",
+      "volume_24h": "592.22",
+      "close_time": "2026-10-15T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT13PORSAC-POR4",
+      "title": "Portland wins by over 3.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT13PORSAC",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "2.0",
+      "volume_24h": "591.51",
       "close_time": "2026-10-16T02:00:00Z"
     },
     {
@@ -302,16 +332,6 @@
       "close_time": "2026-10-15T23:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT13PORSAC-POR4",
-      "title": "Portland wins by over 3.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT13PORSAC",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "2.0",
-      "volume_24h": "572.21",
-      "close_time": "2026-10-16T02:00:00Z"
-    },
-    {
       "ticker": "KXNBASPREAD-26OCT13GSWLAL-LAL19",
       "title": "Los Angeles L wins by over 18.5 points",
       "event_ticker": "KXNBASPREAD-26OCT13GSWLAL",
@@ -322,14 +342,14 @@
       "close_time": "2026-10-16T02:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT13NYKTOR-TOR12",
-      "title": "Toronto wins by over 11.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT13NYKTOR",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "2.0",
-      "volume_24h": "509.64",
-      "close_time": "2026-10-15T23:00:00Z"
+      "ticker": "KXNBATOTAL-26OCT13PORSAC-226",
+      "title": "Full Game: Over 225.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT13PORSAC",
+      "yes_ask_cents": "58.0",
+      "no_ask_cents": "46.0",
+      "spread_cents": "4.0",
+      "volume_24h": "492.11",
+      "close_time": "2026-10-16T02:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT13NYKTOR-239",
@@ -340,6 +360,16 @@
       "spread_cents": "2.0",
       "volume_24h": "462.07",
       "close_time": "2026-10-15T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT13INDOKC-229",
+      "title": "Full Game: Over 228.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT13INDOKC",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "1.0",
+      "volume_24h": "456.98",
+      "close_time": "2026-10-16T00:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT13GSWLAL-GSW18",
@@ -355,8 +385,8 @@
       "ticker": "KXNBATOTAL-26OCT13GSWLAL-228",
       "title": "Full Game: Over 227.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT13GSWLAL",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "46.0",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "47.0",
       "spread_cents": "1.0",
       "volume_24h": "362.22",
       "close_time": "2026-10-16T02:00:00Z"
@@ -368,7 +398,7 @@
       "yes_ask_cents": "49.0",
       "no_ask_cents": "52.0",
       "spread_cents": "1.0",
-      "volume_24h": "344.5",
+      "volume_24h": "355.28",
       "close_time": "2026-10-16T00:00:00Z"
     },
     {
@@ -379,6 +409,16 @@
       "no_ask_cents": "93.0",
       "spread_cents": "2.0",
       "volume_24h": "321.61",
+      "close_time": "2026-10-15T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT13NYKTOR-199",
+      "title": "Full Game: Over 198.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT13NYKTOR",
+      "yes_ask_cents": "88.0",
+      "no_ask_cents": "15.0",
+      "spread_cents": "3.0",
+      "volume_24h": "299.08",
       "close_time": "2026-10-15T23:00:00Z"
     },
     {
@@ -395,9 +435,9 @@
       "ticker": "KXNBATOTAL-26OCT13CLEORL-226",
       "title": "Full Game: Over 225.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT13CLEORL",
-      "yes_ask_cents": "62.0",
+      "yes_ask_cents": "61.0",
       "no_ask_cents": "42.0",
-      "spread_cents": "4.0",
+      "spread_cents": "3.0",
       "volume_24h": "280.37",
       "close_time": "2026-10-15T23:00:00Z"
     },
@@ -405,9 +445,9 @@
       "ticker": "KXNBATOTAL-26OCT13CLEORL-246",
       "title": "Full Game: Over 245.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT13CLEORL",
-      "yes_ask_cents": "20.0",
-      "no_ask_cents": "83.0",
-      "spread_cents": "3.0",
+      "yes_ask_cents": "19.0",
+      "no_ask_cents": "85.0",
+      "spread_cents": "4.0",
       "volume_24h": "279.0",
       "close_time": "2026-10-15T23:00:00Z"
     },
@@ -415,29 +455,19 @@
       "ticker": "KXNBATOTAL-26OCT13GSWLAL-238",
       "title": "Full Game: Over 237.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT13GSWLAL",
-      "yes_ask_cents": "34.0",
+      "yes_ask_cents": "33.0",
       "no_ask_cents": "69.0",
-      "spread_cents": "3.0",
+      "spread_cents": "2.0",
       "volume_24h": "278.5",
       "close_time": "2026-10-16T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT13INDOKC-229",
-      "title": "Full Game: Over 228.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT13INDOKC",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "2.0",
-      "volume_24h": "256.98",
-      "close_time": "2026-10-16T00:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT13INDOKC-IND14",
       "title": "Indiana wins by over 13.5 points",
       "event_ticker": "KXNBASPREAD-26OCT13INDOKC",
-      "yes_ask_cents": "8.0",
+      "yes_ask_cents": "7.0",
       "no_ask_cents": "94.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "248.0",
       "close_time": "2026-10-16T00:00:00Z"
     },
@@ -485,40 +515,10 @@
       "ticker": "KXNBASPREAD-26OCT13PORSAC-POR5",
       "title": "Portland wins by over 4.5 points",
       "event_ticker": "KXNBASPREAD-26OCT13PORSAC",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "57.0",
+      "yes_ask_cents": "46.0",
+      "no_ask_cents": "56.0",
       "spread_cents": "2.0",
       "volume_24h": "179.89",
-      "close_time": "2026-10-16T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT13CLEORL-ORL17",
-      "title": "Orlando wins by over 16.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT13CLEORL",
-      "yes_ask_cents": "10.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "2.0",
-      "volume_24h": "176.0",
-      "close_time": "2026-10-15T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT13CLEORL-CLE18",
-      "title": "Cleveland wins by over 17.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT13CLEORL",
-      "yes_ask_cents": "10.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "2.0",
-      "volume_24h": "159.0",
-      "close_time": "2026-10-15T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT13GSWLAL-226",
-      "title": "Full Game: Over 225.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT13GSWLAL",
-      "yes_ask_cents": "59.0",
-      "no_ask_cents": "43.0",
-      "spread_cents": "2.0",
-      "volume_24h": "157.14",
       "close_time": "2026-10-16T02:00:00Z"
     }
   ],

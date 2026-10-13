@@ -19,12 +19,20 @@
        const ticket=document.createElement('small');ticket.textContent=item.ticker;
        const label=document.createElement('p');label.className='tag';label.textContent='Direction: '+item.signal;
        const why=document.createElement('p');why.textContent=item.reason;
-       card.append(title,ticket,label,why);$('results').append(card);}
+       card.append(title,ticket,label);
+       if(item.rough_yes_probability!==null&&item.rough_yes_probability!==undefined){
+        const info=document.createElement('p');
+        info.textContent='Experimental YES '+(item.rough_yes_probability*100).toFixed(1)+'% · NO '+(item.rough_no_probability*100).toFixed(1)+'% · Snapshot asks YES '+item.yes_ask_cents+'¢ / NO '+item.no_ask_cents+'¢';
+        const edge=document.createElement('p');
+        edge.textContent='Illustrative gross edge YES '+item.gross_yes_edge_cents+'¢ / NO '+item.gross_no_edge_cents+'¢; after assumed 3¢ fee YES '+item.illustrative_yes_edge_after_3c+'¢ / NO '+item.illustrative_no_edge_after_3c+'¢ (not an exchange fee quote)';
+        card.append(info,edge);
+       }else{const info=document.createElement('p');info.textContent='No validated event probability available; no theoretical edge calculated.';card.append(info);}
+       card.append(why);$('results').append(card);}
       $('more').hidden=filtered.length<=limit;
     }
     for(const id of ['query','signal'])$(id).addEventListener('input',()=>{limit=25;draw();});
     $('more').addEventListener('click',()=>{limit+=25;draw();});
     fetch('./research_directions.json?refresh='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()})
-      .then(d=>{entries=Array.isArray(d.entries)?d.entries:[];$('overview').textContent='Scan: '+d.generated_utc+' · Markets reviewed: '+d.saved_markets_reviewed+' · YES '+d.yes+' · NO '+d.no+' · PASS '+d.pass;draw();})
+      .then(d=>{entries=Array.isArray(d.entries)?d.entries:[];$('overview').textContent='Scan: '+d.generated_utc+' · Markets reviewed: '+d.saved_markets_reviewed+' · YES '+d.yes+' · NO '+d.no+' · PASS '+d.pass+' · '+(d.additional_weather_research_contracts||0)+' extra weather research contracts';draw();})
       .catch(e=>{$('overview').textContent='Could not load current decisions: '+e.message;});
     </script></body></html>
