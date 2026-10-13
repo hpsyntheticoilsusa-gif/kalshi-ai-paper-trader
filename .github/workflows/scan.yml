@@ -25,7 +25,6 @@ jobs:
         run: |
           python scanner.py
           python multi_market.py
-          python research_directions.py
           python research_priority.py
           python forecast_input_audit.py
           python nba_research.py
@@ -41,6 +40,8 @@ jobs:
           python weather_audit.py
           python weather_outcomes.py
           python forecast_accuracy.py
+      - name: Publish guarded probability and price comparisons
+        run: python research_directions.py
       - name: Generate Android app icons
         run: python generate_pwa_icons.py
       - name: Save newest market snapshot
