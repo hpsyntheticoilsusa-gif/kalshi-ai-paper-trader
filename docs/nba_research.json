@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-14T02:43:10.439201+00:00",
+  "generated_utc": "2026-10-14T03:43:04.180778+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 12,
+  "qualifying_nba_markets": 1,
   "scoreboard_games": [
     {
       "event_id": "401898403",
@@ -85,14 +85,14 @@
           "team": "Los Angeles Lakers",
           "abbreviation": "LAL",
           "home_away": "home",
-          "score": "29"
+          "score": "70"
         },
         {
           "team_id": "9",
           "team": "Golden State Warriors",
           "abbreviation": "GS",
           "home_away": "away",
-          "score": "29"
+          "score": "64"
         }
       ]
     },
@@ -100,7 +100,7 @@
       "event_id": "401901826",
       "date": "2026-10-14T02:00Z",
       "name": "Portland Trail Blazers at Sacramento Kings",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "season_type": 1,
       "teams": [
         {
@@ -108,137 +108,27 @@
           "team": "Sacramento Kings",
           "abbreviation": "SAC",
           "home_away": "home",
-          "score": "22"
+          "score": "55"
         },
         {
           "team_id": "22",
           "team": "Portland Trail Blazers",
           "abbreviation": "POR",
           "home_away": "away",
-          "score": "33"
+          "score": "85"
         }
       ]
     }
   ],
   "market_samples": [
     {
-      "ticker": "KXNBA1HTOTAL-26OCT13GSWLAL-118",
-      "title": "1st Half: Over 117.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT13GSWLAL",
-      "yes_ask_cents": "36.0",
-      "no_ask_cents": "70.0",
-      "spread_cents": "6.0",
-      "volume_24h": "25770.41",
-      "close_time": "2026-10-16T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26OCT13PORSAC-118",
-      "title": "1st Half: Over 117.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT13PORSAC",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "63.0",
-      "spread_cents": "8.0",
-      "volume_24h": "12221.06",
-      "close_time": "2026-10-16T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26OCT13GSWLAL-116",
-      "title": "1st Half: Over 115.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT13GSWLAL",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "8.0",
-      "volume_24h": "5641.72",
-      "close_time": "2026-10-16T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HSPREAD-26OCT13PORSAC-POR6",
-      "title": "Portland wins the 1H by over 5.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26OCT13PORSAC",
-      "yes_ask_cents": "85.0",
+      "ticker": "KXNBATOTAL-26OCT13PORSAC-206",
+      "title": "Full Game: Over 205.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT13PORSAC",
+      "yes_ask_cents": "88.0",
       "no_ask_cents": "20.0",
-      "spread_cents": "5.0",
-      "volume_24h": "5329.9",
-      "close_time": "2026-10-16T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26OCT13PORSAC-116",
-      "title": "1st Half: Over 115.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT13PORSAC",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "3.0",
-      "volume_24h": "4697.15",
-      "close_time": "2026-10-16T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26OCT13GSWLAL-114",
-      "title": "1st Half: Over 113.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT13GSWLAL",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "7.0",
-      "volume_24h": "2391.1",
-      "close_time": "2026-10-16T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HSPREAD-26OCT13PORSAC-POR4",
-      "title": "Portland wins the 1H by over 3.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26OCT13PORSAC",
-      "yes_ask_cents": "90.0",
-      "no_ask_cents": "17.0",
-      "spread_cents": "7.0",
-      "volume_24h": "1565.56",
-      "close_time": "2026-10-16T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26OCT13GSWLAL-98",
-      "title": "1st Half: Over 97.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT13GSWLAL",
-      "yes_ask_cents": "99.0",
-      "no_ask_cents": "4.0",
-      "spread_cents": "3.0",
-      "volume_24h": "900.0",
-      "close_time": "2026-10-16T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26OCT13PORSAC-100",
-      "title": "1st Half: Over 99.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT13PORSAC",
-      "yes_ask_cents": "99.0",
-      "no_ask_cents": "9.0",
       "spread_cents": "8.0",
-      "volume_24h": "787.19",
-      "close_time": "2026-10-16T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26OCT13GSWLAL-100",
-      "title": "1st Half: Over 99.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT13GSWLAL",
-      "yes_ask_cents": "99.0",
-      "no_ask_cents": "6.0",
-      "spread_cents": "5.0",
-      "volume_24h": "737.19",
-      "close_time": "2026-10-16T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26OCT13GSWLAL-102",
-      "title": "1st Half: Over 101.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT13GSWLAL",
-      "yes_ask_cents": "96.0",
-      "no_ask_cents": "10.0",
-      "spread_cents": "6.0",
-      "volume_24h": "487.59",
-      "close_time": "2026-10-16T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HSPREAD-26OCT13GSWLAL-GSW12",
-      "title": "Golden State wins the 1H by over 11.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26OCT13GSWLAL",
-      "yes_ask_cents": "9.0",
-      "no_ask_cents": "96.0",
-      "spread_cents": "5.0",
-      "volume_24h": "243.79",
+      "volume_24h": "370.28",
       "close_time": "2026-10-16T02:00:00Z"
     }
   ],
