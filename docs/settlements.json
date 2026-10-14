@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-14T10:44:42.898995+00:00",
+  "generated_utc": "2026-10-14T11:44:28.955349+00:00",
   "settlements": [
     {
       "ticker": "KXHIGHCHI-26OCT09-B71.5",
@@ -288,6 +288,42 @@
       "result": "no",
       "market_status": "finalized",
       "checked_utc": "2026-10-13T11:33:45.809227+00:00"
+    },
+    {
+      "ticker": "KXHIGHNY-26OCT13-B71.5",
+      "result": "yes",
+      "market_status": "finalized",
+      "checked_utc": "2026-10-14T11:44:28.955349+00:00"
+    },
+    {
+      "ticker": "KXHIGHNY-26OCT13-B73.5",
+      "result": "no",
+      "market_status": "finalized",
+      "checked_utc": "2026-10-14T11:44:28.955349+00:00"
+    },
+    {
+      "ticker": "KXHIGHNY-26OCT13-B75.5",
+      "result": "no",
+      "market_status": "finalized",
+      "checked_utc": "2026-10-14T11:44:28.955349+00:00"
+    },
+    {
+      "ticker": "KXHIGHNY-26OCT13-B77.5",
+      "result": "no",
+      "market_status": "finalized",
+      "checked_utc": "2026-10-14T11:44:28.955349+00:00"
+    },
+    {
+      "ticker": "KXHIGHNY-26OCT13-T71",
+      "result": "no",
+      "market_status": "finalized",
+      "checked_utc": "2026-10-14T11:44:28.955349+00:00"
+    },
+    {
+      "ticker": "KXHIGHNY-26OCT13-T78",
+      "result": "no",
+      "market_status": "finalized",
+      "checked_utc": "2026-10-14T11:44:28.955349+00:00"
     }
   ]
 }
