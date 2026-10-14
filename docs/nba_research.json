@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-14T13:47:25.209204+00:00",
+  "generated_utc": "2026-10-14T14:43:57.947265+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 64,
+  "qualifying_nba_markets": 68,
   "scoreboard_games": [
     {
       "event_id": "401898403",
@@ -125,59 +125,69 @@
       "ticker": "KXNBATOTAL-26OCT14CHABOS-225",
       "title": "Full Game: Over 224.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT14CHABOS",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "50.0",
       "spread_cents": "1.0",
-      "volume_24h": "7028.14",
+      "volume_24h": "7047.14",
       "close_time": "2026-10-16T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT14PHXSAS-SAS11",
-      "title": "San Antonio wins by over 10.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT14PHXSAS",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "59.0",
-      "spread_cents": "3.0",
-      "volume_24h": "3074.71",
-      "close_time": "2026-10-17T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT14DETMIN-MIN3",
-      "title": "Minnesota wins by over 2.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT14DETMIN",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "2.0",
-      "volume_24h": "2999.15",
-      "close_time": "2026-10-17T00:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT14CHABOS-227",
       "title": "Full Game: Over 226.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT14CHABOS",
-      "yes_ask_cents": "48.0",
+      "yes_ask_cents": "46.0",
       "no_ask_cents": "55.0",
-      "spread_cents": "3.0",
-      "volume_24h": "2909.4",
+      "spread_cents": "1.0",
+      "volume_24h": "4193.13",
       "close_time": "2026-10-16T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT14DETMIN-MIN3",
+      "title": "Minnesota wins by over 2.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT14DETMIN",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "1.0",
+      "volume_24h": "3180.96",
+      "close_time": "2026-10-17T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT14PHXSAS-SAS11",
+      "title": "San Antonio wins by over 10.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT14PHXSAS",
+      "yes_ask_cents": "43.0",
+      "no_ask_cents": "59.0",
+      "spread_cents": "2.0",
+      "volume_24h": "3074.71",
+      "close_time": "2026-10-17T00:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT14CHABOS-BOS7",
       "title": "Boston wins by over 6.5 points",
       "event_ticker": "KXNBASPREAD-26OCT14CHABOS",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "50.0",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "48.0",
       "spread_cents": "2.0",
-      "volume_24h": "2172.01",
+      "volume_24h": "2367.56",
       "close_time": "2026-10-16T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT14DENLAC-DEN3",
+      "title": "Denver wins by over 2.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT14DENLAC",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "2.0",
+      "volume_24h": "2174.93",
+      "close_time": "2026-10-17T02:30:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT14CHABOS-BOS9",
       "title": "Boston wins by over 8.5 points",
       "event_ticker": "KXNBASPREAD-26OCT14CHABOS",
-      "yes_ask_cents": "46.0",
+      "yes_ask_cents": "47.0",
       "no_ask_cents": "55.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "1947.31",
       "close_time": "2026-10-16T23:30:00Z"
     },
@@ -188,7 +198,7 @@
       "yes_ask_cents": "52.0",
       "no_ask_cents": "50.0",
       "spread_cents": "2.0",
-      "volume_24h": "1628.82",
+      "volume_24h": "1670.66",
       "close_time": "2026-10-16T23:30:00Z"
     },
     {
@@ -198,18 +208,18 @@
       "yes_ask_cents": "58.0",
       "no_ask_cents": "44.0",
       "spread_cents": "2.0",
-      "volume_24h": "1495.0",
+      "volume_24h": "1503.37",
       "close_time": "2026-10-17T00:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT14PHXSAS-SAS23",
-      "title": "San Antonio wins by over 22.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT14PHXSAS",
-      "yes_ask_cents": "15.0",
-      "no_ask_cents": "88.0",
-      "spread_cents": "3.0",
-      "volume_24h": "950.82",
-      "close_time": "2026-10-17T00:00:00Z"
+      "ticker": "KXNBASPREAD-26OCT14CHABOS-BOS2",
+      "title": "Boston wins by over 1.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT14CHABOS",
+      "yes_ask_cents": "71.0",
+      "no_ask_cents": "31.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1181.28",
+      "close_time": "2026-10-16T23:30:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT14BKNMIA-234",
@@ -218,17 +228,17 @@
       "yes_ask_cents": "49.0",
       "no_ask_cents": "53.0",
       "spread_cents": "2.0",
-      "volume_24h": "932.15",
+      "volume_24h": "1008.97",
       "close_time": "2026-10-16T23:30:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT14PHXSAS-SAS10",
-      "title": "San Antonio wins by over 9.5 points",
+      "ticker": "KXNBASPREAD-26OCT14PHXSAS-SAS23",
+      "title": "San Antonio wins by over 22.5 points",
       "event_ticker": "KXNBASPREAD-26OCT14PHXSAS",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "1.0",
-      "volume_24h": "897.27",
+      "yes_ask_cents": "15.0",
+      "no_ask_cents": "87.0",
+      "spread_cents": "2.0",
+      "volume_24h": "950.82",
       "close_time": "2026-10-17T00:00:00Z"
     },
     {
@@ -236,19 +246,39 @@
       "title": "Boston wins by over 16.5 points",
       "event_ticker": "KXNBASPREAD-26OCT14CHABOS",
       "yes_ask_cents": "24.0",
-      "no_ask_cents": "80.0",
-      "spread_cents": "4.0",
-      "volume_24h": "871.35",
+      "no_ask_cents": "79.0",
+      "spread_cents": "3.0",
+      "volume_24h": "918.82",
+      "close_time": "2026-10-16T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT14PHXSAS-SAS10",
+      "title": "San Antonio wins by over 9.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT14PHXSAS",
+      "yes_ask_cents": "46.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "1.0",
+      "volume_24h": "915.89",
+      "close_time": "2026-10-17T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT14CHABOS-229",
+      "title": "Full Game: Over 228.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT14CHABOS",
+      "yes_ask_cents": "43.0",
+      "no_ask_cents": "59.0",
+      "spread_cents": "2.0",
+      "volume_24h": "831.55",
       "close_time": "2026-10-16T23:30:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT14CHABOS-BOS21",
       "title": "Boston wins by over 20.5 points",
       "event_ticker": "KXNBASPREAD-26OCT14CHABOS",
-      "yes_ask_cents": "16.0",
+      "yes_ask_cents": "17.0",
       "no_ask_cents": "87.0",
-      "spread_cents": "3.0",
-      "volume_24h": "733.65",
+      "spread_cents": "4.0",
+      "volume_24h": "789.24",
       "close_time": "2026-10-16T23:30:00Z"
     },
     {
@@ -268,8 +298,18 @@
       "yes_ask_cents": "6.0",
       "no_ask_cents": "95.0",
       "spread_cents": "1.0",
-      "volume_24h": "635.0",
+      "volume_24h": "655.11",
       "close_time": "2026-10-16T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT14DENLAC-224",
+      "title": "Full Game: Over 223.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT14DENLAC",
+      "yes_ask_cents": "56.0",
+      "no_ask_cents": "46.0",
+      "spread_cents": "2.0",
+      "volume_24h": "629.14",
+      "close_time": "2026-10-17T02:30:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT14DETMIN-DET17",
@@ -280,16 +320,6 @@
       "spread_cents": "2.0",
       "volume_24h": "609.7",
       "close_time": "2026-10-17T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT14CHABOS-229",
-      "title": "Full Game: Over 228.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT14CHABOS",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "60.0",
-      "spread_cents": "1.0",
-      "volume_24h": "588.53",
-      "close_time": "2026-10-16T23:30:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT14BKNMIA-MIA9",
@@ -305,19 +335,19 @@
       "ticker": "KXNBASPREAD-26OCT14CHABOS-BOS10",
       "title": "Boston wins by over 9.5 points",
       "event_ticker": "KXNBASPREAD-26OCT14CHABOS",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "61.0",
+      "yes_ask_cents": "44.0",
+      "no_ask_cents": "60.0",
       "spread_cents": "4.0",
-      "volume_24h": "539.2",
+      "volume_24h": "550.38",
       "close_time": "2026-10-16T23:30:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT14CHIMIL-CHI12",
       "title": "Chicago wins by over 11.5 points",
       "event_ticker": "KXNBASPREAD-26OCT14CHIMIL",
-      "yes_ask_cents": "22.0",
+      "yes_ask_cents": "21.0",
       "no_ask_cents": "81.0",
-      "spread_cents": "3.0",
+      "spread_cents": "2.0",
       "volume_24h": "500.0",
       "close_time": "2026-10-17T00:00:00Z"
     },
@@ -338,7 +368,7 @@
       "yes_ask_cents": "45.0",
       "no_ask_cents": "57.0",
       "spread_cents": "2.0",
-      "volume_24h": "471.43",
+      "volume_24h": "481.9",
       "close_time": "2026-10-16T23:30:00Z"
     },
     {
@@ -346,18 +376,18 @@
       "title": "Full Game: Over 228.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT14DETMIN",
       "yes_ask_cents": "48.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "1.0",
-      "volume_24h": "439.25",
+      "no_ask_cents": "54.0",
+      "spread_cents": "2.0",
+      "volume_24h": "457.51",
       "close_time": "2026-10-17T00:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT14DETMIN-DET9",
       "title": "Detroit wins by over 8.5 points",
       "event_ticker": "KXNBASPREAD-26OCT14DETMIN",
-      "yes_ask_cents": "22.0",
+      "yes_ask_cents": "21.0",
       "no_ask_cents": "81.0",
-      "spread_cents": "3.0",
+      "spread_cents": "2.0",
       "volume_24h": "397.99",
       "close_time": "2026-10-17T00:00:00Z"
     },
@@ -375,10 +405,10 @@
       "ticker": "KXNBASPREAD-26OCT14PHXSAS-SAS9",
       "title": "San Antonio wins by over 8.5 points",
       "event_ticker": "KXNBASPREAD-26OCT14PHXSAS",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "51.0",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "52.0",
       "spread_cents": "2.0",
-      "volume_24h": "382.0",
+      "volume_24h": "393.57",
       "close_time": "2026-10-17T00:00:00Z"
     },
     {
@@ -386,8 +416,8 @@
       "title": "Full Game: Over 204.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT14CHABOS",
       "yes_ask_cents": "90.0",
-      "no_ask_cents": "13.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "12.0",
+      "spread_cents": "2.0",
       "volume_24h": "345.2",
       "close_time": "2026-10-16T23:30:00Z"
     },
@@ -395,9 +425,9 @@
       "ticker": "KXNBASPREAD-26OCT14DETMIN-MIN12",
       "title": "Minnesota wins by over 11.5 points",
       "event_ticker": "KXNBASPREAD-26OCT14DETMIN",
-      "yes_ask_cents": "27.0",
-      "no_ask_cents": "76.0",
-      "spread_cents": "3.0",
+      "yes_ask_cents": "25.0",
+      "no_ask_cents": "77.0",
+      "spread_cents": "2.0",
       "volume_24h": "344.94",
       "close_time": "2026-10-17T00:00:00Z"
     },
@@ -406,8 +436,8 @@
       "title": "Dallas wins by over 21.5 points",
       "event_ticker": "KXNBASPREAD-26OCT14NOPDAL",
       "yes_ask_cents": "8.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "1.0",
       "volume_24h": "341.81",
       "close_time": "2026-10-17T00:00:00Z"
     },
@@ -422,12 +452,22 @@
       "close_time": "2026-10-17T00:00:00Z"
     },
     {
+      "ticker": "KXNBATOTAL-26OCT14CHABOS-223",
+      "title": "Full Game: Over 222.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT14CHABOS",
+      "yes_ask_cents": "58.0",
+      "no_ask_cents": "43.0",
+      "spread_cents": "1.0",
+      "volume_24h": "322.65",
+      "close_time": "2026-10-16T23:30:00Z"
+    },
+    {
       "ticker": "KXNBASPREAD-26OCT14CHIMIL-MIL19",
       "title": "Milwaukee wins by over 18.5 points",
       "event_ticker": "KXNBASPREAD-26OCT14CHIMIL",
-      "yes_ask_cents": "9.0",
+      "yes_ask_cents": "8.0",
       "no_ask_cents": "93.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "309.35",
       "close_time": "2026-10-17T00:00:00Z"
     },
@@ -435,9 +475,9 @@
       "ticker": "KXNBASPREAD-26OCT14DETMIN-DET15",
       "title": "Detroit wins by over 14.5 points",
       "event_ticker": "KXNBASPREAD-26OCT14DETMIN",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "5.0",
+      "yes_ask_cents": "10.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "2.0",
       "volume_24h": "309.0",
       "close_time": "2026-10-17T00:00:00Z"
     },
@@ -445,81 +485,41 @@
       "ticker": "KXNBATOTAL-26OCT14CHABOS-235",
       "title": "Full Game: Over 234.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT14CHABOS",
-      "yes_ask_cents": "29.0",
-      "no_ask_cents": "73.0",
-      "spread_cents": "2.0",
-      "volume_24h": "307.58",
+      "yes_ask_cents": "31.0",
+      "no_ask_cents": "72.0",
+      "spread_cents": "3.0",
+      "volume_24h": "308.58",
       "close_time": "2026-10-16T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT14DENLAC-DEN3",
-      "title": "Denver wins by over 2.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT14DENLAC",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "2.0",
-      "volume_24h": "305.51",
-      "close_time": "2026-10-17T02:30:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT14NOPDAL-DAL20",
       "title": "Dallas wins by over 19.5 points",
       "event_ticker": "KXNBASPREAD-26OCT14NOPDAL",
-      "yes_ask_cents": "9.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "1.0",
-      "volume_24h": "305.0",
-      "close_time": "2026-10-17T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT14DENLAC-DEN4",
-      "title": "Denver wins by over 3.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT14DENLAC",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "2.0",
-      "volume_24h": "300.0",
-      "close_time": "2026-10-17T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT14DETMIN-MIN20",
-      "title": "Minnesota wins by over 19.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT14DETMIN",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "5.0",
-      "volume_24h": "294.0",
-      "close_time": "2026-10-17T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT14CHABOS-223",
-      "title": "Full Game: Over 222.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT14CHABOS",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "1.0",
-      "volume_24h": "291.13",
-      "close_time": "2026-10-16T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT14CHIMIL-CHI18",
-      "title": "Chicago wins by over 17.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT14CHIMIL",
       "yes_ask_cents": "12.0",
-      "no_ask_cents": "89.0",
-      "spread_cents": "1.0",
-      "volume_24h": "287.19",
+      "no_ask_cents": "91.0",
+      "spread_cents": "3.0",
+      "volume_24h": "306.0",
       "close_time": "2026-10-17T00:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT14CHABOS-BOS8",
       "title": "Boston wins by over 7.5 points",
       "event_ticker": "KXNBASPREAD-26OCT14CHABOS",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "3.0",
-      "volume_24h": "266.79",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "2.0",
+      "volume_24h": "303.99",
       "close_time": "2026-10-16T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT14DENLAC-DEN4",
+      "title": "Denver wins by over 3.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT14DENLAC",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "3.0",
+      "volume_24h": "300.0",
+      "close_time": "2026-10-17T02:30:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
