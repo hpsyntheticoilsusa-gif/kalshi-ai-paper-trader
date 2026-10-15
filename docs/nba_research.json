@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-15T09:44:17.365777+00:00",
+  "generated_utc": "2026-10-15T10:44:44.722344+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
   "qualifying_nba_markets": 12,
@@ -171,11 +171,21 @@
       "ticker": "KXNBASPREAD-26OCT15TORNYK-NYK6",
       "title": "New York wins by over 5.5 points",
       "event_ticker": "KXNBASPREAD-26OCT15TORNYK",
-      "yes_ask_cents": "49.0",
+      "yes_ask_cents": "50.0",
       "no_ask_cents": "53.0",
-      "spread_cents": "2.0",
-      "volume_24h": "981.13",
+      "spread_cents": "3.0",
+      "volume_24h": "999.39",
       "close_time": "2026-10-17T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT15OKCHOU-224",
+      "title": "Full Game: Over 223.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT15OKCHOU",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "1.0",
+      "volume_24h": "377.84",
+      "close_time": "2026-10-18T00:30:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT15OKCHOU-204",
@@ -198,22 +208,12 @@
       "close_time": "2026-10-17T23:30:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26OCT15OKCHOU-224",
-      "title": "Full Game: Over 223.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT15OKCHOU",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "1.0",
-      "volume_24h": "271.84",
-      "close_time": "2026-10-18T00:30:00Z"
-    },
-    {
       "ticker": "KXNBATOTAL-26OCT15TORNYK-226",
       "title": "Full Game: Over 225.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT15TORNYK",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "3.0",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "1.0",
       "volume_24h": "259.41",
       "close_time": "2026-10-17T23:30:00Z"
     },
@@ -241,9 +241,9 @@
       "ticker": "KXNBASPREAD-26OCT15TORNYK-TOR14",
       "title": "Toronto wins by over 13.5 points",
       "event_ticker": "KXNBASPREAD-26OCT15TORNYK",
-      "yes_ask_cents": "13.0",
+      "yes_ask_cents": "12.0",
       "no_ask_cents": "92.0",
-      "spread_cents": "5.0",
+      "spread_cents": "4.0",
       "volume_24h": "196.0",
       "close_time": "2026-10-17T23:30:00Z"
     },
