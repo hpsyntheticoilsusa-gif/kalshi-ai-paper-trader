@@ -44,6 +44,8 @@ jobs:
         run: python research_directions.py
       - name: Generate Android app icons
         run: python generate_pwa_icons.py
+      - name: Verify generated dashboard and research data
+        run: python -m unittest -v test_generated_site.py
       - name: Save newest market snapshot
         run: |
           git config user.name "github-actions[bot]"
