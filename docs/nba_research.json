@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-15T06:54:04.675028+00:00",
+  "generated_utc": "2026-10-15T07:48:53.297786+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 5,
+  "qualifying_nba_markets": 6,
   "scoreboard_games": [
     {
       "event_id": "401898404",
@@ -168,42 +168,32 @@
   ],
   "market_samples": [
     {
-      "ticker": "KXNBASPREAD-26OCT15TORNYK-NYK6",
-      "title": "New York wins by over 5.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT15TORNYK",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "3.0",
-      "volume_24h": "981.13",
+      "ticker": "KXNBATOTAL-26OCT15TORNYK-226",
+      "title": "Full Game: Over 225.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT15TORNYK",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "6.0",
+      "volume_24h": "259.41",
       "close_time": "2026-10-17T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT15OKCHOU-204",
-      "title": "Full Game: Over 203.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT15OKCHOU",
-      "yes_ask_cents": "90.0",
-      "no_ask_cents": "13.0",
-      "spread_cents": "3.0",
-      "volume_24h": "307.96",
-      "close_time": "2026-10-18T00:30:00Z"
     },
     {
       "ticker": "KXNBAGAME-26OCT21MINMIA-MIN",
       "title": "Minnesota wins",
       "event_ticker": "KXNBAGAME-26OCT21MINMIA",
       "yes_ask_cents": "49.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "3.0",
-      "volume_24h": "196.47",
+      "no_ask_cents": "55.0",
+      "spread_cents": "4.0",
+      "volume_24h": "197.43",
       "close_time": "2026-10-23T23:30:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT15OKCHOU-222",
       "title": "Full Game: Over 221.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT15OKCHOU",
-      "yes_ask_cents": "60.0",
-      "no_ask_cents": "45.0",
-      "spread_cents": "5.0",
+      "yes_ask_cents": "61.0",
+      "no_ask_cents": "46.0",
+      "spread_cents": "7.0",
       "volume_24h": "132.51",
       "close_time": "2026-10-18T00:30:00Z"
     },
@@ -212,10 +202,30 @@
       "title": "Indiana wins",
       "event_ticker": "KXNBAGAME-26OCT21INDNOP",
       "yes_ask_cents": "61.0",
-      "no_ask_cents": "43.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "44.0",
+      "spread_cents": "5.0",
       "volume_24h": "119.0",
       "close_time": "2026-10-24T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT15OKCHOU-HOU16",
+      "title": "Houston wins by over 15.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT15OKCHOU",
+      "yes_ask_cents": "10.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "2.0",
+      "volume_24h": "113.0",
+      "close_time": "2026-10-18T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT15TORNYK-TOR16",
+      "title": "Toronto wins by over 15.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT15TORNYK",
+      "yes_ask_cents": "9.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "1.0",
+      "volume_24h": "100.0",
+      "close_time": "2026-10-17T23:30:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
