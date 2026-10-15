@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-15T02:43:07.862871+00:00",
+  "generated_utc": "2026-10-15T03:43:03.238348+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 8,
+  "qualifying_nba_markets": 3,
   "scoreboard_games": [
     {
       "event_id": "401898404",
@@ -77,7 +77,7 @@
       "event_id": "401901825",
       "date": "2026-10-15T00:00Z",
       "name": "New Orleans Pelicans at Dallas Mavericks",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "season_type": 1,
       "teams": [
         {
@@ -92,7 +92,7 @@
           "team": "New Orleans Pelicans",
           "abbreviation": "NO",
           "home_away": "away",
-          "score": "100"
+          "score": "101"
         }
       ]
     },
@@ -146,7 +146,7 @@
       "event_id": "401918011",
       "date": "2026-10-15T02:30Z",
       "name": "Denver Nuggets at LA Clippers",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "season_type": 1,
       "teams": [
         {
@@ -154,88 +154,28 @@
           "team": "LA Clippers",
           "abbreviation": "LAC",
           "home_away": "home",
-          "score": "0"
+          "score": "58"
         },
         {
           "team_id": "7",
           "team": "Denver Nuggets",
           "abbreviation": "DEN",
           "home_away": "away",
-          "score": "2"
+          "score": "55"
         }
       ]
     }
   ],
   "market_samples": [
     {
-      "ticker": "KXNBA1HTOTAL-26OCT14DENLAC-114",
-      "title": "1st Half: Over 113.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT14DENLAC",
-      "yes_ask_cents": "33.0",
-      "no_ask_cents": "72.0",
-      "spread_cents": "5.0",
-      "volume_24h": "7680.93",
-      "close_time": "2026-10-17T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26OCT14DENLAC-116",
-      "title": "1st Half: Over 115.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT14DENLAC",
-      "yes_ask_cents": "25.0",
-      "no_ask_cents": "79.0",
-      "spread_cents": "4.0",
-      "volume_24h": "7231.11",
-      "close_time": "2026-10-17T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26OCT14DENLAC-112",
-      "title": "1st Half: Over 111.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT14DENLAC",
-      "yes_ask_cents": "39.0",
-      "no_ask_cents": "64.0",
-      "spread_cents": "3.0",
-      "volume_24h": "6398.56",
-      "close_time": "2026-10-17T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBA1HSPREAD-26OCT14DENLAC-LAC4",
-      "title": "Los Angeles C wins the 1st half by over 3.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26OCT14DENLAC",
-      "yes_ask_cents": "27.0",
-      "no_ask_cents": "80.0",
-      "spread_cents": "7.0",
-      "volume_24h": "901.93",
-      "close_time": "2026-10-17T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26OCT14DENLAC-118",
-      "title": "1st Half: Over 117.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT14DENLAC",
-      "yes_ask_cents": "26.0",
-      "no_ask_cents": "78.0",
-      "spread_cents": "4.0",
-      "volume_24h": "504.65",
-      "close_time": "2026-10-17T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBA1HSPREAD-26OCT14DENLAC-LAC8",
-      "title": "Los Angeles C wins the 1st half by over 7.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26OCT14DENLAC",
-      "yes_ask_cents": "18.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "8.0",
-      "volume_24h": "304.01",
-      "close_time": "2026-10-17T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBAGAME-26OCT21INDNOP-IND",
-      "title": "Indiana wins",
-      "event_ticker": "KXNBAGAME-26OCT21INDNOP",
-      "yes_ask_cents": "61.0",
-      "no_ask_cents": "43.0",
-      "spread_cents": "4.0",
-      "volume_24h": "119.0",
-      "close_time": "2026-10-24T00:00:00Z"
+      "ticker": "KXNBATOTAL-26OCT15OKCHOU-204",
+      "title": "Full Game: Over 203.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT15OKCHOU",
+      "yes_ask_cents": "87.0",
+      "no_ask_cents": "14.0",
+      "spread_cents": "1.0",
+      "volume_24h": "272.0",
+      "close_time": "2026-10-18T00:30:00Z"
     },
     {
       "ticker": "KXNBAGAME-26OCT21MINMIA-MIN",
@@ -244,8 +184,18 @@
       "yes_ask_cents": "50.0",
       "no_ask_cents": "54.0",
       "spread_cents": "4.0",
-      "volume_24h": "101.21",
+      "volume_24h": "182.97",
       "close_time": "2026-10-23T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBAGAME-26OCT21INDNOP-IND",
+      "title": "Indiana wins",
+      "event_ticker": "KXNBAGAME-26OCT21INDNOP",
+      "yes_ask_cents": "60.0",
+      "no_ask_cents": "43.0",
+      "spread_cents": "3.0",
+      "volume_24h": "119.0",
+      "close_time": "2026-10-24T00:00:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
