@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-15T03:43:03.238348+00:00",
+  "generated_utc": "2026-10-15T04:42:09.766909+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
   "qualifying_nba_markets": 3,
@@ -146,7 +146,7 @@
       "event_id": "401918011",
       "date": "2026-10-15T02:30Z",
       "name": "Denver Nuggets at LA Clippers",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "season_type": 1,
       "teams": [
         {
@@ -154,14 +154,14 @@
           "team": "LA Clippers",
           "abbreviation": "LAC",
           "home_away": "home",
-          "score": "58"
+          "score": "104"
         },
         {
           "team_id": "7",
           "team": "Denver Nuggets",
           "abbreviation": "DEN",
           "home_away": "away",
-          "score": "55"
+          "score": "90"
         }
       ]
     }
@@ -171,10 +171,10 @@
       "ticker": "KXNBATOTAL-26OCT15OKCHOU-204",
       "title": "Full Game: Over 203.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT15OKCHOU",
-      "yes_ask_cents": "87.0",
-      "no_ask_cents": "14.0",
-      "spread_cents": "1.0",
-      "volume_24h": "272.0",
+      "yes_ask_cents": "90.0",
+      "no_ask_cents": "13.0",
+      "spread_cents": "3.0",
+      "volume_24h": "307.96",
       "close_time": "2026-10-18T00:30:00Z"
     },
     {
