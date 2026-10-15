@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-15T07:48:53.297786+00:00",
+  "generated_utc": "2026-10-15T08:46:11.512315+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 6,
+  "qualifying_nba_markets": 4,
   "scoreboard_games": [
     {
       "event_id": "401898404",
@@ -172,20 +172,10 @@
       "title": "Full Game: Over 225.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT15TORNYK",
       "yes_ask_cents": "53.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "6.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "7.0",
       "volume_24h": "259.41",
       "close_time": "2026-10-17T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBAGAME-26OCT21MINMIA-MIN",
-      "title": "Minnesota wins",
-      "event_ticker": "KXNBAGAME-26OCT21MINMIA",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "4.0",
-      "volume_24h": "197.43",
-      "close_time": "2026-10-23T23:30:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT15OKCHOU-222",
@@ -198,22 +188,12 @@
       "close_time": "2026-10-18T00:30:00Z"
     },
     {
-      "ticker": "KXNBAGAME-26OCT21INDNOP-IND",
-      "title": "Indiana wins",
-      "event_ticker": "KXNBAGAME-26OCT21INDNOP",
-      "yes_ask_cents": "61.0",
-      "no_ask_cents": "44.0",
-      "spread_cents": "5.0",
-      "volume_24h": "119.0",
-      "close_time": "2026-10-24T00:00:00Z"
-    },
-    {
       "ticker": "KXNBASPREAD-26OCT15OKCHOU-HOU16",
       "title": "Houston wins by over 15.5 points",
       "event_ticker": "KXNBASPREAD-26OCT15OKCHOU",
       "yes_ask_cents": "10.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "3.0",
       "volume_24h": "113.0",
       "close_time": "2026-10-18T00:30:00Z"
     },
@@ -221,9 +201,9 @@
       "ticker": "KXNBASPREAD-26OCT15TORNYK-TOR16",
       "title": "Toronto wins by over 15.5 points",
       "event_ticker": "KXNBASPREAD-26OCT15TORNYK",
-      "yes_ask_cents": "9.0",
+      "yes_ask_cents": "10.0",
       "no_ask_cents": "92.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "100.0",
       "close_time": "2026-10-17T23:30:00Z"
     }
