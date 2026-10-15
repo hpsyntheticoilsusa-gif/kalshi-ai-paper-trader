@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-15T05:42:19.510559+00:00",
+  "generated_utc": "2026-10-15T06:54:04.675028+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 4,
+  "qualifying_nba_markets": 5,
   "scoreboard_games": [
     {
       "event_id": "401898404",
@@ -168,6 +168,16 @@
   ],
   "market_samples": [
     {
+      "ticker": "KXNBASPREAD-26OCT15TORNYK-NYK6",
+      "title": "New York wins by over 5.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT15TORNYK",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "3.0",
+      "volume_24h": "981.13",
+      "close_time": "2026-10-17T23:30:00Z"
+    },
+    {
       "ticker": "KXNBATOTAL-26OCT15OKCHOU-204",
       "title": "Full Game: Over 203.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT15OKCHOU",
@@ -181,10 +191,10 @@
       "ticker": "KXNBAGAME-26OCT21MINMIA-MIN",
       "title": "Minnesota wins",
       "event_ticker": "KXNBAGAME-26OCT21MINMIA",
-      "yes_ask_cents": "50.0",
+      "yes_ask_cents": "49.0",
       "no_ask_cents": "54.0",
-      "spread_cents": "4.0",
-      "volume_24h": "192.63",
+      "spread_cents": "3.0",
+      "volume_24h": "196.47",
       "close_time": "2026-10-23T23:30:00Z"
     },
     {
@@ -192,8 +202,8 @@
       "title": "Full Game: Over 221.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT15OKCHOU",
       "yes_ask_cents": "60.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "6.0",
+      "no_ask_cents": "45.0",
+      "spread_cents": "5.0",
       "volume_24h": "132.51",
       "close_time": "2026-10-18T00:30:00Z"
     },
@@ -201,9 +211,9 @@
       "ticker": "KXNBAGAME-26OCT21INDNOP-IND",
       "title": "Indiana wins",
       "event_ticker": "KXNBAGAME-26OCT21INDNOP",
-      "yes_ask_cents": "60.0",
+      "yes_ask_cents": "61.0",
       "no_ask_cents": "43.0",
-      "spread_cents": "3.0",
+      "spread_cents": "4.0",
       "volume_24h": "119.0",
       "close_time": "2026-10-24T00:00:00Z"
     }
