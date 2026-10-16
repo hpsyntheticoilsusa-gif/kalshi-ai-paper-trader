@@ -1,14 +1,14 @@
 {
-  "generated_utc": "2026-10-16T01:40:42.692547+00:00",
+  "generated_utc": "2026-10-16T02:42:29.462494+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 2,
+  "qualifying_nba_markets": 4,
   "scoreboard_games": [
     {
       "event_id": "401908945",
       "date": "2026-10-15T23:30Z",
       "name": "Toronto Raptors at New York Knicks",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "season_type": 1,
       "teams": [
         {
@@ -16,14 +16,14 @@
           "team": "New York Knicks",
           "abbreviation": "NY",
           "home_away": "home",
-          "score": "92"
+          "score": "122"
         },
         {
           "team_id": "28",
           "team": "Toronto Raptors",
           "abbreviation": "TOR",
           "home_away": "away",
-          "score": "89"
+          "score": "120"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "event_id": "401908622",
       "date": "2026-10-16T00:30Z",
       "name": "Oklahoma City Thunder at Houston Rockets",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_FINAL",
       "season_type": 1,
       "teams": [
         {
@@ -39,38 +39,58 @@
           "team": "Houston Rockets",
           "abbreviation": "HOU",
           "home_away": "home",
-          "score": "54"
+          "score": "116"
         },
         {
           "team_id": "25",
           "team": "Oklahoma City Thunder",
           "abbreviation": "OKC",
           "home_away": "away",
-          "score": "47"
+          "score": "89"
         }
       ]
     }
   ],
   "market_samples": [
     {
-      "ticker": "KXNBATOTAL-26OCT15TORNYK-248",
-      "title": "Full Game: Over 247.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT15TORNYK",
-      "yes_ask_cents": "9.0",
-      "no_ask_cents": "96.0",
-      "spread_cents": "5.0",
-      "volume_24h": "2291.43",
-      "close_time": "2026-10-17T23:30:00Z"
+      "ticker": "KXNBASPREAD-26OCT16UTAPHX-UTA16",
+      "title": "Utah wins by over 15.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT16UTAPHX",
+      "yes_ask_cents": "10.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "3.0",
+      "volume_24h": "100.0",
+      "close_time": "2026-10-19T02:00:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26OCT15TORNYK-250",
-      "title": "Full Game: Over 249.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT15TORNYK",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "97.0",
+      "ticker": "KXNBASPREAD-26OCT16PORGSW-POR20",
+      "title": "Portland wins by over 19.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT16PORGSW",
+      "yes_ask_cents": "12.0",
+      "no_ask_cents": "91.0",
+      "spread_cents": "3.0",
+      "volume_24h": "100.0",
+      "close_time": "2026-10-19T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT16PORGSW-GSW19",
+      "title": "Golden State wins by over 18.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT16PORGSW",
+      "yes_ask_cents": "11.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "3.0",
+      "volume_24h": "100.0",
+      "close_time": "2026-10-19T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT16DENLAL-DEN15",
+      "title": "Denver wins by over 14.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT16DENLAL",
+      "yes_ask_cents": "11.0",
+      "no_ask_cents": "93.0",
       "spread_cents": "4.0",
-      "volume_24h": "1633.33",
-      "close_time": "2026-10-17T23:30:00Z"
+      "volume_24h": "100.0",
+      "close_time": "2026-10-19T02:30:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
