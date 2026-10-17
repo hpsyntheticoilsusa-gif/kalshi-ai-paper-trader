@@ -1,282 +1,75 @@
 {
-  "generated_utc": "2026-10-17T14:38:40.780533+00:00",
+  "generated_utc": "2026-10-17T15:38:34.970316+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 295,
+  "qualifying_nba_markets": 298,
   "scoreboard_games": [
     {
-      "event_id": "401898406",
-      "date": "2026-10-16T23:00Z",
-      "name": "Miami Heat at Orlando Magic",
-      "status": "STATUS_FINAL",
-      "season_type": 1,
-      "teams": [
-        {
-          "team_id": "19",
-          "team": "Orlando Magic",
-          "abbreviation": "ORL",
-          "home_away": "home",
-          "score": "136"
-        },
-        {
-          "team_id": "14",
-          "team": "Miami Heat",
-          "abbreviation": "MIA",
-          "home_away": "away",
-          "score": "115"
-        }
-      ]
-    },
-    {
-      "event_id": "401898407",
-      "date": "2026-10-16T23:00Z",
-      "name": "Boston Celtics at Philadelphia 76ers",
-      "status": "STATUS_FINAL",
-      "season_type": 1,
-      "teams": [
-        {
-          "team_id": "20",
-          "team": "Philadelphia 76ers",
-          "abbreviation": "PHI",
-          "home_away": "home",
-          "score": "120"
-        },
-        {
-          "team_id": "2",
-          "team": "Boston Celtics",
-          "abbreviation": "BOS",
-          "home_away": "away",
-          "score": "125"
-        }
-      ]
-    },
-    {
-      "event_id": "401908946",
-      "date": "2026-10-16T23:00Z",
-      "name": "Toronto Raptors at Detroit Pistons",
-      "status": "STATUS_FINAL",
-      "season_type": 1,
+      "event_id": "401909088",
+      "date": "2026-10-20T19:00Z",
+      "name": "Boston Celtics at Detroit Pistons",
+      "status": "STATUS_SCHEDULED",
+      "season_type": 2,
       "teams": [
         {
           "team_id": "8",
           "team": "Detroit Pistons",
           "abbreviation": "DET",
           "home_away": "home",
-          "score": "129"
+          "score": "0"
         },
         {
-          "team_id": "28",
-          "team": "Toronto Raptors",
-          "abbreviation": "TOR",
+          "team_id": "2",
+          "team": "Boston Celtics",
+          "abbreviation": "BOS",
           "home_away": "away",
-          "score": "125"
+          "score": "0"
         }
       ]
     },
     {
-      "event_id": "401914126",
-      "date": "2026-10-16T23:00Z",
-      "name": "Milwaukee Bucks at Indiana Pacers",
-      "status": "STATUS_FINAL",
-      "season_type": 1,
+      "event_id": "401909089",
+      "date": "2026-10-20T23:00Z",
+      "name": "Philadelphia 76ers at New York Knicks",
+      "status": "STATUS_SCHEDULED",
+      "season_type": 2,
       "teams": [
         {
-          "team_id": "11",
-          "team": "Indiana Pacers",
-          "abbreviation": "IND",
+          "team_id": "18",
+          "team": "New York Knicks",
+          "abbreviation": "NY",
           "home_away": "home",
-          "score": "127"
+          "score": "0"
         },
         {
-          "team_id": "15",
-          "team": "Milwaukee Bucks",
-          "abbreviation": "MIL",
+          "team_id": "20",
+          "team": "Philadelphia 76ers",
+          "abbreviation": "PHI",
           "home_away": "away",
-          "score": "128"
+          "score": "0"
         }
       ]
     },
     {
-      "event_id": "401898408",
-      "date": "2026-10-17T00:00Z",
-      "name": "Atlanta Hawks at Dallas Mavericks",
-      "status": "STATUS_FINAL",
-      "season_type": 1,
-      "teams": [
-        {
-          "team_id": "6",
-          "team": "Dallas Mavericks",
-          "abbreviation": "DAL",
-          "home_away": "home",
-          "score": "111"
-        },
-        {
-          "team_id": "1",
-          "team": "Atlanta Hawks",
-          "abbreviation": "ATL",
-          "home_away": "away",
-          "score": "135"
-        }
-      ]
-    },
-    {
-      "event_id": "401898843",
-      "date": "2026-10-17T00:00Z",
-      "name": "Sacramento Kings at San Antonio Spurs",
-      "status": "STATUS_FINAL",
-      "season_type": 1,
+      "event_id": "401909090",
+      "date": "2026-10-21T01:30Z",
+      "name": "Oklahoma City Thunder at San Antonio Spurs",
+      "status": "STATUS_SCHEDULED",
+      "season_type": 2,
       "teams": [
         {
           "team_id": "24",
           "team": "San Antonio Spurs",
           "abbreviation": "SA",
           "home_away": "home",
-          "score": "126"
+          "score": "0"
         },
         {
-          "team_id": "23",
-          "team": "Sacramento Kings",
-          "abbreviation": "SAC",
+          "team_id": "25",
+          "team": "Oklahoma City Thunder",
+          "abbreviation": "OKC",
           "home_away": "away",
-          "score": "97"
-        }
-      ]
-    },
-    {
-      "event_id": "401901822",
-      "date": "2026-10-17T00:00Z",
-      "name": "Charlotte Hornets at Memphis Grizzlies",
-      "status": "STATUS_FINAL",
-      "season_type": 1,
-      "teams": [
-        {
-          "team_id": "29",
-          "team": "Memphis Grizzlies",
-          "abbreviation": "MEM",
-          "home_away": "home",
-          "score": "117"
-        },
-        {
-          "team_id": "30",
-          "team": "Charlotte Hornets",
-          "abbreviation": "CHA",
-          "home_away": "away",
-          "score": "98"
-        }
-      ]
-    },
-    {
-      "event_id": "401906509",
-      "date": "2026-10-17T00:00Z",
-      "name": "Washington Wizards at New Orleans Pelicans",
-      "status": "STATUS_FINAL",
-      "season_type": 1,
-      "teams": [
-        {
-          "team_id": "3",
-          "team": "New Orleans Pelicans",
-          "abbreviation": "NO",
-          "home_away": "home",
-          "score": "107"
-        },
-        {
-          "team_id": "27",
-          "team": "Washington Wizards",
-          "abbreviation": "WSH",
-          "home_away": "away",
-          "score": "106"
-        }
-      ]
-    },
-    {
-      "event_id": "401908943",
-      "date": "2026-10-17T00:00Z",
-      "name": "Minnesota Timberwolves at Chicago Bulls",
-      "status": "STATUS_FINAL",
-      "season_type": 1,
-      "teams": [
-        {
-          "team_id": "4",
-          "team": "Chicago Bulls",
-          "abbreviation": "CHI",
-          "home_away": "home",
-          "score": "133"
-        },
-        {
-          "team_id": "16",
-          "team": "Minnesota Timberwolves",
-          "abbreviation": "MIN",
-          "home_away": "away",
-          "score": "116"
-        }
-      ]
-    },
-    {
-      "event_id": "401898409",
-      "date": "2026-10-17T02:00Z",
-      "name": "Portland Trail Blazers at Golden State Warriors",
-      "status": "STATUS_FINAL",
-      "season_type": 1,
-      "teams": [
-        {
-          "team_id": "9",
-          "team": "Golden State Warriors",
-          "abbreviation": "GS",
-          "home_away": "home",
-          "score": "128"
-        },
-        {
-          "team_id": "22",
-          "team": "Portland Trail Blazers",
-          "abbreviation": "POR",
-          "home_away": "away",
-          "score": "118"
-        }
-      ]
-    },
-    {
-      "event_id": "401908948",
-      "date": "2026-10-17T02:00Z",
-      "name": "Utah Jazz at Phoenix Suns",
-      "status": "STATUS_FINAL",
-      "season_type": 1,
-      "teams": [
-        {
-          "team_id": "21",
-          "team": "Phoenix Suns",
-          "abbreviation": "PHX",
-          "home_away": "home",
-          "score": "116"
-        },
-        {
-          "team_id": "26",
-          "team": "Utah Jazz",
-          "abbreviation": "UTAH",
-          "home_away": "away",
-          "score": "119"
-        }
-      ]
-    },
-    {
-      "event_id": "401898719",
-      "date": "2026-10-17T02:30Z",
-      "name": "Denver Nuggets at Los Angeles Lakers",
-      "status": "STATUS_FINAL",
-      "season_type": 1,
-      "teams": [
-        {
-          "team_id": "13",
-          "team": "Los Angeles Lakers",
-          "abbreviation": "LAL",
-          "home_away": "home",
-          "score": "106"
-        },
-        {
-          "team_id": "7",
-          "team": "Denver Nuggets",
-          "abbreviation": "DEN",
-          "home_away": "away",
-          "score": "121"
+          "score": "0"
         }
       ]
     }
@@ -287,9 +80,9 @@
       "title": "LeBron James: 20+ points",
       "event_ticker": "KXNBAPTS-26OCT20PHINYK",
       "yes_ask_cents": "36.0",
-      "no_ask_cents": "65.0",
-      "spread_cents": "1.0",
-      "volume_24h": "35417.31",
+      "no_ask_cents": "68.0",
+      "spread_cents": "4.0",
+      "volume_24h": "35436.32",
       "close_time": "2026-10-22T23:00:00Z"
     },
     {
@@ -299,7 +92,7 @@
       "yes_ask_cents": "65.0",
       "no_ask_cents": "36.0",
       "spread_cents": "1.0",
-      "volume_24h": "25292.68",
+      "volume_24h": "25325.22",
       "close_time": "2026-10-22T23:00:00Z"
     },
     {
@@ -313,6 +106,16 @@
       "close_time": "2026-10-24T02:00:00Z"
     },
     {
+      "ticker": "KXNBASPREAD-26OCT20PHINYK-NYK6",
+      "title": "New York wins by over 5.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT20PHINYK",
+      "yes_ask_cents": "47.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "1.0",
+      "volume_24h": "2181.68",
+      "close_time": "2026-10-22T23:00:00Z"
+    },
+    {
       "ticker": "KXNBASPREAD-26OCT21ATLORL-ATL26",
       "title": "Atlanta wins by over 25.5 points",
       "event_ticker": "KXNBASPREAD-26OCT21ATLORL",
@@ -321,16 +124,6 @@
       "spread_cents": "4.0",
       "volume_24h": "2171.0",
       "close_time": "2026-10-23T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT20PHINYK-NYK6",
-      "title": "New York wins by over 5.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT20PHINYK",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "1.0",
-      "volume_24h": "2099.09",
-      "close_time": "2026-10-22T23:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT21GSWLAL-236",
@@ -346,9 +139,9 @@
       "ticker": "KXNBASPREAD-26OCT20PHINYK-NYK30",
       "title": "New York wins by over 29.5 points",
       "event_ticker": "KXNBASPREAD-26OCT20PHINYK",
-      "yes_ask_cents": "6.0",
+      "yes_ask_cents": "5.0",
       "no_ask_cents": "97.0",
-      "spread_cents": "3.0",
+      "spread_cents": "2.0",
       "volume_24h": "1782.0",
       "close_time": "2026-10-22T23:00:00Z"
     },
@@ -357,8 +150,8 @@
       "title": "New York wins by over 31.5 points",
       "event_ticker": "KXNBASPREAD-26OCT20PHINYK",
       "yes_ask_cents": "3.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "98.0",
+      "spread_cents": "1.0",
       "volume_24h": "1722.0",
       "close_time": "2026-10-22T23:00:00Z"
     },
@@ -403,6 +196,16 @@
       "close_time": "2026-10-23T23:00:00Z"
     },
     {
+      "ticker": "KXNBAPTS-26OCT20PHINYK-NYKJBRUNSON11-25",
+      "title": "Jalen Brunson: 25+ points",
+      "event_ticker": "KXNBAPTS-26OCT20PHINYK",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "5.0",
+      "volume_24h": "1263.3",
+      "close_time": "2026-10-22T23:00:00Z"
+    },
+    {
       "ticker": "KXNBASPREAD-26OCT21GSWLAL-GSW21",
       "title": "Golden State wins by over 20.5 points",
       "event_ticker": "KXNBASPREAD-26OCT21GSWLAL",
@@ -411,16 +214,6 @@
       "spread_cents": "1.0",
       "volume_24h": "1238.85",
       "close_time": "2026-10-24T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT20PHINYK-NYKJBRUNSON11-25",
-      "title": "Jalen Brunson: 25+ points",
-      "event_ticker": "KXNBAPTS-26OCT20PHINYK",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "4.0",
-      "volume_24h": "1224.64",
-      "close_time": "2026-10-22T23:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT21GSWLAL-LAL28",
@@ -446,9 +239,9 @@
       "ticker": "KXNBASPREAD-26OCT21INDNOP-IND30",
       "title": "Indiana wins by over 29.5 points",
       "event_ticker": "KXNBASPREAD-26OCT21INDNOP",
-      "yes_ask_cents": "6.0",
+      "yes_ask_cents": "5.0",
       "no_ask_cents": "98.0",
-      "spread_cents": "4.0",
+      "spread_cents": "3.0",
       "volume_24h": "1172.0",
       "close_time": "2026-10-24T00:00:00Z"
     },
@@ -586,9 +379,9 @@
       "ticker": "KXNBASPREAD-26OCT21MILWAS-WAS32",
       "title": "Washington wins by over 31.5 points",
       "event_ticker": "KXNBASPREAD-26OCT21MILWAS",
-      "yes_ask_cents": "8.0",
+      "yes_ask_cents": "7.0",
       "no_ask_cents": "98.0",
-      "spread_cents": "6.0",
+      "spread_cents": "5.0",
       "volume_24h": "963.0",
       "close_time": "2026-10-23T23:00:00Z"
     },
@@ -606,9 +399,9 @@
       "ticker": "KXNBASPREAD-26OCT21ATLORL-ATL22",
       "title": "Atlanta wins by over 21.5 points",
       "event_ticker": "KXNBASPREAD-26OCT21ATLORL",
-      "yes_ask_cents": "5.0",
+      "yes_ask_cents": "7.0",
       "no_ask_cents": "96.0",
-      "spread_cents": "1.0",
+      "spread_cents": "3.0",
       "volume_24h": "952.0",
       "close_time": "2026-10-23T23:00:00Z"
     },
@@ -646,9 +439,9 @@
       "ticker": "KXNBASPREAD-26OCT21ATLORL-ATL20",
       "title": "Atlanta wins by over 19.5 points",
       "event_ticker": "KXNBASPREAD-26OCT21ATLORL",
-      "yes_ask_cents": "7.0",
+      "yes_ask_cents": "8.0",
       "no_ask_cents": "95.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "911.0",
       "close_time": "2026-10-23T23:00:00Z"
     },
@@ -663,6 +456,16 @@
       "close_time": "2026-10-23T23:00:00Z"
     },
     {
+      "ticker": "KXNBATOTAL-26OCT21CHABKN-252",
+      "title": "Full Game: Over 251.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT21CHABKN",
+      "yes_ask_cents": "8.0",
+      "no_ask_cents": "96.0",
+      "spread_cents": "4.0",
+      "volume_24h": "902.05",
+      "close_time": "2026-10-23T23:30:00Z"
+    },
+    {
       "ticker": "KXNBASPREAD-26OCT21PHXPOR-PHX23",
       "title": "Phoenix wins by over 22.5 points",
       "event_ticker": "KXNBASPREAD-26OCT21PHXPOR",
@@ -670,16 +473,6 @@
       "no_ask_cents": "98.0",
       "spread_cents": "3.0",
       "volume_24h": "891.0",
-      "close_time": "2026-10-24T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21GSWLAL-LAL7",
-      "title": "Los Angeles L wins by over 6.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21GSWLAL",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "2.0",
-      "volume_24h": "863.23",
       "close_time": "2026-10-24T02:00:00Z"
     }
   ],
