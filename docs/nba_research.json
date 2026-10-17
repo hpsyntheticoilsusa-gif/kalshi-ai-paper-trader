@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-17T17:37:23.456956+00:00",
+  "generated_utc": "2026-10-17T18:40:54.050497+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 300,
+  "qualifying_nba_markets": 301,
   "scoreboard_games": [
     {
       "event_id": "401909088",
@@ -79,10 +79,10 @@
       "ticker": "KXNBAPTS-26OCT20PHINYK-PHILJAMES23-20",
       "title": "LeBron James: 20+ points",
       "event_ticker": "KXNBAPTS-26OCT20PHINYK",
-      "yes_ask_cents": "37.0",
-      "no_ask_cents": "65.0",
-      "spread_cents": "2.0",
-      "volume_24h": "35551.99",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "64.0",
+      "spread_cents": "3.0",
+      "volume_24h": "35596.12",
       "close_time": "2026-10-22T23:00:00Z"
     },
     {
@@ -92,7 +92,7 @@
       "yes_ask_cents": "65.0",
       "no_ask_cents": "36.0",
       "spread_cents": "1.0",
-      "volume_24h": "25504.94",
+      "volume_24h": "25531.84",
       "close_time": "2026-10-22T23:00:00Z"
     },
     {
@@ -189,9 +189,9 @@
       "ticker": "KXNBASPREAD-26OCT21ATLORL-ORL27",
       "title": "Orlando wins by over 26.5 points",
       "event_ticker": "KXNBASPREAD-26OCT21ATLORL",
-      "yes_ask_cents": "6.0",
+      "yes_ask_cents": "5.0",
       "no_ask_cents": "97.0",
-      "spread_cents": "3.0",
+      "spread_cents": "2.0",
       "volume_24h": "1279.0",
       "close_time": "2026-10-23T23:00:00Z"
     },
@@ -199,9 +199,9 @@
       "ticker": "KXNBAPTS-26OCT20PHINYK-NYKJBRUNSON11-25",
       "title": "Jalen Brunson: 25+ points",
       "event_ticker": "KXNBAPTS-26OCT20PHINYK",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "2.0",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "1.0",
       "volume_24h": "1266.3",
       "close_time": "2026-10-22T23:00:00Z"
     },
@@ -209,9 +209,9 @@
       "ticker": "KXNBASPREAD-26OCT21GSWLAL-GSW21",
       "title": "Golden State wins by over 20.5 points",
       "event_ticker": "KXNBASPREAD-26OCT21GSWLAL",
-      "yes_ask_cents": "4.0",
+      "yes_ask_cents": "5.0",
       "no_ask_cents": "97.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "1238.85",
       "close_time": "2026-10-24T02:00:00Z"
     },
@@ -239,9 +239,9 @@
       "ticker": "KXNBASPREAD-26OCT21INDNOP-IND30",
       "title": "Indiana wins by over 29.5 points",
       "event_ticker": "KXNBASPREAD-26OCT21INDNOP",
-      "yes_ask_cents": "3.0",
+      "yes_ask_cents": "4.0",
       "no_ask_cents": "98.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "1172.0",
       "close_time": "2026-10-24T00:00:00Z"
     },
@@ -249,10 +249,10 @@
       "ticker": "KXNBASPREAD-26OCT21GSWLAL-GSW19",
       "title": "Golden State wins by over 18.5 points",
       "event_ticker": "KXNBASPREAD-26OCT21GSWLAL",
-      "yes_ask_cents": "7.0",
+      "yes_ask_cents": "5.0",
       "no_ask_cents": "96.0",
-      "spread_cents": "3.0",
-      "volume_24h": "1105.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1112.0",
       "close_time": "2026-10-24T02:00:00Z"
     },
     {
@@ -294,6 +294,16 @@
       "spread_cents": "3.0",
       "volume_24h": "1039.0",
       "close_time": "2026-10-24T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT20PHINYK-203",
+      "title": "Full Game: Over 202.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT20PHINYK",
+      "yes_ask_cents": "96.0",
+      "no_ask_cents": "7.0",
+      "spread_cents": "3.0",
+      "volume_24h": "1038.0",
+      "close_time": "2026-10-22T23:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT21ATLORL-ATL24",
@@ -379,21 +389,11 @@
       "ticker": "KXNBASPREAD-26OCT21MILWAS-WAS32",
       "title": "Washington wins by over 31.5 points",
       "event_ticker": "KXNBASPREAD-26OCT21MILWAS",
-      "yes_ask_cents": "5.0",
+      "yes_ask_cents": "6.0",
       "no_ask_cents": "98.0",
-      "spread_cents": "3.0",
+      "spread_cents": "4.0",
       "volume_24h": "963.0",
       "close_time": "2026-10-23T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT21DALHOU-200",
-      "title": "Full Game: Over 199.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT21DALHOU",
-      "yes_ask_cents": "96.0",
-      "no_ask_cents": "8.0",
-      "spread_cents": "4.0",
-      "volume_24h": "962.83",
-      "close_time": "2026-10-24T00:30:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT21ATLORL-ATL22",
@@ -439,9 +439,9 @@
       "ticker": "KXNBASPREAD-26OCT21ATLORL-ATL20",
       "title": "Atlanta wins by over 19.5 points",
       "event_ticker": "KXNBASPREAD-26OCT21ATLORL",
-      "yes_ask_cents": "9.0",
+      "yes_ask_cents": "7.0",
       "no_ask_cents": "95.0",
-      "spread_cents": "4.0",
+      "spread_cents": "2.0",
       "volume_24h": "911.0",
       "close_time": "2026-10-23T23:00:00Z"
     },
