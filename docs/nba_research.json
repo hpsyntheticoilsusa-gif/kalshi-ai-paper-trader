@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-19T01:43:26.270972+00:00",
+  "generated_utc": "2026-10-19T02:42:07.348895+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 14,
+  "qualifying_nba_markets": 17,
   "scoreboard_games": [
     {
       "event_id": "401909088",
@@ -80,9 +80,9 @@
       "title": "Shai Gilgeous-Alexander: 25+ points",
       "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
       "yes_ask_cents": "76.0",
-      "no_ask_cents": "30.0",
-      "spread_cents": "6.0",
-      "volume_24h": "491.77",
+      "no_ask_cents": "32.0",
+      "spread_cents": "8.0",
+      "volume_24h": "350.58",
       "close_time": "2026-10-23T01:30:00Z"
     },
     {
@@ -162,7 +162,7 @@
       "yes_ask_cents": "56.0",
       "no_ask_cents": "45.0",
       "spread_cents": "1.0",
-      "volume_24h": "152.35",
+      "volume_24h": "147.35",
       "close_time": "2026-10-25T23:00:00Z"
     },
     {
@@ -180,10 +180,20 @@
       "title": "Houston wins by over 12.5 points",
       "event_ticker": "KXNBASPREAD-26OCT23HOUSAS",
       "yes_ask_cents": "12.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "4.0",
       "volume_24h": "109.0",
       "close_time": "2026-10-26T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT23NYKBOS-NYK26",
+      "title": "New York wins by over 25.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT23NYKBOS",
+      "yes_ask_cents": "6.0",
+      "no_ask_cents": "97.0",
+      "spread_cents": "3.0",
+      "volume_24h": "100.35",
+      "close_time": "2026-10-25T23:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT23HOUSAS-SAS30",
@@ -204,6 +214,26 @@
       "spread_cents": "1.0",
       "volume_24h": "100.0",
       "close_time": "2026-10-26T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT23NYKBOS-NYK24",
+      "title": "New York wins by over 23.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT23NYKBOS",
+      "yes_ask_cents": "7.0",
+      "no_ask_cents": "94.0",
+      "spread_cents": "1.0",
+      "volume_24h": "100.0",
+      "close_time": "2026-10-25T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT23NYKBOS-BOS27",
+      "title": "Boston wins by over 26.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT23NYKBOS",
+      "yes_ask_cents": "7.0",
+      "no_ask_cents": "94.0",
+      "spread_cents": "1.0",
+      "volume_24h": "100.0",
+      "close_time": "2026-10-25T23:00:00Z"
     },
     {
       "ticker": "KXNBATEAMTOTAL-26OCT20BOSDET-BOS104",
