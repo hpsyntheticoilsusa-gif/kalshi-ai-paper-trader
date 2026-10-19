@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-19T11:44:02.880561+00:00",
+  "generated_utc": "2026-10-19T12:53:39.742830+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 12,
+  "qualifying_nba_markets": 2,
   "scoreboard_games": [
     {
       "event_id": "401909088",
@@ -76,114 +76,14 @@
   ],
   "market_samples": [
     {
-      "ticker": "KXNBAGAME-26OCT23HOUSAS-HOU",
-      "title": "Houston wins",
-      "event_ticker": "KXNBAGAME-26OCT23HOUSAS",
-      "yes_ask_cents": "32.0",
-      "no_ask_cents": "71.0",
-      "spread_cents": "3.0",
-      "volume_24h": "342.42",
-      "close_time": "2026-10-26T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT23HOUSAS-HOU19",
-      "title": "Houston wins by over 18.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT23HOUSAS",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "3.0",
-      "volume_24h": "321.0",
-      "close_time": "2026-10-26T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT23HOUSAS-SAS30",
-      "title": "San Antonio wins by over 29.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT23HOUSAS",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "1.0",
-      "volume_24h": "318.0",
-      "close_time": "2026-10-26T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT23HOUSAS-HOU17",
-      "title": "Houston wins by over 16.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT23HOUSAS",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "1.0",
-      "volume_24h": "241.0",
-      "close_time": "2026-10-26T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT23HOUSAS-SAS28",
-      "title": "San Antonio wins by over 27.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT23HOUSAS",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "1.0",
-      "volume_24h": "201.0",
-      "close_time": "2026-10-26T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT23HOUSAS-SAS34",
-      "title": "San Antonio wins by over 33.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT23HOUSAS",
-      "yes_ask_cents": "4.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "1.0",
-      "volume_24h": "200.0",
-      "close_time": "2026-10-26T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT23HOUSAS-SAS32",
-      "title": "San Antonio wins by over 31.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT23HOUSAS",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "3.0",
-      "volume_24h": "200.0",
-      "close_time": "2026-10-26T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAGAME-26OCT23LACLAL-LAC",
-      "title": "Los Angeles C wins",
-      "event_ticker": "KXNBAGAME-26OCT23LACLAL",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "74.0",
-      "spread_cents": "2.0",
-      "volume_24h": "181.46",
-      "close_time": "2026-10-26T02:00:00Z"
-    },
-    {
       "ticker": "KXNBAGAME-26OCT24MILPHI-MIL",
       "title": "Milwaukee wins",
       "event_ticker": "KXNBAGAME-26OCT24MILPHI",
       "yes_ask_cents": "26.0",
-      "no_ask_cents": "78.0",
-      "spread_cents": "4.0",
-      "volume_24h": "118.64",
+      "no_ask_cents": "79.0",
+      "spread_cents": "5.0",
+      "volume_24h": "108.24",
       "close_time": "2026-10-26T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT23HOUSAS-HOU13",
-      "title": "Houston wins by over 12.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT23HOUSAS",
-      "yes_ask_cents": "10.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "2.0",
-      "volume_24h": "110.0",
-      "close_time": "2026-10-26T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT23HOUSAS-SAS26",
-      "title": "San Antonio wins by over 25.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT23HOUSAS",
-      "yes_ask_cents": "10.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "3.0",
-      "volume_24h": "109.0",
-      "close_time": "2026-10-26T01:30:00Z"
     },
     {
       "ticker": "KXNBATEAMTOTAL-26OCT20BOSDET-BOS104",
