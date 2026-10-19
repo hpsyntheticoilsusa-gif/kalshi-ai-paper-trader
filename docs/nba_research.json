@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-19T13:56:09.160355+00:00",
+  "generated_utc": "2026-10-19T14:48:03.939076+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 2,
+  "qualifying_nba_markets": 1,
   "scoreboard_games": [
     {
       "event_id": "401909088",
@@ -75,16 +75,6 @@
     }
   ],
   "market_samples": [
-    {
-      "ticker": "KXNBAGAME-26OCT24MIACHA-MIA",
-      "title": "Miami wins",
-      "event_ticker": "KXNBAGAME-26OCT24MIACHA",
-      "yes_ask_cents": "42.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "3.0",
-      "volume_24h": "847.89",
-      "close_time": "2026-10-26T22:00:00Z"
-    },
     {
       "ticker": "KXNBATEAMTOTAL-26OCT20BOSDET-BOS104",
       "title": "Boston over 103.5 points scored",
