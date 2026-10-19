@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-19T07:56:57.920653+00:00",
+  "generated_utc": "2026-10-19T08:50:45.078662+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 89,
+  "qualifying_nba_markets": 36,
   "scoreboard_games": [
     {
       "event_id": "401909088",
@@ -76,144 +76,14 @@
   ],
   "market_samples": [
     {
-      "ticker": "KXNBASPREAD-26OCT21GSWLAL-LAL8",
-      "title": "Los Angeles L wins by over 7.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21GSWLAL",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4503.05",
-      "close_time": "2026-10-24T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21GSWLAL-LAL7",
-      "title": "Los Angeles L wins by over 6.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21GSWLAL",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3889.17",
-      "close_time": "2026-10-24T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21GSWLAL-LAL6",
-      "title": "Los Angeles L wins by over 5.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21GSWLAL",
-      "yes_ask_cents": "58.0",
-      "no_ask_cents": "43.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3212.71",
-      "close_time": "2026-10-24T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21GSWLAL-GSW21",
-      "title": "Golden State wins by over 20.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21GSWLAL",
-      "yes_ask_cents": "4.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "3.0",
-      "volume_24h": "2022.25",
-      "close_time": "2026-10-24T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21GSWLAL-LAL10",
-      "title": "Los Angeles L wins by over 9.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21GSWLAL",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "58.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1964.23",
-      "close_time": "2026-10-24T02:00:00Z"
-    },
-    {
       "ticker": "KXNBAGAME-26OCT23MINORL-MIN",
       "title": "Minnesota wins",
       "event_ticker": "KXNBAGAME-26OCT23MINORL",
-      "yes_ask_cents": "70.0",
-      "no_ask_cents": "34.0",
+      "yes_ask_cents": "69.0",
+      "no_ask_cents": "35.0",
       "spread_cents": "4.0",
-      "volume_24h": "1663.29",
+      "volume_24h": "1625.73",
       "close_time": "2026-10-25T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21GSWLAL-LAL5",
-      "title": "Los Angeles L wins by over 4.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21GSWLAL",
-      "yes_ask_cents": "62.0",
-      "no_ask_cents": "39.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1341.98",
-      "close_time": "2026-10-24T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21SACLAC-SAC24",
-      "title": "Sacramento wins by over 23.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21SACLAC",
-      "yes_ask_cents": "4.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1334.0",
-      "close_time": "2026-10-24T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21GSWLAL-LAL9",
-      "title": "Los Angeles L wins by over 8.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21GSWLAL",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1238.12",
-      "close_time": "2026-10-24T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21DALHOU-DAL19",
-      "title": "Dallas wins by over 18.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21DALHOU",
-      "yes_ask_cents": "3.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1232.34",
-      "close_time": "2026-10-24T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21SACLAC-LAC31",
-      "title": "Los Angeles C wins by over 30.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21SACLAC",
-      "yes_ask_cents": "4.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1181.12",
-      "close_time": "2026-10-24T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21DALHOU-HOU10",
-      "title": "Houston wins by over 9.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21DALHOU",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1113.88",
-      "close_time": "2026-10-24T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT21GSWLAL-232",
-      "title": "Full Game: Over 231.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT21GSWLAL",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1090.89",
-      "close_time": "2026-10-24T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21SACLAC-SAC22",
-      "title": "Sacramento wins by over 21.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21SACLAC",
-      "yes_ask_cents": "5.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1052.0",
-      "close_time": "2026-10-24T02:30:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT20PHINYK-PHILJAMES23-15",
@@ -222,158 +92,38 @@
       "yes_ask_cents": "61.0",
       "no_ask_cents": "40.0",
       "spread_cents": "1.0",
-      "volume_24h": "1010.59",
+      "volume_24h": "1015.59",
       "close_time": "2026-10-22T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21SACLAC-LAC27",
-      "title": "Los Angeles C wins by over 26.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21SACLAC",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "96.0",
-      "spread_cents": "2.0",
-      "volume_24h": "874.9",
-      "close_time": "2026-10-24T02:30:00Z"
     },
     {
       "ticker": "KXNBA3PT-26OCT20PHINYK-NYKJBRUNSON11-3",
       "title": "Jalen Brunson: 3+ threes",
       "event_ticker": "KXNBA3PT-26OCT20PHINYK",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "2.0",
-      "volume_24h": "840.34",
+      "yes_ask_cents": "44.0",
+      "no_ask_cents": "59.0",
+      "spread_cents": "3.0",
+      "volume_24h": "844.16",
       "close_time": "2026-10-22T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21SACLAC-SAC18",
-      "title": "Sacramento wins by over 17.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21SACLAC",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "2.0",
-      "volume_24h": "757.27",
-      "close_time": "2026-10-24T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21SACLAC-LAC29",
-      "title": "Los Angeles C wins by over 28.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21SACLAC",
-      "yes_ask_cents": "5.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "2.0",
-      "volume_24h": "713.0",
-      "close_time": "2026-10-24T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21GSWLAL-GSW17",
-      "title": "Golden State wins by over 16.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21GSWLAL",
-      "yes_ask_cents": "5.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "2.0",
-      "volume_24h": "602.0",
-      "close_time": "2026-10-24T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT21GSWLAL-262",
-      "title": "Full Game: Over 261.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT21GSWLAL",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "2.0",
-      "volume_24h": "536.55",
-      "close_time": "2026-10-24T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21GSWLAL-GSW15",
-      "title": "Golden State wins by over 14.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21GSWLAL",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "96.0",
-      "spread_cents": "3.0",
-      "volume_24h": "491.0",
-      "close_time": "2026-10-24T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21GSWLAL-GSW19",
-      "title": "Golden State wins by over 18.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21GSWLAL",
-      "yes_ask_cents": "5.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "3.0",
-      "volume_24h": "445.8",
-      "close_time": "2026-10-24T02:00:00Z"
     },
     {
       "ticker": "KXNBA3PT-26OCT20PHINYK-PHIJBROWN7-2",
       "title": "Jaylen Brown: 2+ threes",
       "event_ticker": "KXNBA3PT-26OCT20PHINYK",
       "yes_ask_cents": "55.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "8.0",
-      "volume_24h": "431.74",
+      "no_ask_cents": "52.0",
+      "spread_cents": "7.0",
+      "volume_24h": "439.63",
       "close_time": "2026-10-22T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21SACLAC-LAC25",
-      "title": "Los Angeles C wins by over 24.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21SACLAC",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "2.0",
-      "volume_24h": "424.0",
-      "close_time": "2026-10-24T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21GSWLAL-LAL26",
-      "title": "Los Angeles L wins by over 25.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21GSWLAL",
-      "yes_ask_cents": "9.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "1.0",
-      "volume_24h": "420.21",
-      "close_time": "2026-10-24T02:00:00Z"
     },
     {
       "ticker": "KXNBA3PT-26OCT20PHINYK-NYKKTOWNS32-2",
       "title": "Karl-Anthony Towns: 2+ threes",
       "event_ticker": "KXNBA3PT-26OCT20PHINYK",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "59.0",
+      "yes_ask_cents": "42.0",
+      "no_ask_cents": "60.0",
       "spread_cents": "2.0",
       "volume_24h": "396.52",
       "close_time": "2026-10-22T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21SACLAC-SAC20",
-      "title": "Sacramento wins by over 19.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21SACLAC",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "3.0",
-      "volume_24h": "390.0",
-      "close_time": "2026-10-24T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26OCT20PHINYK-PHILJAMES23-2",
-      "title": "LeBron James: 2+ threes",
-      "event_ticker": "KXNBA3PT-26OCT20PHINYK",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "65.0",
-      "spread_cents": "8.0",
-      "volume_24h": "364.82",
-      "close_time": "2026-10-22T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT21GSWLAL-258",
-      "title": "Full Game: Over 257.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT21GSWLAL",
-      "yes_ask_cents": "10.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "3.0",
-      "volume_24h": "360.0",
-      "close_time": "2026-10-24T02:00:00Z"
     },
     {
       "ticker": "KXNBAGAME-26OCT23NYKBOS-NYK",
@@ -382,7 +132,7 @@
       "yes_ask_cents": "47.0",
       "no_ask_cents": "56.0",
       "spread_cents": "3.0",
-      "volume_24h": "356.59",
+      "volume_24h": "354.54",
       "close_time": "2026-10-25T23:00:00Z"
     },
     {
@@ -426,54 +176,264 @@
       "close_time": "2026-10-22T23:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT21GSWLAL-GSW13",
-      "title": "Golden State wins by over 12.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21GSWLAL",
-      "yes_ask_cents": "8.0",
+      "ticker": "KXNBAREB-26OCT20PHINYK-PHILJAMES23-8",
+      "title": "LeBron James: 8+ rebounds",
+      "event_ticker": "KXNBAREB-26OCT20PHINYK",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "65.0",
+      "spread_cents": "4.0",
+      "volume_24h": "274.14",
+      "close_time": "2026-10-22T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT20PHINYK-NYKJBRUNSON11-25",
+      "title": "Jalen Brunson: 25+ points",
+      "event_ticker": "KXNBAPTS-26OCT20PHINYK",
+      "yes_ask_cents": "61.0",
+      "no_ask_cents": "41.0",
+      "spread_cents": "2.0",
+      "volume_24h": "233.08",
+      "close_time": "2026-10-22T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT23HOUSAS-HOU17",
+      "title": "Houston wins by over 16.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT23HOUSAS",
+      "yes_ask_cents": "10.0",
       "no_ask_cents": "94.0",
+      "spread_cents": "4.0",
+      "volume_24h": "223.0",
+      "close_time": "2026-10-26T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26OCT20PHINYK-NYKJBRUNSON11-2",
+      "title": "Jalen Brunson: 2+ threes",
+      "event_ticker": "KXNBA3PT-26OCT20PHINYK",
+      "yes_ask_cents": "70.0",
+      "no_ask_cents": "31.0",
+      "spread_cents": "1.0",
+      "volume_24h": "204.71",
+      "close_time": "2026-10-22T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT23HOUSAS-SAS34",
+      "title": "San Antonio wins by over 33.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT23HOUSAS",
+      "yes_ask_cents": "5.0",
+      "no_ask_cents": "97.0",
       "spread_cents": "2.0",
-      "volume_24h": "274.0",
-      "close_time": "2026-10-24T02:00:00Z"
+      "volume_24h": "200.0",
+      "close_time": "2026-10-26T01:30:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26OCT21GSWLAL-264",
-      "title": "Full Game: Over 263.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT21GSWLAL",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "96.0",
-      "spread_cents": "2.0",
-      "volume_24h": "267.02",
-      "close_time": "2026-10-24T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT21GSWLAL-LAL24",
-      "title": "Los Angeles L wins by over 23.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT21GSWLAL",
-      "yes_ask_cents": "12.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "3.0",
-      "volume_24h": "259.45",
-      "close_time": "2026-10-24T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT21GSWLAL-256",
-      "title": "Full Game: Over 255.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT21GSWLAL",
-      "yes_ask_cents": "12.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "2.0",
-      "volume_24h": "255.0",
-      "close_time": "2026-10-24T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT22CLEPHI-PHI31",
-      "title": "Philadelphia wins by over 30.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT22CLEPHI",
+      "ticker": "KXNBASPREAD-26OCT23HOUSAS-SAS32",
+      "title": "San Antonio wins by over 31.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT23HOUSAS",
       "yes_ask_cents": "6.0",
       "no_ask_cents": "97.0",
       "spread_cents": "3.0",
-      "volume_24h": "250.0",
-      "close_time": "2026-10-24T23:00:00Z"
+      "volume_24h": "200.0",
+      "close_time": "2026-10-26T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT23NYKBOS-250",
+      "title": "Full Game: Over 249.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT23NYKBOS",
+      "yes_ask_cents": "10.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "3.0",
+      "volume_24h": "200.0",
+      "close_time": "2026-10-25T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT23NYKBOS-BOS29",
+      "title": "Boston wins by over 28.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT23NYKBOS",
+      "yes_ask_cents": "9.0",
+      "no_ask_cents": "97.0",
+      "spread_cents": "6.0",
+      "volume_24h": "200.0",
+      "close_time": "2026-10-25T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26OCT20BOSDET-BOSDWHITE9-3",
+      "title": "Derrick White: 3+ threes",
+      "event_ticker": "KXNBA3PT-26OCT20BOSDET",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "2.0",
+      "volume_24h": "190.49",
+      "close_time": "2026-10-22T19:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT20BOSDET-BOSJTATUM0-30",
+      "title": "Jayson Tatum: 30+ points",
+      "event_ticker": "KXNBAPTS-26OCT20BOSDET",
+      "yes_ask_cents": "38.0",
+      "no_ask_cents": "66.0",
+      "spread_cents": "4.0",
+      "volume_24h": "188.85",
+      "close_time": "2026-10-22T19:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT20OKCSAS-SASVWEMBANYAMA1-25",
+      "title": "Victor Wembanyama: 25+ points",
+      "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
+      "yes_ask_cents": "56.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "4.0",
+      "volume_24h": "185.68",
+      "close_time": "2026-10-23T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBAGAME-26OCT23LACLAL-LAC",
+      "title": "Los Angeles C wins",
+      "event_ticker": "KXNBAGAME-26OCT23LACLAL",
+      "yes_ask_cents": "28.0",
+      "no_ask_cents": "74.0",
+      "spread_cents": "2.0",
+      "volume_24h": "181.46",
+      "close_time": "2026-10-26T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT20PHINYK-PHIJBROWN7-25",
+      "title": "Jaylen Brown: 25+ points",
+      "event_ticker": "KXNBAPTS-26OCT20PHINYK",
+      "yes_ask_cents": "34.0",
+      "no_ask_cents": "69.0",
+      "spread_cents": "3.0",
+      "volume_24h": "178.46",
+      "close_time": "2026-10-22T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26OCT20OKCSAS-SASVWEMBANYAMA1-2",
+      "title": "Victor Wembanyama: 2+ threes",
+      "event_ticker": "KXNBA3PT-26OCT20OKCSAS",
+      "yes_ask_cents": "61.0",
+      "no_ask_cents": "43.0",
+      "spread_cents": "4.0",
+      "volume_24h": "178.37",
+      "close_time": "2026-10-23T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT20PHINYK-PHIJBROWN7-20",
+      "title": "Jaylen Brown: 20+ points",
+      "event_ticker": "KXNBAPTS-26OCT20PHINYK",
+      "yes_ask_cents": "63.0",
+      "no_ask_cents": "43.0",
+      "spread_cents": "6.0",
+      "volume_24h": "149.45",
+      "close_time": "2026-10-22T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT20BOSDET-BOSPPRITCHARD11-20",
+      "title": "Payton Pritchard: 20+ points",
+      "event_ticker": "KXNBAPTS-26OCT20BOSDET",
+      "yes_ask_cents": "32.0",
+      "no_ask_cents": "72.0",
+      "spread_cents": "4.0",
+      "volume_24h": "149.15",
+      "close_time": "2026-10-22T19:00:00Z"
+    },
+    {
+      "ticker": "KXNBAGAME-26OCT24MILPHI-MIL",
+      "title": "Milwaukee wins",
+      "event_ticker": "KXNBAGAME-26OCT24MILPHI",
+      "yes_ask_cents": "26.0",
+      "no_ask_cents": "80.0",
+      "spread_cents": "6.0",
+      "volume_24h": "118.64",
+      "close_time": "2026-10-26T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT20OKCSAS-OKCJWILLIAMS8-15",
+      "title": "Jalen Williams: 15+ points",
+      "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
+      "yes_ask_cents": "70.0",
+      "no_ask_cents": "35.0",
+      "spread_cents": "5.0",
+      "volume_24h": "113.14",
+      "close_time": "2026-10-23T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT23HOUSAS-HOU13",
+      "title": "Houston wins by over 12.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT23HOUSAS",
+      "yes_ask_cents": "12.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "4.0",
+      "volume_24h": "110.0",
+      "close_time": "2026-10-26T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT23HOUSAS-SAS26",
+      "title": "San Antonio wins by over 25.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT23HOUSAS",
+      "yes_ask_cents": "10.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "3.0",
+      "volume_24h": "109.0",
+      "close_time": "2026-10-26T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT23HOUSAS-SAS30",
+      "title": "San Antonio wins by over 29.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT23HOUSAS",
+      "yes_ask_cents": "7.0",
+      "no_ask_cents": "94.0",
+      "spread_cents": "1.0",
+      "volume_24h": "100.0",
+      "close_time": "2026-10-26T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT23NYKBOS-NYK24",
+      "title": "New York wins by over 23.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT23NYKBOS",
+      "yes_ask_cents": "7.0",
+      "no_ask_cents": "94.0",
+      "spread_cents": "1.0",
+      "volume_24h": "100.0",
+      "close_time": "2026-10-25T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT23HOUSAS-SAS28",
+      "title": "San Antonio wins by over 27.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT23HOUSAS",
+      "yes_ask_cents": "9.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "2.0",
+      "volume_24h": "100.0",
+      "close_time": "2026-10-26T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT23NYKBOS-NYK26",
+      "title": "New York wins by over 25.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT23NYKBOS",
+      "yes_ask_cents": "6.0",
+      "no_ask_cents": "97.0",
+      "spread_cents": "3.0",
+      "volume_24h": "100.0",
+      "close_time": "2026-10-25T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBATEAMTOTAL-26OCT20BOSDET-BOS104",
+      "title": "Boston over 103.5 points scored",
+      "event_ticker": "KXNBATEAMTOTAL-26OCT20BOSDET",
+      "yes_ask_cents": "78.0",
+      "no_ask_cents": "26.0",
+      "spread_cents": "4.0",
+      "volume_24h": "100.0",
+      "close_time": "2026-10-22T19:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT23NYKBOS-BOS27",
+      "title": "Boston wins by over 26.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT23NYKBOS",
+      "yes_ask_cents": "10.0",
+      "no_ask_cents": "94.0",
+      "spread_cents": "4.0",
+      "volume_24h": "100.0",
+      "close_time": "2026-10-25T23:00:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
