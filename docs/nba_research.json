@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-20T14:45:22.271184+00:00",
+  "generated_utc": "2026-10-20T15:43:53.090998+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 6,
+  "qualifying_nba_markets": 7,
   "scoreboard_games": [
     {
       "event_id": "401909088",
@@ -84,6 +84,16 @@
       "spread_cents": "3.0",
       "volume_24h": "669.06",
       "close_time": "2026-10-24T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT21MILWAS-WASTYOUNG3-20",
+      "title": "Trae Young: 20+ points",
+      "event_ticker": "KXNBAPTS-26OCT21MILWAS",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "3.0",
+      "volume_24h": "500.0",
+      "close_time": "2026-10-23T23:00:00Z"
     },
     {
       "ticker": "KXNBATEAMTOTAL-26OCT21GSWLAL-LAL127",
