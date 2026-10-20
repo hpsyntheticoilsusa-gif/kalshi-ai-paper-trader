@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-20T12:53:50.730409+00:00",
+  "generated_utc": "2026-10-20T13:51:16.083371+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 7,
+  "qualifying_nba_markets": 6,
   "scoreboard_games": [
     {
       "event_id": "401909088",
@@ -76,16 +76,6 @@
   ],
   "market_samples": [
     {
-      "ticker": "KXNBAGAME-26OCT26WASCHA-WAS",
-      "title": "Washington wins",
-      "event_ticker": "KXNBAGAME-26OCT26WASCHA",
-      "yes_ask_cents": "61.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "7.0",
-      "volume_24h": "1001.09",
-      "close_time": "2026-10-28T23:00:00Z"
-    },
-    {
       "ticker": "KXNBATEAMTOTAL-26OCT21DALHOU-DAL119",
       "title": "Dallas over 118.5 points scored",
       "event_ticker": "KXNBATEAMTOTAL-26OCT21DALHOU",
@@ -110,8 +100,8 @@
       "title": "Chicago over 119.5 points scored",
       "event_ticker": "KXNBATEAMTOTAL-26OCT21CHITOR",
       "yes_ask_cents": "29.0",
-      "no_ask_cents": "73.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "74.0",
+      "spread_cents": "3.0",
       "volume_24h": "264.0",
       "close_time": "2026-10-23T23:30:00Z"
     },
