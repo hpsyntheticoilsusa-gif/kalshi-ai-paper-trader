@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-20T06:52:31.995550+00:00",
+  "generated_utc": "2026-10-20T07:49:48.153157+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 3,
+  "qualifying_nba_markets": 4,
   "scoreboard_games": [
     {
       "event_id": "401909088",
@@ -83,6 +83,16 @@
       "no_ask_cents": "78.0",
       "spread_cents": "3.0",
       "volume_24h": "593.06",
+      "close_time": "2026-10-24T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBA1HSPREAD-26OCT21DALHOU-HOU6",
+      "title": "Houston wins the 1st half by over 5.5 points",
+      "event_ticker": "KXNBA1HSPREAD-26OCT21DALHOU",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "4.0",
+      "volume_24h": "186.05",
       "close_time": "2026-10-24T00:30:00Z"
     },
     {
