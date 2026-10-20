@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-20T16:42:25.422686+00:00",
+  "generated_utc": "2026-10-20T17:42:44.214823+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 14,
+  "qualifying_nba_markets": 30,
   "scoreboard_games": [
     {
       "event_id": "401909088",
@@ -76,6 +76,46 @@
   ],
   "market_samples": [
     {
+      "ticker": "KXNBAAST-26OCT20BOSDET-BOSPPRITCHARD11-8",
+      "title": "Payton Pritchard: 8+ assists",
+      "event_ticker": "KXNBAAST-26OCT20BOSDET",
+      "yes_ask_cents": "14.0",
+      "no_ask_cents": "87.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1866.35",
+      "close_time": "2026-10-22T19:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26OCT20BOSDET-BOSPPRITCHARD11-6",
+      "title": "Payton Pritchard: 6+ assists",
+      "event_ticker": "KXNBAAST-26OCT20BOSDET",
+      "yes_ask_cents": "36.0",
+      "no_ask_cents": "65.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1142.0",
+      "close_time": "2026-10-22T19:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT20OKCSAS-SASDHARPER2-15",
+      "title": "Dylan Harper: 15+ points",
+      "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
+      "yes_ask_cents": "57.0",
+      "no_ask_cents": "45.0",
+      "spread_cents": "2.0",
+      "volume_24h": "957.61",
+      "close_time": "2026-10-23T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26OCT20BOSDET-DETDROBINSON55-3",
+      "title": "Duncan Robinson: 3+ threes",
+      "event_ticker": "KXNBA3PT-26OCT20BOSDET",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "1.0",
+      "volume_24h": "806.65",
+      "close_time": "2026-10-22T19:00:00Z"
+    },
+    {
       "ticker": "KXNBATEAMTOTAL-26OCT21DALHOU-DAL119",
       "title": "Dallas over 118.5 points scored",
       "event_ticker": "KXNBATEAMTOTAL-26OCT21DALHOU",
@@ -86,24 +126,84 @@
       "close_time": "2026-10-24T00:30:00Z"
     },
     {
+      "ticker": "KXNBAPTS-26OCT20BOSDET-DETJCOLLINS20-10",
+      "title": "John Collins: 10+ points",
+      "event_ticker": "KXNBAPTS-26OCT20BOSDET",
+      "yes_ask_cents": "60.0",
+      "no_ask_cents": "41.0",
+      "spread_cents": "1.0",
+      "volume_24h": "597.49",
+      "close_time": "2026-10-22T19:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT20OKCSAS-OKCCWALLACE22-15",
+      "title": "Cason Wallace: 15+ points",
+      "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
+      "yes_ask_cents": "22.0",
+      "no_ask_cents": "80.0",
+      "spread_cents": "2.0",
+      "volume_24h": "553.89",
+      "close_time": "2026-10-23T01:30:00Z"
+    },
+    {
       "ticker": "KXNBAPTS-26OCT21MILWAS-WASTYOUNG3-20",
       "title": "Trae Young: 20+ points",
       "event_ticker": "KXNBAPTS-26OCT21MILWAS",
       "yes_ask_cents": "50.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "2.0",
-      "volume_24h": "500.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "4.0",
+      "volume_24h": "519.0",
       "close_time": "2026-10-23T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26OCT20BOSDET-BOSMROBINSON4-8",
+      "title": "Mitchell Robinson: 8+ rebounds",
+      "event_ticker": "KXNBAREB-26OCT20BOSDET",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "1.0",
+      "volume_24h": "503.74",
+      "close_time": "2026-10-22T19:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPRA-26OCT20BOSDET-BOSPPRITCHARD11-25",
+      "title": "Payton Pritchard: 25+ points, rebounds, and assists",
+      "event_ticker": "KXNBAPRA-26OCT20BOSDET",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "2.0",
+      "volume_24h": "498.1",
+      "close_time": "2026-10-22T19:00:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT21SACLAC-LACRHACHIMURA28-20",
       "title": "Rui Hachimura: 20+ points",
       "event_ticker": "KXNBAPTS-26OCT21SACLAC",
-      "yes_ask_cents": "52.0",
+      "yes_ask_cents": "53.0",
       "no_ask_cents": "52.0",
-      "spread_cents": "4.0",
+      "spread_cents": "5.0",
       "volume_24h": "465.0",
       "close_time": "2026-10-24T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26OCT20BOSDET-BOSPPRITCHARD11-4",
+      "title": "Payton Pritchard: 4+ assists",
+      "event_ticker": "KXNBAAST-26OCT20BOSDET",
+      "yes_ask_cents": "66.0",
+      "no_ask_cents": "35.0",
+      "spread_cents": "1.0",
+      "volume_24h": "400.34",
+      "close_time": "2026-10-22T19:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT21MILWAS-WASKGEORGE18-15",
+      "title": "Kyshawn George: 15+ points",
+      "event_ticker": "KXNBAPTS-26OCT21MILWAS",
+      "yes_ask_cents": "46.0",
+      "no_ask_cents": "58.0",
+      "spread_cents": "4.0",
+      "volume_24h": "291.07",
+      "close_time": "2026-10-23T23:00:00Z"
     },
     {
       "ticker": "KXNBATEAMTOTAL-26OCT21GSWLAL-LAL127",
@@ -116,34 +216,74 @@
       "close_time": "2026-10-24T02:00:00Z"
     },
     {
-      "ticker": "KXNBATEAMTOTAL-26OCT21CHITOR-CHI120",
-      "title": "Chicago over 119.5 points scored",
-      "event_ticker": "KXNBATEAMTOTAL-26OCT21CHITOR",
-      "yes_ask_cents": "29.0",
-      "no_ask_cents": "74.0",
-      "spread_cents": "3.0",
-      "volume_24h": "264.0",
-      "close_time": "2026-10-23T23:30:00Z"
+      "ticker": "KXNBAPTS-26OCT20BOSDET-DETDROBINSON55-20",
+      "title": "Duncan Robinson: 20+ points",
+      "event_ticker": "KXNBAPTS-26OCT20BOSDET",
+      "yes_ask_cents": "9.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "1.0",
+      "volume_24h": "268.15",
+      "close_time": "2026-10-22T19:00:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26OCT21MILWAS-WASKGEORGE18-15",
-      "title": "Kyshawn George: 15+ points",
-      "event_ticker": "KXNBAPTS-26OCT21MILWAS",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "60.0",
-      "spread_cents": "4.0",
-      "volume_24h": "237.91",
-      "close_time": "2026-10-23T23:00:00Z"
+      "ticker": "KXNBA3PT-26OCT20BOSDET-BOSPPRITCHARD11-3",
+      "title": "Payton Pritchard: 3+ threes",
+      "event_ticker": "KXNBA3PT-26OCT20BOSDET",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "1.0",
+      "volume_24h": "242.81",
+      "close_time": "2026-10-22T19:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT20OKCSAS-SASDHARPER2-20",
+      "title": "Dylan Harper: 20+ points",
+      "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
+      "yes_ask_cents": "27.0",
+      "no_ask_cents": "75.0",
+      "spread_cents": "2.0",
+      "volume_24h": "229.32",
+      "close_time": "2026-10-23T01:30:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT21DALHOU-HOURSHEPPARD15-15",
       "title": "Reed Sheppard: 15+ points",
       "event_ticker": "KXNBAPTS-26OCT21DALHOU",
       "yes_ask_cents": "22.0",
-      "no_ask_cents": "80.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "82.0",
+      "spread_cents": "4.0",
       "volume_24h": "224.33",
       "close_time": "2026-10-24T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26OCT20BOSDET-BOSMROBINSON4-10",
+      "title": "Mitchell Robinson: 10+ rebounds",
+      "event_ticker": "KXNBAREB-26OCT20BOSDET",
+      "yes_ask_cents": "33.0",
+      "no_ask_cents": "74.0",
+      "spread_cents": "7.0",
+      "volume_24h": "223.04",
+      "close_time": "2026-10-22T19:00:00Z"
+    },
+    {
+      "ticker": "KXNBA2D-26OCT21GSWLAL-LALLDONCIC77",
+      "title": "Luka Don\u010di\u0107: Double Double",
+      "event_ticker": "KXNBA2D-26OCT21GSWLAL",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "56.0",
+      "spread_cents": "7.0",
+      "volume_24h": "190.46",
+      "close_time": "2026-10-24T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26OCT20BOSDET-DETJCOLLINS20-8",
+      "title": "John Collins: 8+ rebounds",
+      "event_ticker": "KXNBAREB-26OCT20BOSDET",
+      "yes_ask_cents": "16.0",
+      "no_ask_cents": "86.0",
+      "spread_cents": "2.0",
+      "volume_24h": "189.24",
+      "close_time": "2026-10-22T19:00:00Z"
     },
     {
       "ticker": "KXNBA1HSPREAD-26OCT21DALHOU-HOU6",
@@ -156,33 +296,13 @@
       "close_time": "2026-10-24T00:30:00Z"
     },
     {
-      "ticker": "KXNBATEAMTOTAL-26OCT21CHABKN-CHA116",
-      "title": "Charlotte over 115.5 points scored",
-      "event_ticker": "KXNBATEAMTOTAL-26OCT21CHABKN",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "74.0",
-      "spread_cents": "2.0",
-      "volume_24h": "183.0",
-      "close_time": "2026-10-23T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26OCT20BOSDET-DETDROBINSON55-3",
-      "title": "Duncan Robinson: 3+ threes",
-      "event_ticker": "KXNBA3PT-26OCT20BOSDET",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "53.0",
+      "ticker": "KXNBAPTS-26OCT20BOSDET-DETJCOLLINS20-15",
+      "title": "John Collins: 15+ points",
+      "event_ticker": "KXNBAPTS-26OCT20BOSDET",
+      "yes_ask_cents": "32.0",
+      "no_ask_cents": "69.0",
       "spread_cents": "1.0",
-      "volume_24h": "157.5",
-      "close_time": "2026-10-22T19:00:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26OCT20BOSDET-BOSMROBINSON4-8",
-      "title": "Mitchell Robinson: 8+ rebounds",
-      "event_ticker": "KXNBAREB-26OCT20BOSDET",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "2.0",
-      "volume_24h": "129.46",
+      "volume_24h": "140.56",
       "close_time": "2026-10-22T19:00:00Z"
     },
     {
@@ -196,24 +316,64 @@
       "close_time": "2026-10-24T02:00:00Z"
     },
     {
-      "ticker": "KXNBAPRA-26OCT20BOSDET-BOSPPRITCHARD11-25",
-      "title": "Payton Pritchard: 25+ points, rebounds, and assists",
-      "event_ticker": "KXNBAPRA-26OCT20BOSDET",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "3.0",
-      "volume_24h": "102.75",
+      "ticker": "KXNBAREB-26OCT20BOSDET-BOSNQUETA88-8",
+      "title": "Neemias Queta: 8+ rebounds",
+      "event_ticker": "KXNBAREB-26OCT20BOSDET",
+      "yes_ask_cents": "46.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "1.0",
+      "volume_24h": "120.06",
       "close_time": "2026-10-22T19:00:00Z"
     },
     {
-      "ticker": "KXNBA1H-26OCT21ATLORL-TIE",
-      "title": "Tie in the 1st half",
-      "event_ticker": "KXNBA1H-26OCT21ATLORL",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "5.0",
-      "volume_24h": "100.0",
-      "close_time": "2026-10-23T23:00:00Z"
+      "ticker": "KXNBAPTS-26OCT20BOSDET-DETJCOLLINS20-20",
+      "title": "John Collins: 20+ points",
+      "event_ticker": "KXNBAPTS-26OCT20BOSDET",
+      "yes_ask_cents": "12.0",
+      "no_ask_cents": "89.0",
+      "spread_cents": "1.0",
+      "volume_24h": "118.95",
+      "close_time": "2026-10-22T19:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT20PHINYK-PHIVEDGECOMBE77-20",
+      "title": "VJ Edgecombe: 20+ points",
+      "event_ticker": "KXNBAPTS-26OCT20PHINYK",
+      "yes_ask_cents": "12.0",
+      "no_ask_cents": "89.0",
+      "spread_cents": "1.0",
+      "volume_24h": "117.79",
+      "close_time": "2026-10-22T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26OCT20BOSDET-DETDROBINSON55-5",
+      "title": "Duncan Robinson: 5+ threes",
+      "event_ticker": "KXNBA3PT-26OCT20BOSDET",
+      "yes_ask_cents": "13.0",
+      "no_ask_cents": "91.0",
+      "spread_cents": "4.0",
+      "volume_24h": "115.62",
+      "close_time": "2026-10-22T19:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT21CHITOR-CHIMBUZELIS14-15",
+      "title": "Matas Buzelis: 15+ points",
+      "event_ticker": "KXNBAPTS-26OCT21CHITOR",
+      "yes_ask_cents": "60.0",
+      "no_ask_cents": "46.0",
+      "spread_cents": "6.0",
+      "volume_24h": "113.8",
+      "close_time": "2026-10-23T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26OCT20BOSDET-BOSPPRITCHARD11-5",
+      "title": "Payton Pritchard: 5+ threes",
+      "event_ticker": "KXNBA3PT-26OCT20BOSDET",
+      "yes_ask_cents": "17.0",
+      "no_ask_cents": "85.0",
+      "spread_cents": "2.0",
+      "volume_24h": "107.91",
+      "close_time": "2026-10-22T19:00:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
