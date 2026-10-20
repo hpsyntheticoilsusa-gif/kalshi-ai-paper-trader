@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-19T23:41:32.588452+00:00",
+  "generated_utc": "2026-10-20T00:55:36.032237+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 1,
+  "qualifying_nba_markets": 0,
   "scoreboard_games": [
     {
       "event_id": "401909088",
@@ -74,18 +74,7 @@
       ]
     }
   ],
-  "market_samples": [
-    {
-      "ticker": "KXNBA1HSPREAD-26OCT20OKCSAS-SAS2",
-      "title": "San Antonio wins the 1st half by over 1.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26OCT20OKCSAS",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "2.0",
-      "volume_24h": "201.02",
-      "close_time": "2026-10-23T01:30:00Z"
-    }
-  ],
+  "market_samples": [],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
   "missing": [
     "Verified contract-to-game mapping",
