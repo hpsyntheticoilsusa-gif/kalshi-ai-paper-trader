@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-21T02:42:38.575630+00:00",
+  "generated_utc": "2026-10-21T03:43:42.789279+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 96,
+  "qualifying_nba_markets": 84,
   "scoreboard_games": [
     {
       "event_id": "401909088",
@@ -62,14 +62,14 @@
           "team": "San Antonio Spurs",
           "abbreviation": "SA",
           "home_away": "home",
-          "score": "33"
+          "score": "78"
         },
         {
           "team_id": "25",
           "team": "Oklahoma City Thunder",
           "abbreviation": "OKC",
           "home_away": "away",
-          "score": "51"
+          "score": "90"
         }
       ]
     }
@@ -79,40 +79,60 @@
       "ticker": "KXNBAPTS-26OCT20OKCSAS-SASDHARPER2-15",
       "title": "Dylan Harper: 15+ points",
       "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
-      "yes_ask_cents": "39.0",
-      "no_ask_cents": "62.0",
-      "spread_cents": "1.0",
-      "volume_24h": "49830.48",
+      "yes_ask_cents": "43.0",
+      "no_ask_cents": "65.0",
+      "spread_cents": "8.0",
+      "volume_24h": "56130.08",
       "close_time": "2026-10-23T01:30:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT20OKCSAS-SASDHARPER2-20",
       "title": "Dylan Harper: 20+ points",
       "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "89.0",
-      "spread_cents": "3.0",
-      "volume_24h": "23189.68",
+      "yes_ask_cents": "12.0",
+      "no_ask_cents": "94.0",
+      "spread_cents": "6.0",
+      "volume_24h": "27263.35",
       "close_time": "2026-10-23T01:30:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26OCT20OKCSAS-OKCCWALLACE22-10",
-      "title": "Cason Wallace: 10+ points",
+      "ticker": "KXNBAREB-26OCT20OKCSAS-SASDFOX4-6",
+      "title": "De'Aaron Fox: 6+ rebounds",
+      "event_ticker": "KXNBAREB-26OCT20OKCSAS",
+      "yes_ask_cents": "98.0",
+      "no_ask_cents": "7.0",
+      "spread_cents": "5.0",
+      "volume_24h": "17537.42",
+      "close_time": "2026-10-23T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT20OKCSAS-SASDHARPER2-10",
+      "title": "Dylan Harper: 10+ points",
       "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "65.0",
-      "spread_cents": "6.0",
-      "volume_24h": "11937.59",
+      "yes_ask_cents": "88.0",
+      "no_ask_cents": "19.0",
+      "spread_cents": "7.0",
+      "volume_24h": "9284.7",
       "close_time": "2026-10-23T01:30:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT20OKCSAS-SASJCHAMPAGNIE30-10",
       "title": "Julian Champagnie: 10+ points",
       "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
-      "yes_ask_cents": "61.0",
-      "no_ask_cents": "42.0",
-      "spread_cents": "3.0",
-      "volume_24h": "7516.44",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "1.0",
+      "volume_24h": "8971.92",
+      "close_time": "2026-10-23T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT20OKCSAS-SASKJOHNSON3-10",
+      "title": "Keldon Johnson: 10+ points",
+      "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "62.0",
+      "spread_cents": "1.0",
+      "volume_24h": "8153.76",
       "close_time": "2026-10-23T01:30:00Z"
     },
     {
@@ -120,119 +140,49 @@
       "title": "Dylan Harper: 25+ points",
       "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
       "yes_ask_cents": "7.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "2.0",
-      "volume_24h": "5627.28",
-      "close_time": "2026-10-23T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26OCT20OKCSAS-SASDHARPER2-6",
-      "title": "Dylan Harper: 6+ rebounds",
-      "event_ticker": "KXNBAREB-26OCT20OKCSAS",
-      "yes_ask_cents": "20.0",
-      "no_ask_cents": "84.0",
-      "spread_cents": "4.0",
-      "volume_24h": "5248.25",
-      "close_time": "2026-10-23T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT20OKCSAS-OKCIHARTENSTEIN55-10",
-      "title": "Isaiah Hartenstein: 10+ points",
-      "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "88.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4655.47",
-      "close_time": "2026-10-23T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26OCT20OKCSAS-SASJCHAMPAGNIE30-3",
-      "title": "Julian Champagnie: 3+ threes",
-      "event_ticker": "KXNBA3PT-26OCT20OKCSAS",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3978.63",
-      "close_time": "2026-10-23T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26OCT20OKCSAS-SASDVASSELL24-3",
-      "title": "Devin Vassell: 3+ threes",
-      "event_ticker": "KXNBA3PT-26OCT20OKCSAS",
-      "yes_ask_cents": "40.0",
-      "no_ask_cents": "63.0",
-      "spread_cents": "3.0",
-      "volume_24h": "3738.6",
+      "no_ask_cents": "98.0",
+      "spread_cents": "5.0",
+      "volume_24h": "8023.04",
       "close_time": "2026-10-23T01:30:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT20OKCSAS-SASJCHAMPAGNIE30-15",
       "title": "Julian Champagnie: 15+ points",
       "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
-      "yes_ask_cents": "21.0",
-      "no_ask_cents": "84.0",
-      "spread_cents": "5.0",
-      "volume_24h": "3612.92",
-      "close_time": "2026-10-23T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT20OKCSAS-OKCSGILGEOUSALEXANDER2-20",
-      "title": "Shai Gilgeous-Alexander: 20+ points",
-      "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
-      "yes_ask_cents": "96.0",
-      "no_ask_cents": "5.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3491.48",
-      "close_time": "2026-10-23T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT20OKCSAS-OKCCWALLACE22-15",
-      "title": "Cason Wallace: 15+ points",
-      "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
       "yes_ask_cents": "12.0",
       "no_ask_cents": "89.0",
       "spread_cents": "1.0",
-      "volume_24h": "3255.59",
+      "volume_24h": "7842.98",
       "close_time": "2026-10-23T01:30:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26OCT20OKCSAS-SASKJOHNSON3-10",
-      "title": "Keldon Johnson: 10+ points",
-      "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
-      "yes_ask_cents": "37.0",
-      "no_ask_cents": "69.0",
-      "spread_cents": "6.0",
-      "volume_24h": "3127.49",
+      "ticker": "KXNBA3PT-26OCT20OKCSAS-SASJCHAMPAGNIE30-3",
+      "title": "Julian Champagnie: 3+ threes",
+      "event_ticker": "KXNBA3PT-26OCT20OKCSAS",
+      "yes_ask_cents": "44.0",
+      "no_ask_cents": "57.0",
+      "spread_cents": "1.0",
+      "volume_24h": "6488.09",
       "close_time": "2026-10-23T01:30:00Z"
     },
     {
       "ticker": "KXNBAAST-26OCT20OKCSAS-SASDHARPER2-6",
       "title": "Dylan Harper: 6+ assists",
       "event_ticker": "KXNBAAST-26OCT20OKCSAS",
-      "yes_ask_cents": "73.0",
+      "yes_ask_cents": "74.0",
       "no_ask_cents": "31.0",
-      "spread_cents": "4.0",
-      "volume_24h": "3109.73",
-      "close_time": "2026-10-23T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26OCT20OKCSAS-SASDHARPER2-2",
-      "title": "Dylan Harper: 2+ threes",
-      "event_ticker": "KXNBA3PT-26OCT20OKCSAS",
-      "yes_ask_cents": "26.0",
-      "no_ask_cents": "79.0",
       "spread_cents": "5.0",
-      "volume_24h": "2807.94",
+      "volume_24h": "5070.96",
       "close_time": "2026-10-23T01:30:00Z"
     },
     {
-      "ticker": "KXNBA3PT-26OCT20OKCSAS-SASDVASSELL24-5",
-      "title": "Devin Vassell: 5+ threes",
-      "event_ticker": "KXNBA3PT-26OCT20OKCSAS",
-      "yes_ask_cents": "9.0",
+      "ticker": "KXNBAPTS-26OCT20OKCSAS-SASDVASSELL24-15",
+      "title": "Devin Vassell: 15+ points",
+      "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
+      "yes_ask_cents": "12.0",
       "no_ask_cents": "94.0",
-      "spread_cents": "3.0",
-      "volume_24h": "2531.04",
+      "spread_cents": "6.0",
+      "volume_24h": "2757.68",
       "close_time": "2026-10-23T01:30:00Z"
     },
     {
@@ -246,43 +196,13 @@
       "close_time": "2026-10-23T01:30:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26OCT20OKCSAS-SASDVASSELL24-10",
-      "title": "Devin Vassell: 10+ points",
-      "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
-      "yes_ask_cents": "60.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "8.0",
-      "volume_24h": "2487.84",
-      "close_time": "2026-10-23T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT20OKCSAS-SASDVASSELL24-15",
-      "title": "Devin Vassell: 15+ points",
-      "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
-      "yes_ask_cents": "22.0",
-      "no_ask_cents": "79.0",
-      "spread_cents": "1.0",
-      "volume_24h": "2391.55",
-      "close_time": "2026-10-23T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26OCT20OKCSAS-SASDVASSELL24-4",
-      "title": "Devin Vassell: 4+ rebounds",
-      "event_ticker": "KXNBAREB-26OCT20OKCSAS",
-      "yes_ask_cents": "29.0",
-      "no_ask_cents": "78.0",
-      "spread_cents": "7.0",
-      "volume_24h": "2338.81",
-      "close_time": "2026-10-23T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26OCT20OKCSAS-SASJCHAMPAGNIE30-2",
-      "title": "Julian Champagnie: 2+ threes",
+      "ticker": "KXNBA3PT-26OCT20OKCSAS-SASDHARPER2-3",
+      "title": "Dylan Harper: 3+ threes",
       "event_ticker": "KXNBA3PT-26OCT20OKCSAS",
-      "yes_ask_cents": "75.0",
-      "no_ask_cents": "32.0",
-      "spread_cents": "7.0",
-      "volume_24h": "2101.26",
+      "yes_ask_cents": "2.0",
+      "no_ask_cents": "99.0",
+      "spread_cents": "1.0",
+      "volume_24h": "2333.36",
       "close_time": "2026-10-23T01:30:00Z"
     },
     {
@@ -292,177 +212,97 @@
       "yes_ask_cents": "9.0",
       "no_ask_cents": "92.0",
       "spread_cents": "1.0",
-      "volume_24h": "2035.05",
+      "volume_24h": "2294.71",
       "close_time": "2026-10-23T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT20OKCSAS-SASJCHAMPAGNIE30-20",
-      "title": "Julian Champagnie: 20+ points",
-      "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "3.0",
-      "volume_24h": "1969.58",
-      "close_time": "2026-10-23T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26OCT20OKCSAS-SASJCHAMPAGNIE30-4",
-      "title": "Julian Champagnie: 4+ threes",
-      "event_ticker": "KXNBA3PT-26OCT20OKCSAS",
-      "yes_ask_cents": "21.0",
-      "no_ask_cents": "87.0",
-      "spread_cents": "8.0",
-      "volume_24h": "1842.64",
-      "close_time": "2026-10-23T01:30:00Z"
     },
     {
       "ticker": "KXNBAREB-26OCT20OKCSAS-SASDHARPER2-8",
       "title": "Dylan Harper: 8+ rebounds",
       "event_ticker": "KXNBAREB-26OCT20OKCSAS",
-      "yes_ask_cents": "10.0",
+      "yes_ask_cents": "14.0",
       "no_ask_cents": "91.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1502.54",
+      "spread_cents": "5.0",
+      "volume_24h": "1794.02",
       "close_time": "2026-10-23T01:30:00Z"
     },
     {
-      "ticker": "KXNBAAST-26OCT20OKCSAS-OKCCHOLMGREN7-4",
-      "title": "Chet Holmgren: 4+ assists",
-      "event_ticker": "KXNBAAST-26OCT20OKCSAS",
-      "yes_ask_cents": "20.0",
-      "no_ask_cents": "87.0",
-      "spread_cents": "7.0",
-      "volume_24h": "1428.9",
-      "close_time": "2026-10-23T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26OCT21INDNOP-INDANESMITH23-4",
-      "title": "Aaron Nesmith: 4+ rebounds",
-      "event_ticker": "KXNBAREB-26OCT21INDNOP",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "4.0",
-      "volume_24h": "1399.93",
-      "close_time": "2026-10-24T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT20OKCSAS-SASDHARPER2-10",
-      "title": "Dylan Harper: 10+ points",
-      "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
-      "yes_ask_cents": "68.0",
-      "no_ask_cents": "39.0",
-      "spread_cents": "7.0",
-      "volume_24h": "1343.64",
-      "close_time": "2026-10-23T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26OCT20OKCSAS-SASDVASSELL24-6",
-      "title": "Devin Vassell: 6+ rebounds",
-      "event_ticker": "KXNBAREB-26OCT20OKCSAS",
-      "yes_ask_cents": "10.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1267.95",
-      "close_time": "2026-10-23T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26OCT20OKCSAS-OKCCWALLACE22-4",
-      "title": "Cason Wallace: 4+ rebounds",
-      "event_ticker": "KXNBAREB-26OCT20OKCSAS",
-      "yes_ask_cents": "63.0",
-      "no_ask_cents": "45.0",
-      "spread_cents": "8.0",
-      "volume_24h": "1207.41",
-      "close_time": "2026-10-23T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26OCT20OKCSAS-SASKJOHNSON3-2",
-      "title": "Keldon Johnson: 2+ threes",
+      "ticker": "KXNBA3PT-26OCT20OKCSAS-SASSCASTLE5-4",
+      "title": "Stephon Castle: 4+ threes",
       "event_ticker": "KXNBA3PT-26OCT20OKCSAS",
-      "yes_ask_cents": "40.0",
+      "yes_ask_cents": "36.0",
       "no_ask_cents": "66.0",
-      "spread_cents": "6.0",
-      "volume_24h": "1058.06",
+      "spread_cents": "2.0",
+      "volume_24h": "1443.62",
+      "close_time": "2026-10-23T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT20OKCSAS-SASKJOHNSON3-15",
+      "title": "Keldon Johnson: 15+ points",
+      "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
+      "yes_ask_cents": "10.0",
+      "no_ask_cents": "94.0",
+      "spread_cents": "4.0",
+      "volume_24h": "1290.49",
+      "close_time": "2026-10-23T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26OCT20OKCSAS-SASDFOX4-8",
+      "title": "De'Aaron Fox: 8+ rebounds",
+      "event_ticker": "KXNBAREB-26OCT20OKCSAS",
+      "yes_ask_cents": "26.0",
+      "no_ask_cents": "79.0",
+      "spread_cents": "5.0",
+      "volume_24h": "1244.1",
       "close_time": "2026-10-23T01:30:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT21CHABKN-CHADSCHRODERPG-15",
       "title": "Dennis Schr\u00f6der: 15+ points",
       "event_ticker": "KXNBAPTS-26OCT21CHABKN",
-      "yes_ask_cents": "26.0",
-      "no_ask_cents": "75.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1014.34",
+      "yes_ask_cents": "27.0",
+      "no_ask_cents": "76.0",
+      "spread_cents": "3.0",
+      "volume_24h": "1032.62",
       "close_time": "2026-10-23T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT20OKCSAS-SASKJOHNSON3-15",
-      "title": "Keldon Johnson: 15+ points",
-      "event_ticker": "KXNBAPTS-26OCT20OKCSAS",
-      "yes_ask_cents": "12.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "4.0",
-      "volume_24h": "997.79",
-      "close_time": "2026-10-23T01:30:00Z"
     },
     {
       "ticker": "KXNBAAST-26OCT21ATLORL-ORLFWAGNER22-6",
       "title": "Franz Wagner: 6+ assists",
       "event_ticker": "KXNBAAST-26OCT21ATLORL",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "57.0",
+      "yes_ask_cents": "44.0",
+      "no_ask_cents": "58.0",
       "spread_cents": "2.0",
       "volume_24h": "919.94",
       "close_time": "2026-10-23T23:00:00Z"
     },
     {
-      "ticker": "KXNBAAST-26OCT20OKCSAS-OKCIHARTENSTEIN55-4",
-      "title": "Isaiah Hartenstein: 4+ assists",
-      "event_ticker": "KXNBAAST-26OCT20OKCSAS",
-      "yes_ask_cents": "17.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "8.0",
-      "volume_24h": "870.65",
-      "close_time": "2026-10-23T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26OCT20OKCSAS-OKCIHARTENSTEIN55-8",
-      "title": "Isaiah Hartenstein: 8+ rebounds",
-      "event_ticker": "KXNBAREB-26OCT20OKCSAS",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "80.0",
-      "spread_cents": "8.0",
-      "volume_24h": "859.04",
-      "close_time": "2026-10-23T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26OCT20OKCSAS-SASSCASTLE5-2",
-      "title": "Stephon Castle: 2+ threes",
+      "ticker": "KXNBA3PT-26OCT20OKCSAS-SASDHARPER2-4",
+      "title": "Dylan Harper: 4+ threes",
       "event_ticker": "KXNBA3PT-26OCT20OKCSAS",
-      "yes_ask_cents": "23.0",
-      "no_ask_cents": "80.0",
-      "spread_cents": "3.0",
-      "volume_24h": "789.89",
+      "yes_ask_cents": "7.0",
+      "no_ask_cents": "99.0",
+      "spread_cents": "6.0",
+      "volume_24h": "781.65",
       "close_time": "2026-10-23T01:30:00Z"
     },
     {
-      "ticker": "KXNBA3PT-26OCT20OKCSAS-SASKJOHNSON3-3",
-      "title": "Keldon Johnson: 3+ threes",
-      "event_ticker": "KXNBA3PT-26OCT20OKCSAS",
+      "ticker": "KXNBA3D-26OCT21GSWLAL-LALLDONCIC77",
+      "title": "Luka Don\u010di\u0107: Triple Double",
+      "event_ticker": "KXNBA3D-26OCT21GSWLAL",
       "yes_ask_cents": "13.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "8.0",
-      "volume_24h": "785.44",
-      "close_time": "2026-10-23T01:30:00Z"
+      "no_ask_cents": "89.0",
+      "spread_cents": "2.0",
+      "volume_24h": "774.77",
+      "close_time": "2026-10-24T02:00:00Z"
     },
     {
       "ticker": "KXNBAAST-26OCT20OKCSAS-SASSCASTLE5-10",
       "title": "Stephon Castle: 10+ assists",
       "event_ticker": "KXNBAAST-26OCT20OKCSAS",
       "yes_ask_cents": "9.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "7.0",
-      "volume_24h": "708.39",
+      "no_ask_cents": "99.0",
+      "spread_cents": "8.0",
+      "volume_24h": "713.39",
       "close_time": "2026-10-23T01:30:00Z"
     },
     {
@@ -474,6 +314,166 @@
       "spread_cents": "3.0",
       "volume_24h": "681.0",
       "close_time": "2026-10-24T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT21MINMIA-MINJMCDANIELS3-25",
+      "title": "Jaden McDaniels: 25+ points",
+      "event_ticker": "KXNBAPTS-26OCT21MINMIA",
+      "yes_ask_cents": "10.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "2.0",
+      "volume_24h": "625.94",
+      "close_time": "2026-10-23T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPRA-26OCT21CHABKN-CHABMILLER24-35",
+      "title": "Brandon Miller: 35+ points, rebounds, and assists",
+      "event_ticker": "KXNBAPRA-26OCT21CHABKN",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "6.0",
+      "volume_24h": "625.58",
+      "close_time": "2026-10-23T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26OCT20OKCSAS-OKCIHARTENSTEIN55-6",
+      "title": "Isaiah Hartenstein: 6+ assists",
+      "event_ticker": "KXNBAAST-26OCT20OKCSAS",
+      "yes_ask_cents": "9.0",
+      "no_ask_cents": "98.0",
+      "spread_cents": "7.0",
+      "volume_24h": "605.08",
+      "close_time": "2026-10-23T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBA2D-26OCT21GSWLAL-LALLDONCIC77",
+      "title": "Luka Don\u010di\u0107: Double Double",
+      "event_ticker": "KXNBA2D-26OCT21GSWLAL",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "6.0",
+      "volume_24h": "599.6",
+      "close_time": "2026-10-24T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26OCT21PHXPOR-PORJHOLIDAY5-4",
+      "title": "Jrue Holiday: 4+ rebounds",
+      "event_ticker": "KXNBAREB-26OCT21PHXPOR",
+      "yes_ask_cents": "57.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "5.0",
+      "volume_24h": "597.28",
+      "close_time": "2026-10-24T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26OCT20OKCSAS-SASSCASTLE5-5",
+      "title": "Stephon Castle: 5+ threes",
+      "event_ticker": "KXNBA3PT-26OCT20OKCSAS",
+      "yes_ask_cents": "10.0",
+      "no_ask_cents": "97.0",
+      "spread_cents": "7.0",
+      "volume_24h": "554.92",
+      "close_time": "2026-10-23T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26OCT21GSWLAL-LALWKESSLER14-3",
+      "title": "Walker Kessler: 3+ threes",
+      "event_ticker": "KXNBA3PT-26OCT21GSWLAL",
+      "yes_ask_cents": "11.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "3.0",
+      "volume_24h": "551.97",
+      "close_time": "2026-10-24T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26OCT21CHABKN-CHABMILLER24-6",
+      "title": "Brandon Miller: 6+ rebounds",
+      "event_ticker": "KXNBAREB-26OCT21CHABKN",
+      "yes_ask_cents": "45.0",
+      "no_ask_cents": "58.0",
+      "spread_cents": "3.0",
+      "volume_24h": "545.0",
+      "close_time": "2026-10-23T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT21INDNOP-INDANEMBHARD2-15",
+      "title": "Andrew Nembhard: 15+ points",
+      "event_ticker": "KXNBAPTS-26OCT21INDNOP",
+      "yes_ask_cents": "43.0",
+      "no_ask_cents": "62.0",
+      "spread_cents": "5.0",
+      "volume_24h": "526.0",
+      "close_time": "2026-10-24T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT21MILWAS-WASTYOUNG3-20",
+      "title": "Trae Young: 20+ points",
+      "event_ticker": "KXNBAPTS-26OCT21MILWAS",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "1.0",
+      "volume_24h": "519.0",
+      "close_time": "2026-10-23T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT21SACLAC-LACRHACHIMURA28-20",
+      "title": "Rui Hachimura: 20+ points",
+      "event_ticker": "KXNBAPTS-26OCT21SACLAC",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "4.0",
+      "volume_24h": "466.83",
+      "close_time": "2026-10-24T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT21MINMIA-MINAEDWARDS5-30",
+      "title": "Anthony Edwards: 30+ points",
+      "event_ticker": "KXNBAPTS-26OCT21MINMIA",
+      "yes_ask_cents": "47.0",
+      "no_ask_cents": "57.0",
+      "spread_cents": "4.0",
+      "volume_24h": "464.45",
+      "close_time": "2026-10-23T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT21SACLAC-SACZLAVINE8-20",
+      "title": "Zach LaVine: 20+ points",
+      "event_ticker": "KXNBAPTS-26OCT21SACLAC",
+      "yes_ask_cents": "43.0",
+      "no_ask_cents": "64.0",
+      "spread_cents": "7.0",
+      "volume_24h": "449.84",
+      "close_time": "2026-10-24T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT21MILWAS-WASADAVIS23-20",
+      "title": "Anthony Davis: 20+ points",
+      "event_ticker": "KXNBAPTS-26OCT21MILWAS",
+      "yes_ask_cents": "59.0",
+      "no_ask_cents": "44.0",
+      "spread_cents": "3.0",
+      "volume_24h": "443.54",
+      "close_time": "2026-10-23T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26OCT21GSWLAL-LALWKESSLER14-1",
+      "title": "Walker Kessler: 1+ threes",
+      "event_ticker": "KXNBA3PT-26OCT21GSWLAL",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "60.0",
+      "spread_cents": "8.0",
+      "volume_24h": "380.1",
+      "close_time": "2026-10-24T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26OCT21GSWLAL-LALLDONCIC77-4",
+      "title": "Luka Don\u010di\u0107: 4+ threes",
+      "event_ticker": "KXNBA3PT-26OCT21GSWLAL",
+      "yes_ask_cents": "56.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "4.0",
+      "volume_24h": "371.82",
+      "close_time": "2026-10-24T02:00:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
