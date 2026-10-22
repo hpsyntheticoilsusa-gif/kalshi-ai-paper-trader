@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-22T16:45:12.755320+00:00",
+  "generated_utc": "2026-10-22T17:40:07.676005+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 172,
+  "qualifying_nba_markets": 182,
   "scoreboard_games": [
     {
       "event_id": "401909093",
@@ -53,33 +53,43 @@
   ],
   "market_samples": [
     {
+      "ticker": "KXNBAPTS-26OCT22DENOKC-DENAGORDON32-15",
+      "title": "Aaron Gordon: 15+ points",
+      "event_ticker": "KXNBAPTS-26OCT22DENOKC",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "1.0",
+      "volume_24h": "7075.56",
+      "close_time": "2026-10-25T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBA1HSPREAD-26OCT22CLEPHI-PHI2",
+      "title": "Philadelphia wins the 1st half by over 1.5 points",
+      "event_ticker": "KXNBA1HSPREAD-26OCT22CLEPHI",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "1.0",
+      "volume_24h": "6499.51",
+      "close_time": "2026-10-24T23:00:00Z"
+    },
+    {
       "ticker": "KXNBAPTS-26OCT22DENOKC-OKCJMCCAIN3-10",
       "title": "Jared McCain: 10+ points",
       "event_ticker": "KXNBAPTS-26OCT22DENOKC",
       "yes_ask_cents": "55.0",
       "no_ask_cents": "46.0",
       "spread_cents": "1.0",
-      "volume_24h": "6162.13",
-      "close_time": "2026-10-25T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT22DENOKC-DENAGORDON32-15",
-      "title": "Aaron Gordon: 15+ points",
-      "event_ticker": "KXNBAPTS-26OCT22DENOKC",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4502.48",
+      "volume_24h": "6323.09",
       "close_time": "2026-10-25T01:30:00Z"
     },
     {
       "ticker": "KXNBA3PT-26OCT22DENOKC-DENCBRAUN0-2",
       "title": "Christian Braun: 2+ threes",
       "event_ticker": "KXNBA3PT-26OCT22DENOKC",
-      "yes_ask_cents": "42.0",
+      "yes_ask_cents": "41.0",
       "no_ask_cents": "61.0",
-      "spread_cents": "3.0",
-      "volume_24h": "4191.36",
+      "spread_cents": "2.0",
+      "volume_24h": "4193.36",
       "close_time": "2026-10-25T01:30:00Z"
     },
     {
@@ -103,14 +113,14 @@
       "close_time": "2026-10-25T01:30:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT23NOPUTA-UTA6",
-      "title": "Utah wins by over 5.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT23NOPUTA",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "1.0",
-      "volume_24h": "2119.49",
-      "close_time": "2026-10-26T01:30:00Z"
+      "ticker": "KXNBAPTS-26OCT22CLEPHI-CLEJTYSON20-10",
+      "title": "Jaylon Tyson: 10+ points",
+      "event_ticker": "KXNBAPTS-26OCT22CLEPHI",
+      "yes_ask_cents": "46.0",
+      "no_ask_cents": "57.0",
+      "spread_cents": "3.0",
+      "volume_24h": "2708.48",
+      "close_time": "2026-10-24T23:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT23MINORL-MIN2",
@@ -119,37 +129,47 @@
       "yes_ask_cents": "52.0",
       "no_ask_cents": "49.0",
       "spread_cents": "1.0",
-      "volume_24h": "2032.7",
+      "volume_24h": "2159.7",
       "close_time": "2026-10-25T23:00:00Z"
     },
     {
-      "ticker": "KXNBA1HSPREAD-26OCT22CLEPHI-PHI2",
-      "title": "Philadelphia wins the 1st half by over 1.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26OCT22CLEPHI",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
+      "ticker": "KXNBASPREAD-26OCT23NOPUTA-UTA6",
+      "title": "Utah wins by over 5.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT23NOPUTA",
+      "yes_ask_cents": "44.0",
+      "no_ask_cents": "57.0",
       "spread_cents": "1.0",
-      "volume_24h": "2030.83",
-      "close_time": "2026-10-24T23:00:00Z"
+      "volume_24h": "2119.49",
+      "close_time": "2026-10-26T01:30:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26OCT22CLEPHI-CLEJTYSON20-10",
-      "title": "Jaylon Tyson: 10+ points",
-      "event_ticker": "KXNBAPTS-26OCT22CLEPHI",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "3.0",
-      "volume_24h": "1972.15",
-      "close_time": "2026-10-24T23:00:00Z"
+      "ticker": "KXNBA3PT-26OCT22DENOKC-DENAGORDON32-2",
+      "title": "Aaron Gordon: 2+ threes",
+      "event_ticker": "KXNBA3PT-26OCT22DENOKC",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "2.0",
+      "volume_24h": "2097.81",
+      "close_time": "2026-10-25T01:30:00Z"
     },
     {
       "ticker": "KXNBAREB-26OCT22DENOKC-DENAGORDON32-6",
       "title": "Aaron Gordon: 6+ rebounds",
       "event_ticker": "KXNBAREB-26OCT22DENOKC",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "3.0",
-      "volume_24h": "1761.59",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "47.0",
+      "spread_cents": "1.0",
+      "volume_24h": "2038.01",
+      "close_time": "2026-10-25T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26OCT22DENOKC-OKCJMCCAIN3-3",
+      "title": "Jared McCain: 3+ threes",
+      "event_ticker": "KXNBA3PT-26OCT22DENOKC",
+      "yes_ask_cents": "40.0",
+      "no_ask_cents": "61.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1747.98",
       "close_time": "2026-10-25T01:30:00Z"
     },
     {
@@ -163,13 +183,13 @@
       "close_time": "2026-10-25T23:00:00Z"
     },
     {
-      "ticker": "KXNBA3PT-26OCT22DENOKC-OKCJMCCAIN3-3",
-      "title": "Jared McCain: 3+ threes",
+      "ticker": "KXNBA3PT-26OCT22DENOKC-DENAGORDON32-5",
+      "title": "Aaron Gordon: 5+ threes",
       "event_ticker": "KXNBA3PT-26OCT22DENOKC",
-      "yes_ask_cents": "39.0",
-      "no_ask_cents": "63.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1677.04",
+      "yes_ask_cents": "6.0",
+      "no_ask_cents": "95.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1515.36",
       "close_time": "2026-10-25T01:30:00Z"
     },
     {
@@ -183,23 +203,13 @@
       "close_time": "2026-10-25T23:00:00Z"
     },
     {
-      "ticker": "KXNBA3PT-26OCT22DENOKC-DENAGORDON32-5",
-      "title": "Aaron Gordon: 5+ threes",
-      "event_ticker": "KXNBA3PT-26OCT22DENOKC",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1451.41",
-      "close_time": "2026-10-25T01:30:00Z"
-    },
-    {
       "ticker": "KXNBAPTS-26OCT22DENOKC-OKCJMCCAIN3-15",
       "title": "Jared McCain: 15+ points",
       "event_ticker": "KXNBAPTS-26OCT22DENOKC",
       "yes_ask_cents": "25.0",
-      "no_ask_cents": "77.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1367.96",
+      "no_ask_cents": "76.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1491.28",
       "close_time": "2026-10-25T01:30:00Z"
     },
     {
@@ -219,8 +229,18 @@
       "yes_ask_cents": "14.0",
       "no_ask_cents": "88.0",
       "spread_cents": "2.0",
-      "volume_24h": "1326.25",
+      "volume_24h": "1351.41",
       "close_time": "2026-10-25T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBA1QSPREAD-26OCT22CLEPHI-PHI2",
+      "title": "Philadelphia wins 1Q by over 1.5 points",
+      "event_ticker": "KXNBA1QSPREAD-26OCT22CLEPHI",
+      "yes_ask_cents": "47.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1340.96",
+      "close_time": "2026-10-24T23:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT23TORWAS-WAS24",
@@ -231,6 +251,16 @@
       "spread_cents": "1.0",
       "volume_24h": "1296.0",
       "close_time": "2026-10-25T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBA1QTOTAL-26OCT22CLEPHI-58",
+      "title": "1st Quarter: Over 57.5 points scored",
+      "event_ticker": "KXNBA1QTOTAL-26OCT22CLEPHI",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1276.32",
+      "close_time": "2026-10-24T23:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT23MINORL-MIN10",
@@ -246,8 +276,8 @@
       "ticker": "KXNBASPREAD-26OCT23LACLAL-LAL11",
       "title": "Los Angeles L wins by over 10.5 points",
       "event_ticker": "KXNBASPREAD-26OCT23LACLAL",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "53.0",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "54.0",
       "spread_cents": "2.0",
       "volume_24h": "1250.72",
       "close_time": "2026-10-26T02:00:00Z"
@@ -263,14 +293,14 @@
       "close_time": "2026-10-25T23:00:00Z"
     },
     {
-      "ticker": "KXNBA1QSPREAD-26OCT22CLEPHI-PHI2",
-      "title": "Philadelphia wins 1Q by over 1.5 points",
-      "event_ticker": "KXNBA1QSPREAD-26OCT22CLEPHI",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1218.56",
-      "close_time": "2026-10-24T23:00:00Z"
+      "ticker": "KXNBA3PT-26OCT22DENOKC-DENAGORDON32-3",
+      "title": "Aaron Gordon: 3+ threes",
+      "event_ticker": "KXNBA3PT-26OCT22DENOKC",
+      "yes_ask_cents": "27.0",
+      "no_ask_cents": "76.0",
+      "spread_cents": "3.0",
+      "volume_24h": "1223.21",
+      "close_time": "2026-10-25T01:30:00Z"
     },
     {
       "ticker": "KXNBA1HSPREAD-26OCT22DENOKC-OKC13",
@@ -283,24 +313,14 @@
       "close_time": "2026-10-25T01:30:00Z"
     },
     {
-      "ticker": "KXNBA3PT-26OCT22DENOKC-DENAGORDON32-3",
-      "title": "Aaron Gordon: 3+ threes",
-      "event_ticker": "KXNBA3PT-26OCT22DENOKC",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "76.0",
+      "ticker": "KXNBAPTS-26OCT22DENOKC-OKCCHOLMGREN7-10",
+      "title": "Chet Holmgren: 10+ points",
+      "event_ticker": "KXNBAPTS-26OCT22DENOKC",
+      "yes_ask_cents": "84.0",
+      "no_ask_cents": "20.0",
       "spread_cents": "4.0",
-      "volume_24h": "1057.18",
+      "volume_24h": "1071.74",
       "close_time": "2026-10-25T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBA1QTOTAL-26OCT22CLEPHI-58",
-      "title": "1st Quarter: Over 57.5 points scored",
-      "event_ticker": "KXNBA1QTOTAL-26OCT22CLEPHI",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1047.1",
-      "close_time": "2026-10-24T23:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT23MINORL-238",
@@ -311,6 +331,16 @@
       "spread_cents": "1.0",
       "volume_24h": "972.74",
       "close_time": "2026-10-25T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26OCT22DENOKC-DENCBRAUN0-8",
+      "title": "Christian Braun: 8+ rebounds",
+      "event_ticker": "KXNBAREB-26OCT22DENOKC",
+      "yes_ask_cents": "12.0",
+      "no_ask_cents": "95.0",
+      "spread_cents": "7.0",
+      "volume_24h": "961.58",
+      "close_time": "2026-10-25T01:30:00Z"
     },
     {
       "ticker": "KXNBA1HSPREAD-26OCT22DENOKC-OKC5",
@@ -333,22 +363,52 @@
       "close_time": "2026-10-26T02:00:00Z"
     },
     {
+      "ticker": "KXNBAAST-26OCT22CLEPHI-CLEPWATSON8-2",
+      "title": "Peyton Watson: 2+ assists",
+      "event_ticker": "KXNBAAST-26OCT22CLEPHI",
+      "yes_ask_cents": "59.0",
+      "no_ask_cents": "43.0",
+      "spread_cents": "2.0",
+      "volume_24h": "819.01",
+      "close_time": "2026-10-24T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT23MINORL-MIN4",
+      "title": "Minnesota wins by over 3.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT23MINORL",
+      "yes_ask_cents": "45.0",
+      "no_ask_cents": "57.0",
+      "spread_cents": "2.0",
+      "volume_24h": "752.08",
+      "close_time": "2026-10-25T23:00:00Z"
+    },
+    {
       "ticker": "KXNBAPTS-26OCT22CLEPHI-CLEJHARDEN1-30",
       "title": "James Harden: 30+ points",
       "event_ticker": "KXNBAPTS-26OCT22CLEPHI",
       "yes_ask_cents": "10.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "91.0",
+      "spread_cents": "1.0",
       "volume_24h": "743.48",
       "close_time": "2026-10-24T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBA1HTOTAL-26OCT22DENOKC-115",
+      "title": "1st Half: Over 114.5 points scored",
+      "event_ticker": "KXNBA1HTOTAL-26OCT22DENOKC",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "1.0",
+      "volume_24h": "740.68",
+      "close_time": "2026-10-25T01:30:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT23DETMIA-208",
       "title": "Full Game: Over 207.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT23DETMIA",
       "yes_ask_cents": "95.0",
-      "no_ask_cents": "7.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "6.0",
+      "spread_cents": "1.0",
       "volume_24h": "737.0",
       "close_time": "2026-10-26T00:00:00Z"
     },
@@ -363,13 +423,13 @@
       "close_time": "2026-10-25T23:00:00Z"
     },
     {
-      "ticker": "KXNBA1HTOTAL-26OCT22DENOKC-115",
-      "title": "1st Half: Over 114.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT22DENOKC",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "1.0",
-      "volume_24h": "735.68",
+      "ticker": "KXNBAREB-26OCT22DENOKC-OKCIHARTENSTEIN55-8",
+      "title": "Isaiah Hartenstein: 8+ rebounds",
+      "event_ticker": "KXNBAREB-26OCT22DENOKC",
+      "yes_ask_cents": "55.0",
+      "no_ask_cents": "47.0",
+      "spread_cents": "2.0",
+      "volume_24h": "727.12",
       "close_time": "2026-10-25T01:30:00Z"
     },
     {
@@ -383,74 +443,14 @@
       "close_time": "2026-10-26T02:00:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26OCT22DENOKC-DENDDEROZAN10-15",
-      "title": "DeMar DeRozan: 15+ points",
-      "event_ticker": "KXNBAPTS-26OCT22DENOKC",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "2.0",
-      "volume_24h": "699.5",
-      "close_time": "2026-10-25T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT23MINORL-MIN4",
-      "title": "Minnesota wins by over 3.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT23MINORL",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "2.0",
-      "volume_24h": "698.59",
-      "close_time": "2026-10-25T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26OCT22DENOKC-DENAGORDON32-2",
-      "title": "Aaron Gordon: 2+ threes",
-      "event_ticker": "KXNBA3PT-26OCT22DENOKC",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
+      "ticker": "KXNBA1QTOTAL-26OCT22DENOKC-58",
+      "title": "1st Quarter: Over 57.5 points scored",
+      "event_ticker": "KXNBA1QTOTAL-26OCT22DENOKC",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "48.0",
       "spread_cents": "1.0",
-      "volume_24h": "673.68",
+      "volume_24h": "715.9",
       "close_time": "2026-10-25T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT23CHIMIL-237",
-      "title": "Full Game: Over 236.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT23CHIMIL",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "2.0",
-      "volume_24h": "666.85",
-      "close_time": "2026-10-25T20:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT23DALIND-DAL21",
-      "title": "Dallas wins by over 20.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT23DALIND",
-      "yes_ask_cents": "4.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "2.0",
-      "volume_24h": "666.0",
-      "close_time": "2026-10-25T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT23ATLCHA-CHA18",
-      "title": "Charlotte wins by over 17.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT23ATLCHA",
-      "yes_ask_cents": "9.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "3.0",
-      "volume_24h": "636.0",
-      "close_time": "2026-10-25T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT23PORSAC-POR8",
-      "title": "Portland wins by over 7.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT23PORSAC",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "2.0",
-      "volume_24h": "617.45",
-      "close_time": "2026-10-26T02:00:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
