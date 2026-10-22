@@ -1,27 +1,27 @@
 {
-  "generated_utc": "2026-10-22T02:42:49.661556+00:00",
+  "generated_utc": "2026-10-22T03:44:15.018478+00:00",
   "source": "ESPN public scoreboard; not Kalshi settlement source",
   "historical_dates_checked": 386,
   "historical_dates_target": 386,
   "dates_requested_this_run": 3,
   "failed_daily_fetches": 0,
-  "completed_games": 1474,
+  "completed_games": 1475,
   "by_phase": {
     "preseason": 138,
-    "regular": 1245,
+    "regular": 1246,
     "postseason": 85,
     "unknown": 6
   },
-  "backtest_games": 1162,
-  "model_brier": 0.2286,
+  "backtest_games": 1163,
+  "model_brier": 0.2285,
   "neutral_50_50_brier": 0.25,
-  "paired_backtest_games": 1086,
+  "paired_backtest_games": 1087,
   "chronological_holdout": {
     "games": 218,
-    "form_brier": 0.2076,
-    "elo_brier": 0.1682,
+    "form_brier": 0.2078,
+    "elo_brier": 0.1683,
     "neutral_brier": 0.25,
-    "first_game_date": "2026-03-17T23:30Z"
+    "first_game_date": "2026-03-18T00:00Z"
   },
   "elo_holdout_calibration": [
     {
@@ -51,42 +51,35 @@
     {
       "bin": "0.8-1.0",
       "games": 30,
-      "mean_predicted": 0.847,
+      "mean_predicted": 0.845,
       "actual_home_win_rate": 0.9
     }
   ],
   "calibration_experiment": {
     "status": "RETROSPECTIVE_RESEARCH_ONLY",
-    "training_games": 651,
+    "training_games": 652,
     "validation_games": 217,
     "evaluation_games": 218,
     "selected_log_odds_slope": 1.4,
     "selected_log_odds_offset": -0.25,
-    "evaluation_raw_elo_brier": 0.1682,
+    "evaluation_raw_elo_brier": 0.1683,
     "evaluation_calibrated_brier": 0.1595,
     "note": "Parameters selected using middle 20% only; final 20% used for evaluation. Both historical periods were previously examined during development. Not untouched prospective validation and not live probabilities."
   },
   "calibration_diagnostics": {
     "minimum_bin_games": 20,
-    "weighted_absolute_gap": 0.0954,
+    "weighted_absolute_gap": 0.0956,
     "largest_bin_gap": 0.219,
     "validation": "DESCRIPTIVE_ONLY_NO_RECALIBRATION"
   },
-  "paired_form_brier": 0.2281,
-  "paired_elo_brier": 0.212,
+  "paired_form_brier": 0.228,
+  "paired_elo_brier": 0.2118,
   "historical_backfill_complete": true,
-  "elo_backtest_games": 1086,
-  "elo_brier": 0.212,
+  "elo_backtest_games": 1087,
+  "elo_brier": 0.2118,
   "status": "EXPLORATORY_NOT_VALIDATED",
   "warning": "Regular-season-only strictly chronological simple form model, with backfill potentially incomplete. No market odds, injuries, opponent adjustments, game matching or validated profitability.",
   "examples": [
-    {
-      "game_id": "401811046",
-      "date": "2026-04-12T22:00Z",
-      "predicted_home_win": 0.5,
-      "actual_home_win": 1,
-      "brier": 0.25
-    },
     {
       "game_id": "401811047",
       "date": "2026-04-12T22:00Z",
@@ -219,16 +212,16 @@
       "predicted_home_win": 0.5,
       "actual_home_win": 0,
       "brier": 0.25
+    },
+    {
+      "game_id": "401909840",
+      "date": "2026-10-22T00:30Z",
+      "predicted_home_win": 0.6571,
+      "actual_home_win": 1,
+      "brier": 0.11755
     }
   ],
   "elo_examples": [
-    {
-      "game_id": "401811046",
-      "date": "2026-04-12T22:00Z",
-      "predicted_home_win": 0.7328,
-      "actual_home_win": 1,
-      "brier": 0.07141
-    },
     {
       "game_id": "401811047",
       "date": "2026-04-12T22:00Z",
@@ -361,6 +354,13 @@
       "predicted_home_win": 0.6814,
       "actual_home_win": 0,
       "brier": 0.46428
+    },
+    {
+      "game_id": "401909840",
+      "date": "2026-10-22T00:30Z",
+      "predicted_home_win": 0.82,
+      "actual_home_win": 1,
+      "brier": 0.03239
     }
   ]
 }
