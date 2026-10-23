@@ -1,26 +1,16 @@
 {
-  "generated_utc": "2026-10-23T01:47:06.659517+00:00",
-  "regular_season_games": 1249,
-  "chronological_scoring_tests": 1166,
+  "generated_utc": "2026-10-23T02:42:48.750054+00:00",
+  "regular_season_games": 1250,
+  "chronological_scoring_tests": 1167,
   "margin_mean_absolute_error_points": 12.27,
-  "total_mean_absolute_error_points": 15.52,
+  "total_mean_absolute_error_points": 15.51,
   "margin_zero_baseline_mae": 13.41,
-  "paired_total_games": 1166,
-  "paired_model_total_mae": 15.52,
+  "paired_total_games": 1167,
+  "paired_model_total_mae": 15.51,
   "paired_baseline_total_mae": 15.9,
   "test_gate": "RESEARCH_ONLY",
   "limitations": "Prior five regular-season games per team. No injuries, opponent adjustment, rest, pace, market lines, fees, or verified Kalshi game matching. Errors describe score projections only, NOT profitable spread/total trades.",
   "examples": [
-    {
-      "baseline_margin": 0.0,
-      "baseline_total": 230.71,
-      "game_id": "401909090",
-      "date": "2026-10-21T01:50Z",
-      "projected_margin": -0.6,
-      "actual_margin": -12,
-      "projected_total": 238.2,
-      "actual_total": 220
-    },
     {
       "baseline_margin": 0.0,
       "baseline_total": 230.71,
@@ -130,6 +120,16 @@
       "actual_margin": 25,
       "projected_total": 230.8,
       "actual_total": 217
+    },
+    {
+      "baseline_margin": 0.0,
+      "baseline_total": 230.72,
+      "game_id": "401909093",
+      "date": "2026-10-22T23:00Z",
+      "projected_margin": -0.9,
+      "actual_margin": 8,
+      "projected_total": 227.3,
+      "actual_total": 220
     }
   ]
 }
