@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-23T21:41:54.054455+00:00",
+  "generated_utc": "2026-10-23T22:41:07.115091+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 275,
+  "qualifying_nba_markets": 296,
   "scoreboard_games": [
     {
       "event_id": "401909848",
@@ -16,14 +16,14 @@
           "team": "Milwaukee Bucks",
           "abbreviation": "MIL",
           "home_away": "home",
-          "score": "80"
+          "score": "123"
         },
         {
           "team_id": "4",
           "team": "Chicago Bulls",
           "abbreviation": "CHI",
           "home_away": "away",
-          "score": "78"
+          "score": "130"
         }
       ]
     },
@@ -283,43 +283,23 @@
   ],
   "market_samples": [
     {
-      "ticker": "KXNBA1HSPREAD-26OCT23TORWAS-TOR10",
-      "title": "Toronto wins the 1st half by over 9.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26OCT23TORWAS",
-      "yes_ask_cents": "34.0",
-      "no_ask_cents": "68.0",
-      "spread_cents": "2.0",
-      "volume_24h": "19516.41",
-      "close_time": "2026-10-25T23:00:00Z"
-    },
-    {
       "ticker": "KXNBAPTS-26OCT23TORWAS-WASTYOUNG3-20",
       "title": "Trae Young: 20+ points",
       "event_ticker": "KXNBAPTS-26OCT23TORWAS",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "49.0",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "47.0",
       "spread_cents": "1.0",
-      "volume_24h": "18208.93",
+      "volume_24h": "20872.57",
       "close_time": "2026-10-25T23:00:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26OCT23CHIMIL-MILKWARE9-10",
-      "title": "Kel'el Ware: 10+ points",
-      "event_ticker": "KXNBAPTS-26OCT23CHIMIL",
-      "yes_ask_cents": "75.0",
-      "no_ask_cents": "26.0",
-      "spread_cents": "1.0",
-      "volume_24h": "17667.29",
-      "close_time": "2026-10-25T20:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HSPREAD-26OCT23TORWAS-TOR4",
-      "title": "Toronto wins the 1st half by over 3.5 points",
+      "ticker": "KXNBA1HSPREAD-26OCT23TORWAS-TOR10",
+      "title": "Toronto wins the 1st half by over 9.5 points",
       "event_ticker": "KXNBA1HSPREAD-26OCT23TORWAS",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "45.0",
+      "yes_ask_cents": "33.0",
+      "no_ask_cents": "68.0",
       "spread_cents": "1.0",
-      "volume_24h": "17496.79",
+      "volume_24h": "19516.41",
       "close_time": "2026-10-25T23:00:00Z"
     },
     {
@@ -329,17 +309,17 @@
       "yes_ask_cents": "40.0",
       "no_ask_cents": "61.0",
       "spread_cents": "1.0",
-      "volume_24h": "17487.16",
+      "volume_24h": "17559.13",
       "close_time": "2026-10-26T02:00:00Z"
     },
     {
-      "ticker": "KXNBA1HSPREAD-26OCT23TORWAS-TOR8",
-      "title": "Toronto wins the 1st half by over 7.5 points",
+      "ticker": "KXNBA1HSPREAD-26OCT23TORWAS-TOR4",
+      "title": "Toronto wins the 1st half by over 3.5 points",
       "event_ticker": "KXNBA1HSPREAD-26OCT23TORWAS",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "2.0",
-      "volume_24h": "16757.55",
+      "yes_ask_cents": "55.0",
+      "no_ask_cents": "46.0",
+      "spread_cents": "1.0",
+      "volume_24h": "17539.79",
       "close_time": "2026-10-25T23:00:00Z"
     },
     {
@@ -349,7 +329,17 @@
       "yes_ask_cents": "45.0",
       "no_ask_cents": "56.0",
       "spread_cents": "1.0",
-      "volume_24h": "16064.97",
+      "volume_24h": "16886.55",
+      "close_time": "2026-10-25T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBA1HSPREAD-26OCT23TORWAS-TOR8",
+      "title": "Toronto wins the 1st half by over 7.5 points",
+      "event_ticker": "KXNBA1HSPREAD-26OCT23TORWAS",
+      "yes_ask_cents": "40.0",
+      "no_ask_cents": "61.0",
+      "spread_cents": "1.0",
+      "volume_24h": "16757.55",
       "close_time": "2026-10-25T23:00:00Z"
     },
     {
@@ -357,49 +347,39 @@
       "title": "Toronto wins the 1st half by over 5.5 points",
       "event_ticker": "KXNBA1HSPREAD-26OCT23TORWAS",
       "yes_ask_cents": "46.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "1.0",
-      "volume_24h": "15423.18",
+      "no_ask_cents": "56.0",
+      "spread_cents": "2.0",
+      "volume_24h": "16443.13",
       "close_time": "2026-10-25T23:00:00Z"
     },
     {
       "ticker": "KXNBAAST-26OCT23PORSAC-SACDSABONIS11-6",
       "title": "Domantas Sabonis: 6+ assists",
       "event_ticker": "KXNBAAST-26OCT23PORSAC",
-      "yes_ask_cents": "59.0",
-      "no_ask_cents": "42.0",
+      "yes_ask_cents": "60.0",
+      "no_ask_cents": "41.0",
       "spread_cents": "1.0",
-      "volume_24h": "13857.91",
+      "volume_24h": "15066.97",
       "close_time": "2026-10-26T02:00:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT23TORWAS-TORKLEONARD2-15",
       "title": "Kawhi Leonard: 15+ points",
       "event_ticker": "KXNBAPTS-26OCT23TORWAS",
-      "yes_ask_cents": "94.0",
-      "no_ask_cents": "7.0",
+      "yes_ask_cents": "93.0",
+      "no_ask_cents": "8.0",
       "spread_cents": "1.0",
-      "volume_24h": "12915.17",
+      "volume_24h": "13306.77",
       "close_time": "2026-10-25T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBA2HSPREAD-26OCT23CHIMIL-MIL2",
-      "title": "Milwaukee wins the 2nd half by over 1.5 points",
-      "event_ticker": "KXNBA2HSPREAD-26OCT23CHIMIL",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "5.0",
-      "volume_24h": "12741.81",
-      "close_time": "2026-10-25T20:00:00Z"
     },
     {
       "ticker": "KXNBAAST-26OCT23PORSAC-SACDACUFF5-4",
       "title": "Darius Acuff Jr.: 4+ assists",
       "event_ticker": "KXNBAAST-26OCT23PORSAC",
-      "yes_ask_cents": "67.0",
+      "yes_ask_cents": "66.0",
       "no_ask_cents": "36.0",
-      "spread_cents": "3.0",
-      "volume_24h": "11383.29",
+      "spread_cents": "2.0",
+      "volume_24h": "11388.52",
       "close_time": "2026-10-26T02:00:00Z"
     },
     {
@@ -407,70 +387,80 @@
       "title": "Luguentz Dort: 2+ threes",
       "event_ticker": "KXNBA3PT-26OCT23ATLCHA",
       "yes_ask_cents": "41.0",
+      "no_ask_cents": "60.0",
+      "spread_cents": "1.0",
+      "volume_24h": "10696.31",
+      "close_time": "2026-10-25T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26OCT23DALIND-INDTHALIBURTON0-10",
+      "title": "Tyrese Haliburton: 10+ assists",
+      "event_ticker": "KXNBAAST-26OCT23DALIND",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "1.0",
+      "volume_24h": "10528.96",
+      "close_time": "2026-10-25T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26OCT23CHIMIL-MILKKUZMA18-10",
+      "title": "Kyle Kuzma: 10+ rebounds",
+      "event_ticker": "KXNBAREB-26OCT23CHIMIL",
+      "yes_ask_cents": "8.0",
+      "no_ask_cents": "98.0",
+      "spread_cents": "6.0",
+      "volume_24h": "9816.37",
+      "close_time": "2026-10-25T20:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26OCT23DALIND-DALDGAFFORD21-2",
+      "title": "Daniel Gafford: 2+ assists",
+      "event_ticker": "KXNBAAST-26OCT23DALIND",
+      "yes_ask_cents": "44.0",
       "no_ask_cents": "61.0",
-      "spread_cents": "2.0",
-      "volume_24h": "9056.71",
+      "spread_cents": "5.0",
+      "volume_24h": "9234.31",
       "close_time": "2026-10-25T23:00:00Z"
     },
     {
       "ticker": "KXNBAAST-26OCT23PORSAC-SACDACUFF5-6",
       "title": "Darius Acuff Jr.: 6+ assists",
       "event_ticker": "KXNBAAST-26OCT23PORSAC",
-      "yes_ask_cents": "35.0",
+      "yes_ask_cents": "34.0",
       "no_ask_cents": "67.0",
-      "spread_cents": "2.0",
-      "volume_24h": "8758.56",
+      "spread_cents": "1.0",
+      "volume_24h": "9005.5",
       "close_time": "2026-10-26T02:00:00Z"
     },
     {
-      "ticker": "KXNBAAST-26OCT23DALIND-INDTHALIBURTON0-10",
-      "title": "Tyrese Haliburton: 10+ assists",
-      "event_ticker": "KXNBAAST-26OCT23DALIND",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "1.0",
-      "volume_24h": "8157.67",
+      "ticker": "KXNBAREB-26OCT23ATLCHA-CHAGALLEN8-4",
+      "title": "Grayson Allen: 4+ rebounds",
+      "event_ticker": "KXNBAREB-26OCT23ATLCHA",
+      "yes_ask_cents": "31.0",
+      "no_ask_cents": "71.0",
+      "spread_cents": "2.0",
+      "volume_24h": "7794.0",
       "close_time": "2026-10-25T23:00:00Z"
     },
     {
       "ticker": "KXNBAREB-26OCT23DALIND-INDIZUBAC40-16",
       "title": "Ivica Zubac: 16+ rebounds",
       "event_ticker": "KXNBAREB-26OCT23DALIND",
-      "yes_ask_cents": "16.0",
-      "no_ask_cents": "85.0",
-      "spread_cents": "1.0",
+      "yes_ask_cents": "17.0",
+      "no_ask_cents": "88.0",
+      "spread_cents": "5.0",
       "volume_24h": "7755.88",
-      "close_time": "2026-10-25T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26OCT23ATLCHA-CHAGALLEN8-4",
-      "title": "Grayson Allen: 4+ rebounds",
-      "event_ticker": "KXNBAREB-26OCT23ATLCHA",
-      "yes_ask_cents": "30.0",
-      "no_ask_cents": "71.0",
-      "spread_cents": "1.0",
-      "volume_24h": "7634.0",
       "close_time": "2026-10-25T23:00:00Z"
     },
     {
       "ticker": "KXNBAAST-26OCT23MEMGSW-GSWSCURRY30-6",
       "title": "Stephen Curry: 6+ assists",
       "event_ticker": "KXNBAAST-26OCT23MEMGSW",
-      "yes_ask_cents": "26.0",
-      "no_ask_cents": "75.0",
-      "spread_cents": "1.0",
+      "yes_ask_cents": "27.0",
+      "no_ask_cents": "76.0",
+      "spread_cents": "3.0",
       "volume_24h": "7364.0",
       "close_time": "2026-10-26T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAAST-26OCT23CHIMIL-CHINPOWELL24-4",
-      "title": "Norman Powell: 4+ assists",
-      "event_ticker": "KXNBAAST-26OCT23CHIMIL",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "7.0",
-      "volume_24h": "6641.22",
-      "close_time": "2026-10-25T20:00:00Z"
     },
     {
       "ticker": "KXNBAREB-26OCT23LACLAL-LACRHACHIMURA28-6",
@@ -479,18 +469,8 @@
       "yes_ask_cents": "48.0",
       "no_ask_cents": "53.0",
       "spread_cents": "1.0",
-      "volume_24h": "6422.67",
+      "volume_24h": "7226.73",
       "close_time": "2026-10-26T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT23TORWAS-WASTYOUNG3-25",
-      "title": "Trae Young: 25+ points",
-      "event_ticker": "KXNBAPTS-26OCT23TORWAS",
-      "yes_ask_cents": "26.0",
-      "no_ask_cents": "76.0",
-      "spread_cents": "2.0",
-      "volume_24h": "6373.66",
-      "close_time": "2026-10-25T23:00:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT23PORSAC-SACZLAVINE8-20",
@@ -499,17 +479,27 @@
       "yes_ask_cents": "49.0",
       "no_ask_cents": "52.0",
       "spread_cents": "1.0",
-      "volume_24h": "6234.34",
+      "volume_24h": "7103.07",
       "close_time": "2026-10-26T02:00:00Z"
     },
     {
-      "ticker": "KXNBAREB-26OCT23CHIMIL-MILKKUZMA18-10",
-      "title": "Kyle Kuzma: 10+ rebounds",
-      "event_ticker": "KXNBAREB-26OCT23CHIMIL",
-      "yes_ask_cents": "58.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "5.0",
-      "volume_24h": "5951.84",
+      "ticker": "KXNBAPTS-26OCT23TORWAS-WASTYOUNG3-25",
+      "title": "Trae Young: 25+ points",
+      "event_ticker": "KXNBAPTS-26OCT23TORWAS",
+      "yes_ask_cents": "27.0",
+      "no_ask_cents": "74.0",
+      "spread_cents": "1.0",
+      "volume_24h": "6713.66",
+      "close_time": "2026-10-25T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBA2HSPREAD-26OCT23CHIMIL-CHI3",
+      "title": "Chicago wins the 2nd half by over 2.5 points",
+      "event_ticker": "KXNBA2HSPREAD-26OCT23CHIMIL",
+      "yes_ask_cents": "99.0",
+      "no_ask_cents": "4.0",
+      "spread_cents": "3.0",
+      "volume_24h": "6301.0",
       "close_time": "2026-10-25T20:00:00Z"
     },
     {
@@ -523,54 +513,64 @@
       "close_time": "2026-10-26T02:00:00Z"
     },
     {
-      "ticker": "KXNBAREB-26OCT23CHIMIL-MILKWARE9-8",
-      "title": "Kel'el Ware: 8+ rebounds",
-      "event_ticker": "KXNBAREB-26OCT23CHIMIL",
-      "yes_ask_cents": "22.0",
-      "no_ask_cents": "86.0",
-      "spread_cents": "8.0",
-      "volume_24h": "5543.23",
-      "close_time": "2026-10-25T20:00:00Z"
-    },
-    {
-      "ticker": "KXNBA2HTOTAL-26OCT23CHIMIL-123",
-      "title": "2nd Half: Over 122.5 points scored",
-      "event_ticker": "KXNBA2HTOTAL-26OCT23CHIMIL",
-      "yes_ask_cents": "82.0",
-      "no_ask_cents": "21.0",
-      "spread_cents": "3.0",
-      "volume_24h": "5174.98",
-      "close_time": "2026-10-25T20:00:00Z"
+      "ticker": "KXNBAPTS-26OCT23TORWAS-TORKLEONARD2-20",
+      "title": "Kawhi Leonard: 20+ points",
+      "event_ticker": "KXNBAPTS-26OCT23TORWAS",
+      "yes_ask_cents": "74.0",
+      "no_ask_cents": "28.0",
+      "spread_cents": "2.0",
+      "volume_24h": "5403.95",
+      "close_time": "2026-10-25T23:00:00Z"
     },
     {
       "ticker": "KXNBA3PT-26OCT23TORWAS-WASADAVIS23-1",
       "title": "Anthony Davis: 1+ threes",
       "event_ticker": "KXNBA3PT-26OCT23TORWAS",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "2.0",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "1.0",
       "volume_24h": "5002.87",
+      "close_time": "2026-10-25T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26OCT23LACLAL-LACDGARLAND10-4",
+      "title": "Darius Garland: 4+ rebounds",
+      "event_ticker": "KXNBAREB-26OCT23LACLAL",
+      "yes_ask_cents": "31.0",
+      "no_ask_cents": "72.0",
+      "spread_cents": "3.0",
+      "volume_24h": "4810.72",
+      "close_time": "2026-10-26T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBA1QSPREAD-26OCT23DALIND-IND2",
+      "title": "Indiana wins 1Q by over 1.5 points",
+      "event_ticker": "KXNBA1QSPREAD-26OCT23DALIND",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "3.0",
+      "volume_24h": "4797.97",
       "close_time": "2026-10-25T23:00:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT23TORWAS-TORJSHEAD1-10",
       "title": "Jamal Shead: 10+ points",
       "event_ticker": "KXNBAPTS-26OCT23TORWAS",
-      "yes_ask_cents": "15.0",
-      "no_ask_cents": "86.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4328.17",
+      "yes_ask_cents": "16.0",
+      "no_ask_cents": "89.0",
+      "spread_cents": "5.0",
+      "volume_24h": "4639.17",
       "close_time": "2026-10-25T23:00:00Z"
     },
     {
-      "ticker": "KXNBAAST-26OCT23DALIND-DALNMARSHALL3-4",
-      "title": "Naji Marshall: 4+ assists",
-      "event_ticker": "KXNBAAST-26OCT23DALIND",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "54.0",
+      "ticker": "KXNBAPTS-26OCT23CHIMIL-MILKWARE9-15",
+      "title": "Kel'el Ware: 15+ points",
+      "event_ticker": "KXNBAPTS-26OCT23CHIMIL",
+      "yes_ask_cents": "2.0",
+      "no_ask_cents": "99.0",
       "spread_cents": "1.0",
-      "volume_24h": "4145.67",
-      "close_time": "2026-10-25T23:00:00Z"
+      "volume_24h": "4231.08",
+      "close_time": "2026-10-25T20:00:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT23PORSAC-PORDLILLARD0-20",
@@ -579,18 +579,8 @@
       "yes_ask_cents": "49.0",
       "no_ask_cents": "52.0",
       "spread_cents": "1.0",
-      "volume_24h": "4127.7",
+      "volume_24h": "4190.57",
       "close_time": "2026-10-26T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA2HSPREAD-26OCT23CHIMIL-CHI3",
-      "title": "Chicago wins the 2nd half by over 2.5 points",
-      "event_ticker": "KXNBA2HSPREAD-26OCT23CHIMIL",
-      "yes_ask_cents": "40.0",
-      "no_ask_cents": "63.0",
-      "spread_cents": "3.0",
-      "volume_24h": "4112.4",
-      "close_time": "2026-10-25T20:00:00Z"
     },
     {
       "ticker": "KXNBA3PT-26OCT23MEMGSW-GSWDGREEN23-2",
@@ -599,27 +589,57 @@
       "yes_ask_cents": "36.0",
       "no_ask_cents": "65.0",
       "spread_cents": "1.0",
-      "volume_24h": "4102.08",
+      "volume_24h": "4122.08",
+      "close_time": "2026-10-26T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBA1HSPREAD-26OCT23DALIND-IND4",
+      "title": "Indiana wins the 1st half by over 3.5 points",
+      "event_ticker": "KXNBA1HSPREAD-26OCT23DALIND",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "2.0",
+      "volume_24h": "3975.31",
+      "close_time": "2026-10-25T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26OCT23MEMGSW-GSWDGREEN23-3",
+      "title": "Draymond Green: 3+ threes",
+      "event_ticker": "KXNBA3PT-26OCT23MEMGSW",
+      "yes_ask_cents": "14.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "7.0",
+      "volume_24h": "3914.97",
+      "close_time": "2026-10-26T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26OCT23PORSAC-PORDCLINGAN23-2",
+      "title": "Donovan Clingan: 2+ assists",
+      "event_ticker": "KXNBAAST-26OCT23PORSAC",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "1.0",
+      "volume_24h": "3906.91",
       "close_time": "2026-10-26T02:00:00Z"
     },
     {
       "ticker": "KXNBA3PT-26OCT23ATLCHA-CHAGALLEN8-3",
       "title": "Grayson Allen: 3+ threes",
       "event_ticker": "KXNBA3PT-26OCT23ATLCHA",
-      "yes_ask_cents": "52.0",
+      "yes_ask_cents": "51.0",
       "no_ask_cents": "50.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3648.92",
+      "spread_cents": "1.0",
+      "volume_24h": "3681.01",
       "close_time": "2026-10-25T23:00:00Z"
     },
     {
-      "ticker": "KXNBAAST-26OCT23DALIND-DALDGAFFORD21-2",
-      "title": "Daniel Gafford: 2+ assists",
-      "event_ticker": "KXNBAAST-26OCT23DALIND",
-      "yes_ask_cents": "42.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "3.0",
-      "volume_24h": "3499.31",
+      "ticker": "KXNBA1HTOTAL-26OCT23TORWAS-115",
+      "title": "1st Half: Over 114.5 points scored",
+      "event_ticker": "KXNBA1HTOTAL-26OCT23TORWAS",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "1.0",
+      "volume_24h": "3676.46",
       "close_time": "2026-10-25T23:00:00Z"
     },
     {
@@ -629,18 +649,18 @@
       "yes_ask_cents": "40.0",
       "no_ask_cents": "61.0",
       "spread_cents": "1.0",
-      "volume_24h": "3471.13",
+      "volume_24h": "3617.8",
       "close_time": "2026-10-26T02:00:00Z"
     },
     {
-      "ticker": "KXNBA1HSPREAD-26OCT23DALIND-IND4",
-      "title": "Indiana wins the 1st half by over 3.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26OCT23DALIND",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3362.12",
-      "close_time": "2026-10-25T23:00:00Z"
+      "ticker": "KXNBAPTS-26OCT23LACLAL-LACBLOPEZ11-10",
+      "title": "Brook Lopez: 10+ points",
+      "event_ticker": "KXNBAPTS-26OCT23LACLAL",
+      "yes_ask_cents": "58.0",
+      "no_ask_cents": "44.0",
+      "spread_cents": "2.0",
+      "volume_24h": "3561.21",
+      "close_time": "2026-10-26T02:00:00Z"
     },
     {
       "ticker": "KXNBA3PT-26OCT23TORWAS-WASTYOUNG3-3",
@@ -649,7 +669,7 @@
       "yes_ask_cents": "40.0",
       "no_ask_cents": "61.0",
       "spread_cents": "1.0",
-      "volume_24h": "3065.71",
+      "volume_24h": "3188.85",
       "close_time": "2026-10-25T23:00:00Z"
     },
     {
@@ -657,29 +677,9 @@
       "title": "Darius Acuff Jr.: 8+ assists",
       "event_ticker": "KXNBAAST-26OCT23PORSAC",
       "yes_ask_cents": "11.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3000.07",
-      "close_time": "2026-10-26T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26OCT23MEMGSW-GSWDGREEN23-3",
-      "title": "Draymond Green: 3+ threes",
-      "event_ticker": "KXNBA3PT-26OCT23MEMGSW",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "88.0",
+      "no_ask_cents": "90.0",
       "spread_cents": "1.0",
-      "volume_24h": "2988.47",
-      "close_time": "2026-10-26T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT23MEMGSW-GSWBPODZIEMSKI2-25",
-      "title": "Brandin Podziemski: 25+ points",
-      "event_ticker": "KXNBAPTS-26OCT23MEMGSW",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "1.0",
-      "volume_24h": "2902.59",
+      "volume_24h": "3164.57",
       "close_time": "2026-10-26T02:00:00Z"
     }
   ],
