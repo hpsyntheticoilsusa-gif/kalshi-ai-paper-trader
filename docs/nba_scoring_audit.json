@@ -1,56 +1,16 @@
 {
-  "generated_utc": "2026-10-24T03:42:39.681942+00:00",
-  "regular_season_games": 1258,
-  "chronological_scoring_tests": 1175,
-  "margin_mean_absolute_error_points": 12.3,
-  "total_mean_absolute_error_points": 15.55,
-  "margin_zero_baseline_mae": 13.43,
-  "paired_total_games": 1175,
-  "paired_model_total_mae": 15.55,
-  "paired_baseline_total_mae": 15.94,
+  "generated_utc": "2026-10-24T04:41:26.930332+00:00",
+  "regular_season_games": 1262,
+  "chronological_scoring_tests": 1179,
+  "margin_mean_absolute_error_points": 12.27,
+  "total_mean_absolute_error_points": 15.56,
+  "margin_zero_baseline_mae": 13.4,
+  "paired_total_games": 1179,
+  "paired_model_total_mae": 15.56,
+  "paired_baseline_total_mae": 15.92,
   "test_gate": "RESEARCH_ONLY",
   "limitations": "Prior five regular-season games per team. No injuries, opponent adjustment, rest, pace, market lines, fees, or verified Kalshi game matching. Errors describe score projections only, NOT profitable spread/total trades.",
   "examples": [
-    {
-      "baseline_margin": 0.0,
-      "baseline_total": 230.72,
-      "game_id": "401909092",
-      "date": "2026-10-22T02:00Z",
-      "projected_margin": 4.9,
-      "actual_margin": 22,
-      "projected_total": 224.3,
-      "actual_total": 232
-    },
-    {
-      "baseline_margin": 0.0,
-      "baseline_total": 230.72,
-      "game_id": "401909841",
-      "date": "2026-10-22T02:00Z",
-      "projected_margin": 2.2,
-      "actual_margin": 41,
-      "projected_total": 223.6,
-      "actual_total": 207
-    },
-    {
-      "baseline_margin": 0.0,
-      "baseline_total": 230.72,
-      "game_id": "401909842",
-      "date": "2026-10-22T02:30Z",
-      "projected_margin": 4.6,
-      "actual_margin": 25,
-      "projected_total": 230.8,
-      "actual_total": 217
-    },
-    {
-      "baseline_margin": 0.0,
-      "baseline_total": 230.72,
-      "game_id": "401909093",
-      "date": "2026-10-22T23:00Z",
-      "projected_margin": -0.9,
-      "actual_margin": 8,
-      "projected_total": 227.3,
-      "actual_total": 220
-    },
     {
       "baseline_margin": 0.0,
       "baseline_total": 230.69,
@@ -130,6 +90,46 @@
       "actual_margin": -17,
       "projected_total": 239.6,
       "actual_total": 239
+    },
+    {
+      "baseline_margin": 0.0,
+      "baseline_total": 230.61,
+      "game_id": "401909096",
+      "date": "2026-10-24T01:30Z",
+      "projected_margin": -4.9,
+      "actual_margin": -4,
+      "projected_total": 233.3,
+      "actual_total": 224
+    },
+    {
+      "baseline_margin": 0.0,
+      "baseline_total": 230.61,
+      "game_id": "401909849",
+      "date": "2026-10-24T01:30Z",
+      "projected_margin": -3.2,
+      "actual_margin": 1,
+      "projected_total": 253.8,
+      "actual_total": 239
+    },
+    {
+      "baseline_margin": 0.0,
+      "baseline_total": 230.61,
+      "game_id": "401909851",
+      "date": "2026-10-24T02:00Z",
+      "projected_margin": 4.8,
+      "actual_margin": 8,
+      "projected_total": 218.8,
+      "actual_total": 242
+    },
+    {
+      "baseline_margin": 0.0,
+      "baseline_total": 230.61,
+      "game_id": "401909852",
+      "date": "2026-10-24T02:00Z",
+      "projected_margin": -12.1,
+      "actual_margin": -8,
+      "projected_total": 228.7,
+      "actual_total": 248
     }
   ]
 }
