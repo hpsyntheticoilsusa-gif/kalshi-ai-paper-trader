@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-24T18:43:17.402573+00:00",
+  "generated_utc": "2026-10-24T19:36:39.877037+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 544,
+  "qualifying_nba_markets": 597,
   "scoreboard_games": [
     {
       "event_id": "401909853",
@@ -194,10 +194,20 @@
       "ticker": "KXNBATOTAL-26OCT24MIACHA-231",
       "title": "Full Game: Over 230.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT24MIACHA",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "55.0",
+      "yes_ask_cents": "45.0",
+      "no_ask_cents": "56.0",
       "spread_cents": "1.0",
-      "volume_24h": "114895.65",
+      "volume_24h": "114969.73",
+      "close_time": "2026-10-26T22:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT24MIACHA-MIA4",
+      "title": "Miami wins by over 3.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT24MIACHA",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "1.0",
+      "volume_24h": "83616.52",
       "close_time": "2026-10-26T22:00:00Z"
     },
     {
@@ -207,18 +217,8 @@
       "yes_ask_cents": "53.0",
       "no_ask_cents": "48.0",
       "spread_cents": "1.0",
-      "volume_24h": "80193.99",
+      "volume_24h": "80393.54",
       "close_time": "2026-10-27T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT24MIACHA-MIA4",
-      "title": "Miami wins by over 3.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT24MIACHA",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "1.0",
-      "volume_24h": "75610.08",
-      "close_time": "2026-10-26T22:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT24SASDAL-231",
@@ -227,27 +227,27 @@
       "yes_ask_cents": "51.0",
       "no_ask_cents": "50.0",
       "spread_cents": "1.0",
-      "volume_24h": "54673.25",
+      "volume_24h": "56793.64",
       "close_time": "2026-10-27T00:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT24SASDAL-SAS13",
       "title": "San Antonio wins by over 12.5 points",
       "event_ticker": "KXNBASPREAD-26OCT24SASDAL",
-      "yes_ask_cents": "58.0",
+      "yes_ask_cents": "57.0",
       "no_ask_cents": "44.0",
-      "spread_cents": "2.0",
-      "volume_24h": "38756.64",
+      "spread_cents": "1.0",
+      "volume_24h": "39300.79",
       "close_time": "2026-10-27T00:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT24MILPHI-PHI13",
       "title": "Philadelphia wins by over 12.5 points",
       "event_ticker": "KXNBASPREAD-26OCT24MILPHI",
-      "yes_ask_cents": "50.0",
+      "yes_ask_cents": "49.0",
       "no_ask_cents": "52.0",
-      "spread_cents": "2.0",
-      "volume_24h": "29195.86",
+      "spread_cents": "1.0",
+      "volume_24h": "30574.15",
       "close_time": "2026-10-26T23:30:00Z"
     },
     {
@@ -257,8 +257,28 @@
       "yes_ask_cents": "51.0",
       "no_ask_cents": "50.0",
       "spread_cents": "1.0",
-      "volume_24h": "28404.65",
+      "volume_24h": "28508.69",
       "close_time": "2026-10-27T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT24MIACHA-CHABMILLER24-25",
+      "title": "Brandon Miller: 25+ points",
+      "event_ticker": "KXNBAPTS-26OCT24MIACHA",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "63.0",
+      "spread_cents": "2.0",
+      "volume_24h": "24413.16",
+      "close_time": "2026-10-26T22:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT24BKNCLE-CLE12",
+      "title": "Cleveland wins by over 11.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT24BKNCLE",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "1.0",
+      "volume_24h": "19762.64",
+      "close_time": "2026-10-26T23:30:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT24HOUATL-227",
@@ -267,28 +287,8 @@
       "yes_ask_cents": "51.0",
       "no_ask_cents": "50.0",
       "spread_cents": "1.0",
-      "volume_24h": "19160.36",
+      "volume_24h": "19257.01",
       "close_time": "2026-10-27T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT24BKNCLE-CLE12",
-      "title": "Cleveland wins by over 11.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT24BKNCLE",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "2.0",
-      "volume_24h": "15700.94",
-      "close_time": "2026-10-26T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT24MIACHA-CHABMILLER24-25",
-      "title": "Brandon Miller: 25+ points",
-      "event_ticker": "KXNBAPTS-26OCT24MIACHA",
-      "yes_ask_cents": "39.0",
-      "no_ask_cents": "64.0",
-      "spread_cents": "3.0",
-      "volume_24h": "15375.29",
-      "close_time": "2026-10-26T22:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT24MILPHI-235",
@@ -297,58 +297,68 @@
       "yes_ask_cents": "52.0",
       "no_ask_cents": "49.0",
       "spread_cents": "1.0",
-      "volume_24h": "14490.71",
+      "volume_24h": "14577.11",
       "close_time": "2026-10-26T23:30:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT24HOUATL-ATL2",
       "title": "Atlanta wins by over 1.5 points",
       "event_ticker": "KXNBASPREAD-26OCT24HOUATL",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "54.0",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "53.0",
       "spread_cents": "1.0",
-      "volume_24h": "12840.94",
+      "volume_24h": "13196.49",
       "close_time": "2026-10-27T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT24MIACHA-MIA3",
-      "title": "Miami wins by over 2.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT24MIACHA",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "1.0",
-      "volume_24h": "10686.62",
-      "close_time": "2026-10-26T22:00:00Z"
     },
     {
       "ticker": "KXNBAAST-26OCT24SASDAL-SASSCASTLE5-6",
       "title": "Stephon Castle: 6+ assists",
       "event_ticker": "KXNBAAST-26OCT24SASDAL",
-      "yes_ask_cents": "60.0",
+      "yes_ask_cents": "59.0",
       "no_ask_cents": "43.0",
-      "spread_cents": "3.0",
-      "volume_24h": "9826.94",
+      "spread_cents": "2.0",
+      "volume_24h": "13032.06",
       "close_time": "2026-10-27T00:00:00Z"
     },
     {
-      "ticker": "KXNBAAST-26OCT24MILPHI-PHIVEDGECOMBE77-4",
-      "title": "VJ Edgecombe: 4+ assists",
-      "event_ticker": "KXNBAAST-26OCT24MILPHI",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "57.0",
+      "ticker": "KXNBASPREAD-26OCT24MIACHA-MIA6",
+      "title": "Miami wins by over 5.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT24MIACHA",
+      "yes_ask_cents": "43.0",
+      "no_ask_cents": "58.0",
       "spread_cents": "1.0",
-      "volume_24h": "8604.07",
-      "close_time": "2026-10-26T23:30:00Z"
+      "volume_24h": "12854.75",
+      "close_time": "2026-10-26T22:00:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26OCT24SASDAL-SASDVASSELL24-15",
-      "title": "Devin Vassell: 15+ points",
-      "event_ticker": "KXNBAPTS-26OCT24SASDAL",
-      "yes_ask_cents": "34.0",
-      "no_ask_cents": "71.0",
-      "spread_cents": "5.0",
-      "volume_24h": "8377.81",
+      "ticker": "KXNBASPREAD-26OCT24MIACHA-MIA3",
+      "title": "Miami wins by over 2.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT24MIACHA",
+      "yes_ask_cents": "55.0",
+      "no_ask_cents": "46.0",
+      "spread_cents": "1.0",
+      "volume_24h": "11615.92",
+      "close_time": "2026-10-26T22:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26OCT24WASCHI-WASKGEORGE18-4",
+      "title": "Kyshawn George: 4+ assists",
+      "event_ticker": "KXNBAAST-26OCT24WASCHI",
+      "yes_ask_cents": "38.0",
+      "no_ask_cents": "63.0",
+      "spread_cents": "1.0",
+      "volume_24h": "11240.05",
       "close_time": "2026-10-27T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26OCT24BKNCLE-BKNEDEMIN8-3",
+      "title": "Egor D\u00ebmin: 3+ threes",
+      "event_ticker": "KXNBA3PT-26OCT24BKNCLE",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "63.0",
+      "spread_cents": "2.0",
+      "volume_24h": "9869.0",
+      "close_time": "2026-10-26T23:30:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT24GSWPHX-PHX10",
@@ -357,17 +367,47 @@
       "yes_ask_cents": "49.0",
       "no_ask_cents": "52.0",
       "spread_cents": "1.0",
-      "volume_24h": "8202.76",
+      "volume_24h": "8896.9",
       "close_time": "2026-10-27T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26OCT24MILPHI-PHIVEDGECOMBE77-4",
+      "title": "VJ Edgecombe: 4+ assists",
+      "event_ticker": "KXNBAAST-26OCT24MILPHI",
+      "yes_ask_cents": "44.0",
+      "no_ask_cents": "57.0",
+      "spread_cents": "1.0",
+      "volume_24h": "8620.47",
+      "close_time": "2026-10-26T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26OCT24SASDAL-SASDHARPER2-4",
+      "title": "Dylan Harper: 4+ assists",
+      "event_ticker": "KXNBAAST-26OCT24SASDAL",
+      "yes_ask_cents": "58.0",
+      "no_ask_cents": "43.0",
+      "spread_cents": "1.0",
+      "volume_24h": "8468.0",
+      "close_time": "2026-10-27T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT24SASDAL-SASDVASSELL24-15",
+      "title": "Devin Vassell: 15+ points",
+      "event_ticker": "KXNBAPTS-26OCT24SASDAL",
+      "yes_ask_cents": "32.0",
+      "no_ask_cents": "70.0",
+      "spread_cents": "2.0",
+      "volume_24h": "8377.81",
+      "close_time": "2026-10-27T00:00:00Z"
     },
     {
       "ticker": "KXNBA3PT-26OCT24MILPHI-PHIJBROWN7-2",
       "title": "Jaylen Brown: 2+ threes",
       "event_ticker": "KXNBA3PT-26OCT24MILPHI",
       "yes_ask_cents": "52.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "4.0",
-      "volume_24h": "8191.21",
+      "no_ask_cents": "51.0",
+      "spread_cents": "3.0",
+      "volume_24h": "8321.44",
       "close_time": "2026-10-26T23:30:00Z"
     },
     {
@@ -381,24 +421,34 @@
       "close_time": "2026-10-26T23:30:00Z"
     },
     {
-      "ticker": "KXNBAAST-26OCT24SASDAL-SASDHARPER2-4",
-      "title": "Dylan Harper: 4+ assists",
-      "event_ticker": "KXNBAAST-26OCT24SASDAL",
-      "yes_ask_cents": "60.0",
-      "no_ask_cents": "43.0",
-      "spread_cents": "3.0",
-      "volume_24h": "7809.0",
+      "ticker": "KXNBAAST-26OCT24WASCHI-CHICWILSON8-2",
+      "title": "Caleb Wilson: 2+ assists",
+      "event_ticker": "KXNBAAST-26OCT24WASCHI",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "1.0",
+      "volume_24h": "7943.96",
       "close_time": "2026-10-27T00:00:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT24SASDAL-SASVWEMBANYAMA1-30",
       "title": "Victor Wembanyama: 30+ points",
       "event_ticker": "KXNBAPTS-26OCT24SASDAL",
-      "yes_ask_cents": "39.0",
-      "no_ask_cents": "64.0",
-      "spread_cents": "3.0",
-      "volume_24h": "7715.85",
+      "yes_ask_cents": "37.0",
+      "no_ask_cents": "65.0",
+      "spread_cents": "2.0",
+      "volume_24h": "7720.26",
       "close_time": "2026-10-27T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26OCT24MIACHA-CHABMILLER24-4",
+      "title": "Brandon Miller: 4+ assists",
+      "event_ticker": "KXNBAAST-26OCT24MIACHA",
+      "yes_ask_cents": "45.0",
+      "no_ask_cents": "58.0",
+      "spread_cents": "3.0",
+      "volume_24h": "7665.07",
+      "close_time": "2026-10-26T22:00:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT24GSWPHX-PHXDBOOKER15-25",
@@ -407,7 +457,7 @@
       "yes_ask_cents": "48.0",
       "no_ask_cents": "55.0",
       "spread_cents": "3.0",
-      "volume_24h": "7427.57",
+      "volume_24h": "7454.23",
       "close_time": "2026-10-27T02:00:00Z"
     },
     {
@@ -417,27 +467,17 @@
       "yes_ask_cents": "55.0",
       "no_ask_cents": "46.0",
       "spread_cents": "1.0",
-      "volume_24h": "7157.03",
+      "volume_24h": "7316.57",
       "close_time": "2026-10-27T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBAAST-26OCT24MIACHA-CHABMILLER24-4",
-      "title": "Brandon Miller: 4+ assists",
-      "event_ticker": "KXNBAAST-26OCT24MIACHA",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "58.0",
-      "spread_cents": "3.0",
-      "volume_24h": "7121.07",
-      "close_time": "2026-10-26T22:00:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT24MIACHA-CHABMILLER24-20",
       "title": "Brandon Miller: 20+ points",
       "event_ticker": "KXNBAPTS-26OCT24MIACHA",
       "yes_ask_cents": "66.0",
-      "no_ask_cents": "39.0",
-      "spread_cents": "5.0",
-      "volume_24h": "6516.03",
+      "no_ask_cents": "38.0",
+      "spread_cents": "4.0",
+      "volume_24h": "6896.03",
       "close_time": "2026-10-26T22:00:00Z"
     },
     {
@@ -447,48 +487,48 @@
       "yes_ask_cents": "61.0",
       "no_ask_cents": "40.0",
       "spread_cents": "1.0",
-      "volume_24h": "6448.08",
+      "volume_24h": "6449.67",
       "close_time": "2026-10-27T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT24MIACHA-MIAGANTETOKOUNMPO7-30",
+      "title": "Giannis Antetokounmpo: 30+ points",
+      "event_ticker": "KXNBAPTS-26OCT24MIACHA",
+      "yes_ask_cents": "45.0",
+      "no_ask_cents": "57.0",
+      "spread_cents": "2.0",
+      "volume_24h": "6431.09",
+      "close_time": "2026-10-26T22:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT24WASCHI-WAS2",
       "title": "Washington wins by over 1.5 points",
       "event_ticker": "KXNBASPREAD-26OCT24WASCHI",
-      "yes_ask_cents": "44.0",
+      "yes_ask_cents": "45.0",
       "no_ask_cents": "57.0",
-      "spread_cents": "1.0",
-      "volume_24h": "6377.75",
+      "spread_cents": "2.0",
+      "volume_24h": "6399.61",
       "close_time": "2026-10-27T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3D-26OCT24MILPHI-PHIJBROWN7",
+      "title": "Jaylen Brown: Triple Double",
+      "event_ticker": "KXNBA3D-26OCT24MILPHI",
+      "yes_ask_cents": "3.0",
+      "no_ask_cents": "98.0",
+      "spread_cents": "1.0",
+      "volume_24h": "6398.41",
+      "close_time": "2026-10-26T23:30:00Z"
     },
     {
       "ticker": "KXNBA1HTOTAL-26OCT24MILPHI-120",
       "title": "1st Half: Over 119.5 points scored",
       "event_ticker": "KXNBA1HTOTAL-26OCT24MILPHI",
-      "yes_ask_cents": "39.0",
-      "no_ask_cents": "62.0",
-      "spread_cents": "1.0",
+      "yes_ask_cents": "37.0",
+      "no_ask_cents": "67.0",
+      "spread_cents": "4.0",
       "volume_24h": "6339.88",
       "close_time": "2026-10-26T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26OCT24MILPHI-118",
-      "title": "1st Half: Over 117.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT24MILPHI",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "59.0",
-      "spread_cents": "3.0",
-      "volume_24h": "5916.51",
-      "close_time": "2026-10-26T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT24SASDAL-SASVWEMBANYAMA1-20",
-      "title": "Victor Wembanyama: 20+ points",
-      "event_ticker": "KXNBAPTS-26OCT24SASDAL",
-      "yes_ask_cents": "79.0",
-      "no_ask_cents": "23.0",
-      "spread_cents": "2.0",
-      "volume_24h": "5651.83",
-      "close_time": "2026-10-27T00:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT24WASCHI-245",
@@ -497,7 +537,37 @@
       "yes_ask_cents": "49.0",
       "no_ask_cents": "52.0",
       "spread_cents": "1.0",
-      "volume_24h": "5481.84",
+      "volume_24h": "5981.25",
+      "close_time": "2026-10-27T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBA1HTOTAL-26OCT24MILPHI-118",
+      "title": "1st Half: Over 117.5 points scored",
+      "event_ticker": "KXNBA1HTOTAL-26OCT24MILPHI",
+      "yes_ask_cents": "44.0",
+      "no_ask_cents": "60.0",
+      "spread_cents": "4.0",
+      "volume_24h": "5922.47",
+      "close_time": "2026-10-26T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT24WASCHI-CHINPOWELL24-20",
+      "title": "Norman Powell: 20+ points",
+      "event_ticker": "KXNBAPTS-26OCT24WASCHI",
+      "yes_ask_cents": "58.0",
+      "no_ask_cents": "45.0",
+      "spread_cents": "3.0",
+      "volume_24h": "5744.18",
+      "close_time": "2026-10-27T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT24SASDAL-SASVWEMBANYAMA1-20",
+      "title": "Victor Wembanyama: 20+ points",
+      "event_ticker": "KXNBAPTS-26OCT24SASDAL",
+      "yes_ask_cents": "81.0",
+      "no_ask_cents": "24.0",
+      "spread_cents": "5.0",
+      "volume_24h": "5651.83",
       "close_time": "2026-10-27T00:00:00Z"
     },
     {
@@ -507,87 +577,17 @@
       "yes_ask_cents": "40.0",
       "no_ask_cents": "61.0",
       "spread_cents": "1.0",
-      "volume_24h": "5316.85",
+      "volume_24h": "5600.15",
       "close_time": "2026-10-27T00:30:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26OCT24GSWPHX-224",
-      "title": "Full Game: Over 223.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT24GSWPHX",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "1.0",
-      "volume_24h": "5222.61",
-      "close_time": "2026-10-27T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAAST-26OCT24SASDAL-SASDHARPER2-6",
-      "title": "Dylan Harper: 6+ assists",
-      "event_ticker": "KXNBAAST-26OCT24SASDAL",
-      "yes_ask_cents": "23.0",
-      "no_ask_cents": "81.0",
-      "spread_cents": "4.0",
-      "volume_24h": "5152.63",
-      "close_time": "2026-10-27T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT24SASDAL-SASDHARPER2-15",
-      "title": "Dylan Harper: 15+ points",
-      "event_ticker": "KXNBAPTS-26OCT24SASDAL",
-      "yes_ask_cents": "67.0",
-      "no_ask_cents": "38.0",
+      "ticker": "KXNBAPTS-26OCT24MIACHA-CHABMILLER24-30",
+      "title": "Brandon Miller: 30+ points",
+      "event_ticker": "KXNBAPTS-26OCT24MIACHA",
+      "yes_ask_cents": "18.0",
+      "no_ask_cents": "87.0",
       "spread_cents": "5.0",
-      "volume_24h": "5147.53",
-      "close_time": "2026-10-27T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBAAST-26OCT24SASDAL-SASDVASSELL24-4",
-      "title": "Devin Vassell: 4+ assists",
-      "event_ticker": "KXNBAAST-26OCT24SASDAL",
-      "yes_ask_cents": "19.0",
-      "no_ask_cents": "83.0",
-      "spread_cents": "2.0",
-      "volume_24h": "5113.0",
-      "close_time": "2026-10-27T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBAAST-26OCT24SASDAL-SASDVASSELL24-2",
-      "title": "Devin Vassell: 2+ assists",
-      "event_ticker": "KXNBAAST-26OCT24SASDAL",
-      "yes_ask_cents": "64.0",
-      "no_ask_cents": "39.0",
-      "spread_cents": "3.0",
-      "volume_24h": "5005.17",
-      "close_time": "2026-10-27T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26OCT24NOPDEN-NOPTMURPHY25-3",
-      "title": "Trey Murphy III: 3+ threes",
-      "event_ticker": "KXNBA3PT-26OCT24NOPDEN",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "59.0",
-      "spread_cents": "4.0",
-      "volume_24h": "4965.68",
-      "close_time": "2026-10-27T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26OCT24BKNCLE-BKNEDEMIN8-3",
-      "title": "Egor D\u00ebmin: 3+ threes",
-      "event_ticker": "KXNBA3PT-26OCT24BKNCLE",
-      "yes_ask_cents": "39.0",
-      "no_ask_cents": "62.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4706.0",
-      "close_time": "2026-10-26T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT24MIACHA-MIA5",
-      "title": "Miami wins by over 4.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT24MIACHA",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4691.05",
+      "volume_24h": "5539.2",
       "close_time": "2026-10-26T22:00:00Z"
     }
   ],
