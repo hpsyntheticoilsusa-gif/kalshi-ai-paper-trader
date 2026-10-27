@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-27T12:55:25.575146+00:00",
+  "generated_utc": "2026-10-27T13:58:53.446717+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 223,
+  "qualifying_nba_markets": 302,
   "scoreboard_games": [
     {
       "event_id": "401909868",
@@ -214,23 +214,33 @@
   ],
   "market_samples": [
     {
+      "ticker": "KXNBASPREAD-26OCT27PORLAL-LAL4",
+      "title": "Los Angeles L wins by over 3.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT27PORLAL",
+      "yes_ask_cents": "46.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "1.0",
+      "volume_24h": "42561.69",
+      "close_time": "2026-10-30T03:00:00Z"
+    },
+    {
       "ticker": "KXNBATOTAL-26OCT27PORLAL-236",
       "title": "Full Game: Over 235.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT27PORLAL",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "50.0",
+      "yes_ask_cents": "46.0",
+      "no_ask_cents": "55.0",
       "spread_cents": "1.0",
-      "volume_24h": "31155.48",
+      "volume_24h": "41902.67",
       "close_time": "2026-10-30T03:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT27DETNYK-NYK4",
       "title": "New York wins by over 3.5 points",
       "event_ticker": "KXNBASPREAD-26OCT27DETNYK",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "1.0",
-      "volume_24h": "30702.0",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "2.0",
+      "volume_24h": "31447.52",
       "close_time": "2026-10-30T00:00:00Z"
     },
     {
@@ -240,68 +250,38 @@
       "yes_ask_cents": "57.0",
       "no_ask_cents": "44.0",
       "spread_cents": "1.0",
-      "volume_24h": "21490.72",
+      "volume_24h": "24356.59",
       "close_time": "2026-10-30T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT27PORLAL-LAL4",
-      "title": "Los Angeles L wins by over 3.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT27PORLAL",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "1.0",
-      "volume_24h": "18192.39",
-      "close_time": "2026-10-30T03:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT27BKNBOS-BOS12",
       "title": "Boston wins by over 11.5 points",
       "event_ticker": "KXNBASPREAD-26OCT27BKNBOS",
       "yes_ask_cents": "51.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "1.0",
-      "volume_24h": "15700.84",
+      "no_ask_cents": "51.0",
+      "spread_cents": "2.0",
+      "volume_24h": "16205.55",
       "close_time": "2026-10-29T23:30:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT27PORLAL-LAL5",
       "title": "Los Angeles L wins by over 4.5 points",
       "event_ticker": "KXNBASPREAD-26OCT27PORLAL",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "57.0",
+      "yes_ask_cents": "43.0",
+      "no_ask_cents": "58.0",
       "spread_cents": "1.0",
-      "volume_24h": "12884.81",
+      "volume_24h": "13128.3",
       "close_time": "2026-10-30T03:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT27SACSAS-SAS18",
       "title": "San Antonio wins by over 17.5 points",
       "event_ticker": "KXNBASPREAD-26OCT27SACSAS",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "49.0",
+      "yes_ask_cents": "55.0",
+      "no_ask_cents": "46.0",
       "spread_cents": "1.0",
-      "volume_24h": "9060.53",
+      "volume_24h": "9251.71",
       "close_time": "2026-10-30T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT27BKNBOS-BOS30",
-      "title": "Boston wins by over 29.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT27BKNBOS",
-      "yes_ask_cents": "11.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "3.0",
-      "volume_24h": "8336.46",
-      "close_time": "2026-10-29T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT27PORLAL-LAL9",
-      "title": "Los Angeles L wins by over 8.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT27PORLAL",
-      "yes_ask_cents": "32.0",
-      "no_ask_cents": "69.0",
-      "spread_cents": "1.0",
-      "volume_24h": "7501.68",
-      "close_time": "2026-10-30T03:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT27DETNYK-NYK5",
@@ -310,17 +290,57 @@
       "yes_ask_cents": "49.0",
       "no_ask_cents": "52.0",
       "spread_cents": "1.0",
-      "volume_24h": "6456.81",
+      "volume_24h": "8534.88",
       "close_time": "2026-10-30T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT27BKNBOS-BOS30",
+      "title": "Boston wins by over 29.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT27BKNBOS",
+      "yes_ask_cents": "10.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "2.0",
+      "volume_24h": "8336.46",
+      "close_time": "2026-10-29T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT27PORLAL-LAL3",
+      "title": "Los Angeles L wins by over 2.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT27PORLAL",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "2.0",
+      "volume_24h": "7832.81",
+      "close_time": "2026-10-30T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT27PORLAL-LAL9",
+      "title": "Los Angeles L wins by over 8.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT27PORLAL",
+      "yes_ask_cents": "33.0",
+      "no_ask_cents": "68.0",
+      "spread_cents": "1.0",
+      "volume_24h": "7501.68",
+      "close_time": "2026-10-30T03:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT27PORLAL-234",
       "title": "Full Game: Over 233.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT27PORLAL",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "48.0",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "2.0",
+      "volume_24h": "7158.55",
+      "close_time": "2026-10-30T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT27PORLAL-238",
+      "title": "Full Game: Over 237.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT27PORLAL",
+      "yes_ask_cents": "42.0",
+      "no_ask_cents": "59.0",
       "spread_cents": "1.0",
-      "volume_24h": "6351.34",
+      "volume_24h": "7031.65",
       "close_time": "2026-10-30T03:00:00Z"
     },
     {
@@ -328,30 +348,10 @@
       "title": "Boston wins by over 31.5 points",
       "event_ticker": "KXNBASPREAD-26OCT27BKNBOS",
       "yes_ask_cents": "7.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "2.0",
-      "volume_24h": "6300.0",
-      "close_time": "2026-10-29T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT27PORLAL-238",
-      "title": "Full Game: Over 237.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT27PORLAL",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "55.0",
+      "no_ask_cents": "94.0",
       "spread_cents": "1.0",
-      "volume_24h": "5809.86",
-      "close_time": "2026-10-30T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT27PORLAL-LAL3",
-      "title": "Los Angeles L wins by over 2.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT27PORLAL",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "2.0",
-      "volume_24h": "5729.13",
-      "close_time": "2026-10-30T03:00:00Z"
+      "volume_24h": "6326.82",
+      "close_time": "2026-10-29T23:30:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT27DETNYK-219",
@@ -360,7 +360,7 @@
       "yes_ask_cents": "51.0",
       "no_ask_cents": "50.0",
       "spread_cents": "1.0",
-      "volume_24h": "5267.84",
+      "volume_24h": "5539.78",
       "close_time": "2026-10-30T00:00:00Z"
     },
     {
@@ -368,10 +368,20 @@
       "title": "Full Game: Over 220.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT27BKNBOS",
       "yes_ask_cents": "54.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "1.0",
-      "volume_24h": "5125.22",
+      "no_ask_cents": "48.0",
+      "spread_cents": "2.0",
+      "volume_24h": "5186.49",
       "close_time": "2026-10-29T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT27DETNYK-NYKJBRUNSON11-25",
+      "title": "Jalen Brunson: 25+ points",
+      "event_ticker": "KXNBAPTS-26OCT27DETNYK",
+      "yes_ask_cents": "56.0",
+      "no_ask_cents": "45.0",
+      "spread_cents": "1.0",
+      "volume_24h": "4646.88",
+      "close_time": "2026-10-30T00:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT27BKNBOS-BOS13",
@@ -380,48 +390,58 @@
       "yes_ask_cents": "47.0",
       "no_ask_cents": "54.0",
       "spread_cents": "1.0",
-      "volume_24h": "4453.66",
-      "close_time": "2026-10-29T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT27BKNBOS-BOS6",
-      "title": "Boston wins by over 5.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT27BKNBOS",
-      "yes_ask_cents": "71.0",
-      "no_ask_cents": "30.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3930.15",
+      "volume_24h": "4576.21",
       "close_time": "2026-10-29T23:30:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT27SACSAS-SAS19",
       "title": "San Antonio wins by over 18.5 points",
       "event_ticker": "KXNBASPREAD-26OCT27SACSAS",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "50.0",
       "spread_cents": "1.0",
-      "volume_24h": "3469.62",
+      "volume_24h": "4118.09",
       "close_time": "2026-10-30T00:00:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26OCT27DETNYK-NYKJBRUNSON11-25",
-      "title": "Jalen Brunson: 25+ points",
+      "ticker": "KXNBASPREAD-26OCT27BKNBOS-BOS6",
+      "title": "Boston wins by over 5.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT27BKNBOS",
+      "yes_ask_cents": "72.0",
+      "no_ask_cents": "29.0",
+      "spread_cents": "1.0",
+      "volume_24h": "3930.15",
+      "close_time": "2026-10-29T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT27DETNYK-NYKKTOWNS32-20",
+      "title": "Karl-Anthony Towns: 20+ points",
       "event_ticker": "KXNBAPTS-26OCT27DETNYK",
-      "yes_ask_cents": "58.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "4.0",
-      "volume_24h": "3144.06",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "1.0",
+      "volume_24h": "3845.85",
       "close_time": "2026-10-30T00:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT27SACSAS-231",
       "title": "Full Game: Over 230.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT27SACSAS",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3021.23",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "2.0",
+      "volume_24h": "3776.05",
       "close_time": "2026-10-30T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT27BKNBOS-223",
+      "title": "Full Game: Over 222.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT27BKNBOS",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "1.0",
+      "volume_24h": "3116.28",
+      "close_time": "2026-10-29T23:30:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT27BKNBOS-BOS36",
@@ -434,44 +454,34 @@
       "close_time": "2026-10-29T23:30:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26OCT27BKNBOS-223",
-      "title": "Full Game: Over 222.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT27BKNBOS",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "52.0",
+      "ticker": "KXNBASPREAD-26OCT27DETNYK-NYK15",
+      "title": "New York wins by over 14.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT27DETNYK",
+      "yes_ask_cents": "20.0",
+      "no_ask_cents": "81.0",
       "spread_cents": "1.0",
-      "volume_24h": "2512.41",
-      "close_time": "2026-10-29T23:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT27DETNYK-NYKKTOWNS32-20",
-      "title": "Karl-Anthony Towns: 20+ points",
-      "event_ticker": "KXNBAPTS-26OCT27DETNYK",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "3.0",
-      "volume_24h": "2421.66",
+      "volume_24h": "2524.98",
       "close_time": "2026-10-30T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1H-26OCT28LALLAC-LAC",
-      "title": "Los Angeles C wins the 1st half",
-      "event_ticker": "KXNBA1H-26OCT28LALLAC",
-      "yes_ask_cents": "22.0",
-      "no_ask_cents": "83.0",
-      "spread_cents": "5.0",
-      "volume_24h": "2187.19",
-      "close_time": "2026-10-31T02:30:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT27PORLAL-LALWKESSLER14-15",
       "title": "Walker Kessler: 15+ points",
       "event_ticker": "KXNBAPTS-26OCT27PORLAL",
-      "yes_ask_cents": "40.0",
-      "no_ask_cents": "65.0",
-      "spread_cents": "5.0",
-      "volume_24h": "2179.67",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "64.0",
+      "spread_cents": "3.0",
+      "volume_24h": "2269.37",
       "close_time": "2026-10-30T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26OCT27DETNYK-DETATHOMPSON9-4",
+      "title": "Ausar Thompson: 4+ assists",
+      "event_ticker": "KXNBAAST-26OCT27DETNYK",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "1.0",
+      "volume_24h": "2256.47",
+      "close_time": "2026-10-30T00:00:00Z"
     },
     {
       "ticker": "KXNBATEAMTOTAL-26OCT27SACSAS-SAS127",
@@ -484,31 +494,31 @@
       "close_time": "2026-10-30T00:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT27BKNBOS-BOS38",
-      "title": "Boston wins by over 37.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT27BKNBOS",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "5.0",
-      "volume_24h": "2007.72",
-      "close_time": "2026-10-29T23:30:00Z"
-    },
-    {
       "ticker": "KXNBATEAMTOTAL-26OCT27SACSAS-SAS125",
       "title": "San Antonio over 124.5 points scored",
       "event_ticker": "KXNBATEAMTOTAL-26OCT27SACSAS",
       "yes_ask_cents": "53.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1926.05",
+      "no_ask_cents": "50.0",
+      "spread_cents": "3.0",
+      "volume_24h": "2059.87",
       "close_time": "2026-10-30T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT27BKNBOS-BOS38",
+      "title": "Boston wins by over 37.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT27BKNBOS",
+      "yes_ask_cents": "6.0",
+      "no_ask_cents": "98.0",
+      "spread_cents": "4.0",
+      "volume_24h": "2007.72",
+      "close_time": "2026-10-29T23:30:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT27PORLAL-242",
       "title": "Full Game: Over 241.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT27PORLAL",
-      "yes_ask_cents": "35.0",
-      "no_ask_cents": "66.0",
+      "yes_ask_cents": "34.0",
+      "no_ask_cents": "67.0",
       "spread_cents": "1.0",
       "volume_24h": "1889.69",
       "close_time": "2026-10-30T03:00:00Z"
@@ -517,11 +527,21 @@
       "ticker": "KXNBAAST-26OCT27BKNBOS-BOSDWHITE9-8",
       "title": "Derrick White: 8+ assists",
       "event_ticker": "KXNBAAST-26OCT27BKNBOS",
-      "yes_ask_cents": "30.0",
+      "yes_ask_cents": "27.0",
       "no_ask_cents": "77.0",
-      "spread_cents": "7.0",
-      "volume_24h": "1810.95",
+      "spread_cents": "4.0",
+      "volume_24h": "1825.95",
       "close_time": "2026-10-29T23:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT27DETNYK-NYK8",
+      "title": "New York wins by over 7.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT27DETNYK",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "62.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1805.47",
+      "close_time": "2026-10-30T00:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT27SACSAS-SAS9",
@@ -537,10 +557,10 @@
       "ticker": "KXNBAREB-26OCT27DETNYK-NYKJHART3-8",
       "title": "Josh Hart: 8+ rebounds",
       "event_ticker": "KXNBAREB-26OCT27DETNYK",
-      "yes_ask_cents": "45.0",
+      "yes_ask_cents": "48.0",
       "no_ask_cents": "56.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1770.06",
+      "spread_cents": "4.0",
+      "volume_24h": "1787.17",
       "close_time": "2026-10-30T00:00:00Z"
     },
     {
@@ -564,53 +584,33 @@
       "close_time": "2026-10-29T23:30:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26OCT27BKNBOS-219",
-      "title": "Full Game: Over 218.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT27BKNBOS",
-      "yes_ask_cents": "57.0",
-      "no_ask_cents": "44.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1642.98",
-      "close_time": "2026-10-29T23:30:00Z"
-    },
-    {
       "ticker": "KXNBAAST-26OCT27BKNBOS-BOSPPRITCHARD11-8",
       "title": "Payton Pritchard: 8+ assists",
       "event_ticker": "KXNBAAST-26OCT27BKNBOS",
-      "yes_ask_cents": "19.0",
+      "yes_ask_cents": "17.0",
       "no_ask_cents": "87.0",
-      "spread_cents": "6.0",
-      "volume_24h": "1642.96",
+      "spread_cents": "4.0",
+      "volume_24h": "1696.8",
       "close_time": "2026-10-29T23:30:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT27SACSAS-SAS22",
-      "title": "San Antonio wins by over 21.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT27SACSAS",
-      "yes_ask_cents": "40.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1331.93",
-      "close_time": "2026-10-30T00:00:00Z"
+      "ticker": "KXNBAPTS-26OCT27PORLAL-LALCSEXTON10-10",
+      "title": "Collin Sexton: 10+ points",
+      "event_ticker": "KXNBAPTS-26OCT27PORLAL",
+      "yes_ask_cents": "57.0",
+      "no_ask_cents": "45.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1672.84",
+      "close_time": "2026-10-30T03:00:00Z"
     },
     {
-      "ticker": "KXNBAREB-26OCT27SACSAS-SASKJOHNSON3-8",
-      "title": "Keldon Johnson: 8+ rebounds",
-      "event_ticker": "KXNBAREB-26OCT27SACSAS",
-      "yes_ask_cents": "19.0",
-      "no_ask_cents": "86.0",
-      "spread_cents": "5.0",
-      "volume_24h": "1277.51",
-      "close_time": "2026-10-30T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT27BKNBOS-BKNJRANDLE30-15",
-      "title": "Julius Randle: 15+ points",
-      "event_ticker": "KXNBAPTS-26OCT27BKNBOS",
-      "yes_ask_cents": "75.0",
-      "no_ask_cents": "30.0",
-      "spread_cents": "5.0",
-      "volume_24h": "1261.12",
+      "ticker": "KXNBATOTAL-26OCT27BKNBOS-219",
+      "title": "Full Game: Over 218.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT27BKNBOS",
+      "yes_ask_cents": "58.0",
+      "no_ask_cents": "44.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1642.98",
       "close_time": "2026-10-29T23:30:00Z"
     }
   ],
