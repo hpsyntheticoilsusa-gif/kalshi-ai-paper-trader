@@ -1,25 +1,25 @@
 {
-  "generated_utc": "2026-10-27T02:42:36.684719+00:00",
+  "generated_utc": "2026-10-27T03:45:11.190705+00:00",
   "source": "ESPN public scoreboard; not Kalshi settlement source",
   "historical_dates_checked": 391,
   "historical_dates_target": 391,
   "dates_requested_this_run": 3,
   "failed_daily_fetches": 0,
-  "completed_games": 1513,
+  "completed_games": 1515,
   "by_phase": {
     "preseason": 138,
-    "regular": 1284,
+    "regular": 1286,
     "postseason": 85,
     "unknown": 6
   },
-  "backtest_games": 1201,
-  "model_brier": 0.2279,
+  "backtest_games": 1203,
+  "model_brier": 0.2278,
   "neutral_50_50_brier": 0.25,
-  "paired_backtest_games": 1125,
+  "paired_backtest_games": 1127,
   "chronological_holdout": {
-    "games": 225,
-    "form_brier": 0.2112,
-    "elo_brier": 0.1736,
+    "games": 226,
+    "form_brier": 0.2115,
+    "elo_brier": 0.1743,
     "neutral_brier": 0.25,
     "first_game_date": "2026-03-22T00:00Z"
   },
@@ -38,14 +38,14 @@
     },
     {
       "bin": "0.4-0.6",
-      "games": 63,
+      "games": 64,
       "mean_predicted": 0.508,
-      "actual_home_win_rate": 0.476
+      "actual_home_win_rate": 0.469
     },
     {
       "bin": "0.6-0.8",
       "games": 92,
-      "mean_predicted": 0.695,
+      "mean_predicted": 0.694,
       "actual_home_win_rate": 0.761
     },
     {
@@ -57,43 +57,29 @@
   ],
   "calibration_experiment": {
     "status": "RETROSPECTIVE_RESEARCH_ONLY",
-    "training_games": 675,
+    "training_games": 676,
     "validation_games": 225,
-    "evaluation_games": 225,
+    "evaluation_games": 226,
     "selected_log_odds_slope": 1.4,
     "selected_log_odds_offset": -0.25,
-    "evaluation_raw_elo_brier": 0.1736,
-    "evaluation_calibrated_brier": 0.1653,
+    "evaluation_raw_elo_brier": 0.1743,
+    "evaluation_calibrated_brier": 0.1659,
     "note": "Parameters selected using middle 20% only; final 20% used for evaluation. Both historical periods were previously examined during development. Not untouched prospective validation and not live probabilities."
   },
   "calibration_diagnostics": {
     "minimum_bin_games": 20,
-    "weighted_absolute_gap": 0.0839,
+    "weighted_absolute_gap": 0.086,
     "largest_bin_gap": 0.233,
     "validation": "DESCRIPTIVE_ONLY_NO_RECALIBRATION"
   },
-  "paired_form_brier": 0.2274,
+  "paired_form_brier": 0.2273,
   "paired_elo_brier": 0.2112,
   "historical_backfill_complete": true,
-  "elo_backtest_games": 1125,
+  "elo_backtest_games": 1127,
   "elo_brier": 0.2112,
   "status": "EXPLORATORY_NOT_VALIDATED",
   "warning": "Regular-season-only strictly chronological simple form model, with backfill potentially incomplete. No market odds, injuries, opponent adjustments, game matching or validated profitability.",
   "examples": [
-    {
-      "game_id": "401909854",
-      "date": "2026-10-24T23:30Z",
-      "predicted_home_win": 0.6571,
-      "actual_home_win": 1,
-      "brier": 0.11755
-    },
-    {
-      "game_id": "401909855",
-      "date": "2026-10-24T23:30Z",
-      "predicted_home_win": 0.7357,
-      "actual_home_win": 1,
-      "brier": 0.06985
-    },
     {
       "game_id": "401909857",
       "date": "2026-10-25T00:00Z",
@@ -219,23 +205,23 @@
       "predicted_home_win": 0.5,
       "actual_home_win": 1,
       "brier": 0.25
+    },
+    {
+      "game_id": "401909874",
+      "date": "2026-10-27T00:30Z",
+      "predicted_home_win": 0.5786,
+      "actual_home_win": 1,
+      "brier": 0.1776
+    },
+    {
+      "game_id": "401909875",
+      "date": "2026-10-27T01:00Z",
+      "predicted_home_win": 0.4214,
+      "actual_home_win": 0,
+      "brier": 0.1776
     }
   ],
   "elo_examples": [
-    {
-      "game_id": "401909854",
-      "date": "2026-10-24T23:30Z",
-      "predicted_home_win": 0.8715,
-      "actual_home_win": 1,
-      "brier": 0.0165
-    },
-    {
-      "game_id": "401909855",
-      "date": "2026-10-24T23:30Z",
-      "predicted_home_win": 0.7818,
-      "actual_home_win": 1,
-      "brier": 0.04761
-    },
     {
       "game_id": "401909857",
       "date": "2026-10-25T00:00Z",
@@ -361,6 +347,20 @@
       "predicted_home_win": 0.8019,
       "actual_home_win": 1,
       "brier": 0.03923
+    },
+    {
+      "game_id": "401909874",
+      "date": "2026-10-27T00:30Z",
+      "predicted_home_win": 0.6377,
+      "actual_home_win": 1,
+      "brier": 0.1313
+    },
+    {
+      "game_id": "401909875",
+      "date": "2026-10-27T01:00Z",
+      "predicted_home_win": 0.5435,
+      "actual_home_win": 0,
+      "brier": 0.29541
     }
   ]
 }
