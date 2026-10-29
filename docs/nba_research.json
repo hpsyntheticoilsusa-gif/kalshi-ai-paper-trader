@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-29T02:56:13.815733+00:00",
+  "generated_utc": "2026-10-29T03:55:21.565625+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 283,
+  "qualifying_nba_markets": 215,
   "scoreboard_games": [
     {
       "event_id": "401909881",
@@ -215,7 +215,7 @@
       "event_id": "401909890",
       "date": "2026-10-29T01:00Z",
       "name": "San Antonio Spurs at Utah Jazz",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "season_type": 2,
       "teams": [
         {
@@ -223,14 +223,14 @@
           "team": "Utah Jazz",
           "abbreviation": "UTAH",
           "home_away": "home",
-          "score": "85"
+          "score": "111"
         },
         {
           "team_id": "24",
           "team": "San Antonio Spurs",
           "abbreviation": "SA",
           "home_away": "away",
-          "score": "85"
+          "score": "117"
         }
       ]
     },
@@ -238,7 +238,7 @@
       "event_id": "401909891",
       "date": "2026-10-29T01:30Z",
       "name": "Oklahoma City Thunder at Dallas Mavericks",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "season_type": 2,
       "teams": [
         {
@@ -246,14 +246,14 @@
           "team": "Dallas Mavericks",
           "abbreviation": "DAL",
           "home_away": "home",
-          "score": "65"
+          "score": "113"
         },
         {
           "team_id": "25",
           "team": "Oklahoma City Thunder",
           "abbreviation": "OKC",
           "home_away": "away",
-          "score": "59"
+          "score": "93"
         }
       ]
     },
@@ -261,7 +261,7 @@
       "event_id": "401909892",
       "date": "2026-10-29T02:30Z",
       "name": "Los Angeles Lakers at LA Clippers",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "season_type": 2,
       "teams": [
         {
@@ -269,14 +269,14 @@
           "team": "LA Clippers",
           "abbreviation": "LAC",
           "home_away": "home",
-          "score": "14"
+          "score": "38"
         },
         {
           "team_id": "13",
           "team": "Los Angeles Lakers",
           "abbreviation": "LAL",
           "home_away": "away",
-          "score": "14"
+          "score": "56"
         }
       ]
     }
@@ -286,400 +286,400 @@
       "ticker": "KXNBAPTS-26OCT28LALLAC-LALAREAVES15-30",
       "title": "Austin Reaves: 30+ points",
       "event_ticker": "KXNBAPTS-26OCT28LALLAC",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "7.0",
-      "volume_24h": "61363.55",
+      "yes_ask_cents": "42.0",
+      "no_ask_cents": "63.0",
+      "spread_cents": "5.0",
+      "volume_24h": "80298.26",
       "close_time": "2026-10-31T02:30:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT28LALLAC-LACDGARLAND10-25",
       "title": "Darius Garland: 25+ points",
       "event_ticker": "KXNBAPTS-26OCT28LALLAC",
-      "yes_ask_cents": "37.0",
-      "no_ask_cents": "68.0",
-      "spread_cents": "5.0",
-      "volume_24h": "55548.65",
+      "yes_ask_cents": "16.0",
+      "no_ask_cents": "85.0",
+      "spread_cents": "1.0",
+      "volume_24h": "59523.07",
       "close_time": "2026-10-31T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBA1HSPREAD-26OCT28LALLAC-LAC2",
-      "title": "Los Angeles C wins the 1st half by over 1.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26OCT28LALLAC",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "4.0",
-      "volume_24h": "54000.97",
-      "close_time": "2026-10-31T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT28LALLAC-LALQGRIMES5-15",
-      "title": "Quentin Grimes: 15+ points",
-      "event_ticker": "KXNBAPTS-26OCT28LALLAC",
-      "yes_ask_cents": "32.0",
-      "no_ask_cents": "73.0",
-      "spread_cents": "5.0",
-      "volume_24h": "43872.7",
-      "close_time": "2026-10-31T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT28OKCDAL-OKCSGILGEOUSALEXANDER2-35",
-      "title": "Shai Gilgeous-Alexander: 35+ points",
-      "event_ticker": "KXNBAPTS-26OCT28OKCDAL",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "76.0",
-      "spread_cents": "4.0",
-      "volume_24h": "41299.66",
-      "close_time": "2026-10-31T01:30:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT28OKCDAL-OKCSGILGEOUSALEXANDER2-30",
       "title": "Shai Gilgeous-Alexander: 30+ points",
       "event_ticker": "KXNBAPTS-26OCT28OKCDAL",
-      "yes_ask_cents": "57.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "5.0",
-      "volume_24h": "39231.73",
+      "yes_ask_cents": "2.0",
+      "no_ask_cents": "99.0",
+      "spread_cents": "1.0",
+      "volume_24h": "51143.75",
       "close_time": "2026-10-31T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBA1QTOTAL-26OCT28LALLAC-58",
-      "title": "1st Quarter: Over 57.5 points scored",
-      "event_ticker": "KXNBA1QTOTAL-26OCT28LALLAC",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "5.0",
-      "volume_24h": "34925.31",
-      "close_time": "2026-10-31T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26OCT28LALLAC-116",
-      "title": "1st Half: Over 115.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT28LALLAC",
-      "yes_ask_cents": "19.0",
-      "no_ask_cents": "85.0",
-      "spread_cents": "4.0",
-      "volume_24h": "34127.03",
-      "close_time": "2026-10-31T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26OCT28LALLAC-114",
-      "title": "1st Half: Over 113.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT28LALLAC",
-      "yes_ask_cents": "25.0",
-      "no_ask_cents": "79.0",
-      "spread_cents": "4.0",
-      "volume_24h": "29608.8",
-      "close_time": "2026-10-31T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT28OKCDAL-DALCFLAGG32-25",
-      "title": "Cooper Flagg: 25+ points",
-      "event_ticker": "KXNBAPTS-26OCT28OKCDAL",
-      "yes_ask_cents": "78.0",
-      "no_ask_cents": "27.0",
-      "spread_cents": "5.0",
-      "volume_24h": "29101.89",
-      "close_time": "2026-10-31T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPRA-26OCT28LALLAC-LALAREAVES15-40",
-      "title": "Austin Reaves: 40+ points, rebounds, and assists",
-      "event_ticker": "KXNBAPRA-26OCT28LALLAC",
-      "yes_ask_cents": "58.0",
-      "no_ask_cents": "45.0",
-      "spread_cents": "3.0",
-      "volume_24h": "24412.23",
-      "close_time": "2026-10-31T02:30:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT28OKCDAL-DALCFLAGG32-30",
       "title": "Cooper Flagg: 30+ points",
       "event_ticker": "KXNBAPTS-26OCT28OKCDAL",
-      "yes_ask_cents": "38.0",
-      "no_ask_cents": "64.0",
-      "spread_cents": "2.0",
-      "volume_24h": "23697.69",
+      "yes_ask_cents": "16.0",
+      "no_ask_cents": "85.0",
+      "spread_cents": "1.0",
+      "volume_24h": "50720.93",
       "close_time": "2026-10-31T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT28LALLAC-LALQGRIMES5-15",
+      "title": "Quentin Grimes: 15+ points",
+      "event_ticker": "KXNBAPTS-26OCT28LALLAC",
+      "yes_ask_cents": "22.0",
+      "no_ask_cents": "82.0",
+      "spread_cents": "4.0",
+      "volume_24h": "49067.58",
+      "close_time": "2026-10-31T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBA3QSPREAD-26OCT28LALLAC-LAC3",
+      "title": "Los Angeles C wins 3Q by over 2.5 points",
+      "event_ticker": "KXNBA3QSPREAD-26OCT28LALLAC",
+      "yes_ask_cents": "47.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "1.0",
+      "volume_24h": "31319.12",
+      "close_time": "2026-10-31T02:30:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT28LALLAC-LALWKESSLER14-15",
       "title": "Walker Kessler: 15+ points",
       "event_ticker": "KXNBAPTS-26OCT28LALLAC",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "59.0",
-      "spread_cents": "5.0",
-      "volume_24h": "21996.16",
+      "yes_ask_cents": "16.0",
+      "no_ask_cents": "85.0",
+      "spread_cents": "1.0",
+      "volume_24h": "29251.15",
       "close_time": "2026-10-31T02:30:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26OCT28SASUTA-UTADPETERSON22-20",
-      "title": "Darryn Peterson: 20+ points",
-      "event_ticker": "KXNBAPTS-26OCT28SASUTA",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "5.0",
-      "volume_24h": "17515.41",
-      "close_time": "2026-10-31T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HSPREAD-26OCT28LALLAC-LAL2",
-      "title": "Los Angeles L wins the 1st half by over 1.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26OCT28LALLAC",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "58.0",
+      "ticker": "KXNBAPRA-26OCT28LALLAC-LALAREAVES15-40",
+      "title": "Austin Reaves: 40+ points, rebounds, and assists",
+      "event_ticker": "KXNBAPRA-26OCT28LALLAC",
+      "yes_ask_cents": "35.0",
+      "no_ask_cents": "67.0",
       "spread_cents": "2.0",
-      "volume_24h": "17058.06",
+      "volume_24h": "25054.58",
       "close_time": "2026-10-31T02:30:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT28LALLAC-LALAREAVES15-35",
       "title": "Austin Reaves: 35+ points",
       "event_ticker": "KXNBAPTS-26OCT28LALLAC",
-      "yes_ask_cents": "26.0",
-      "no_ask_cents": "79.0",
-      "spread_cents": "5.0",
-      "volume_24h": "14655.47",
+      "yes_ask_cents": "14.0",
+      "no_ask_cents": "90.0",
+      "spread_cents": "4.0",
+      "volume_24h": "22853.69",
+      "close_time": "2026-10-31T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBA2HTOTAL-26OCT28LALLAC-109",
+      "title": "2nd Half: Over 108.5 points scored",
+      "event_ticker": "KXNBA2HTOTAL-26OCT28LALLAC",
+      "yes_ask_cents": "44.0",
+      "no_ask_cents": "57.0",
+      "spread_cents": "1.0",
+      "volume_24h": "19419.92",
+      "close_time": "2026-10-31T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26OCT28LALLAC-LACDGARLAND10-2",
+      "title": "Darius Garland: 2+ threes",
+      "event_ticker": "KXNBA3PT-26OCT28LALLAC",
+      "yes_ask_cents": "85.0",
+      "no_ask_cents": "17.0",
+      "spread_cents": "2.0",
+      "volume_24h": "18472.05",
+      "close_time": "2026-10-31T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT28OKCDAL-DALKIRVING11-20",
+      "title": "Kyrie Irving: 20+ points",
+      "event_ticker": "KXNBAPTS-26OCT28OKCDAL",
+      "yes_ask_cents": "2.0",
+      "no_ask_cents": "99.0",
+      "spread_cents": "1.0",
+      "volume_24h": "16635.66",
+      "close_time": "2026-10-31T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT28LALLAC-LALQGRIMES5-10",
+      "title": "Quentin Grimes: 10+ points",
+      "event_ticker": "KXNBAPTS-26OCT28LALLAC",
+      "yes_ask_cents": "65.0",
+      "no_ask_cents": "37.0",
+      "spread_cents": "2.0",
+      "volume_24h": "16495.99",
+      "close_time": "2026-10-31T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT28LALLAC-LALAREAVES15-25",
+      "title": "Austin Reaves: 25+ points",
+      "event_ticker": "KXNBAPTS-26OCT28LALLAC",
+      "yes_ask_cents": "72.0",
+      "no_ask_cents": "31.0",
+      "spread_cents": "3.0",
+      "volume_24h": "15500.56",
       "close_time": "2026-10-31T02:30:00Z"
     },
     {
       "ticker": "KXNBAPTS-26OCT28LALLAC-LALAREAVES15-20",
       "title": "Austin Reaves: 20+ points",
       "event_ticker": "KXNBAPTS-26OCT28LALLAC",
-      "yes_ask_cents": "87.0",
-      "no_ask_cents": "14.0",
-      "spread_cents": "1.0",
-      "volume_24h": "13428.76",
-      "close_time": "2026-10-31T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBA3QTOTAL-26OCT28OKCDAL-57",
-      "title": "3rd Quarter: Over 56.5 points scored",
-      "event_ticker": "KXNBA3QTOTAL-26OCT28OKCDAL",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "3.0",
-      "volume_24h": "13209.28",
-      "close_time": "2026-10-31T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT28SASUTA-SASVWEMBANYAMA1-30",
-      "title": "Victor Wembanyama: 30+ points",
-      "event_ticker": "KXNBAPTS-26OCT28SASUTA",
-      "yes_ask_cents": "96.0",
-      "no_ask_cents": "5.0",
-      "spread_cents": "1.0",
-      "volume_24h": "11279.53",
-      "close_time": "2026-10-31T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26OCT28LALLAC-118",
-      "title": "1st Half: Over 117.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26OCT28LALLAC",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "4.0",
-      "volume_24h": "10877.09",
-      "close_time": "2026-10-31T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBA2HTOTAL-26OCT28OKCDAL-116",
-      "title": "2nd Half: Over 115.5 points scored",
-      "event_ticker": "KXNBA2HTOTAL-26OCT28OKCDAL",
-      "yes_ask_cents": "40.0",
-      "no_ask_cents": "62.0",
+      "yes_ask_cents": "94.0",
+      "no_ask_cents": "8.0",
       "spread_cents": "2.0",
-      "volume_24h": "10246.41",
-      "close_time": "2026-10-31T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT28LALLAC-LACBLOPEZ11-20",
-      "title": "Brook Lopez: 20+ points",
-      "event_ticker": "KXNBAPTS-26OCT28LALLAC",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "2.0",
-      "volume_24h": "9227.54",
+      "volume_24h": "14002.41",
       "close_time": "2026-10-31T02:30:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26OCT28LALLAC-LALSMAMUKELASHVILI54-10",
-      "title": "Sandro Mamukelashvili: 10+ points",
-      "event_ticker": "KXNBAPTS-26OCT28LALLAC",
-      "yes_ask_cents": "60.0",
-      "no_ask_cents": "41.0",
-      "spread_cents": "1.0",
-      "volume_24h": "9055.06",
-      "close_time": "2026-10-31T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT28OKCDAL-DALKIRVING11-25",
-      "title": "Kyrie Irving: 25+ points",
-      "event_ticker": "KXNBAPTS-26OCT28OKCDAL",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "62.0",
+      "ticker": "KXNBA3QSPREAD-26OCT28LALLAC-LAL2",
+      "title": "Los Angeles L wins 3Q by over 1.5 points",
+      "event_ticker": "KXNBA3QSPREAD-26OCT28LALLAC",
+      "yes_ask_cents": "38.0",
+      "no_ask_cents": "65.0",
       "spread_cents": "3.0",
-      "volume_24h": "8950.59",
-      "close_time": "2026-10-31T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT28LALLAC-LALWKESSLER14-20",
-      "title": "Walker Kessler: 20+ points",
-      "event_ticker": "KXNBAPTS-26OCT28LALLAC",
-      "yes_ask_cents": "17.0",
-      "no_ask_cents": "86.0",
-      "spread_cents": "3.0",
-      "volume_24h": "8646.56",
-      "close_time": "2026-10-31T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBAAST-26OCT28LALLAC-LALAREAVES15-6",
-      "title": "Austin Reaves: 6+ assists",
-      "event_ticker": "KXNBAAST-26OCT28LALLAC",
-      "yes_ask_cents": "75.0",
-      "no_ask_cents": "27.0",
-      "spread_cents": "2.0",
-      "volume_24h": "8252.01",
+      "volume_24h": "13859.94",
       "close_time": "2026-10-31T02:30:00Z"
     },
     {
       "ticker": "KXNBAREB-26OCT28OKCDAL-OKCAMARA15-10",
       "title": "Aday Mara: 10+ rebounds",
       "event_ticker": "KXNBAREB-26OCT28OKCDAL",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "96.0",
+      "yes_ask_cents": "4.0",
+      "no_ask_cents": "98.0",
       "spread_cents": "2.0",
-      "volume_24h": "8033.76",
+      "volume_24h": "13841.09",
       "close_time": "2026-10-31T01:30:00Z"
     },
     {
-      "ticker": "KXNBA1QTOTAL-26OCT28LALLAC-52",
-      "title": "1st Quarter: Over 51.5 points scored",
-      "event_ticker": "KXNBA1QTOTAL-26OCT28LALLAC",
-      "yes_ask_cents": "35.0",
+      "ticker": "KXNBA2HSPREAD-26OCT28LALLAC-LAC6",
+      "title": "Los Angeles C wins the 2nd half by over 5.5 points",
+      "event_ticker": "KXNBA2HSPREAD-26OCT28LALLAC",
+      "yes_ask_cents": "47.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "2.0",
+      "volume_24h": "13422.22",
+      "close_time": "2026-10-31T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT28OKCDAL-DALKIRVING11-25",
+      "title": "Kyrie Irving: 25+ points",
+      "event_ticker": "KXNBAPTS-26OCT28OKCDAL",
+      "yes_ask_cents": "2.0",
+      "no_ask_cents": "99.0",
+      "spread_cents": "1.0",
+      "volume_24h": "13372.93",
+      "close_time": "2026-10-31T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBA4QTOTAL-26OCT28OKCDAL-56",
+      "title": "4th Quarter: Over 55.5 points scored",
+      "event_ticker": "KXNBA4QTOTAL-26OCT28OKCDAL",
+      "yes_ask_cents": "32.0",
       "no_ask_cents": "70.0",
-      "spread_cents": "5.0",
-      "volume_24h": "7616.9",
-      "close_time": "2026-10-31T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT28OKCDAL-OKCAMITCHELL25-20",
-      "title": "Ajay Mitchell: 20+ points",
-      "event_ticker": "KXNBAPTS-26OCT28OKCDAL",
-      "yes_ask_cents": "68.0",
-      "no_ask_cents": "34.0",
       "spread_cents": "2.0",
-      "volume_24h": "7505.08",
-      "close_time": "2026-10-31T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBA1QTOTAL-26OCT28LALLAC-54",
-      "title": "1st Quarter: Over 53.5 points scored",
-      "event_ticker": "KXNBA1QTOTAL-26OCT28LALLAC",
-      "yes_ask_cents": "25.0",
-      "no_ask_cents": "81.0",
-      "spread_cents": "6.0",
-      "volume_24h": "7315.39",
-      "close_time": "2026-10-31T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT28LALLAC-LACBLOPEZ11-15",
-      "title": "Brook Lopez: 15+ points",
-      "event_ticker": "KXNBAPTS-26OCT28LALLAC",
-      "yes_ask_cents": "26.0",
-      "no_ask_cents": "80.0",
-      "spread_cents": "6.0",
-      "volume_24h": "7282.84",
-      "close_time": "2026-10-31T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT28OKCDAL-OKCSGILGEOUSALEXANDER2-40",
-      "title": "Shai Gilgeous-Alexander: 40+ points",
-      "event_ticker": "KXNBAPTS-26OCT28OKCDAL",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "7.0",
-      "volume_24h": "6837.99",
-      "close_time": "2026-10-31T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26OCT28OKCDAL-OKCAMARA15-6",
-      "title": "Aday Mara: 6+ rebounds",
-      "event_ticker": "KXNBAREB-26OCT28OKCDAL",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "4.0",
-      "volume_24h": "6425.57",
+      "volume_24h": "13117.19",
       "close_time": "2026-10-31T01:30:00Z"
     },
     {
       "ticker": "KXNBA4QTOTAL-26OCT28OKCDAL-58",
       "title": "4th Quarter: Over 57.5 points scored",
       "event_ticker": "KXNBA4QTOTAL-26OCT28OKCDAL",
-      "yes_ask_cents": "42.0",
-      "no_ask_cents": "61.0",
+      "yes_ask_cents": "22.0",
+      "no_ask_cents": "81.0",
       "spread_cents": "3.0",
-      "volume_24h": "6369.81",
+      "volume_24h": "12073.76",
       "close_time": "2026-10-31T01:30:00Z"
     },
     {
-      "ticker": "KXNBA3PT-26OCT28SASUTA-SASDFOX4-2",
-      "title": "De'Aaron Fox: 2+ threes",
-      "event_ticker": "KXNBA3PT-26OCT28SASUTA",
-      "yes_ask_cents": "33.0",
-      "no_ask_cents": "69.0",
-      "spread_cents": "2.0",
-      "volume_24h": "6111.24",
-      "close_time": "2026-10-31T01:00:00Z"
+      "ticker": "KXNBA4QSPREAD-26OCT28OKCDAL-DAL2",
+      "title": "Dallas wins 4Q by over 1.5 points",
+      "event_ticker": "KXNBA4QSPREAD-26OCT28OKCDAL",
+      "yes_ask_cents": "76.0",
+      "no_ask_cents": "28.0",
+      "spread_cents": "4.0",
+      "volume_24h": "11768.51",
+      "close_time": "2026-10-31T01:30:00Z"
     },
     {
-      "ticker": "KXNBA1QTOTAL-26OCT28LALLAC-62",
-      "title": "1st Quarter: Over 61.5 points scored",
-      "event_ticker": "KXNBA1QTOTAL-26OCT28LALLAC",
-      "yes_ask_cents": "5.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "3.0",
-      "volume_24h": "6091.87",
+      "ticker": "KXNBA3QTOTAL-26OCT28LALLAC-55",
+      "title": "3rd Quarter: Over 54.5 points scored",
+      "event_ticker": "KXNBA3QTOTAL-26OCT28LALLAC",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "2.0",
+      "volume_24h": "11437.66",
       "close_time": "2026-10-31T02:30:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26OCT28SASUTA-UTAABAILEY19-20",
-      "title": "Ace Bailey: 20+ points",
-      "event_ticker": "KXNBAPTS-26OCT28SASUTA",
-      "yes_ask_cents": "65.0",
-      "no_ask_cents": "39.0",
+      "ticker": "KXNBAPTS-26OCT28LALLAC-LALWKESSLER14-20",
+      "title": "Walker Kessler: 20+ points",
+      "event_ticker": "KXNBAPTS-26OCT28LALLAC",
+      "yes_ask_cents": "6.0",
+      "no_ask_cents": "98.0",
       "spread_cents": "4.0",
-      "volume_24h": "6089.78",
-      "close_time": "2026-10-31T01:00:00Z"
+      "volume_24h": "10926.07",
+      "close_time": "2026-10-31T02:30:00Z"
     },
     {
-      "ticker": "KXNBAAST-26OCT28OKCDAL-OKCIHARTENSTEIN55-6",
-      "title": "Isaiah Hartenstein: 6+ assists",
-      "event_ticker": "KXNBAAST-26OCT28OKCDAL",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "8.0",
-      "volume_24h": "5952.84",
-      "close_time": "2026-10-31T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT28OKCDAL-DALMCHRISTIE0-20",
-      "title": "Max Christie: 20+ points",
-      "event_ticker": "KXNBAPTS-26OCT28OKCDAL",
+      "ticker": "KXNBA2HTOTAL-26OCT28OKCDAL-116",
+      "title": "2nd Half: Over 115.5 points scored",
+      "event_ticker": "KXNBA2HTOTAL-26OCT28OKCDAL",
       "yes_ask_cents": "7.0",
       "no_ask_cents": "97.0",
       "spread_cents": "4.0",
-      "volume_24h": "5948.0",
+      "volume_24h": "10288.23",
       "close_time": "2026-10-31T01:30:00Z"
     },
     {
-      "ticker": "KXNBAREB-26OCT28LALLAC-LALWKESSLER14-12",
-      "title": "Walker Kessler: 12+ rebounds",
-      "event_ticker": "KXNBAREB-26OCT28LALLAC",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "55.0",
+      "ticker": "KXNBAPTS-26OCT28LALLAC-LALSMAMUKELASHVILI54-15",
+      "title": "Sandro Mamukelashvili: 15+ points",
+      "event_ticker": "KXNBAPTS-26OCT28LALLAC",
+      "yes_ask_cents": "30.0",
+      "no_ask_cents": "72.0",
+      "spread_cents": "2.0",
+      "volume_24h": "10209.17",
+      "close_time": "2026-10-31T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT28LALLAC-LALSMAMUKELASHVILI54-10",
+      "title": "Sandro Mamukelashvili: 10+ points",
+      "event_ticker": "KXNBAPTS-26OCT28LALLAC",
+      "yes_ask_cents": "74.0",
+      "no_ask_cents": "29.0",
       "spread_cents": "3.0",
-      "volume_24h": "5929.75",
+      "volume_24h": "10149.13",
+      "close_time": "2026-10-31T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBA2HTOTAL-26OCT28OKCDAL-112",
+      "title": "2nd Half: Over 111.5 points scored",
+      "event_ticker": "KXNBA2HTOTAL-26OCT28OKCDAL",
+      "yes_ask_cents": "11.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "3.0",
+      "volume_24h": "10036.86",
+      "close_time": "2026-10-31T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBA4QSPREAD-26OCT28OKCDAL-OKC4",
+      "title": "Oklahoma City wins 4Q by over 3.5 points",
+      "event_ticker": "KXNBA4QSPREAD-26OCT28OKCDAL",
+      "yes_ask_cents": "11.0",
+      "no_ask_cents": "90.0",
+      "spread_cents": "1.0",
+      "volume_24h": "9644.37",
+      "close_time": "2026-10-31T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT28LALLAC-LACBLOPEZ11-20",
+      "title": "Brook Lopez: 20+ points",
+      "event_ticker": "KXNBAPTS-26OCT28LALLAC",
+      "yes_ask_cents": "11.0",
+      "no_ask_cents": "97.0",
+      "spread_cents": "8.0",
+      "volume_24h": "9419.54",
+      "close_time": "2026-10-31T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT28OKCDAL-OKCJMCCAIN3-15",
+      "title": "Jared McCain: 15+ points",
+      "event_ticker": "KXNBAPTS-26OCT28OKCDAL",
+      "yes_ask_cents": "13.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "5.0",
+      "volume_24h": "9295.27",
+      "close_time": "2026-10-31T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26OCT28LALLAC-LALAREAVES15-6",
+      "title": "Austin Reaves: 6+ assists",
+      "event_ticker": "KXNBAAST-26OCT28LALLAC",
+      "yes_ask_cents": "28.0",
+      "no_ask_cents": "75.0",
+      "spread_cents": "3.0",
+      "volume_24h": "9028.3",
+      "close_time": "2026-10-31T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBA2HTOTAL-26OCT28LALLAC-107",
+      "title": "2nd Half: Over 106.5 points scored",
+      "event_ticker": "KXNBA2HTOTAL-26OCT28LALLAC",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "1.0",
+      "volume_24h": "8335.07",
+      "close_time": "2026-10-31T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT28LALLAC-LACBLOPEZ11-15",
+      "title": "Brook Lopez: 15+ points",
+      "event_ticker": "KXNBAPTS-26OCT28LALLAC",
+      "yes_ask_cents": "6.0",
+      "no_ask_cents": "95.0",
+      "spread_cents": "1.0",
+      "volume_24h": "8091.81",
+      "close_time": "2026-10-31T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBA2HSPREAD-26OCT28LALLAC-LAL2",
+      "title": "Los Angeles L wins the 2nd half by over 1.5 points",
+      "event_ticker": "KXNBA2HSPREAD-26OCT28LALLAC",
+      "yes_ask_cents": "31.0",
+      "no_ask_cents": "72.0",
+      "spread_cents": "3.0",
+      "volume_24h": "8073.52",
+      "close_time": "2026-10-31T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26OCT28LALLAC-LALAREAVES15-5",
+      "title": "Austin Reaves: 5+ threes",
+      "event_ticker": "KXNBA3PT-26OCT28LALLAC",
+      "yes_ask_cents": "6.0",
+      "no_ask_cents": "97.0",
+      "spread_cents": "3.0",
+      "volume_24h": "8040.12",
+      "close_time": "2026-10-31T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT28OKCDAL-DALCFLAGG32-35",
+      "title": "Cooper Flagg: 35+ points",
+      "event_ticker": "KXNBAPTS-26OCT28OKCDAL",
+      "yes_ask_cents": "2.0",
+      "no_ask_cents": "99.0",
+      "spread_cents": "1.0",
+      "volume_24h": "7881.13",
+      "close_time": "2026-10-31T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26OCT28OKCDAL-OKCAMARA15-6",
+      "title": "Aday Mara: 6+ rebounds",
+      "event_ticker": "KXNBAREB-26OCT28OKCDAL",
+      "yes_ask_cents": "4.0",
+      "no_ask_cents": "98.0",
+      "spread_cents": "2.0",
+      "volume_24h": "7042.41",
+      "close_time": "2026-10-31T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT28LALLAC-LALCSEXTON10-15",
+      "title": "Collin Sexton: 15+ points",
+      "event_ticker": "KXNBAPTS-26OCT28LALLAC",
+      "yes_ask_cents": "68.0",
+      "no_ask_cents": "34.0",
+      "spread_cents": "2.0",
+      "volume_24h": "6801.17",
+      "close_time": "2026-10-31T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT28LALLAC-LALQGRIMES5-20",
+      "title": "Quentin Grimes: 20+ points",
+      "event_ticker": "KXNBAPTS-26OCT28LALLAC",
+      "yes_ask_cents": "5.0",
+      "no_ask_cents": "97.0",
+      "spread_cents": "2.0",
+      "volume_24h": "6631.23",
       "close_time": "2026-10-31T02:30:00Z"
     }
   ],
