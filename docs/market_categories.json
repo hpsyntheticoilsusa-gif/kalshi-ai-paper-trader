@@ -1,48 +1,14 @@
 {
-  "generated_utc": "2026-10-29T07:05:50.865252+00:00",
+  "generated_utc": "2026-10-29T08:09:19.142917+00:00",
   "scope": "Only saved markets passing liquidity/spread filters; all qualifying saved from up to 20,000 scanned",
   "categories": {
-    "Sports": 313,
-    "Finance": 22,
-    "Other": 153,
-    "Weather": 98,
-    "Politics": 3,
-    "Economics": 1
+    "Sports": 232,
+    "Other": 86,
+    "Weather": 88,
+    "Finance": 4,
+    "Politics": 1
   },
   "markets": [
-    {
-      "ticker": "KXATPCHALLENGERMATCH-26OCT28KACHON-HON",
-      "title": "Seongchan Hong wins",
-      "event_ticker": "KXATPCHALLENGERMATCH-26OCT28KACHON",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "5.0",
-      "volume_24h": "1208972.15",
-      "close_time": "2026-11-12T03:10:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXATPCHALLENGERMATCH-26OCT28KACHON-KAC",
-      "title": "Alibek Kachmazov wins",
-      "event_ticker": "KXATPCHALLENGERMATCH-26OCT28KACHON",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "5.0",
-      "volume_24h": "1088062.98",
-      "close_time": "2026-11-12T03:10:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFMATCH-26OCT29GANWAT-WAT",
-      "title": "Alexander Watanabe Eriksson wins",
-      "event_ticker": "KXITFMATCH-26OCT29GANWAT",
-      "yes_ask_cents": "12.0",
-      "no_ask_cents": "96.0",
-      "spread_cents": "8.0",
-      "volume_24h": "269451.3",
-      "close_time": "2026-11-12T04:30:00Z",
-      "category": "Sports"
-    },
     {
       "ticker": "KXWTACHALLENGERMATCH-26OCT28FERREA-REA",
       "title": "Adriana Reami wins",
@@ -70,33 +36,11 @@
       "title": "Xinran Sun wins",
       "event_ticker": "KXWTAMATCH-26OCT29TIMSUN",
       "yes_ask_cents": "44.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "5.0",
-      "volume_24h": "94950.14",
+      "no_ask_cents": "64.0",
+      "spread_cents": "8.0",
+      "volume_24h": "94126.14",
       "close_time": "2026-11-12T05:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXBTCD-26OCT2917-T80499.99",
-      "title": "Bitcoin price on Oct 29, 2026?",
-      "event_ticker": "KXBTCD-26OCT2917",
-      "yes_ask_cents": "32.0",
-      "no_ask_cents": "75.0",
-      "spread_cents": "7.0",
-      "volume_24h": "88386.44",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Finance"
-    },
-    {
-      "ticker": "KXBTCD-26OCT2917-T80999.99",
-      "title": "Bitcoin price on Oct 29, 2026?",
-      "event_ticker": "KXBTCD-26OCT2917",
-      "yes_ask_cents": "19.0",
-      "no_ask_cents": "84.0",
-      "spread_cents": "3.0",
-      "volume_24h": "71179.14",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Finance"
     },
     {
       "ticker": "KXWTACHALLENGERMATCH-26OCT28STEAKS-STE",
@@ -110,17 +54,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXCS2GAME-26OCT290400NEMIFUT-FUT",
-      "title": "FUT Esports wins",
-      "event_ticker": "KXCS2GAME-26OCT290400NEMIFUT",
-      "yes_ask_cents": "69.0",
-      "no_ask_cents": "32.0",
-      "spread_cents": "1.0",
-      "volume_24h": "70515.83",
-      "close_time": "2026-10-31T08:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXWTACHALLENGERMATCH-26OCT28FERREA-FER",
       "title": "Fiona Ferro wins",
       "event_ticker": "KXWTACHALLENGERMATCH-26OCT28FERREA",
@@ -130,50 +63,6 @@
       "volume_24h": "69579.96",
       "close_time": "2026-11-12T00:10:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXWTAMATCH-26OCT29TIMSUN-TIM",
-      "title": "Maria Timofeeva wins",
-      "event_ticker": "KXWTAMATCH-26OCT29TIMSUN",
-      "yes_ask_cents": "60.0",
-      "no_ask_cents": "42.0",
-      "spread_cents": "2.0",
-      "volume_24h": "62271.27",
-      "close_time": "2026-11-12T05:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXINXU-26OCT29H1600-T7624.9999",
-      "title": "Will the S&P 500 be above 7624.9999 on Oct 29, 2026 at 4pm EDT?",
-      "event_ticker": "KXINXU-26OCT29H1600",
-      "yes_ask_cents": "99.0",
-      "no_ask_cents": "4.0",
-      "spread_cents": "3.0",
-      "volume_24h": "60000.69",
-      "close_time": "2026-10-29T20:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXINXU-26OCT29H1600-T7634.9999",
-      "title": "Will the S&P 500 be above 7634.9999 on Oct 29, 2026 at 4pm EDT?",
-      "event_ticker": "KXINXU-26OCT29H1600",
-      "yes_ask_cents": "98.0",
-      "no_ask_cents": "4.0",
-      "spread_cents": "2.0",
-      "volume_24h": "60000.0",
-      "close_time": "2026-10-29T20:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXBTCD-26OCT2917-T78999.99",
-      "title": "Bitcoin price on Oct 29, 2026?",
-      "event_ticker": "KXBTCD-26OCT2917",
-      "yes_ask_cents": "81.0",
-      "no_ask_cents": "24.0",
-      "spread_cents": "5.0",
-      "volume_24h": "47405.44",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Finance"
     },
     {
       "ticker": "KXATPMATCH-26OCT29VACJOD-JOD",
@@ -196,83 +85,6 @@
       "volume_24h": "38717.35",
       "close_time": "2026-11-29T00:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXBTCD-26OCT2917-T81999.99",
-      "title": "Bitcoin price on Oct 29, 2026?",
-      "event_ticker": "KXBTCD-26OCT2917",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "3.0",
-      "volume_24h": "37838.44",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Finance"
-    },
-    {
-      "ticker": "KXBTCD-26OCT2917-T79499.99",
-      "title": "Bitcoin price on Oct 29, 2026?",
-      "event_ticker": "KXBTCD-26OCT2917",
-      "yes_ask_cents": "67.0",
-      "no_ask_cents": "40.0",
-      "spread_cents": "7.0",
-      "volume_24h": "35997.9",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Finance"
-    },
-    {
-      "ticker": "KXBTCD-26OCT2917-T81499.99",
-      "title": "Bitcoin price on Oct 29, 2026?",
-      "event_ticker": "KXBTCD-26OCT2917",
-      "yes_ask_cents": "9.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "4.0",
-      "volume_24h": "35601.75",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Finance"
-    },
-    {
-      "ticker": "KXBTCD-26OCT2917-T81249.99",
-      "title": "Bitcoin price on Oct 29, 2026?",
-      "event_ticker": "KXBTCD-26OCT2917",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "4.0",
-      "volume_24h": "32406.14",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Finance"
-    },
-    {
-      "ticker": "KXINXU-26OCT29H1600-T7639.9999",
-      "title": "Will the S&P 500 be above 7639.9999 on Oct 29, 2026 at 4pm EDT?",
-      "event_ticker": "KXINXU-26OCT29H1600",
-      "yes_ask_cents": "96.0",
-      "no_ask_cents": "7.0",
-      "spread_cents": "3.0",
-      "volume_24h": "30000.0",
-      "close_time": "2026-10-29T20:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXCS2GAME-26OCT290400NEMIFUT-NEMI",
-      "title": "Nemiga wins",
-      "event_ticker": "KXCS2GAME-26OCT290400NEMIFUT",
-      "yes_ask_cents": "31.0",
-      "no_ask_cents": "75.0",
-      "spread_cents": "6.0",
-      "volume_24h": "27396.68",
-      "close_time": "2026-10-31T08:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXBTCD-26OCT2917-T80749.99",
-      "title": "Bitcoin price on Oct 29, 2026?",
-      "event_ticker": "KXBTCD-26OCT2917",
-      "yes_ask_cents": "24.0",
-      "no_ask_cents": "82.0",
-      "spread_cents": "6.0",
-      "volume_24h": "27189.59",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Finance"
     },
     {
       "ticker": "KXATPMATCH-26OCT29NORMED-MED",
@@ -301,8 +113,8 @@
       "title": "Jerome Kym wins",
       "event_ticker": "KXATPMATCH-26OCT29SHEKYM",
       "yes_ask_cents": "26.0",
-      "no_ask_cents": "76.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "77.0",
+      "spread_cents": "3.0",
       "volume_24h": "22636.31",
       "close_time": "2026-11-12T10:00:00Z",
       "category": "Sports"
@@ -327,17 +139,6 @@
       "spread_cents": "4.0",
       "volume_24h": "22120.92",
       "close_time": "2026-11-29T00:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXCS2GAME-26OCT290500HOTUB8-HOTU",
-      "title": "HOTU wins",
-      "event_ticker": "KXCS2GAME-26OCT290500HOTUB8",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "59.0",
-      "spread_cents": "6.0",
-      "volume_24h": "21037.47",
-      "close_time": "2026-10-31T09:00:00Z",
       "category": "Sports"
     },
     {
@@ -385,17 +186,6 @@
       "category": "Other"
     },
     {
-      "ticker": "KXRAIN-26OCT29-AUS",
-      "title": "Will it rain in Austin on Oct 29, 2026?",
-      "event_ticker": "KXRAIN-26OCT29",
-      "yes_ask_cents": "70.0",
-      "no_ask_cents": "37.0",
-      "spread_cents": "7.0",
-      "volume_24h": "17116.54",
-      "close_time": "2026-10-30T06:00:00Z",
-      "category": "Weather"
-    },
-    {
       "ticker": "KXATPMATCH-26OCT29SHEKYM-SHE",
       "title": "Ben Shelton wins",
       "event_ticker": "KXATPMATCH-26OCT29SHEKYM",
@@ -418,17 +208,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXBTCD-26OCT2917-T82249.99",
-      "title": "Bitcoin price on Oct 29, 2026?",
-      "event_ticker": "KXBTCD-26OCT2917",
-      "yes_ask_cents": "4.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "3.0",
-      "volume_24h": "15978.3",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Finance"
-    },
-    {
       "ticker": "KXATPMATCH-26OCT29BASALC-BAS",
       "title": "Nikoloz Basilashvili wins",
       "event_ticker": "KXATPMATCH-26OCT29BASALC",
@@ -438,17 +217,6 @@
       "volume_24h": "15952.08",
       "close_time": "2026-11-12T12:30:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXTRUMPAPPROVE-26OCT29-U38.1",
-      "title": "Will Trump's RCP approval average be below 38.1 on Oct 29, 2026?",
-      "event_ticker": "KXTRUMPAPPROVE-26OCT29",
-      "yes_ask_cents": "2.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "1.0",
-      "volume_24h": "14745.91",
-      "close_time": "2026-10-29T16:59:00Z",
-      "category": "Politics"
     },
     {
       "ticker": "KXATPMATCH-26OCT29ZVEGRI-GRI",
@@ -466,8 +234,8 @@
       "title": "Akhmadjon Toshmukhamedov wins",
       "event_ticker": "KXITFMATCH-26OCT29SHETOS",
       "yes_ask_cents": "9.0",
-      "no_ask_cents": "96.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "97.0",
+      "spread_cents": "6.0",
       "volume_24h": "14573.74",
       "close_time": "2026-11-12T05:30:00Z",
       "category": "Sports"
@@ -477,8 +245,8 @@
       "title": "Both Teams To Score",
       "event_ticker": "KXEGYPLBTTS-26OCT29MODAHL",
       "yes_ask_cents": "43.0",
-      "no_ask_cents": "58.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "60.0",
+      "spread_cents": "3.0",
       "volume_24h": "14273.81",
       "close_time": "2026-10-31T14:00:00Z",
       "category": "Other"
@@ -495,61 +263,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXBTCD-26OCT2917-T78249.99",
-      "title": "Bitcoin price on Oct 29, 2026?",
-      "event_ticker": "KXBTCD-26OCT2917",
-      "yes_ask_cents": "93.0",
-      "no_ask_cents": "10.0",
-      "spread_cents": "3.0",
-      "volume_24h": "13757.2",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Finance"
-    },
-    {
-      "ticker": "KXMLB-27-MIL",
-      "title": "Will Milwaukee win the 2027 Pro Baseball Championship?",
-      "event_ticker": "KXMLB-27",
-      "yes_ask_cents": "12.8",
-      "no_ask_cents": "90.0",
-      "spread_cents": "2.8",
-      "volume_24h": "13418.22",
-      "close_time": "2029-10-31T04:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXCS2GAME-26OCT290700NAVIVIT-NAVI",
-      "title": "Natus Vincere wins",
-      "event_ticker": "KXCS2GAME-26OCT290700NAVIVIT",
-      "yes_ask_cents": "29.0",
-      "no_ask_cents": "72.0",
-      "spread_cents": "1.0",
-      "volume_24h": "12635.35",
-      "close_time": "2026-10-31T11:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXBTCD-26OCT2917-T79249.99",
-      "title": "Bitcoin price on Oct 29, 2026?",
-      "event_ticker": "KXBTCD-26OCT2917",
-      "yes_ask_cents": "74.0",
-      "no_ask_cents": "32.0",
-      "spread_cents": "6.0",
-      "volume_24h": "12358.09",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Finance"
-    },
-    {
-      "ticker": "KXBTCD-26OCT2917-T78499.99",
-      "title": "Bitcoin price on Oct 29, 2026?",
-      "event_ticker": "KXBTCD-26OCT2917",
-      "yes_ask_cents": "91.0",
-      "no_ask_cents": "14.0",
-      "spread_cents": "5.0",
-      "volume_24h": "10629.25",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Finance"
-    },
-    {
       "ticker": "KXEGYPLTOTAL-26OCT29MODAHL-2",
       "title": "Will over 1.5 goals be scored?",
       "event_ticker": "KXEGYPLTOTAL-26OCT29MODAHL",
@@ -564,42 +277,20 @@
       "ticker": "KXITFMATCH-26OCT29MUNPIE-MUN",
       "title": "Javier Munoz Fuster wins",
       "event_ticker": "KXITFMATCH-26OCT29MUNPIE",
-      "yes_ask_cents": "9.0",
+      "yes_ask_cents": "10.0",
       "no_ask_cents": "98.0",
-      "spread_cents": "7.0",
+      "spread_cents": "8.0",
       "volume_24h": "10034.68",
       "close_time": "2026-11-12T07:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXBTCD-26OCT2917-T77999.99",
-      "title": "Bitcoin price on Oct 29, 2026?",
-      "event_ticker": "KXBTCD-26OCT2917",
-      "yes_ask_cents": "96.0",
-      "no_ask_cents": "7.0",
-      "spread_cents": "3.0",
-      "volume_24h": "9934.52",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Finance"
-    },
-    {
-      "ticker": "KXBTCD-26OCT2917-T81749.99",
-      "title": "Bitcoin price on Oct 29, 2026?",
-      "event_ticker": "KXBTCD-26OCT2917",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "96.0",
-      "spread_cents": "3.0",
-      "volume_24h": "9829.21",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Finance"
     },
     {
       "ticker": "KXATPMATCH-26OCT29MICFIL-FIL",
       "title": "Arthur Fils wins",
       "event_ticker": "KXATPMATCH-26OCT29MICFIL",
       "yes_ask_cents": "67.0",
-      "no_ask_cents": "34.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "35.0",
+      "spread_cents": "2.0",
       "volume_24h": "9693.53",
       "close_time": "2026-11-12T10:00:00Z",
       "category": "Sports"
@@ -627,17 +318,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXRAIN-26OCT29-DAL",
-      "title": "Will it rain in Dallas on Oct 29, 2026?",
-      "event_ticker": "KXRAIN-26OCT29",
-      "yes_ask_cents": "35.0",
-      "no_ask_cents": "66.0",
-      "spread_cents": "1.0",
-      "volume_24h": "9073.74",
-      "close_time": "2026-10-30T06:00:00Z",
-      "category": "Weather"
-    },
-    {
       "ticker": "KXATPMATCH-26OCT29MICFIL-MIC",
       "title": "Alex Michelsen wins",
       "event_ticker": "KXATPMATCH-26OCT29MICFIL",
@@ -649,37 +329,15 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXBTCD-26OCT2917-T82499.99",
-      "title": "Bitcoin price on Oct 29, 2026?",
-      "event_ticker": "KXBTCD-26OCT2917",
-      "yes_ask_cents": "3.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "2.0",
-      "volume_24h": "8220.08",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Finance"
-    },
-    {
       "ticker": "KXEGYPLTOTAL-26OCT29MODAHL-3",
       "title": "Will over 2.5 goals be scored?",
       "event_ticker": "KXEGYPLTOTAL-26OCT29MODAHL",
       "yes_ask_cents": "46.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "57.0",
+      "spread_cents": "3.0",
       "volume_24h": "8139.86",
       "close_time": "2026-10-31T14:00:00Z",
       "category": "Other"
-    },
-    {
-      "ticker": "KXCS2MAP-26OCT290400NEMIFUT-2-NEMI",
-      "title": "Nemiga wins map 2",
-      "event_ticker": "KXCS2MAP-26OCT290400NEMIFUT-2",
-      "yes_ask_cents": "35.0",
-      "no_ask_cents": "72.0",
-      "spread_cents": "7.0",
-      "volume_24h": "7803.91",
-      "close_time": "2026-10-31T08:00:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXHIGHCHI-26OCT29-T68",
@@ -748,34 +406,12 @@
       "category": "Finance"
     },
     {
-      "ticker": "KXCS2GAME-26OCT290930ASTICE-AST",
-      "title": "Astralis wins",
-      "event_ticker": "KXCS2GAME-26OCT290930ASTICE",
-      "yes_ask_cents": "63.0",
-      "no_ask_cents": "45.0",
-      "spread_cents": "8.0",
-      "volume_24h": "7425.94",
-      "close_time": "2026-10-31T13:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXBTCD-26OCT2917-T77249.99",
-      "title": "Bitcoin price on Oct 29, 2026?",
-      "event_ticker": "KXBTCD-26OCT2917",
-      "yes_ask_cents": "99.0",
-      "no_ask_cents": "4.0",
-      "spread_cents": "3.0",
-      "volume_24h": "7193.92",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Finance"
-    },
-    {
       "ticker": "KXITFMATCH-26OCT28SOTSCH-SCH",
       "title": "Mauricio Schtulmann Gasca wins",
       "event_ticker": "KXITFMATCH-26OCT28SOTSCH",
-      "yes_ask_cents": "5.0",
+      "yes_ask_cents": "6.0",
       "no_ask_cents": "97.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "6891.95",
       "close_time": "2026-11-12T00:00:00Z",
       "category": "Sports"
@@ -847,17 +483,6 @@
       "category": "Other"
     },
     {
-      "ticker": "KXBTCD-26OCT2917-T78749.99",
-      "title": "Bitcoin price on Oct 29, 2026?",
-      "event_ticker": "KXBTCD-26OCT2917",
-      "yes_ask_cents": "87.0",
-      "no_ask_cents": "18.0",
-      "spread_cents": "5.0",
-      "volume_24h": "6250.08",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Finance"
-    },
-    {
       "ticker": "KXATPMATCH-26OCT29NORMED-NOR",
       "title": "Cameron Norrie wins",
       "event_ticker": "KXATPMATCH-26OCT29NORMED",
@@ -884,8 +509,8 @@
       "title": "Eternal Fire wins",
       "event_ticker": "KXCS2GAME-26OCT290700BIGEF",
       "yes_ask_cents": "39.0",
-      "no_ask_cents": "62.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "64.0",
+      "spread_cents": "3.0",
       "volume_24h": "5884.8",
       "close_time": "2026-10-31T11:00:00Z",
       "category": "Sports"
@@ -957,17 +582,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXBTCD-26OCT2917-T77749.99",
-      "title": "Bitcoin price on Oct 29, 2026?",
-      "event_ticker": "KXBTCD-26OCT2917",
-      "yes_ask_cents": "97.0",
-      "no_ask_cents": "5.0",
-      "spread_cents": "2.0",
-      "volume_24h": "4832.2",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Finance"
-    },
-    {
       "ticker": "KXNFLTD-26NOV01INDJAC-INDDJONES17-1",
       "title": "Daniel Jones: 1+ touchdowns",
       "event_ticker": "KXNFLTD-26NOV01INDJAC",
@@ -979,23 +593,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXGOLDD-26OCT2917-T4027",
-      "title": "Will the gold close price be above 4027 USD/t.oz on October 29, 2026 at 5:00 PM EDT?",
-      "event_ticker": "KXGOLDD-26OCT2917",
-      "yes_ask_cents": "61.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "8.0",
-      "volume_24h": "4747.18",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXHIGHNY-26OCT29-B69.5",
       "title": "Will the maximum temperature be 69-70\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHNY-26OCT29",
-      "yes_ask_cents": "18.0",
+      "yes_ask_cents": "20.0",
       "no_ask_cents": "85.0",
-      "spread_cents": "3.0",
+      "spread_cents": "5.0",
       "volume_24h": "4708.64",
       "close_time": "2026-10-30T05:00:00Z",
       "category": "Weather"
@@ -1023,17 +626,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXHIGHNY-26OCT29-T67",
-      "title": "Will the maximum temperature be <67\u00b0 on Oct 29, 2026?",
-      "event_ticker": "KXHIGHNY-26OCT29",
-      "yes_ask_cents": "20.0",
-      "no_ask_cents": "84.0",
-      "spread_cents": "4.0",
-      "volume_24h": "4615.67",
-      "close_time": "2026-10-30T05:00:00Z",
-      "category": "Weather"
-    },
-    {
       "ticker": "KXHIGHAUS-26OCT29-T77",
       "title": "Will the maximum temperature be <77\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHAUS-26OCT29",
@@ -1048,9 +640,9 @@
       "ticker": "KXNFLOT-26NOV02CHISEA-Y",
       "title": "Chicago vs Seattle goes to overtime?",
       "event_ticker": "KXNFLOT-26NOV02CHISEA",
-      "yes_ask_cents": "7.0",
+      "yes_ask_cents": "8.0",
       "no_ask_cents": "95.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "4457.0",
       "close_time": "2026-11-05T01:15:00Z",
       "category": "Sports"
@@ -1075,39 +667,6 @@
       "spread_cents": "1.0",
       "volume_24h": "4363.76",
       "close_time": "2026-11-12T12:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXATPSETWINNER-26OCT29SHEKYM-1-SHE",
-      "title": "Will Ben Shelton win set 1 in the Ben Shelton vs Jerome Kym match",
-      "event_ticker": "KXATPSETWINNER-26OCT29SHEKYM-1",
-      "yes_ask_cents": "71.0",
-      "no_ask_cents": "35.0",
-      "spread_cents": "6.0",
-      "volume_24h": "4068.12",
-      "close_time": "2026-11-12T10:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXCS2GAME-26OCT291000MOUZAUR-MOUZ",
-      "title": "MOUZ wins",
-      "event_ticker": "KXCS2GAME-26OCT291000MOUZAUR",
-      "yes_ask_cents": "64.0",
-      "no_ask_cents": "38.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3984.72",
-      "close_time": "2026-10-31T14:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFWMATCH-26OCT29GANLEI-GAN",
-      "title": "Francesca Gandolfi wins",
-      "event_ticker": "KXITFWMATCH-26OCT29GANLEI",
-      "yes_ask_cents": "76.0",
-      "no_ask_cents": "27.0",
-      "spread_cents": "3.0",
-      "volume_24h": "3852.27",
-      "close_time": "2026-11-12T08:30:00Z",
       "category": "Sports"
     },
     {
@@ -1136,9 +695,9 @@
       "ticker": "KXHIGHLAX-26OCT29-B74.5",
       "title": "Will the maximum temperature be 74-75\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHLAX-26OCT29",
-      "yes_ask_cents": "39.0",
+      "yes_ask_cents": "40.0",
       "no_ask_cents": "65.0",
-      "spread_cents": "4.0",
+      "spread_cents": "5.0",
       "volume_24h": "3675.84",
       "close_time": "2026-10-30T08:00:00Z",
       "category": "Weather"
@@ -1153,28 +712,6 @@
       "volume_24h": "3557.84",
       "close_time": "2026-10-30T05:00:00Z",
       "category": "Weather"
-    },
-    {
-      "ticker": "KXRAIN-26OCT29-HOU",
-      "title": "Will it rain in Houston on Oct 29, 2026?",
-      "event_ticker": "KXRAIN-26OCT29",
-      "yes_ask_cents": "10.0",
-      "no_ask_cents": "96.0",
-      "spread_cents": "6.0",
-      "volume_24h": "3549.44",
-      "close_time": "2026-10-30T06:00:00Z",
-      "category": "Weather"
-    },
-    {
-      "ticker": "KXWNBAPTS-26OCT29GSATL-ATLAGRAY15-15",
-      "title": "Allisha Gray: 15+ points",
-      "event_ticker": "KXWNBAPTS-26OCT29GSATL",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3401.53",
-      "close_time": "2026-10-31T16:30:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXATPMATCH-26OCT29FRISHA-FRI",
@@ -1203,8 +740,8 @@
       "title": "Full Game: Over 237.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT29SACNOP",
       "yes_ask_cents": "50.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "3.0",
       "volume_24h": "3132.94",
       "close_time": "2026-11-01T00:00:00Z",
       "category": "Sports"
@@ -1213,9 +750,9 @@
       "ticker": "KXITFWMATCH-26OCT29GLASLA-GLA",
       "title": "Emma Sophie Glaser wins",
       "event_ticker": "KXITFWMATCH-26OCT29GLASLA",
-      "yes_ask_cents": "59.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "6.0",
+      "yes_ask_cents": "60.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "8.0",
       "volume_24h": "3118.41",
       "close_time": "2026-11-12T10:30:00Z",
       "category": "Sports"
@@ -1232,23 +769,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXHIGHTPHX-26OCT29-B84.5",
-      "title": "Will the maximum temperature be 84-85\u00b0 on Oct 29, 2026?",
-      "event_ticker": "KXHIGHTPHX-26OCT29",
-      "yes_ask_cents": "21.0",
-      "no_ask_cents": "83.0",
-      "spread_cents": "4.0",
-      "volume_24h": "3102.13",
-      "close_time": "2026-10-30T07:00:00Z",
-      "category": "Weather"
-    },
-    {
       "ticker": "KXNBASPREAD-26OCT29MEMPOR-POR8",
       "title": "Portland wins by over 7.5 points",
       "event_ticker": "KXNBASPREAD-26OCT29MEMPOR",
       "yes_ask_cents": "49.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "2.0",
       "volume_24h": "3095.86",
       "close_time": "2026-11-01T02:00:00Z",
       "category": "Sports"
@@ -1342,17 +868,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXATPSETWINNER-26OCT29VACJOD-1-VAC",
-      "title": "Will Valentin Vacherot win set 1 in the Valentin Vacherot vs Rafael Jodar match",
-      "event_ticker": "KXATPSETWINNER-26OCT29VACJOD-1",
-      "yes_ask_cents": "35.0",
-      "no_ask_cents": "69.0",
-      "spread_cents": "4.0",
-      "volume_24h": "2716.12",
-      "close_time": "2026-11-12T10:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXCS2GAME-26OCT291300FURIABB-FURIA",
       "title": "FURIA wins",
       "event_ticker": "KXCS2GAME-26OCT291300FURIABB",
@@ -1390,8 +905,8 @@
       "title": "Will the maximum temperature be 72-73\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHLAX-26OCT29",
       "yes_ask_cents": "51.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "6.0",
       "volume_24h": "2580.55",
       "close_time": "2026-10-30T08:00:00Z",
       "category": "Weather"
@@ -1412,8 +927,8 @@
       "title": "Will it rain in Albuquerque on Oct 29, 2026?",
       "event_ticker": "KXRAIN-26OCT29",
       "yes_ask_cents": "6.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "96.0",
+      "spread_cents": "2.0",
       "volume_24h": "2549.4",
       "close_time": "2026-10-30T07:00:00Z",
       "category": "Weather"
@@ -1422,9 +937,9 @@
       "ticker": "KXDWTSELIMINATION-26NOV03-JSTIL",
       "title": "Will Julia Stiles and their partner be eliminated from Dancing with the Stars Season 35 before Nov 3, 2026?",
       "event_ticker": "KXDWTSELIMINATION-26NOV03",
-      "yes_ask_cents": "35.0",
+      "yes_ask_cents": "36.0",
       "no_ask_cents": "67.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "2548.03",
       "close_time": "2026-11-03T04:59:00Z",
       "category": "Other"
@@ -1496,28 +1011,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXTRUMPAPPROVE-26OCT29-E38.2",
-      "title": "Will Trump's RCP approval average be exactly 38.2 on Oct 29, 2026?",
-      "event_ticker": "KXTRUMPAPPROVE-26OCT29",
-      "yes_ask_cents": "4.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "1.0",
-      "volume_24h": "2410.45",
-      "close_time": "2026-10-29T16:59:00Z",
-      "category": "Politics"
-    },
-    {
-      "ticker": "KXINXU-26OCT29H1000-T7669.9999",
-      "title": "Will the S&P 500 be above 7669.9999 on Oct 29, 2026 at 10am EDT?",
-      "event_ticker": "KXINXU-26OCT29H1000",
-      "yes_ask_cents": "97.0",
-      "no_ask_cents": "10.0",
-      "spread_cents": "7.0",
-      "volume_24h": "2386.69",
-      "close_time": "2026-10-29T14:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXCS2GAME-26OCT290800GLFAZE-FAZE",
       "title": "FaZe wins",
       "event_ticker": "KXCS2GAME-26OCT290800GLFAZE",
@@ -1554,23 +1047,12 @@
       "ticker": "KXWNBAREB-26OCT29GSATL-ATLNHILLMON00-6",
       "title": "Naz Hillmon: 6+ rebounds",
       "event_ticker": "KXWNBAREB-26OCT29GSATL",
-      "yes_ask_cents": "24.0",
+      "yes_ask_cents": "29.0",
       "no_ask_cents": "77.0",
-      "spread_cents": "1.0",
+      "spread_cents": "6.0",
       "volume_24h": "2308.35",
       "close_time": "2026-10-31T16:30:00Z",
       "category": "Other"
-    },
-    {
-      "ticker": "KXHIGHMIA-26OCT29-B85.5",
-      "title": "Will the maximum temperature be 85-86\u00b0 on Oct 29, 2026?",
-      "event_ticker": "KXHIGHMIA-26OCT29",
-      "yes_ask_cents": "20.0",
-      "no_ask_cents": "85.0",
-      "spread_cents": "5.0",
-      "volume_24h": "2291.33",
-      "close_time": "2026-10-30T05:00:00Z",
-      "category": "Weather"
     },
     {
       "ticker": "KXEGYPLTOTAL-26OCT29PYRDEG-2",
@@ -1606,17 +1088,6 @@
       "category": "Weather"
     },
     {
-      "ticker": "KXITFMATCH-26OCT29GUTSTO-STO",
-      "title": "Leonardo Storck Franca wins",
-      "event_ticker": "KXITFMATCH-26OCT29GUTSTO",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "4.0",
-      "volume_24h": "2117.6",
-      "close_time": "2026-11-12T14:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXATPMATCH-26OCT29FERMUS-FER",
       "title": "Arthur Fery wins",
       "event_ticker": "KXATPMATCH-26OCT29FERMUS",
@@ -1639,17 +1110,6 @@
       "category": "Other"
     },
     {
-      "ticker": "KXUCLWTOTAL-26OCT29KOEBAR-6",
-      "title": "Will over 5.5 goals be scored?",
-      "event_ticker": "KXUCLWTOTAL-26OCT29KOEBAR",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "65.0",
-      "spread_cents": "6.0",
-      "volume_24h": "2052.49",
-      "close_time": "2026-10-31T20:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXWTAMATCH-26OCT29TAGLIN-TAG",
       "title": "Lilli Tagger wins",
       "event_ticker": "KXWTAMATCH-26OCT29TAGLIN",
@@ -1661,23 +1121,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXCBATOTAL-26OCT290735BEDQIN-180",
-      "title": "Over 179.5 points scored",
-      "event_ticker": "KXCBATOTAL-26OCT290735BEDQIN",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "4.0",
-      "volume_24h": "2003.4",
-      "close_time": "2026-10-31T11:35:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNFLRECYDS-26NOV01ARIDAL-ARITMCBRIDE85-80",
       "title": "Trey McBride: 80+ receiving yards",
       "event_ticker": "KXNFLRECYDS-26NOV01ARIDAL",
-      "yes_ask_cents": "42.0",
+      "yes_ask_cents": "43.0",
       "no_ask_cents": "60.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "1990.43",
       "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
@@ -1687,8 +1136,8 @@
       "title": "Will Novak Djokovic win the Novak Djokovic vs Jan-Lennard Struff match by a set score of 2-0?",
       "event_ticker": "KXATPEXACTMATCH-26OCT29DJOSTR",
       "yes_ask_cents": "52.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "2.0",
       "volume_24h": "1965.46",
       "close_time": "2026-11-12T10:00:00Z",
       "category": "Sports"
@@ -1720,8 +1169,8 @@
       "title": "Ana Julieta Lopez Ocampos wins",
       "event_ticker": "KXITFWMATCH-26OCT29MEALOP",
       "yes_ask_cents": "16.0",
-      "no_ask_cents": "89.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "90.0",
+      "spread_cents": "6.0",
       "volume_24h": "1936.28",
       "close_time": "2026-11-12T13:00:00Z",
       "category": "Sports"
@@ -1731,8 +1180,8 @@
       "title": "Will the maximum temperature be <81\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHTDAL-26OCT29",
       "yes_ask_cents": "71.0",
-      "no_ask_cents": "30.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "33.0",
+      "spread_cents": "4.0",
       "volume_24h": "1933.23",
       "close_time": "2026-10-30T06:00:00Z",
       "category": "Weather"
@@ -1760,17 +1209,6 @@
       "category": "Other"
     },
     {
-      "ticker": "KXKORISLIIGAGAME-26OCT301230SVVLAH-LAH",
-      "title": "Lahti Basketball wins",
-      "event_ticker": "KXKORISLIIGAGAME-26OCT301230SVVLAH",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "63.0",
-      "spread_cents": "4.0",
-      "volume_24h": "1924.26",
-      "close_time": "2026-11-01T16:30:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXWTAMATCH-26OCT29TAGLIN-LIN",
       "title": "Magda Linette wins",
       "event_ticker": "KXWTAMATCH-26OCT29TAGLIN",
@@ -1791,17 +1229,6 @@
       "volume_24h": "1759.32",
       "close_time": "2026-10-30T06:00:00Z",
       "category": "Weather"
-    },
-    {
-      "ticker": "KXATPEXACTMATCH-26OCT29VACJOD-JOD20",
-      "title": "Will Rafael Jodar win the Valentin Vacherot vs Rafael Jodar match by a set score of 2-0?",
-      "event_ticker": "KXATPEXACTMATCH-26OCT29VACJOD",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "5.0",
-      "volume_24h": "1757.28",
-      "close_time": "2026-11-12T10:00:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXHIGHTMIN-26OCT29-T56",
@@ -1840,9 +1267,9 @@
       "ticker": "KXITFWMATCH-26OCT29BERBOS-BER",
       "title": "Grace Bernstein wins",
       "event_ticker": "KXITFWMATCH-26OCT29BERBOS",
-      "yes_ask_cents": "46.0",
+      "yes_ask_cents": "48.0",
       "no_ask_cents": "57.0",
-      "spread_cents": "3.0",
+      "spread_cents": "5.0",
       "volume_24h": "1701.66",
       "close_time": "2026-11-12T09:00:00Z",
       "category": "Sports"
@@ -1868,17 +1295,6 @@
       "volume_24h": "1616.99",
       "close_time": "2026-10-30T07:00:00Z",
       "category": "Weather"
-    },
-    {
-      "ticker": "KXCS2TOTALMAPS-26OCT290400NEMIFUT-3",
-      "title": "Will over 2.5 maps be played?",
-      "event_ticker": "KXCS2TOTALMAPS-26OCT290400NEMIFUT",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1579.91",
-      "close_time": "2026-10-31T08:00:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXHIGHCHI-26OCT29-B70.5",
@@ -1929,8 +1345,8 @@
       "title": "Will Rafael Jodar win at least 3.5 more games than Valentin Vacherot?",
       "event_ticker": "KXATPGSPREAD-26OCT29VACJOD",
       "yes_ask_cents": "52.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "7.0",
       "volume_24h": "1555.68",
       "close_time": "2026-11-12T10:00:00Z",
       "category": "Sports"
@@ -1939,9 +1355,9 @@
       "ticker": "KXWNBAREB-26OCT29GSATL-GSVBURTON22-6",
       "title": "Veronica Burton: 6+ rebounds",
       "event_ticker": "KXWNBAREB-26OCT29GSATL",
-      "yes_ask_cents": "18.0",
+      "yes_ask_cents": "21.0",
       "no_ask_cents": "86.0",
-      "spread_cents": "4.0",
+      "spread_cents": "7.0",
       "volume_24h": "1526.57",
       "close_time": "2026-10-31T16:30:00Z",
       "category": "Other"
@@ -1956,17 +1372,6 @@
       "volume_24h": "1513.07",
       "close_time": "2026-11-03T04:59:00Z",
       "category": "Other"
-    },
-    {
-      "ticker": "KXATPGTOTAL-26OCT29BASALC-21",
-      "title": "Over 20.5 games",
-      "event_ticker": "KXATPGTOTAL-26OCT29BASALC",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "4.0",
-      "volume_24h": "1504.55",
-      "close_time": "2026-11-12T14:00:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXHIGHDEN-26OCT29-B69.5",
@@ -1994,31 +1399,20 @@
       "ticker": "KXWNBAREB-26OCT29GSATL-GSVBURTON22-4",
       "title": "Veronica Burton: 4+ rebounds",
       "event_ticker": "KXWNBAREB-26OCT29GSATL",
-      "yes_ask_cents": "46.0",
+      "yes_ask_cents": "48.0",
       "no_ask_cents": "57.0",
-      "spread_cents": "3.0",
+      "spread_cents": "5.0",
       "volume_24h": "1469.5",
       "close_time": "2026-10-31T16:30:00Z",
       "category": "Other"
     },
     {
-      "ticker": "KXNBATOTAL-26OCT29MEMPOR-252",
-      "title": "Full Game: Over 251.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT29MEMPOR",
-      "yes_ask_cents": "22.0",
-      "no_ask_cents": "84.0",
-      "spread_cents": "6.0",
-      "volume_24h": "1464.06",
-      "close_time": "2026-11-01T02:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXHIGHAUS-26OCT29-B81.5",
       "title": "Will the maximum temperature be 81-82\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHAUS-26OCT29",
-      "yes_ask_cents": "2.0",
+      "yes_ask_cents": "3.0",
       "no_ask_cents": "99.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "1431.38",
       "close_time": "2026-10-30T06:00:00Z",
       "category": "Weather"
@@ -2033,17 +1427,6 @@
       "volume_24h": "1424.74",
       "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXBUNDESLIGATEAMTOTAL-26OCT30SVEM05-M052",
-      "title": "Will Mainz score over 1.5 goals?",
-      "event_ticker": "KXBUNDESLIGATEAMTOTAL-26OCT30SVEM05",
-      "yes_ask_cents": "57.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "4.0",
-      "volume_24h": "1423.94",
-      "close_time": "2026-11-02T01:30:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXCS2GAME-26OCT290800GLFAZE-GL",
@@ -2071,9 +1454,9 @@
       "ticker": "KXWNBA3PT-26OCT29GSATL-GSCZANDALASINI24-2",
       "title": "Cecilia Zandalasini: 2+ threes",
       "event_ticker": "KXWNBA3PT-26OCT29GSATL",
-      "yes_ask_cents": "39.0",
+      "yes_ask_cents": "40.0",
       "no_ask_cents": "67.0",
-      "spread_cents": "6.0",
+      "spread_cents": "7.0",
       "volume_24h": "1390.59",
       "close_time": "2026-10-31T16:30:00Z",
       "category": "Other"
@@ -2083,8 +1466,8 @@
       "title": "Tomas Farjat wins",
       "event_ticker": "KXITFMATCH-26OCT29FARCOU",
       "yes_ask_cents": "43.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "62.0",
+      "spread_cents": "5.0",
       "volume_24h": "1389.49",
       "close_time": "2026-11-12T15:00:00Z",
       "category": "Sports"
@@ -2115,9 +1498,9 @@
       "ticker": "KXWNBAREB-26OCT29GSATL-ATLNHILLMON00-4",
       "title": "Naz Hillmon: 4+ rebounds",
       "event_ticker": "KXWNBAREB-26OCT29GSATL",
-      "yes_ask_cents": "59.0",
+      "yes_ask_cents": "60.0",
       "no_ask_cents": "42.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "1345.25",
       "close_time": "2026-10-31T16:30:00Z",
       "category": "Other"
@@ -2126,9 +1509,9 @@
       "ticker": "KXDOTA2GAME-26OCT291100TYPARI-PARI",
       "title": "PARIVISION wins",
       "event_ticker": "KXDOTA2GAME-26OCT291100TYPARI",
-      "yes_ask_cents": "43.0",
+      "yes_ask_cents": "44.0",
       "no_ask_cents": "61.0",
-      "spread_cents": "4.0",
+      "spread_cents": "5.0",
       "volume_24h": "1330.46",
       "close_time": "2026-10-31T15:00:00Z",
       "category": "Sports"
@@ -2142,17 +1525,6 @@
       "spread_cents": "1.0",
       "volume_24h": "1323.81",
       "close_time": "2026-10-31T14:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXCS2MAP-26OCT290400NEMIFUT-1-FUT",
-      "title": "FUT Esports wins map 1",
-      "event_ticker": "KXCS2MAP-26OCT290400NEMIFUT-1",
-      "yes_ask_cents": "63.0",
-      "no_ask_cents": "38.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1303.67",
-      "close_time": "2026-10-31T08:00:00Z",
       "category": "Sports"
     },
     {
@@ -2170,31 +1542,20 @@
       "ticker": "KXATPSETWINNER-26OCT29FERMUS-1-FER",
       "title": "Will Arthur Fery win set 1 in the Arthur Fery vs Lorenzo Musetti match",
       "event_ticker": "KXATPSETWINNER-26OCT29FERMUS-1",
-      "yes_ask_cents": "32.0",
+      "yes_ask_cents": "36.0",
       "no_ask_cents": "70.0",
-      "spread_cents": "2.0",
+      "spread_cents": "6.0",
       "volume_24h": "1298.09",
       "close_time": "2026-11-12T12:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFMATCH-26OCT29IAKSAL-IAK",
-      "title": "Volodymyr Iakubenko wins",
-      "event_ticker": "KXITFMATCH-26OCT29IAKSAL",
-      "yes_ask_cents": "83.0",
-      "no_ask_cents": "25.0",
-      "spread_cents": "8.0",
-      "volume_24h": "1275.71",
-      "close_time": "2026-11-12T08:00:00Z",
       "category": "Sports"
     },
     {
       "ticker": "KXWTACHALLENGERMATCH-26OCT29JONSOU-SOU",
       "title": "Marjorie Souza wins",
       "event_ticker": "KXWTACHALLENGERMATCH-26OCT29JONSOU",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "2.0",
+      "yes_ask_cents": "9.0",
+      "no_ask_cents": "95.0",
+      "spread_cents": "4.0",
       "volume_24h": "1274.0",
       "close_time": "2026-11-12T16:10:00Z",
       "category": "Sports"
@@ -2204,8 +1565,8 @@
       "title": "Baotong Xu wins",
       "event_ticker": "KXITFWMATCH-26OCT29XUXROJ",
       "yes_ask_cents": "21.0",
-      "no_ask_cents": "84.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "85.0",
+      "spread_cents": "6.0",
       "volume_24h": "1272.48",
       "close_time": "2026-11-12T08:30:00Z",
       "category": "Sports"
@@ -2226,8 +1587,8 @@
       "title": "Marina Bassols Ribera wins",
       "event_ticker": "KXWTACHALLENGERMATCH-26OCT29BASAND",
       "yes_ask_cents": "46.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "57.0",
+      "spread_cents": "3.0",
       "volume_24h": "1256.0",
       "close_time": "2026-11-12T13:00:00Z",
       "category": "Sports"
@@ -2368,9 +1729,9 @@
       "ticker": "KXWNBAREB-26OCT29GSATL-ATLJCANADA3-4",
       "title": "Jordin Canada: 4+ rebounds",
       "event_ticker": "KXWNBAREB-26OCT29GSATL",
-      "yes_ask_cents": "55.0",
+      "yes_ask_cents": "56.0",
       "no_ask_cents": "52.0",
-      "spread_cents": "7.0",
+      "spread_cents": "8.0",
       "volume_24h": "1157.92",
       "close_time": "2026-10-31T16:30:00Z",
       "category": "Other"
@@ -2379,9 +1740,9 @@
       "ticker": "KXHIGHTSATX-26OCT29-B78.5",
       "title": "Will the maximum temperature be 78-79\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHTSATX-26OCT29",
-      "yes_ask_cents": "9.0",
+      "yes_ask_cents": "10.0",
       "no_ask_cents": "94.0",
-      "spread_cents": "3.0",
+      "spread_cents": "4.0",
       "volume_24h": "1157.16",
       "close_time": "2026-10-30T06:00:00Z",
       "category": "Weather"
@@ -2409,48 +1770,15 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT29MEMPOR-POR3",
-      "title": "Portland wins by over 2.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT29MEMPOR",
-      "yes_ask_cents": "66.0",
-      "no_ask_cents": "37.0",
-      "spread_cents": "3.0",
-      "volume_24h": "1128.65",
-      "close_time": "2026-11-01T02:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXBRENTD-26OCT2917-T108",
-      "title": "Will the brent crude oil close price be above 108 USD/Bbl on October 29, 2026 at 5:00 PM EDT?",
-      "event_ticker": "KXBRENTD-26OCT2917",
-      "yes_ask_cents": "81.0",
-      "no_ask_cents": "20.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1119.44",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXWNBAREB-26OCT29GSATL-ATLJCANADA3-6",
       "title": "Jordin Canada: 6+ rebounds",
       "event_ticker": "KXWNBAREB-26OCT29GSATL",
-      "yes_ask_cents": "21.0",
+      "yes_ask_cents": "24.0",
       "no_ask_cents": "83.0",
-      "spread_cents": "4.0",
+      "spread_cents": "7.0",
       "volume_24h": "1116.62",
       "close_time": "2026-10-31T16:30:00Z",
       "category": "Other"
-    },
-    {
-      "ticker": "KXNFLRECYDS-26NOV01BALBUF-BALJLANE6-60",
-      "title": "Ja'Kobi Lane: 60+ receiving yards",
-      "event_ticker": "KXNFLRECYDS-26NOV01BALBUF",
-      "yes_ask_cents": "19.0",
-      "no_ask_cents": "89.0",
-      "spread_cents": "8.0",
-      "volume_24h": "1115.61",
-      "close_time": "2026-11-03T18:00:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXSAUDIPL1HBTTS-26OCT29KHAHAZ-BTTS",
@@ -2464,23 +1792,12 @@
       "category": "Other"
     },
     {
-      "ticker": "KXBRENTD-26OCT2917-T107.50",
-      "title": "Will the brent crude oil close price be above 107.50 USD/Bbl on October 29, 2026 at 5:00 PM EDT?",
-      "event_ticker": "KXBRENTD-26OCT2917",
-      "yes_ask_cents": "93.0",
-      "no_ask_cents": "11.0",
-      "spread_cents": "4.0",
-      "volume_24h": "1113.88",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNBASPREAD-26OCT29MEMPOR-POR7",
       "title": "Portland wins by over 6.5 points",
       "event_ticker": "KXNBASPREAD-26OCT29MEMPOR",
-      "yes_ask_cents": "53.0",
+      "yes_ask_cents": "55.0",
       "no_ask_cents": "48.0",
-      "spread_cents": "1.0",
+      "spread_cents": "3.0",
       "volume_24h": "1111.26",
       "close_time": "2026-11-01T02:00:00Z",
       "category": "Sports"
@@ -2501,8 +1818,8 @@
       "title": "Joy De Zeeuw wins",
       "event_ticker": "KXITFWMATCH-26OCT29FONDEZ",
       "yes_ask_cents": "57.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "6.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "7.0",
       "volume_24h": "1099.98",
       "close_time": "2026-11-12T12:00:00Z",
       "category": "Sports"
@@ -2523,8 +1840,8 @@
       "title": "Will Alexander Zverev win at least 4.5 more games than Tallon Griekspoor?",
       "event_ticker": "KXATPGSPREAD-26OCT29ZVEGRI",
       "yes_ask_cents": "29.0",
-      "no_ask_cents": "74.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "75.0",
+      "spread_cents": "4.0",
       "volume_24h": "1098.09",
       "close_time": "2026-11-12T12:00:00Z",
       "category": "Sports"
@@ -2533,9 +1850,9 @@
       "ticker": "KXITFWMATCH-26OCT29GJOSER-SER",
       "title": "Raluca Georgiana Serban wins",
       "event_ticker": "KXITFWMATCH-26OCT29GJOSER",
-      "yes_ask_cents": "51.0",
+      "yes_ask_cents": "52.0",
       "no_ask_cents": "52.0",
-      "spread_cents": "3.0",
+      "spread_cents": "4.0",
       "volume_24h": "1085.49",
       "close_time": "2026-11-12T09:30:00Z",
       "category": "Sports"
@@ -2552,23 +1869,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXCOPADELREYTOTAL-26OCT29UBCCAS-1",
-      "title": "Will over 0.5 goals be scored?",
-      "event_ticker": "KXCOPADELREYTOTAL-26OCT29UBCCAS",
-      "yes_ask_cents": "95.0",
-      "no_ask_cents": "8.0",
-      "spread_cents": "3.0",
-      "volume_24h": "1076.02",
-      "close_time": "2026-10-31T19:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXHIGHTOKC-26OCT29-T80",
       "title": "Will the maximum temperature be <80\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHTOKC-26OCT29",
-      "yes_ask_cents": "4.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "2.0",
+      "yes_ask_cents": "5.0",
+      "no_ask_cents": "99.0",
+      "spread_cents": "4.0",
       "volume_24h": "1067.53",
       "close_time": "2026-10-30T06:00:00Z",
       "category": "Weather"
@@ -2578,8 +1884,8 @@
       "title": "Will Novak Djokovic win at least 3.5 more games than Jan-Lennard Struff?",
       "event_ticker": "KXATPGSPREAD-26OCT29DJOSTR",
       "yes_ask_cents": "50.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "4.0",
       "volume_24h": "1044.11",
       "close_time": "2026-11-12T17:00:00Z",
       "category": "Sports"
@@ -2599,9 +1905,9 @@
       "ticker": "KXNBASPREAD-26OCT29MEMPOR-POR6",
       "title": "Portland wins by over 5.5 points",
       "event_ticker": "KXNBASPREAD-26OCT29MEMPOR",
-      "yes_ask_cents": "57.0",
+      "yes_ask_cents": "58.0",
       "no_ask_cents": "45.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "997.36",
       "close_time": "2026-11-01T02:00:00Z",
       "category": "Sports"
@@ -2640,17 +1946,6 @@
       "category": "Weather"
     },
     {
-      "ticker": "KXITFMATCH-26OCT29LAKSAF-LAK",
-      "title": "Aryan Lakshmanan wins",
-      "event_ticker": "KXITFMATCH-26OCT29LAKSAF",
-      "yes_ask_cents": "78.0",
-      "no_ask_cents": "29.0",
-      "spread_cents": "7.0",
-      "volume_24h": "930.61",
-      "close_time": "2026-11-12T05:30:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXHIGHTATL-26OCT29-B78.5",
       "title": "Will the maximum temperature be 78-79\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHTATL-26OCT29",
@@ -2660,17 +1955,6 @@
       "volume_24h": "929.92",
       "close_time": "2026-10-30T05:00:00Z",
       "category": "Weather"
-    },
-    {
-      "ticker": "KXATPEXACTMATCH-26OCT29NORMED-MED20",
-      "title": "Will Daniil Medvedev win the Cameron Norrie vs Daniil Medvedev match by a set score of 2-0?",
-      "event_ticker": "KXATPEXACTMATCH-26OCT29NORMED",
-      "yes_ask_cents": "60.0",
-      "no_ask_cents": "42.0",
-      "spread_cents": "2.0",
-      "volume_24h": "921.87",
-      "close_time": "2026-11-12T12:30:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXUCLWBTTS-26OCT29MCIPSG-BTTS",
@@ -2698,9 +1982,9 @@
       "ticker": "KXHIGHTATL-26OCT29-B74.5",
       "title": "Will the maximum temperature be 74-75\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHTATL-26OCT29",
-      "yes_ask_cents": "22.0",
+      "yes_ask_cents": "28.0",
       "no_ask_cents": "80.0",
-      "spread_cents": "2.0",
+      "spread_cents": "8.0",
       "volume_24h": "881.07",
       "close_time": "2026-10-30T05:00:00Z",
       "category": "Weather"
@@ -2709,9 +1993,9 @@
       "ticker": "KXCS2GAME-26OCT291200MIBRFNC-FNC",
       "title": "fnatic wins",
       "event_ticker": "KXCS2GAME-26OCT291200MIBRFNC",
-      "yes_ask_cents": "46.0",
+      "yes_ask_cents": "47.0",
       "no_ask_cents": "60.0",
-      "spread_cents": "6.0",
+      "spread_cents": "7.0",
       "volume_24h": "868.43",
       "close_time": "2026-10-31T16:00:00Z",
       "category": "Sports"
@@ -2720,9 +2004,9 @@
       "ticker": "KXMLB-27-LAD",
       "title": "Will Los Angeles D win the 2027 Pro Baseball Championship?",
       "event_ticker": "KXMLB-27",
-      "yes_ask_cents": "24.8",
-      "no_ask_cents": "75.3",
-      "spread_cents": "0.1",
+      "yes_ask_cents": "25.9",
+      "no_ask_cents": "81.0",
+      "spread_cents": "6.9",
       "volume_24h": "867.9",
       "close_time": "2029-10-31T04:00:00Z",
       "category": "Sports"
@@ -2754,22 +2038,11 @@
       "title": "Dallas Goedert: 2+ touchdowns",
       "event_ticker": "KXNFLTD-26NOV01PHIWAS",
       "yes_ask_cents": "7.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "99.0",
+      "spread_cents": "6.0",
       "volume_24h": "860.07",
       "close_time": "2026-11-04T01:20:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXBRENTD-26OCT2917-T108.50",
-      "title": "Will the brent crude oil close price be above 108.50 USD/Bbl on October 29, 2026 at 5:00 PM EDT?",
-      "event_ticker": "KXBRENTD-26OCT2917",
-      "yes_ask_cents": "81.0",
-      "no_ask_cents": "25.0",
-      "spread_cents": "6.0",
-      "volume_24h": "853.98",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXCBASPREAD-26OCT290735SBWBRF-BRF23",
@@ -2786,9 +2059,9 @@
       "ticker": "KXNFLRECYDS-26NOV01BALBUF-BALRBATEMAN7-70",
       "title": "Rashod Bateman: 70+ receiving yards",
       "event_ticker": "KXNFLRECYDS-26NOV01BALBUF",
-      "yes_ask_cents": "12.0",
+      "yes_ask_cents": "15.0",
       "no_ask_cents": "93.0",
-      "spread_cents": "5.0",
+      "spread_cents": "8.0",
       "volume_24h": "837.29",
       "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
@@ -2827,17 +2100,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXATPCHALLENGERMATCH-26OCT29GALMID-GAL",
-      "title": "Daniel Elahi Galan wins",
-      "event_ticker": "KXATPCHALLENGERMATCH-26OCT29GALMID",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "62.0",
-      "spread_cents": "3.0",
-      "volume_24h": "819.94",
-      "close_time": "2026-11-12T16:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXDWTSELIMINATION-26NOV03-EFRE",
       "title": "Will Ezra Frech and their partner be eliminated from Dancing with the Stars Season 35 before Nov 3, 2026?",
       "event_ticker": "KXDWTSELIMINATION-26NOV03",
@@ -2849,56 +2111,23 @@
       "category": "Other"
     },
     {
-      "ticker": "KXNFLRECYDS-26NOV01BALBUF-BALJLANE6-70",
-      "title": "Ja'Kobi Lane: 70+ receiving yards",
-      "event_ticker": "KXNFLRECYDS-26NOV01BALBUF",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "5.0",
-      "volume_24h": "814.87",
-      "close_time": "2026-11-03T18:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNFLTD-26NOV01KCDEN-KCCALLEN13-1",
       "title": "Cyrus Allen: 1+ touchdowns",
       "event_ticker": "KXNFLTD-26NOV01KCDEN",
       "yes_ask_cents": "9.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "96.0",
+      "spread_cents": "5.0",
       "volume_24h": "799.07",
       "close_time": "2026-11-03T21:25:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNBLSPREAD-26OCT290500CARBRI-BRI3",
-      "title": "Brisbane Bullets wins by over 2.5 points",
-      "event_ticker": "KXNBLSPREAD-26OCT290500CARBRI",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "4.0",
-      "volume_24h": "798.18",
-      "close_time": "2026-10-31T09:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXNFLRECYDS-26NOV01BALBUF-BALRBATEMAN7-50",
-      "title": "Rashod Bateman: 50+ receiving yards",
-      "event_ticker": "KXNFLRECYDS-26NOV01BALBUF",
-      "yes_ask_cents": "26.0",
-      "no_ask_cents": "82.0",
-      "spread_cents": "8.0",
-      "volume_24h": "789.81",
-      "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
     },
     {
       "ticker": "KXHIGHTOKC-26OCT29-B82.5",
       "title": "Will the maximum temperature be 82-83\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHTOKC-26OCT29",
-      "yes_ask_cents": "64.0",
-      "no_ask_cents": "37.0",
-      "spread_cents": "1.0",
+      "yes_ask_cents": "67.0",
+      "no_ask_cents": "41.0",
+      "spread_cents": "8.0",
       "volume_24h": "784.51",
       "close_time": "2026-10-30T06:00:00Z",
       "category": "Weather"
@@ -2937,28 +2166,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXFEDMENTION-26DEC-UNCE",
-      "title": "Will Kevin Warsh say Uncertainty at his Dec 2026 press conference?",
-      "event_ticker": "KXFEDMENTION-26DEC",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "2.0",
-      "volume_24h": "773.25",
-      "close_time": "2026-12-10T15:00:00Z",
-      "category": "Economics"
-    },
-    {
-      "ticker": "KXCOPADELREYSPREAD-26OCT29SSRCOR-COR2",
-      "title": "Reg Time: Coria wins by more than 1.5 goals?",
-      "event_ticker": "KXCOPADELREYSPREAD-26OCT29SSRCOR",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "89.0",
-      "spread_cents": "2.0",
-      "volume_24h": "771.01",
-      "close_time": "2026-10-31T18:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNFLRSHYDS-26NOV01NEMIA-NETHENDERSON32-25",
       "title": "TreVeyon Henderson: 25+ rushing yards",
       "event_ticker": "KXNFLRSHYDS-26NOV01NEMIA",
@@ -2973,33 +2180,11 @@
       "ticker": "KXITFMATCH-26OCT29STRDEF-DEF",
       "title": "Samuel De Felipe Garcia wins",
       "event_ticker": "KXITFMATCH-26OCT29STRDEF",
-      "yes_ask_cents": "5.0",
+      "yes_ask_cents": "6.0",
       "no_ask_cents": "97.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "764.4",
       "close_time": "2026-11-12T09:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXHIGHTSEA-26OCT29-B52.5",
-      "title": "Will the maximum temperature be 52-53\u00b0 on Oct 29, 2026?",
-      "event_ticker": "KXHIGHTSEA-26OCT29",
-      "yes_ask_cents": "35.0",
-      "no_ask_cents": "71.0",
-      "spread_cents": "6.0",
-      "volume_24h": "753.97",
-      "close_time": "2026-10-30T08:00:00Z",
-      "category": "Weather"
-    },
-    {
-      "ticker": "KXWTASETWINNER-26OCT29TIMSUN-1-SUN",
-      "title": "Will Xinran Sun win set 1 in the Maria Timofeeva vs Xinran Sun match",
-      "event_ticker": "KXWTASETWINNER-26OCT29TIMSUN-1",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "60.0",
-      "spread_cents": "4.0",
-      "volume_24h": "750.16",
-      "close_time": "2026-11-12T05:00:00Z",
       "category": "Sports"
     },
     {
@@ -3011,17 +2196,6 @@
       "spread_cents": "1.0",
       "volume_24h": "745.41",
       "close_time": "2026-11-12T00:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFWMATCH-26OCT29CURVLA-VLA",
-      "title": "Clara Vlasselaer wins",
-      "event_ticker": "KXITFWMATCH-26OCT29CURVLA",
-      "yes_ask_cents": "18.0",
-      "no_ask_cents": "87.0",
-      "spread_cents": "5.0",
-      "volume_24h": "743.49",
-      "close_time": "2026-11-12T09:00:00Z",
       "category": "Sports"
     },
     {
@@ -3039,9 +2213,9 @@
       "ticker": "KXHIGHTHOU-26OCT29-B80.5",
       "title": "Will the maximum temperature be 80-81\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHTHOU-26OCT29",
-      "yes_ask_cents": "31.0",
+      "yes_ask_cents": "35.0",
       "no_ask_cents": "70.0",
-      "spread_cents": "1.0",
+      "spread_cents": "5.0",
       "volume_24h": "739.63",
       "close_time": "2026-10-30T06:00:00Z",
       "category": "Weather"
@@ -3051,8 +2225,8 @@
       "title": "Will the maximum temperature be 86-87\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHTPHX-26OCT29",
       "yes_ask_cents": "60.0",
-      "no_ask_cents": "43.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "44.0",
+      "spread_cents": "4.0",
       "volume_24h": "733.48",
       "close_time": "2026-10-30T07:00:00Z",
       "category": "Weather"
@@ -3078,17 +2252,6 @@
       "volume_24h": "715.53",
       "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXBRENTD-26OCT2917-T109.50",
-      "title": "Will the brent crude oil close price be above 109.50 USD/Bbl on October 29, 2026 at 5:00 PM EDT?",
-      "event_ticker": "KXBRENTD-26OCT2917",
-      "yes_ask_cents": "67.0",
-      "no_ask_cents": "40.0",
-      "spread_cents": "7.0",
-      "volume_24h": "699.43",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXWNBAREB-26OCT29GSATL-GSGWILLIAMS1-4",
@@ -3124,28 +2287,6 @@
       "category": "Other"
     },
     {
-      "ticker": "KXBRENTD-26OCT2917-T110.50",
-      "title": "Will the brent crude oil close price be above 110.50 USD/Bbl on October 29, 2026 at 5:00 PM EDT?",
-      "event_ticker": "KXBRENTD-26OCT2917",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "6.0",
-      "volume_24h": "676.23",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXGRECUPBTTS-26OCT29VOLATR-BTTS",
-      "title": "Both Teams To Score",
-      "event_ticker": "KXGRECUPBTTS-26OCT29VOLATR",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "4.0",
-      "volume_24h": "668.06",
-      "close_time": "2026-10-31T16:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXITFMATCH-26OCT29LARSAN-LAR",
       "title": "Louis Larue wins",
       "event_ticker": "KXITFMATCH-26OCT29LARSAN",
@@ -3160,23 +2301,12 @@
       "ticker": "KXNFLRECYDS-26NOV01BALBUF-BALRBATEMAN7-60",
       "title": "Rashod Bateman: 60+ receiving yards",
       "event_ticker": "KXNFLRECYDS-26NOV01BALBUF",
-      "yes_ask_cents": "19.0",
+      "yes_ask_cents": "21.0",
       "no_ask_cents": "87.0",
-      "spread_cents": "6.0",
+      "spread_cents": "8.0",
       "volume_24h": "644.52",
       "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXHIGHTDC-26OCT29-B72.5",
-      "title": "Will the maximum temperature be 72-73\u00b0 on Oct 29, 2026?",
-      "event_ticker": "KXHIGHTDC-26OCT29",
-      "yes_ask_cents": "62.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "8.0",
-      "volume_24h": "643.21",
-      "close_time": "2026-10-30T05:00:00Z",
-      "category": "Weather"
     },
     {
       "ticker": "KXEGYPLSPREAD-26OCT29PYRDEG-PYR3",
@@ -3190,23 +2320,12 @@
       "category": "Other"
     },
     {
-      "ticker": "KXNFLFIRSTTD-26NOV01LVNYJ-NYJGWILSON5",
-      "title": "Garrett Wilson: 1st Touchdown",
-      "event_ticker": "KXNFLFIRSTTD-26NOV01LVNYJ",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "8.0",
-      "volume_24h": "619.04",
-      "close_time": "2026-11-03T18:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXHIGHTDC-26OCT29-B74.5",
       "title": "Will the maximum temperature be 74-75\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHTDC-26OCT29",
-      "yes_ask_cents": "5.0",
+      "yes_ask_cents": "6.0",
       "no_ask_cents": "96.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "617.81",
       "close_time": "2026-10-30T05:00:00Z",
       "category": "Weather"
@@ -3215,9 +2334,9 @@
       "ticker": "KXUFCVICROUND-26OCT31BROSMI-BRO2",
       "title": "Will Randy Brown win the Randy Brown vs. Jacobe Smith UFC Fight Night fight in Round 2",
       "event_ticker": "KXUFCVICROUND-26OCT31BROSMI",
-      "yes_ask_cents": "11.0",
+      "yes_ask_cents": "12.0",
       "no_ask_cents": "95.0",
-      "spread_cents": "6.0",
+      "spread_cents": "7.0",
       "volume_24h": "615.63",
       "close_time": "2026-11-15T01:00:00Z",
       "category": "Sports"
@@ -3234,28 +2353,6 @@
       "category": "Other"
     },
     {
-      "ticker": "KXCOPADELREYTOTAL-26OCT29LARBUR-6",
-      "title": "Will over 5.5 goals be scored?",
-      "event_ticker": "KXCOPADELREYTOTAL-26OCT29LARBUR",
-      "yes_ask_cents": "5.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "3.0",
-      "volume_24h": "613.0",
-      "close_time": "2026-10-31T19:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXCOPADELREYTOTAL-26OCT29ANTAGU-6",
-      "title": "Will over 5.5 goals be scored?",
-      "event_ticker": "KXCOPADELREYTOTAL-26OCT29ANTAGU",
-      "yes_ask_cents": "5.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "3.0",
-      "volume_24h": "609.01",
-      "close_time": "2026-10-31T19:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNCAAFTOTAL-26OCT31WCUFUR-54",
       "title": "Full Game: Over 53.5 points scored",
       "event_ticker": "KXNCAAFTOTAL-26OCT31WCUFUR",
@@ -3264,17 +2361,6 @@
       "spread_cents": "5.0",
       "volume_24h": "605.0",
       "close_time": "2026-11-02T18:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXATPEXACTMATCH-26OCT29MICFIL-FIL21",
-      "title": "Will Arthur Fils win the Alex Michelsen vs Arthur Fils match by a set score of 2-1?",
-      "event_ticker": "KXATPEXACTMATCH-26OCT29MICFIL",
-      "yes_ask_cents": "26.0",
-      "no_ask_cents": "78.0",
-      "spread_cents": "4.0",
-      "volume_24h": "603.98",
-      "close_time": "2026-11-12T10:00:00Z",
       "category": "Sports"
     },
     {
@@ -3303,42 +2389,20 @@
       "ticker": "KXITFWMATCH-26OCT29SPASCH-SPA",
       "title": "Beatris Spasova wins",
       "event_ticker": "KXITFWMATCH-26OCT29SPASCH",
-      "yes_ask_cents": "6.0",
+      "yes_ask_cents": "7.0",
       "no_ask_cents": "96.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "586.54",
       "close_time": "2026-11-12T08:00:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXCOPADELREYTOTAL-26OCT29UBCCAS-6",
-      "title": "Will over 5.5 goals be scored?",
-      "event_ticker": "KXCOPADELREYTOTAL-26OCT29UBCCAS",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "4.0",
-      "volume_24h": "585.01",
-      "close_time": "2026-10-31T19:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXBRENTD-26OCT2917-T114",
-      "title": "Will the brent crude oil close price be above 114 USD/Bbl on October 29, 2026 at 5:00 PM EDT?",
-      "event_ticker": "KXBRENTD-26OCT2917",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "8.0",
-      "volume_24h": "582.95",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXUCLWTOTAL-26OCT29MCIPSG-3",
       "title": "Will over 2.5 goals be scored?",
       "event_ticker": "KXUCLWTOTAL-26OCT29MCIPSG",
-      "yes_ask_cents": "62.0",
+      "yes_ask_cents": "64.0",
       "no_ask_cents": "40.0",
-      "spread_cents": "2.0",
+      "spread_cents": "4.0",
       "volume_24h": "579.23",
       "close_time": "2026-10-31T20:00:00Z",
       "category": "Other"
@@ -3388,28 +2452,6 @@
       "category": "Other"
     },
     {
-      "ticker": "KXWNBA3PT-26OCT29GSATL-ATLJCANADA3-2",
-      "title": "Jordin Canada: 2+ threes",
-      "event_ticker": "KXWNBA3PT-26OCT29GSATL",
-      "yes_ask_cents": "34.0",
-      "no_ask_cents": "70.0",
-      "spread_cents": "4.0",
-      "volume_24h": "569.53",
-      "close_time": "2026-10-31T16:30:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXATPEXACTMATCH-26OCT29MICFIL-MIC21",
-      "title": "Will Alex Michelsen win the Alex Michelsen vs Arthur Fils match by a set score of 2-1?",
-      "event_ticker": "KXATPEXACTMATCH-26OCT29MICFIL",
-      "yes_ask_cents": "18.0",
-      "no_ask_cents": "85.0",
-      "spread_cents": "3.0",
-      "volume_24h": "567.5",
-      "close_time": "2026-11-12T10:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXBTC-26OCT2917-B79375",
       "title": "Bitcoin price range on Oct 29, 2026?",
       "event_ticker": "KXBTC-26OCT2917",
@@ -3421,23 +2463,12 @@
       "category": "Finance"
     },
     {
-      "ticker": "KXITFMATCH-26OCT29SAHVAN-VAN",
-      "title": "Kris van Wyk wins",
-      "event_ticker": "KXITFMATCH-26OCT29SAHVAN",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "5.0",
-      "volume_24h": "556.72",
-      "close_time": "2026-11-12T09:30:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXHIGHTATL-26OCT29-B76.5",
       "title": "Will the maximum temperature be 76-77\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHTATL-26OCT29",
       "yes_ask_cents": "72.0",
-      "no_ask_cents": "29.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "32.0",
+      "spread_cents": "4.0",
       "volume_24h": "553.94",
       "close_time": "2026-10-30T05:00:00Z",
       "category": "Weather"
@@ -3446,22 +2477,11 @@
       "ticker": "KXNFLRECYDS-26NOV01BALBUF-BALZFLOWERS4-120",
       "title": "Zay Flowers: 120+ receiving yards",
       "event_ticker": "KXNFLRECYDS-26NOV01BALBUF",
-      "yes_ask_cents": "24.0",
+      "yes_ask_cents": "25.0",
       "no_ask_cents": "77.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "552.26",
       "close_time": "2026-11-03T18:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFWMATCH-26OCT29ADEGRA-ADE",
-      "title": "Esther Adeshina wins",
-      "event_ticker": "KXITFWMATCH-26OCT29ADEGRA",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "62.0",
-      "spread_cents": "8.0",
-      "volume_24h": "551.09",
-      "close_time": "2026-11-12T09:00:00Z",
       "category": "Sports"
     },
     {
@@ -3474,28 +2494,6 @@
       "volume_24h": "550.31",
       "close_time": "2026-10-29T14:00:00Z",
       "category": "Other"
-    },
-    {
-      "ticker": "KXATPGSPREAD-26OCT29FRISHA-FRI3",
-      "title": "Will Taylor Fritz win at least 2.5 more games than Denis Shapovalov?",
-      "event_ticker": "KXATPGSPREAD-26OCT29FRISHA",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "2.0",
-      "volume_24h": "550.3",
-      "close_time": "2026-11-12T14:10:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT29MEMPOR-POR4",
-      "title": "Portland wins by over 3.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT29MEMPOR",
-      "yes_ask_cents": "63.0",
-      "no_ask_cents": "41.0",
-      "spread_cents": "4.0",
-      "volume_24h": "545.36",
-      "close_time": "2026-11-01T02:00:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXHIGHTSFO-26OCT29-T70",
@@ -3513,21 +2511,10 @@
       "title": "Will over 2.5 goals be scored?",
       "event_ticker": "KXCOPADELREYTOTAL-26OCT29UBCCAS",
       "yes_ask_cents": "49.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "2.0",
       "volume_24h": "532.0",
       "close_time": "2026-10-31T19:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXGOLDD-26OCT2917-T4037",
-      "title": "Will the gold close price be above 4037 USD/t.oz on October 29, 2026 at 5:00 PM EDT?",
-      "event_ticker": "KXGOLDD-26OCT2917",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "7.0",
-      "volume_24h": "528.78",
-      "close_time": "2026-10-29T21:00:00Z",
       "category": "Other"
     },
     {
@@ -3564,34 +2551,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXATPEXACTMATCH-26OCT29FRISHA-FRI20",
-      "title": "Will Taylor Fritz win the Taylor Fritz vs Denis Shapovalov match by a set score of 2-0?",
-      "event_ticker": "KXATPEXACTMATCH-26OCT29FRISHA",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "4.0",
-      "volume_24h": "510.0",
-      "close_time": "2026-11-12T14:10:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXUCLWTOTAL-26OCT29KOEBAR-4",
-      "title": "Will over 3.5 goals be scored?",
-      "event_ticker": "KXUCLWTOTAL-26OCT29KOEBAR",
-      "yes_ask_cents": "75.0",
-      "no_ask_cents": "33.0",
-      "spread_cents": "8.0",
-      "volume_24h": "503.25",
-      "close_time": "2026-10-31T20:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXKNVBCUPTOTAL-26OCT29GROEMM-4",
       "title": "Will over 3.5 goals be scored?",
       "event_ticker": "KXKNVBCUPTOTAL-26OCT29GROEMM",
-      "yes_ask_cents": "47.0",
+      "yes_ask_cents": "51.0",
       "no_ask_cents": "55.0",
-      "spread_cents": "2.0",
+      "spread_cents": "6.0",
       "volume_24h": "502.51",
       "close_time": "2026-10-31T20:00:00Z",
       "category": "Other"
@@ -3645,8 +2610,8 @@
       "title": "Will the maximum temperature be 80-81\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHTNOLA-26OCT29",
       "yes_ask_cents": "56.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "5.0",
       "volume_24h": "488.61",
       "close_time": "2026-10-30T06:00:00Z",
       "category": "Weather"
@@ -3656,8 +2621,8 @@
       "title": "Will the maximum temperature be 82-83\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHTHOU-26OCT29",
       "yes_ask_cents": "66.0",
-      "no_ask_cents": "35.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "38.0",
+      "spread_cents": "4.0",
       "volume_24h": "487.44",
       "close_time": "2026-10-30T06:00:00Z",
       "category": "Weather"
@@ -3677,9 +2642,9 @@
       "ticker": "KXSAUDIPL1H-26OCT29ALNAKH-ALN",
       "title": "Al Nassr wins 1st Half",
       "event_ticker": "KXSAUDIPL1H-26OCT29ALNAKH",
-      "yes_ask_cents": "61.0",
+      "yes_ask_cents": "62.0",
       "no_ask_cents": "41.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "479.59",
       "close_time": "2026-10-31T18:00:00Z",
       "category": "Other"
@@ -3689,8 +2654,8 @@
       "title": "Ja'Kobi Lane: 1+ touchdowns",
       "event_ticker": "KXNFLTD-26NOV01BALBUF",
       "yes_ask_cents": "23.0",
-      "no_ask_cents": "82.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "83.0",
+      "spread_cents": "6.0",
       "volume_24h": "470.79",
       "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
@@ -3699,33 +2664,11 @@
       "ticker": "KXWTAMATCH-26OCT29EALSHN-SHN",
       "title": "Diana Shnaider wins",
       "event_ticker": "KXWTAMATCH-26OCT29EALSHN",
-      "yes_ask_cents": "58.0",
+      "yes_ask_cents": "64.0",
       "no_ask_cents": "43.0",
-      "spread_cents": "1.0",
+      "spread_cents": "7.0",
       "volume_24h": "470.16",
       "close_time": "2026-11-13T01:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXGOLDD-26OCT2917-T3957",
-      "title": "Will the gold close price be above 3957 USD/t.oz on October 29, 2026 at 5:00 PM EDT?",
-      "event_ticker": "KXGOLDD-26OCT2917",
-      "yes_ask_cents": "98.0",
-      "no_ask_cents": "10.0",
-      "spread_cents": "8.0",
-      "volume_24h": "468.5",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXATPEXACTMATCH-26OCT29VACJOD-JOD21",
-      "title": "Will Rafael Jodar win the Valentin Vacherot vs Rafael Jodar match by a set score of 2-1?",
-      "event_ticker": "KXATPEXACTMATCH-26OCT29VACJOD",
-      "yes_ask_cents": "25.0",
-      "no_ask_cents": "81.0",
-      "spread_cents": "6.0",
-      "volume_24h": "467.69",
-      "close_time": "2026-11-12T10:00:00Z",
       "category": "Sports"
     },
     {
@@ -3744,8 +2687,8 @@
       "title": "Clement Tabur wins",
       "event_ticker": "KXATPCHALLENGERMATCH-26OCT29TABSAM",
       "yes_ask_cents": "41.0",
-      "no_ask_cents": "60.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "65.0",
+      "spread_cents": "6.0",
       "volume_24h": "459.99",
       "close_time": "2026-11-12T13:50:00Z",
       "category": "Sports"
@@ -3754,9 +2697,9 @@
       "ticker": "KXITFWMATCH-26OCT29LOPZOR-ZOR",
       "title": "Emily Zornada wins",
       "event_ticker": "KXITFWMATCH-26OCT29LOPZOR",
-      "yes_ask_cents": "52.0",
+      "yes_ask_cents": "53.0",
       "no_ask_cents": "52.0",
-      "spread_cents": "4.0",
+      "spread_cents": "5.0",
       "volume_24h": "454.0",
       "close_time": "2026-11-12T13:00:00Z",
       "category": "Sports"
@@ -3765,22 +2708,11 @@
       "ticker": "KXITFMATCH-26OCT29TARPET-PET",
       "title": "Mika Petkovic wins",
       "event_ticker": "KXITFMATCH-26OCT29TARPET",
-      "yes_ask_cents": "20.0",
+      "yes_ask_cents": "22.0",
       "no_ask_cents": "84.0",
-      "spread_cents": "4.0",
+      "spread_cents": "6.0",
       "volume_24h": "452.0",
       "close_time": "2026-11-12T10:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFWMATCH-26OCT29DAPSAL-SAL",
-      "title": "Micol Salvadori wins",
-      "event_ticker": "KXITFWMATCH-26OCT29DAPSAL",
-      "yes_ask_cents": "21.0",
-      "no_ask_cents": "82.0",
-      "spread_cents": "3.0",
-      "volume_24h": "450.45",
-      "close_time": "2026-11-12T09:00:00Z",
       "category": "Sports"
     },
     {
@@ -3788,8 +2720,8 @@
       "title": "Ode Osbourne wins by KO/TKO/DQ?",
       "event_ticker": "KXUFCMOV-26OCT31OSBDUR",
       "yes_ask_cents": "32.0",
-      "no_ask_cents": "71.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "72.0",
+      "spread_cents": "4.0",
       "volume_24h": "449.39",
       "close_time": "2026-11-15T00:40:00Z",
       "category": "Sports"
@@ -3798,22 +2730,11 @@
       "ticker": "KXKNVBCUPTOTAL-26OCT29TREHER-4",
       "title": "Will over 3.5 goals be scored?",
       "event_ticker": "KXKNVBCUPTOTAL-26OCT29TREHER",
-      "yes_ask_cents": "48.0",
+      "yes_ask_cents": "50.0",
       "no_ask_cents": "55.0",
-      "spread_cents": "3.0",
+      "spread_cents": "5.0",
       "volume_24h": "443.95",
       "close_time": "2026-10-31T19:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXCOPADELREYTOTAL-26OCT29LEBGET-5",
-      "title": "Will over 4.5 goals be scored?",
-      "event_ticker": "KXCOPADELREYTOTAL-26OCT29LEBGET",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "58.0",
-      "spread_cents": "5.0",
-      "volume_24h": "438.52",
-      "close_time": "2026-10-31T18:00:00Z",
       "category": "Other"
     },
     {
@@ -3828,23 +2749,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXBRENTD-26OCT2917-T109",
-      "title": "Will the brent crude oil close price be above 109 USD/Bbl on October 29, 2026 at 5:00 PM EDT?",
-      "event_ticker": "KXBRENTD-26OCT2917",
-      "yes_ask_cents": "74.0",
-      "no_ask_cents": "33.0",
-      "spread_cents": "7.0",
-      "volume_24h": "433.67",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXHIGHTSEA-26OCT29-B54.5",
       "title": "Will the maximum temperature be 54-55\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHTSEA-26OCT29",
-      "yes_ask_cents": "55.0",
+      "yes_ask_cents": "57.0",
       "no_ask_cents": "48.0",
-      "spread_cents": "3.0",
+      "spread_cents": "5.0",
       "volume_24h": "433.0",
       "close_time": "2026-10-30T08:00:00Z",
       "category": "Weather"
@@ -3859,50 +2769,6 @@
       "volume_24h": "432.27",
       "close_time": "2026-10-30T05:00:00Z",
       "category": "Weather"
-    },
-    {
-      "ticker": "KXATPCHALLENGERMATCH-26OCT29DAMBLA-BLA",
-      "title": "Ugo Blanchet wins",
-      "event_ticker": "KXATPCHALLENGERMATCH-26OCT29DAMBLA",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "74.0",
-      "spread_cents": "2.0",
-      "volume_24h": "431.65",
-      "close_time": "2026-11-12T12:40:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXSILVERD-26OCT2917-T53",
-      "title": "Will the silver close price be above 53 USD/t.oz on October 29, 2026 at 5:00 PM EDT?",
-      "event_ticker": "KXSILVERD-26OCT2917",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "59.0",
-      "spread_cents": "5.0",
-      "volume_24h": "430.46",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXDOTA2GAME-26OCT291400GLOG-OG",
-      "title": "OG wins",
-      "event_ticker": "KXDOTA2GAME-26OCT291400GLOG",
-      "yes_ask_cents": "62.0",
-      "no_ask_cents": "45.0",
-      "spread_cents": "7.0",
-      "volume_24h": "430.26",
-      "close_time": "2026-10-31T18:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFMATCH-26OCT29AUBJON-JON",
-      "title": "Miles Jones wins",
-      "event_ticker": "KXITFMATCH-26OCT29AUBJON",
-      "yes_ask_cents": "57.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "7.0",
-      "volume_24h": "428.39",
-      "close_time": "2026-11-12T07:30:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXHIGHTMIN-26OCT29-B60.5",
@@ -3930,31 +2796,20 @@
       "ticker": "KXITFMATCH-26OCT29MARPLU-PLU",
       "title": "Manuel Plunger wins",
       "event_ticker": "KXITFMATCH-26OCT29MARPLU",
-      "yes_ask_cents": "43.0",
+      "yes_ask_cents": "50.0",
       "no_ask_cents": "58.0",
-      "spread_cents": "1.0",
+      "spread_cents": "8.0",
       "volume_24h": "422.5",
       "close_time": "2026-11-12T12:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFWMATCH-26OCT29HAAPUL-HAA",
-      "title": "Ella Haavisto wins",
-      "event_ticker": "KXITFWMATCH-26OCT29HAAPUL",
-      "yes_ask_cents": "83.0",
-      "no_ask_cents": "22.0",
-      "spread_cents": "5.0",
-      "volume_24h": "421.0",
-      "close_time": "2026-11-12T10:00:00Z",
       "category": "Sports"
     },
     {
       "ticker": "KXNFLFIRSTTD-26NOV01BALBUF-BALZFLOWERS4",
       "title": "Zay Flowers: 1st Touchdown",
       "event_ticker": "KXNFLFIRSTTD-26NOV01BALBUF",
-      "yes_ask_cents": "8.0",
+      "yes_ask_cents": "9.0",
       "no_ask_cents": "99.0",
-      "spread_cents": "7.0",
+      "spread_cents": "8.0",
       "volume_24h": "418.0",
       "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
@@ -3969,28 +2824,6 @@
       "volume_24h": "417.3",
       "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXSILVERD-26OCT2917-T53.50",
-      "title": "Will the silver close price be above 53.50 USD/t.oz on October 29, 2026 at 5:00 PM EDT?",
-      "event_ticker": "KXSILVERD-26OCT2917",
-      "yes_ask_cents": "27.0",
-      "no_ask_cents": "81.0",
-      "spread_cents": "8.0",
-      "volume_24h": "416.32",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXUCLWSPREAD-26OCT29MCIPSG-MCI3",
-      "title": "Manchester City wins by more than 2.5 goals?",
-      "event_ticker": "KXUCLWSPREAD-26OCT29MCIPSG",
-      "yes_ask_cents": "22.0",
-      "no_ask_cents": "80.0",
-      "spread_cents": "2.0",
-      "volume_24h": "415.1",
-      "close_time": "2026-10-31T20:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXITFWMATCH-26OCT29GARZHU-ZHU",
@@ -4019,22 +2852,11 @@
       "title": "Will over 3.5 goals be scored?",
       "event_ticker": "KXKNVBCUPTOTAL-26OCT29KOZFCU",
       "yes_ask_cents": "47.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "2.0",
       "volume_24h": "411.01",
       "close_time": "2026-10-31T17:45:00Z",
       "category": "Other"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT29SACNOP-236",
-      "title": "Full Game: Over 235.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT29SACNOP",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "2.0",
-      "volume_24h": "410.96",
-      "close_time": "2026-11-01T00:00:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXEFLCUP1HBTTS-26OCT29EVENEW-BTTS",
@@ -4073,9 +2895,9 @@
       "ticker": "KXITFMATCH-26OCT29DURCHE-CHE",
       "title": "Mahmoud chetouane wins",
       "event_ticker": "KXITFMATCH-26OCT29DURCHE",
-      "yes_ask_cents": "5.0",
+      "yes_ask_cents": "6.0",
       "no_ask_cents": "97.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "399.19",
       "close_time": "2026-11-12T09:30:00Z",
       "category": "Sports"
@@ -4084,34 +2906,12 @@
       "ticker": "KXHIGHTPHX-26OCT29-B88.5",
       "title": "Will the maximum temperature be 88-89\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHTPHX-26OCT29",
-      "yes_ask_cents": "24.0",
+      "yes_ask_cents": "27.0",
       "no_ask_cents": "78.0",
-      "spread_cents": "2.0",
+      "spread_cents": "5.0",
       "volume_24h": "396.71",
       "close_time": "2026-10-30T07:00:00Z",
       "category": "Weather"
-    },
-    {
-      "ticker": "KXPERLIGA1BTTS-26OCT29CRIALI-BTTS",
-      "title": "Both Teams To Score",
-      "event_ticker": "KXPERLIGA1BTTS-26OCT29CRIALI",
-      "yes_ask_cents": "58.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "5.0",
-      "volume_24h": "396.38",
-      "close_time": "2026-10-31T20:30:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXBRENTD-26OCT2917-T110",
-      "title": "Will the brent crude oil close price be above 110 USD/Bbl on October 29, 2026 at 5:00 PM EDT?",
-      "event_ticker": "KXBRENTD-26OCT2917",
-      "yes_ask_cents": "59.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "7.0",
-      "volume_24h": "395.98",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXNFLRSHYDS-26NOV01INDJAC-JACCRODRIGUEZ24-25",
@@ -4162,22 +2962,11 @@
       "title": "Xavier Worthy: 2+ touchdowns",
       "event_ticker": "KXNFLTD-26NOV01KCDEN",
       "yes_ask_cents": "6.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "99.0",
+      "spread_cents": "5.0",
       "volume_24h": "375.05",
       "close_time": "2026-11-03T21:25:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXBRENTD-26OCT2917-T111",
-      "title": "Will the brent crude oil close price be above 111 USD/Bbl on October 29, 2026 at 5:00 PM EDT?",
-      "event_ticker": "KXBRENTD-26OCT2917",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "65.0",
-      "spread_cents": "6.0",
-      "volume_24h": "370.42",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXHIGHTSATX-26OCT29-B80.5",
@@ -4194,9 +2983,9 @@
       "ticker": "KXITFWMATCH-26OCT29CHAMAX-CHA",
       "title": "Teah Chavez wins",
       "event_ticker": "KXITFWMATCH-26OCT29CHAMAX",
-      "yes_ask_cents": "30.0",
-      "no_ask_cents": "75.0",
-      "spread_cents": "5.0",
+      "yes_ask_cents": "32.0",
+      "no_ask_cents": "76.0",
+      "spread_cents": "8.0",
       "volume_24h": "364.41",
       "close_time": "2026-11-12T14:00:00Z",
       "category": "Sports"
@@ -4205,31 +2994,20 @@
       "ticker": "KXNBASPREAD-26OCT29MEMPOR-POR5",
       "title": "Portland wins by over 4.5 points",
       "event_ticker": "KXNBASPREAD-26OCT29MEMPOR",
-      "yes_ask_cents": "60.0",
+      "yes_ask_cents": "61.0",
       "no_ask_cents": "42.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "362.79",
       "close_time": "2026-11-01T02:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXATPEXACTMATCH-26OCT29PAUDAR-PAU20",
-      "title": "Will Tommy Paul win the Tommy Paul vs Luciano Darderi match by a set score of 2-0?",
-      "event_ticker": "KXATPEXACTMATCH-26OCT29PAUDAR",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "2.0",
-      "volume_24h": "361.83",
-      "close_time": "2026-11-12T12:00:00Z",
       "category": "Sports"
     },
     {
       "ticker": "KXWTACHALLENGERMATCH-26OCT29BASAND-AND",
       "title": "Erika Andreeva wins",
       "event_ticker": "KXWTACHALLENGERMATCH-26OCT29BASAND",
-      "yes_ask_cents": "55.0",
+      "yes_ask_cents": "56.0",
       "no_ask_cents": "46.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "354.74",
       "close_time": "2026-11-12T13:00:00Z",
       "category": "Sports"
@@ -4249,9 +3027,9 @@
       "ticker": "KXSAUDIPL1HSPREAD-26OCT29ALNAKH-ALN2",
       "title": "Al Nassr wins by more than 1.5 goals in the 1st Half",
       "event_ticker": "KXSAUDIPL1HSPREAD-26OCT29ALNAKH",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "73.0",
-      "spread_cents": "1.0",
+      "yes_ask_cents": "29.0",
+      "no_ask_cents": "75.0",
+      "spread_cents": "4.0",
       "volume_24h": "347.58",
       "close_time": "2026-10-31T18:00:00Z",
       "category": "Other"
@@ -4279,17 +3057,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXITFMATCH-26OCT29FELMAS-FEL",
-      "title": "Jake Fellows wins",
-      "event_ticker": "KXITFMATCH-26OCT29FELMAS",
-      "yes_ask_cents": "31.0",
-      "no_ask_cents": "76.0",
-      "spread_cents": "7.0",
-      "volume_24h": "338.85",
-      "close_time": "2026-11-12T11:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXHIGHDEN-26OCT29-T70",
       "title": "Will the maximum temperature be >70\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHDEN-26OCT29",
@@ -4301,34 +3068,12 @@
       "category": "Weather"
     },
     {
-      "ticker": "KXITFWMATCH-26OCT29REGPAG-REG",
-      "title": "Alyssa Reguer wins",
-      "event_ticker": "KXITFWMATCH-26OCT29REGPAG",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "79.0",
-      "spread_cents": "7.0",
-      "volume_24h": "333.5",
-      "close_time": "2026-11-12T09:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXEGYPLTOTAL-26OCT29MODAHL-6",
-      "title": "Will over 5.5 goals be scored?",
-      "event_ticker": "KXEGYPLTOTAL-26OCT29MODAHL",
-      "yes_ask_cents": "4.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "2.0",
-      "volume_24h": "332.27",
-      "close_time": "2026-10-31T14:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNBASPREAD-26OCT29SACNOP-NOP7",
       "title": "New Orleans wins by over 6.5 points",
       "event_ticker": "KXNBASPREAD-26OCT29SACNOP",
-      "yes_ask_cents": "49.0",
+      "yes_ask_cents": "50.0",
       "no_ask_cents": "54.0",
-      "spread_cents": "3.0",
+      "spread_cents": "4.0",
       "volume_24h": "331.74",
       "close_time": "2026-11-01T00:00:00Z",
       "category": "Sports"
@@ -4433,17 +3178,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXDWTSELIMINATION-26NOV03-CWOO",
-      "title": "Will Connor Wood and their partner be eliminated from Dancing with the Stars Season 35 before Nov 3, 2026?",
-      "event_ticker": "KXDWTSELIMINATION-26NOV03",
-      "yes_ask_cents": "16.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "6.0",
-      "volume_24h": "313.76",
-      "close_time": "2026-11-03T04:59:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNFLTD-26NOV01INDJAC-JACCRODRIGUEZ24-2",
       "title": "Chris Rodriguez Jr.: 2+ touchdowns",
       "event_ticker": "KXNFLTD-26NOV01INDJAC",
@@ -4459,8 +3193,8 @@
       "title": "Full Game: Over 225.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT29MEMPOR",
       "yes_ask_cents": "72.0",
-      "no_ask_cents": "31.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "36.0",
+      "spread_cents": "8.0",
       "volume_24h": "310.7",
       "close_time": "2026-11-01T02:00:00Z",
       "category": "Sports"
@@ -4480,9 +3214,9 @@
       "ticker": "KXWNBA3PT-26OCT29GSATL-ATLRHOWARD10-3",
       "title": "Rhyne Howard: 3+ threes",
       "event_ticker": "KXWNBA3PT-26OCT29GSATL",
-      "yes_ask_cents": "49.0",
+      "yes_ask_cents": "52.0",
       "no_ask_cents": "56.0",
-      "spread_cents": "5.0",
+      "spread_cents": "8.0",
       "volume_24h": "310.19",
       "close_time": "2026-10-31T16:30:00Z",
       "category": "Other"
@@ -4491,22 +3225,11 @@
       "ticker": "KXITFWMATCH-26OCT29HENSAN-HEN",
       "title": "Caijsa Wilda Hennemann wins",
       "event_ticker": "KXITFWMATCH-26OCT29HENSAN",
-      "yes_ask_cents": "96.0",
+      "yes_ask_cents": "97.0",
       "no_ask_cents": "6.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "308.22",
       "close_time": "2026-11-12T10:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXDOTA2GAME-26OCT290800LEGTS-LEG",
-      "title": "LEGION wins",
-      "event_ticker": "KXDOTA2GAME-26OCT290800LEGTS",
-      "yes_ask_cents": "10.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "3.0",
-      "volume_24h": "307.4",
-      "close_time": "2026-10-31T12:00:00Z",
       "category": "Sports"
     },
     {
@@ -4518,39 +3241,6 @@
       "spread_cents": "4.0",
       "volume_24h": "307.0",
       "close_time": "2026-11-03T21:05:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXCOPADELREYTOTAL-26OCT29UBCCAS-5",
-      "title": "Will over 4.5 goals be scored?",
-      "event_ticker": "KXCOPADELREYTOTAL-26OCT29UBCCAS",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "89.0",
-      "spread_cents": "3.0",
-      "volume_24h": "305.36",
-      "close_time": "2026-10-31T19:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXDOTA2TOTALMAPS-26OCT290500AILIQUID-3",
-      "title": "Will over 2.5 maps be played?",
-      "event_ticker": "KXDOTA2TOTALMAPS-26OCT290500AILIQUID",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "5.0",
-      "volume_24h": "304.89",
-      "close_time": "2026-10-31T09:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFMATCH-26OCT29ORLMAS-ORL",
-      "title": "Vladyslav Orlov wins",
-      "event_ticker": "KXITFMATCH-26OCT29ORLMAS",
-      "yes_ask_cents": "23.0",
-      "no_ask_cents": "81.0",
-      "spread_cents": "4.0",
-      "volume_24h": "304.0",
-      "close_time": "2026-11-12T12:00:00Z",
       "category": "Sports"
     },
     {
@@ -4576,17 +3266,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXCOPADELREYSPREAD-26OCT29ANTAGU-AGU2",
-      "title": "Reg Time: Aguilas wins by more than 1.5 goals?",
-      "event_ticker": "KXCOPADELREYSPREAD-26OCT29ANTAGU",
-      "yes_ask_cents": "12.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "3.0",
-      "volume_24h": "296.01",
-      "close_time": "2026-10-31T19:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNBASPREAD-26OCT29MEMPOR-POR9",
       "title": "Portland wins by over 8.5 points",
       "event_ticker": "KXNBASPREAD-26OCT29MEMPOR",
@@ -4607,17 +3286,6 @@
       "volume_24h": "286.26",
       "close_time": "2026-11-01T02:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXCOPADELREYTOTAL-26OCT29SSRCOR-6",
-      "title": "Will over 5.5 goals be scored?",
-      "event_ticker": "KXCOPADELREYTOTAL-26OCT29SSRCOR",
-      "yes_ask_cents": "5.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "3.0",
-      "volume_24h": "282.0",
-      "close_time": "2026-10-31T18:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXNBATEAMTOTAL-26OCT29SACNOP-SAC116",
@@ -4656,9 +3324,9 @@
       "ticker": "KXCOPADELREYSPREAD-26OCT29ANTAGU-ANT2",
       "title": "Reg Time: Antequera wins by more than 1.5 goals?",
       "event_ticker": "KXCOPADELREYSPREAD-26OCT29ANTAGU",
-      "yes_ask_cents": "20.0",
+      "yes_ask_cents": "22.0",
       "no_ask_cents": "82.0",
-      "spread_cents": "2.0",
+      "spread_cents": "4.0",
       "volume_24h": "277.0",
       "close_time": "2026-10-31T19:00:00Z",
       "category": "Other"
@@ -4675,56 +3343,23 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXHIGHTLV-26OCT29-B78.5",
-      "title": "Will the maximum temperature be 78-79\u00b0 on Oct 29, 2026?",
-      "event_ticker": "KXHIGHTLV-26OCT29",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "7.0",
-      "volume_24h": "274.99",
-      "close_time": "2026-10-30T08:00:00Z",
-      "category": "Weather"
-    },
-    {
-      "ticker": "KXITFMATCH-26OCT29SANJOH-SAN",
-      "title": "Andres Santamarta Roig wins",
-      "event_ticker": "KXITFMATCH-26OCT29SANJOH",
-      "yes_ask_cents": "67.0",
-      "no_ask_cents": "40.0",
-      "spread_cents": "7.0",
-      "volume_24h": "274.62",
-      "close_time": "2026-11-12T17:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNFLRECYDS-26NOV01BALBUF-BALRBATEMAN7-80",
       "title": "Rashod Bateman: 80+ receiving yards",
       "event_ticker": "KXNFLRECYDS-26NOV01BALBUF",
-      "yes_ask_cents": "9.0",
+      "yes_ask_cents": "12.0",
       "no_ask_cents": "95.0",
-      "spread_cents": "4.0",
+      "spread_cents": "7.0",
       "volume_24h": "273.12",
       "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXEBASKETBALLGAME-26OCT290320ZACHMICK-ZACH",
-      "title": "Indiana Pacers (Zach) wins",
-      "event_ticker": "KXEBASKETBALLGAME-26OCT290320ZACHMICK",
-      "yes_ask_cents": "35.0",
-      "no_ask_cents": "67.0",
-      "spread_cents": "2.0",
-      "volume_24h": "272.64",
-      "close_time": "2026-11-12T07:20:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNFLRSHYDS-26NOV01TENCIN-CINJBURROW9-10",
       "title": "Joe Burrow: 10+ rushing yards",
       "event_ticker": "KXNFLRSHYDS-26NOV01TENCIN",
-      "yes_ask_cents": "38.0",
+      "yes_ask_cents": "39.0",
       "no_ask_cents": "67.0",
-      "spread_cents": "5.0",
+      "spread_cents": "6.0",
       "volume_24h": "269.91",
       "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
@@ -4744,9 +3379,9 @@
       "ticker": "KXEGYPLSPREAD-26OCT29MODAHL-AHL2",
       "title": "Al Ahly (EGY) wins by more than 1.5 goals?",
       "event_ticker": "KXEGYPLSPREAD-26OCT29MODAHL",
-      "yes_ask_cents": "37.0",
+      "yes_ask_cents": "38.0",
       "no_ask_cents": "65.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "267.18",
       "close_time": "2026-10-31T14:00:00Z",
       "category": "Other"
@@ -4767,22 +3402,11 @@
       "title": "Toby Samuel wins",
       "event_ticker": "KXATPCHALLENGERMATCH-26OCT29TABSAM",
       "yes_ask_cents": "60.0",
-      "no_ask_cents": "41.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "44.0",
+      "spread_cents": "4.0",
       "volume_24h": "262.4",
       "close_time": "2026-11-12T13:50:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXINXU-26OCT29H1000-T7734.9999",
-      "title": "Will the S&P 500 be above 7734.9999 on Oct 29, 2026 at 10am EDT?",
-      "event_ticker": "KXINXU-26OCT29H1000",
-      "yes_ask_cents": "40.0",
-      "no_ask_cents": "66.0",
-      "spread_cents": "6.0",
-      "volume_24h": "260.66",
-      "close_time": "2026-10-29T14:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXJOHNSONMENTION-26OCT29-NQE",
@@ -4807,23 +3431,12 @@
       "category": "Other"
     },
     {
-      "ticker": "KXEBASKETBALLGAME-26OCT290320DIRKRAY-RAY",
-      "title": "Denver Nuggets (Ray) wins",
-      "event_ticker": "KXEBASKETBALLGAME-26OCT290320DIRKRAY",
-      "yes_ask_cents": "59.0",
-      "no_ask_cents": "43.0",
-      "spread_cents": "2.0",
-      "volume_24h": "255.57",
-      "close_time": "2026-11-12T07:20:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNCAAFSPREAD-26OCT31NWSTIW-IW31",
       "title": "Incarnate Word wins by over 30.5 points",
       "event_ticker": "KXNCAAFSPREAD-26OCT31NWSTIW",
       "yes_ask_cents": "50.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "4.0",
       "volume_24h": "255.0",
       "close_time": "2026-11-02T18:00:00Z",
       "category": "Sports"
@@ -4832,9 +3445,9 @@
       "ticker": "KXNFLRECYDS-26NOV01BALBUF-BUFJPALMER5-30",
       "title": "Joshua Palmer: 30+ receiving yards",
       "event_ticker": "KXNFLRECYDS-26NOV01BALBUF",
-      "yes_ask_cents": "26.0",
+      "yes_ask_cents": "27.0",
       "no_ask_cents": "78.0",
-      "spread_cents": "4.0",
+      "spread_cents": "5.0",
       "volume_24h": "251.41",
       "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
@@ -4854,9 +3467,9 @@
       "ticker": "KXEGYPLTOTAL-26OCT29PYRDEG-1",
       "title": "Will over 0.5 goals be scored?",
       "event_ticker": "KXEGYPLTOTAL-26OCT29PYRDEG",
-      "yes_ask_cents": "94.0",
+      "yes_ask_cents": "95.0",
       "no_ask_cents": "7.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "244.71",
       "close_time": "2026-10-31T17:00:00Z",
       "category": "Other"
@@ -4870,28 +3483,6 @@
       "spread_cents": "4.0",
       "volume_24h": "241.94",
       "close_time": "2026-11-01T00:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXUEFANLGAME-26NOV12ITAFRA-FRA",
-      "title": "France wins",
-      "event_ticker": "KXUEFANLGAME-26NOV12ITAFRA",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "4.0",
-      "volume_24h": "241.22",
-      "close_time": "2026-11-14T19:45:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXATPEXACTMATCH-26OCT29NORMED-MED21",
-      "title": "Will Daniil Medvedev win the Cameron Norrie vs Daniil Medvedev match by a set score of 2-1?",
-      "event_ticker": "KXATPEXACTMATCH-26OCT29NORMED",
-      "yes_ask_cents": "24.0",
-      "no_ask_cents": "80.0",
-      "spread_cents": "4.0",
-      "volume_24h": "240.8",
-      "close_time": "2026-11-12T12:30:00Z",
       "category": "Sports"
     },
     {
@@ -4909,9 +3500,9 @@
       "ticker": "KXHIGHTSEA-26OCT29-B56.5",
       "title": "Will the maximum temperature be 56-57\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHTSEA-26OCT29",
-      "yes_ask_cents": "15.0",
+      "yes_ask_cents": "18.0",
       "no_ask_cents": "86.0",
-      "spread_cents": "1.0",
+      "spread_cents": "4.0",
       "volume_24h": "238.8",
       "close_time": "2026-10-30T08:00:00Z",
       "category": "Weather"
@@ -4943,8 +3534,8 @@
       "title": "Rico Dowdle: 2+ touchdowns",
       "event_ticker": "KXNFLTD-26NOV01CLEPIT",
       "yes_ask_cents": "4.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "99.0",
+      "spread_cents": "3.0",
       "volume_24h": "234.25",
       "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
@@ -4997,34 +3588,12 @@
       "ticker": "KXITFMATCH-26OCT29BORCRE-BOR",
       "title": "Leo Borg wins",
       "event_ticker": "KXITFMATCH-26OCT29BORCRE",
-      "yes_ask_cents": "29.0",
+      "yes_ask_cents": "34.0",
       "no_ask_cents": "72.0",
-      "spread_cents": "1.0",
+      "spread_cents": "6.0",
       "volume_24h": "232.0",
       "close_time": "2026-11-12T10:30:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXATPEXACTMATCH-26OCT29PAUDAR-PAU21",
-      "title": "Will Tommy Paul win the Tommy Paul vs Luciano Darderi match by a set score of 2-1?",
-      "event_ticker": "KXATPEXACTMATCH-26OCT29PAUDAR",
-      "yes_ask_cents": "25.0",
-      "no_ask_cents": "78.0",
-      "spread_cents": "3.0",
-      "volume_24h": "226.19",
-      "close_time": "2026-11-12T12:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXLIGAMXSCORE-26OCT30JUAQUE-JUA1QUE2",
-      "title": "Final score Queretaro FC wins 2-1?",
-      "event_ticker": "KXLIGAMXSCORE-26OCT30JUAQUE",
-      "yes_ask_cents": "11.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "6.0",
-      "volume_24h": "225.77",
-      "close_time": "2026-11-02T07:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXGRECUPTOTAL-26OCT29VOLATR-3",
@@ -5038,28 +3607,6 @@
       "category": "Other"
     },
     {
-      "ticker": "KXITFMATCH-26OCT29KONCOR-COR",
-      "title": "Felix Corwin wins",
-      "event_ticker": "KXITFMATCH-26OCT29KONCOR",
-      "yes_ask_cents": "58.0",
-      "no_ask_cents": "45.0",
-      "spread_cents": "3.0",
-      "volume_24h": "222.33",
-      "close_time": "2026-11-12T16:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT29SACNOP-NOP8",
-      "title": "New Orleans wins by over 7.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT29SACNOP",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "58.0",
-      "spread_cents": "4.0",
-      "volume_24h": "221.38",
-      "close_time": "2026-11-01T00:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNBASPREAD-26OCT29MEMPOR-POR10",
       "title": "Portland wins by over 9.5 points",
       "event_ticker": "KXNBASPREAD-26OCT29MEMPOR",
@@ -5069,28 +3616,6 @@
       "volume_24h": "221.38",
       "close_time": "2026-11-01T02:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXEGYPLTOTAL-26OCT29MODAHL-5",
-      "title": "Will over 4.5 goals be scored?",
-      "event_ticker": "KXEGYPLTOTAL-26OCT29MODAHL",
-      "yes_ask_cents": "11.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "2.0",
-      "volume_24h": "216.36",
-      "close_time": "2026-10-31T14:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXCRITICSCOM-27-NIR",
-      "title": "Will Nirvanna the Band the Show the Movie win Best Comedy at the 32nd Critics Choice Awards?",
-      "event_ticker": "KXCRITICSCOM-27",
-      "yes_ask_cents": "31.0",
-      "no_ask_cents": "77.0",
-      "spread_cents": "8.0",
-      "volume_24h": "214.0",
-      "close_time": "2028-01-03T15:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXNBATOTAL-26OCT29MEMPOR-238",
@@ -5134,17 +3659,6 @@
       "spread_cents": "3.0",
       "volume_24h": "211.46",
       "close_time": "2026-11-12T08:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNCAAF3QSPREAD-26OCT31MIAUNC-UNC11",
-      "title": "North Carolina wins 3Q by over 10.5 points",
-      "event_ticker": "KXNCAAF3QSPREAD-26OCT31MIAUNC",
-      "yes_ask_cents": "9.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "7.0",
-      "volume_24h": "210.74",
-      "close_time": "2026-11-02T23:30:00Z",
       "category": "Sports"
     },
     {
@@ -5195,9 +3709,9 @@
       "ticker": "KXLOWTCHI-26OCT29-B50.5",
       "title": "Will the minimum temperature be 50-51\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXLOWTCHI-26OCT29",
-      "yes_ask_cents": "32.0",
+      "yes_ask_cents": "33.0",
       "no_ask_cents": "75.0",
-      "spread_cents": "7.0",
+      "spread_cents": "8.0",
       "volume_24h": "208.76",
       "close_time": "2026-10-30T06:00:00Z",
       "category": "Weather"
@@ -5206,9 +3720,9 @@
       "ticker": "KXITFWMATCH-26OCT29GLASLA-SLA",
       "title": "Emma Slavikova wins",
       "event_ticker": "KXITFWMATCH-26OCT29GLASLA",
-      "yes_ask_cents": "42.0",
-      "no_ask_cents": "62.0",
-      "spread_cents": "4.0",
+      "yes_ask_cents": "43.0",
+      "no_ask_cents": "63.0",
+      "spread_cents": "6.0",
       "volume_24h": "207.0",
       "close_time": "2026-11-12T10:30:00Z",
       "category": "Sports"
@@ -5217,9 +3731,9 @@
       "ticker": "KXCOPADELREYSPREAD-26OCT29SSRCOR-SSR2",
       "title": "Reg Time: San Sebastian Reyes wins by more than 1.5 goals?",
       "event_ticker": "KXCOPADELREYSPREAD-26OCT29SSRCOR",
-      "yes_ask_cents": "19.0",
+      "yes_ask_cents": "21.0",
       "no_ask_cents": "83.0",
-      "spread_cents": "2.0",
+      "spread_cents": "4.0",
       "volume_24h": "203.96",
       "close_time": "2026-10-31T18:00:00Z",
       "category": "Other"
@@ -5229,8 +3743,8 @@
       "title": "DK Metcalf: 2+ touchdowns",
       "event_ticker": "KXNFLTD-26NOV01CLEPIT",
       "yes_ask_cents": "7.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "99.0",
+      "spread_cents": "6.0",
       "volume_24h": "203.14",
       "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
@@ -5302,39 +3816,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXWNBAAST-26OCT29GSATL-GSGWILLIAMS1-4",
-      "title": "Gabby Williams: 4+ assists",
-      "event_ticker": "KXWNBAAST-26OCT29GSATL",
-      "yes_ask_cents": "42.0",
-      "no_ask_cents": "63.0",
-      "spread_cents": "5.0",
-      "volume_24h": "194.92",
-      "close_time": "2026-10-31T16:30:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXBRENTD-26OCT2917-T113",
-      "title": "Will the brent crude oil close price be above 113 USD/Bbl on October 29, 2026 at 5:00 PM EDT?",
-      "event_ticker": "KXBRENTD-26OCT2917",
-      "yes_ask_cents": "15.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "6.0",
-      "volume_24h": "194.0",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXNFLRECYDS-26NOV01BALBUF-BALZFLOWERS4-110",
-      "title": "Zay Flowers: 110+ receiving yards",
-      "event_ticker": "KXNFLRECYDS-26NOV01BALBUF",
-      "yes_ask_cents": "31.0",
-      "no_ask_cents": "77.0",
-      "spread_cents": "8.0",
-      "volume_24h": "192.66",
-      "close_time": "2026-11-03T18:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXHIGHTSEA-26OCT29-T52",
       "title": "Will the maximum temperature be <52\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHTSEA-26OCT29",
@@ -5379,28 +3860,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXITFMATCH-26OCT29EHRKRA-KRA",
-      "title": "Georgii Kravchenko wins",
-      "event_ticker": "KXITFMATCH-26OCT29EHRKRA",
-      "yes_ask_cents": "71.0",
-      "no_ask_cents": "37.0",
-      "spread_cents": "8.0",
-      "volume_24h": "186.54",
-      "close_time": "2026-11-12T09:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXCOPADELREYTOTAL-26OCT29LARBUR-1",
-      "title": "Will over 0.5 goals be scored?",
-      "event_ticker": "KXCOPADELREYTOTAL-26OCT29LARBUR",
-      "yes_ask_cents": "96.0",
-      "no_ask_cents": "7.0",
-      "spread_cents": "3.0",
-      "volume_24h": "186.0",
-      "close_time": "2026-10-31T19:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNFLRECYDS-26NOV01LACLAR-LARPNACUA12-100",
       "title": "Puka Nacua: 100+ receiving yards",
       "event_ticker": "KXNFLRECYDS-26NOV01LACLAR",
@@ -5409,28 +3868,6 @@
       "spread_cents": "2.0",
       "volume_24h": "185.37",
       "close_time": "2026-11-03T21:05:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXWTAGTOTAL-26OCT29TAGLIN-22",
-      "title": "Over 21.5 games",
-      "event_ticker": "KXWTAGTOTAL-26OCT29TAGLIN",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "2.0",
-      "volume_24h": "185.0",
-      "close_time": "2026-11-12T05:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFWMATCH-26OCT29DOTKUB-KUB",
-      "title": "Anna Kubareva wins",
-      "event_ticker": "KXITFWMATCH-26OCT29DOTKUB",
-      "yes_ask_cents": "38.0",
-      "no_ask_cents": "67.0",
-      "spread_cents": "5.0",
-      "volume_24h": "185.0",
-      "close_time": "2026-11-12T08:00:00Z",
       "category": "Sports"
     },
     {
@@ -5456,23 +3893,12 @@
       "category": "Other"
     },
     {
-      "ticker": "KXSILVERD-26OCT2917-T53.25",
-      "title": "Will the silver close price be above 53.25 USD/t.oz on October 29, 2026 at 5:00 PM EDT?",
-      "event_ticker": "KXSILVERD-26OCT2917",
-      "yes_ask_cents": "37.0",
-      "no_ask_cents": "69.0",
-      "spread_cents": "6.0",
-      "volume_24h": "179.69",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXWTAMATCH-26OCT29RAKJOI-JOI",
       "title": "Maya Joint wins",
       "event_ticker": "KXWTAMATCH-26OCT29RAKJOI",
       "yes_ask_cents": "56.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "6.0",
       "volume_24h": "178.64",
       "close_time": "2026-11-13T01:30:00Z",
       "category": "Sports"
@@ -5492,9 +3918,9 @@
       "ticker": "KXNFLFIRSTTD-26NOV01CLEPIT-PITDWASHINGTON80",
       "title": "Darnell Washington: 1st Touchdown",
       "event_ticker": "KXNFLFIRSTTD-26NOV01CLEPIT",
-      "yes_ask_cents": "8.0",
+      "yes_ask_cents": "9.0",
       "no_ask_cents": "98.0",
-      "spread_cents": "6.0",
+      "spread_cents": "7.0",
       "volume_24h": "176.15",
       "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
@@ -5504,8 +3930,8 @@
       "title": "Will the maximum temperature be 69-70\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHTSFO-26OCT29",
       "yes_ask_cents": "28.0",
-      "no_ask_cents": "78.0",
-      "spread_cents": "6.0",
+      "no_ask_cents": "80.0",
+      "spread_cents": "8.0",
       "volume_24h": "173.99",
       "close_time": "2026-10-30T08:00:00Z",
       "category": "Weather"
@@ -5533,34 +3959,12 @@
       "category": "Other"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT29MEMPOR-MEM10",
-      "title": "Memphis wins by over 9.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT29MEMPOR",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "4.0",
-      "volume_24h": "166.0",
-      "close_time": "2026-11-01T02:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFMATCH-26OCT29BRUMAL-MAL",
-      "title": "Bastian Malla wins",
-      "event_ticker": "KXITFMATCH-26OCT29BRUMAL",
-      "yes_ask_cents": "81.0",
-      "no_ask_cents": "24.0",
-      "spread_cents": "5.0",
-      "volume_24h": "166.0",
-      "close_time": "2026-11-12T14:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXEGYPLSPREAD-26OCT29MODAHL-AHL3",
       "title": "Al Ahly (EGY) wins by more than 2.5 goals?",
       "event_ticker": "KXEGYPLSPREAD-26OCT29MODAHL",
-      "yes_ask_cents": "17.0",
+      "yes_ask_cents": "18.0",
       "no_ask_cents": "85.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "165.24",
       "close_time": "2026-10-31T14:00:00Z",
       "category": "Other"
@@ -5577,17 +3981,6 @@
       "category": "Weather"
     },
     {
-      "ticker": "KXITFWMATCH-26OCT29SOZLAZ-LAZ",
-      "title": "Mariia Lazarenko wins",
-      "event_ticker": "KXITFWMATCH-26OCT29SOZLAZ",
-      "yes_ask_cents": "82.0",
-      "no_ask_cents": "25.0",
-      "spread_cents": "7.0",
-      "volume_24h": "163.3",
-      "close_time": "2026-11-12T09:30:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXLOWTSDF-26OCT29-B45.5",
       "title": "Will the minimum temperature be 45-46\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXLOWTSDF-26OCT29",
@@ -5597,28 +3990,6 @@
       "volume_24h": "162.19",
       "close_time": "2026-10-30T05:00:00Z",
       "category": "Weather"
-    },
-    {
-      "ticker": "KXITFMATCH-26OCT29AUBJON-AUB",
-      "title": "Alexandre Aubriot wins",
-      "event_ticker": "KXITFMATCH-26OCT29AUBJON",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "58.0",
-      "spread_cents": "6.0",
-      "volume_24h": "161.6",
-      "close_time": "2026-11-12T07:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNFLRECYDS-26NOV01BALBUF-BALZFLOWERS4-60",
-      "title": "Zay Flowers: 60+ receiving yards",
-      "event_ticker": "KXNFLRECYDS-26NOV01BALBUF",
-      "yes_ask_cents": "72.0",
-      "no_ask_cents": "36.0",
-      "spread_cents": "8.0",
-      "volume_24h": "161.1",
-      "close_time": "2026-11-03T18:00:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXNFLREC-26OCT29CARGB-CARJCOKER18-6",
@@ -5635,23 +4006,12 @@
       "ticker": "KXWNBAPTS-26OCT29GSATL-ATLJCANADA3-10",
       "title": "Jordin Canada: 10+ points",
       "event_ticker": "KXWNBAPTS-26OCT29GSATL",
-      "yes_ask_cents": "61.0",
+      "yes_ask_cents": "64.0",
       "no_ask_cents": "41.0",
-      "spread_cents": "2.0",
+      "spread_cents": "5.0",
       "volume_24h": "159.0",
       "close_time": "2026-10-31T16:30:00Z",
       "category": "Other"
-    },
-    {
-      "ticker": "KXATPEXACTMATCH-26OCT29MICFIL-MIC20",
-      "title": "Will Alex Michelsen win the Alex Michelsen vs Arthur Fils match by a set score of 2-0?",
-      "event_ticker": "KXATPEXACTMATCH-26OCT29MICFIL",
-      "yes_ask_cents": "18.0",
-      "no_ask_cents": "84.0",
-      "spread_cents": "2.0",
-      "volume_24h": "157.92",
-      "close_time": "2026-11-12T10:00:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXSAUDIPL1HSPREAD-26OCT29KHAHAZ-KHA2",
@@ -5687,17 +4047,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXCOPADELREYTOTAL-26OCT29ANTAGU-5",
-      "title": "Will over 4.5 goals be scored?",
-      "event_ticker": "KXCOPADELREYTOTAL-26OCT29ANTAGU",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "8.0",
-      "volume_24h": "154.45",
-      "close_time": "2026-10-31T19:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNFLRECYDS-26NOV01CLEPIT-CLEDBOSTON12-40",
       "title": "Denzel Boston: 40+ receiving yards",
       "event_ticker": "KXNFLRECYDS-26NOV01CLEPIT",
@@ -5723,9 +4072,9 @@
       "ticker": "KXNFLTD-26NOV01TENCIN-TENMCARTER35-1",
       "title": "Michael Carter: 1+ touchdowns",
       "event_ticker": "KXNFLTD-26NOV01TENCIN",
-      "yes_ask_cents": "6.0",
+      "yes_ask_cents": "7.0",
       "no_ask_cents": "97.0",
-      "spread_cents": "3.0",
+      "spread_cents": "4.0",
       "volume_24h": "153.17",
       "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
@@ -5735,21 +4084,10 @@
       "title": "Josh Allen: 2+ touchdowns",
       "event_ticker": "KXNFLTD-26NOV01BALBUF",
       "yes_ask_cents": "24.0",
-      "no_ask_cents": "83.0",
-      "spread_cents": "7.0",
+      "no_ask_cents": "84.0",
+      "spread_cents": "8.0",
       "volume_24h": "152.87",
       "close_time": "2026-11-03T18:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNFLRECYDS-26NOV01KCDEN-KCKWALKER9-60",
-      "title": "Kenneth Walker III: 60+ receiving yards",
-      "event_ticker": "KXNFLRECYDS-26NOV01KCDEN",
-      "yes_ask_cents": "9.0",
-      "no_ask_cents": "96.0",
-      "spread_cents": "5.0",
-      "volume_24h": "152.4",
-      "close_time": "2026-11-03T21:25:00Z",
       "category": "Sports"
     },
     {
@@ -5757,8 +4095,8 @@
       "title": "Jacobe Smith wins by KO/TKO/DQ?",
       "event_ticker": "KXUFCMOV-26OCT31BROSMI",
       "yes_ask_cents": "40.0",
-      "no_ask_cents": "63.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "64.0",
+      "spread_cents": "4.0",
       "volume_24h": "149.43",
       "close_time": "2026-11-15T01:00:00Z",
       "category": "Sports"
@@ -5767,9 +4105,9 @@
       "ticker": "KXPERLIGA1SPREAD-26OCT29CRIALI-CRI2",
       "title": "Sporting Cristal wins by more than 1.5 goals?",
       "event_ticker": "KXPERLIGA1SPREAD-26OCT29CRIALI",
-      "yes_ask_cents": "19.0",
+      "yes_ask_cents": "20.0",
       "no_ask_cents": "84.0",
-      "spread_cents": "3.0",
+      "spread_cents": "4.0",
       "volume_24h": "148.43",
       "close_time": "2026-10-31T20:30:00Z",
       "category": "Other"
@@ -5779,8 +4117,8 @@
       "title": "What will Mike Johnson say during Fox News: Fox & Friends originally scheduled for October 29, 2026?",
       "event_ticker": "KXJOHNSONMENTION-26OCT29",
       "yes_ask_cents": "56.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "5.0",
       "volume_24h": "147.85",
       "close_time": "2026-11-12T15:00:00Z",
       "category": "Other"
@@ -5797,37 +4135,15 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT29MEMPOR-POR2",
-      "title": "Portland wins by over 1.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT29MEMPOR",
-      "yes_ask_cents": "68.0",
-      "no_ask_cents": "34.0",
-      "spread_cents": "2.0",
-      "volume_24h": "146.09",
-      "close_time": "2026-11-01T02:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXHIGHTNOLA-26OCT29-B82.5",
       "title": "Will the maximum temperature be 82-83\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXHIGHTNOLA-26OCT29",
-      "yes_ask_cents": "2.0",
+      "yes_ask_cents": "3.0",
       "no_ask_cents": "99.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "145.62",
       "close_time": "2026-10-30T06:00:00Z",
       "category": "Weather"
-    },
-    {
-      "ticker": "KXLIGAPROMATCH-26OCT290300TURMOL-TUR",
-      "title": "Turnaev Vladislav wins",
-      "event_ticker": "KXLIGAPROMATCH-26OCT290300TURMOL",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "4.0",
-      "volume_24h": "145.0",
-      "close_time": "2026-10-31T07:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXLOWTLAX-26OCT29-T60",
@@ -5844,9 +4160,9 @@
       "ticker": "KXUCLWTOTAL-26OCT29KOEBAR-5",
       "title": "Will over 4.5 goals be scored?",
       "event_ticker": "KXUCLWTOTAL-26OCT29KOEBAR",
-      "yes_ask_cents": "53.0",
+      "yes_ask_cents": "57.0",
       "no_ask_cents": "48.0",
-      "spread_cents": "1.0",
+      "spread_cents": "5.0",
       "volume_24h": "143.44",
       "close_time": "2026-10-31T20:00:00Z",
       "category": "Other"
@@ -5856,8 +4172,8 @@
       "title": "Jonathan Taylor: 70+ rushing yards",
       "event_ticker": "KXNFLRSHYDS-26NOV01INDJAC",
       "yes_ask_cents": "44.0",
-      "no_ask_cents": "63.0",
-      "spread_cents": "7.0",
+      "no_ask_cents": "64.0",
+      "spread_cents": "8.0",
       "volume_24h": "143.29",
       "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
@@ -5877,9 +4193,9 @@
       "ticker": "KXLOWTLV-26OCT29-B54.5",
       "title": "Will the minimum temperature be 54-55\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXLOWTLV-26OCT29",
-      "yes_ask_cents": "2.0",
+      "yes_ask_cents": "3.0",
       "no_ask_cents": "99.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "140.94",
       "close_time": "2026-10-30T08:00:00Z",
       "category": "Weather"
@@ -5888,22 +4204,11 @@
       "ticker": "KXKNVBCUPTOTAL-26OCT29RKAROH-5",
       "title": "Will over 4.5 goals be scored?",
       "event_ticker": "KXKNVBCUPTOTAL-26OCT29RKAROH",
-      "yes_ask_cents": "29.0",
+      "yes_ask_cents": "30.0",
       "no_ask_cents": "73.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "140.04",
       "close_time": "2026-10-31T19:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXGOLDD-26OCT2917-T4087",
-      "title": "Will the gold close price be above 4087 USD/t.oz on October 29, 2026 at 5:00 PM EDT?",
-      "event_ticker": "KXGOLDD-26OCT2917",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "8.0",
-      "volume_24h": "139.52",
-      "close_time": "2026-10-29T21:00:00Z",
       "category": "Other"
     },
     {
@@ -5918,28 +4223,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXCOPADELREYSPREAD-26OCT29SSRCOR-COR3",
-      "title": "Reg Time: Coria wins by more than 2.5 goals?",
-      "event_ticker": "KXCOPADELREYSPREAD-26OCT29SSRCOR",
-      "yes_ask_cents": "5.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "3.0",
-      "volume_24h": "139.0",
-      "close_time": "2026-10-31T18:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXBRENTD-26OCT2917-T111.50",
-      "title": "Will the brent crude oil close price be above 111.50 USD/Bbl on October 29, 2026 at 5:00 PM EDT?",
-      "event_ticker": "KXBRENTD-26OCT2917",
-      "yes_ask_cents": "33.0",
-      "no_ask_cents": "74.0",
-      "spread_cents": "7.0",
-      "volume_24h": "137.49",
-      "close_time": "2026-10-29T21:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXSAUDIPL1H-26OCT29KHAHAZ-KHA",
       "title": "Al-Khaleej wins 1st Half",
       "event_ticker": "KXSAUDIPL1H-26OCT29KHAHAZ",
@@ -5948,17 +4231,6 @@
       "spread_cents": "2.0",
       "volume_24h": "136.64",
       "close_time": "2026-10-31T14:35:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXKNVBCUPTOTAL-26OCT29TREHER-6",
-      "title": "Will over 5.5 goals be scored?",
-      "event_ticker": "KXKNVBCUPTOTAL-26OCT29TREHER",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "89.0",
-      "spread_cents": "3.0",
-      "volume_24h": "135.01",
-      "close_time": "2026-10-31T19:00:00Z",
       "category": "Other"
     },
     {
@@ -5971,28 +4243,6 @@
       "volume_24h": "135.0",
       "close_time": "2026-10-30T05:00:00Z",
       "category": "Weather"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT29MEMPOR-MEM2",
-      "title": "Memphis wins by over 1.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT29MEMPOR",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "74.0",
-      "spread_cents": "2.0",
-      "volume_24h": "133.98",
-      "close_time": "2026-11-01T02:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXATPSETWINNER-26OCT29MICFIL-1-MIC",
-      "title": "Will Alex Michelsen win set 1 in the Alex Michelsen vs Arthur Fils match",
-      "event_ticker": "KXATPSETWINNER-26OCT29MICFIL-1",
-      "yes_ask_cents": "39.0",
-      "no_ask_cents": "65.0",
-      "spread_cents": "4.0",
-      "volume_24h": "133.97",
-      "close_time": "2026-11-12T10:00:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXUCLWTOTAL-26OCT29PARHAC-3",
@@ -6010,44 +4260,11 @@
       "title": "Will over 1.5 goals be scored?",
       "event_ticker": "KXCOPADELREYTOTAL-26OCT29UBCCAS",
       "yes_ask_cents": "74.0",
-      "no_ask_cents": "29.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "30.0",
+      "spread_cents": "4.0",
       "volume_24h": "132.14",
       "close_time": "2026-10-31T19:00:00Z",
       "category": "Other"
-    },
-    {
-      "ticker": "KXALBUMEQUIV-PRESSPLAY26OCT29-22K",
-      "title": "Will Press Play by LISA have above 22000 Album Equivalent Units during the October 23, 2026 - October 29, 2026 tracking week?",
-      "event_ticker": "KXALBUMEQUIV-PRESSPLAY26OCT29",
-      "yes_ask_cents": "19.0",
-      "no_ask_cents": "87.0",
-      "spread_cents": "6.0",
-      "volume_24h": "132.01",
-      "close_time": "2026-11-01T15:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXCOPADELREYSPREAD-26OCT29ATLOSA-OSA3",
-      "title": "Reg Time: Osasuna wins by more than 2.5 goals?",
-      "event_ticker": "KXCOPADELREYSPREAD-26OCT29ATLOSA",
-      "yes_ask_cents": "75.0",
-      "no_ask_cents": "27.0",
-      "spread_cents": "2.0",
-      "volume_24h": "129.57",
-      "close_time": "2026-10-31T18:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXATPGTOTAL-26OCT29SHEKYM-20",
-      "title": "Over 19.5 games",
-      "event_ticker": "KXATPGTOTAL-26OCT29SHEKYM",
-      "yes_ask_cents": "86.0",
-      "no_ask_cents": "21.0",
-      "spread_cents": "7.0",
-      "volume_24h": "129.36",
-      "close_time": "2026-11-12T10:00:00Z",
-      "category": "Sports"
     },
     {
       "ticker": "KXNFLRECYDS-26NOV01ARIDAL-ARITMCBRIDE85-70",
@@ -6064,9 +4281,9 @@
       "ticker": "KXNFLRECYDS-26NOV01BALBUF-BALZFLOWERS4-90",
       "title": "Zay Flowers: 90+ receiving yards",
       "event_ticker": "KXNFLRECYDS-26NOV01BALBUF",
-      "yes_ask_cents": "46.0",
+      "yes_ask_cents": "47.0",
       "no_ask_cents": "60.0",
-      "spread_cents": "6.0",
+      "spread_cents": "7.0",
       "volume_24h": "128.33",
       "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
@@ -6076,8 +4293,8 @@
       "title": "Mike Gesicki: 1+ touchdowns",
       "event_ticker": "KXNFLTD-26NOV01TENCIN",
       "yes_ask_cents": "27.0",
-      "no_ask_cents": "78.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "79.0",
+      "spread_cents": "6.0",
       "volume_24h": "127.25",
       "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
@@ -6094,78 +4311,45 @@
       "category": "Other"
     },
     {
-      "ticker": "KXNBAPTS-26OCT29MEMPOR-MEMTJEROME2-25",
-      "title": "Ty Jerome: 25+ points",
-      "event_ticker": "KXNBAPTS-26OCT29MEMPOR",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "4.0",
-      "volume_24h": "126.23",
-      "close_time": "2026-11-01T02:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXLOWTLAX-26OCT29-B59.5",
-      "title": "Will the minimum temperature be 59-60\u00b0 on Oct 29, 2026?",
-      "event_ticker": "KXLOWTLAX-26OCT29",
-      "yes_ask_cents": "9.0",
+      "ticker": "KXNFLFIRSTTD-26NOV01INDJAC-JACJCAMERON19",
+      "title": "Josh Cameron: 1st Touchdown",
+      "event_ticker": "KXNFLFIRSTTD-26NOV01INDJAC",
+      "yes_ask_cents": "6.0",
       "no_ask_cents": "99.0",
-      "spread_cents": "8.0",
-      "volume_24h": "125.72",
-      "close_time": "2026-10-30T08:00:00Z",
-      "category": "Weather"
+      "spread_cents": "5.0",
+      "volume_24h": "125.0",
+      "close_time": "2026-11-03T18:00:00Z",
+      "category": "Sports"
     },
     {
       "ticker": "KXITFWMATCH-26OCT29PARPAL-PAL",
       "title": "Barbora Palicova wins",
       "event_ticker": "KXITFWMATCH-26OCT29PARPAL",
-      "yes_ask_cents": "31.0",
+      "yes_ask_cents": "35.0",
       "no_ask_cents": "71.0",
-      "spread_cents": "2.0",
+      "spread_cents": "6.0",
       "volume_24h": "125.0",
       "close_time": "2026-11-12T16:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNFLFIRSTTD-26NOV01INDJAC-JACJCAMERON19",
-      "title": "Josh Cameron: 1st Touchdown",
-      "event_ticker": "KXNFLFIRSTTD-26NOV01INDJAC",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "4.0",
-      "volume_24h": "125.0",
-      "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
     },
     {
       "ticker": "KXITFWMATCH-26OCT29GARZHU-GAR",
       "title": "Ariadna Garcia-Patron Canals wins",
       "event_ticker": "KXITFWMATCH-26OCT29GARZHU",
-      "yes_ask_cents": "7.0",
+      "yes_ask_cents": "8.0",
       "no_ask_cents": "96.0",
-      "spread_cents": "3.0",
+      "spread_cents": "4.0",
       "volume_24h": "124.84",
       "close_time": "2026-11-12T09:30:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXKNVBCUPTOTAL-26OCT29RKAROH-6",
-      "title": "Will over 5.5 goals be scored?",
-      "event_ticker": "KXKNVBCUPTOTAL-26OCT29RKAROH",
-      "yes_ask_cents": "16.0",
-      "no_ask_cents": "88.0",
-      "spread_cents": "4.0",
-      "volume_24h": "124.82",
-      "close_time": "2026-10-31T19:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNFLTD-26NOV01PHIWAS-WASAWILLIAMS14-1",
       "title": "Antonio Williams: 1+ touchdowns",
       "event_ticker": "KXNFLTD-26NOV01PHIWAS",
-      "yes_ask_cents": "24.0",
+      "yes_ask_cents": "25.0",
       "no_ask_cents": "79.0",
-      "spread_cents": "3.0",
+      "spread_cents": "4.0",
       "volume_24h": "122.63",
       "close_time": "2026-11-04T01:20:00Z",
       "category": "Sports"
@@ -6175,8 +4359,8 @@
       "title": "Juventus wins by more than 1.5 goals?",
       "event_ticker": "KXUCLWSPREAD-26OCT29FAKJUV",
       "yes_ask_cents": "26.0",
-      "no_ask_cents": "77.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "78.0",
+      "spread_cents": "4.0",
       "volume_24h": "121.38",
       "close_time": "2026-10-31T17:45:00Z",
       "category": "Other"
@@ -6185,9 +4369,9 @@
       "ticker": "KXCBASPREAD-26OCT290800NANXIN-XIN15",
       "title": "Xinjiang Flying Tigers wins by over 14.5 points",
       "event_ticker": "KXCBASPREAD-26OCT290800NANXIN",
-      "yes_ask_cents": "38.0",
+      "yes_ask_cents": "39.0",
       "no_ask_cents": "65.0",
-      "spread_cents": "3.0",
+      "spread_cents": "4.0",
       "volume_24h": "120.13",
       "close_time": "2026-10-31T12:00:00Z",
       "category": "Other"
@@ -6197,33 +4381,11 @@
       "title": "Simi Fehoko: 1+ touchdowns",
       "event_ticker": "KXNFLTD-26NOV01ARIDAL",
       "yes_ask_cents": "5.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "98.0",
+      "spread_cents": "3.0",
       "volume_24h": "120.0",
       "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXCS2MAP-26OCT290930ASTICE-1-AST",
-      "title": "Astralis wins map 1",
-      "event_ticker": "KXCS2MAP-26OCT290930ASTICE-1",
-      "yes_ask_cents": "59.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "8.0",
-      "volume_24h": "120.0",
-      "close_time": "2026-10-31T13:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXCOPADELREYTOTAL-26OCT29VARAND-1",
-      "title": "Will over 0.5 goals be scored?",
-      "event_ticker": "KXCOPADELREYTOTAL-26OCT29VARAND",
-      "yes_ask_cents": "97.0",
-      "no_ask_cents": "9.0",
-      "spread_cents": "6.0",
-      "volume_24h": "119.0",
-      "close_time": "2026-10-31T19:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXHIGHTDAL-26OCT29-B85.5",
@@ -6235,17 +4397,6 @@
       "volume_24h": "117.67",
       "close_time": "2026-10-30T06:00:00Z",
       "category": "Weather"
-    },
-    {
-      "ticker": "KXCOPADELREYTOTAL-26OCT29SSRCOR-5",
-      "title": "Will over 4.5 goals be scored?",
-      "event_ticker": "KXCOPADELREYTOTAL-26OCT29SSRCOR",
-      "yes_ask_cents": "12.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "3.0",
-      "volume_24h": "116.95",
-      "close_time": "2026-10-31T18:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXLOWTAUS-26OCT29-T61",
@@ -6263,8 +4414,8 @@
       "title": "Matthew Stafford: 250+ passing yards",
       "event_ticker": "KXNFLPASSYDS-26NOV01LACLAR",
       "yes_ask_cents": "51.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "4.0",
       "volume_24h": "116.36",
       "close_time": "2026-11-03T21:05:00Z",
       "category": "Sports"
@@ -6281,83 +4432,6 @@
       "category": "Other"
     },
     {
-      "ticker": "KXCOPADELREYTOTAL-26OCT29RIBSAN-5",
-      "title": "Will over 4.5 goals be scored?",
-      "event_ticker": "KXCOPADELREYTOTAL-26OCT29RIBSAN",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "7.0",
-      "volume_24h": "115.0",
-      "close_time": "2026-10-31T20:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXITFMATCH-26OCT29TARPET-TAR",
-      "title": "Oliver Tarvet wins",
-      "event_ticker": "KXITFMATCH-26OCT29TARPET",
-      "yes_ask_cents": "84.0",
-      "no_ask_cents": "20.0",
-      "spread_cents": "4.0",
-      "volume_24h": "111.98",
-      "close_time": "2026-11-12T10:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXATPSETWINNER-26OCT29VACJOD-1-JOD",
-      "title": "Will Rafael Jodar win set 1 in the Valentin Vacherot vs Rafael Jodar match",
-      "event_ticker": "KXATPSETWINNER-26OCT29VACJOD-1",
-      "yes_ask_cents": "68.0",
-      "no_ask_cents": "36.0",
-      "spread_cents": "4.0",
-      "volume_24h": "111.0",
-      "close_time": "2026-11-12T10:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXCOPADELREYSPREAD-26OCT29REAUNI-UNI3",
-      "title": "Reg Time: Salamanca wins by more than 2.5 goals?",
-      "event_ticker": "KXCOPADELREYSPREAD-26OCT29REAUNI",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "3.0",
-      "volume_24h": "110.0",
-      "close_time": "2026-10-31T19:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXITFWMATCH-26OCT29DOTKUB-DOT",
-      "title": "Ekaterina Dotsenko wins",
-      "event_ticker": "KXITFWMATCH-26OCT29DOTKUB",
-      "yes_ask_cents": "64.0",
-      "no_ask_cents": "39.0",
-      "spread_cents": "3.0",
-      "volume_24h": "109.92",
-      "close_time": "2026-11-12T08:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXUCLWBTTS-26OCT29KOEBAR-BTTS",
-      "title": "Both Teams To Score",
-      "event_ticker": "KXUCLWBTTS-26OCT29KOEBAR",
-      "yes_ask_cents": "37.0",
-      "no_ask_cents": "67.0",
-      "spread_cents": "4.0",
-      "volume_24h": "108.56",
-      "close_time": "2026-10-31T20:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXLIGAPROMATCH-26OCT290245DANKUG-KUG",
-      "title": "Kugurushev Dmitriy wins",
-      "event_ticker": "KXLIGAPROMATCH-26OCT290245DANKUG",
-      "yes_ask_cents": "42.0",
-      "no_ask_cents": "62.0",
-      "spread_cents": "4.0",
-      "volume_24h": "108.5",
-      "close_time": "2026-10-31T06:45:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXUCLWBTTS-26OCT29PARHAC-BTTS",
       "title": "Both Teams To Score",
       "event_ticker": "KXUCLWBTTS-26OCT29PARHAC",
@@ -6369,17 +4443,6 @@
       "category": "Other"
     },
     {
-      "ticker": "KXATPCHALLENGERMATCH-26OCT29GALMID-MID",
-      "title": "Lautaro Midon wins",
-      "event_ticker": "KXATPCHALLENGERMATCH-26OCT29GALMID",
-      "yes_ask_cents": "63.0",
-      "no_ask_cents": "39.0",
-      "spread_cents": "2.0",
-      "volume_24h": "108.0",
-      "close_time": "2026-11-12T16:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXITFMATCH-26OCT29SADTSI-TSI",
       "title": "Pavlos Tsitsipas wins",
       "event_ticker": "KXITFMATCH-26OCT29SADTSI",
@@ -6387,17 +4450,6 @@
       "no_ask_cents": "44.0",
       "spread_cents": "7.0",
       "volume_24h": "107.68",
-      "close_time": "2026-11-12T09:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFWMATCH-26OCT29WAGEWA-EWA",
-      "title": "Weronika Ewald wins",
-      "event_ticker": "KXITFWMATCH-26OCT29WAGEWA",
-      "yes_ask_cents": "96.0",
-      "no_ask_cents": "12.0",
-      "spread_cents": "8.0",
-      "volume_24h": "107.56",
       "close_time": "2026-11-12T09:00:00Z",
       "category": "Sports"
     },
@@ -6438,23 +4490,12 @@
       "ticker": "KXLOWTSFO-26OCT29-B54.5",
       "title": "Will the minimum temperature be 54-55\u00b0 on Oct 29, 2026?",
       "event_ticker": "KXLOWTSFO-26OCT29",
-      "yes_ask_cents": "29.0",
+      "yes_ask_cents": "30.0",
       "no_ask_cents": "73.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "105.0",
       "close_time": "2026-10-30T08:00:00Z",
       "category": "Weather"
-    },
-    {
-      "ticker": "KXBUNDESLIGASCORE-26OCT30SVEM05-SVE1M052",
-      "title": "Final score FSV Mainz wins 2-1?",
-      "event_ticker": "KXBUNDESLIGASCORE-26OCT30SVEM05",
-      "yes_ask_cents": "10.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "5.0",
-      "volume_24h": "103.48",
-      "close_time": "2026-11-02T01:30:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXITFMATCH-26OCT29JOHJAN-JOH",
@@ -6472,8 +4513,8 @@
       "title": "Colby Parkinson: 2+ touchdowns",
       "event_ticker": "KXNFLTD-26NOV01LACLAR",
       "yes_ask_cents": "4.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "99.0",
+      "spread_cents": "3.0",
       "volume_24h": "100.0",
       "close_time": "2026-11-03T21:05:00Z",
       "category": "Sports"
@@ -6483,21 +4524,10 @@
       "title": "DK Metcalf: 1st Touchdown",
       "event_ticker": "KXNFLFIRSTTD-26NOV01CLEPIT",
       "yes_ask_cents": "11.0",
-      "no_ask_cents": "96.0",
-      "spread_cents": "7.0",
-      "volume_24h": "100.0",
-      "close_time": "2026-11-03T18:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFMATCH-26OCT29REJTEP-REJ",
-      "title": "William Rejchtman Vinciguerra wins",
-      "event_ticker": "KXITFMATCH-26OCT29REJTEP",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "60.0",
+      "no_ask_cents": "97.0",
       "spread_cents": "8.0",
       "volume_24h": "100.0",
-      "close_time": "2026-11-12T08:30:00Z",
+      "close_time": "2026-11-03T18:00:00Z",
       "category": "Sports"
     }
   ]
