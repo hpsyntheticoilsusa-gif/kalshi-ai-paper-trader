@@ -1,27 +1,27 @@
 {
-  "generated_utc": "2026-10-29T04:56:00.665741+00:00",
+  "generated_utc": "2026-10-29T05:53:16.607253+00:00",
   "source": "ESPN public scoreboard; not Kalshi settlement source",
   "historical_dates_checked": 393,
   "historical_dates_target": 393,
   "dates_requested_this_run": 3,
   "failed_daily_fetches": 0,
-  "completed_games": 1531,
+  "completed_games": 1532,
   "by_phase": {
     "preseason": 138,
-    "regular": 1302,
+    "regular": 1303,
     "postseason": 85,
     "unknown": 6
   },
-  "backtest_games": 1219,
-  "model_brier": 0.2283,
+  "backtest_games": 1220,
+  "model_brier": 0.2282,
   "neutral_50_50_brier": 0.25,
-  "paired_backtest_games": 1143,
+  "paired_backtest_games": 1144,
   "chronological_holdout": {
     "games": 229,
-    "form_brier": 0.2135,
-    "elo_brier": 0.1762,
+    "form_brier": 0.2139,
+    "elo_brier": 0.1766,
     "neutral_brier": 0.25,
-    "first_game_date": "2026-03-23T23:00Z"
+    "first_game_date": "2026-03-23T23:30Z"
   },
   "elo_holdout_calibration": [
     {
@@ -32,15 +32,15 @@
     },
     {
       "bin": "0.2-0.4",
-      "games": 39,
-      "mean_predicted": 0.31,
-      "actual_home_win_rate": 0.077
+      "games": 38,
+      "mean_predicted": 0.308,
+      "actual_home_win_rate": 0.079
     },
     {
       "bin": "0.4-0.6",
-      "games": 64,
+      "games": 65,
       "mean_predicted": 0.509,
-      "actual_home_win_rate": 0.484
+      "actual_home_win_rate": 0.477
     },
     {
       "bin": "0.6-0.8",
@@ -57,36 +57,29 @@
   ],
   "calibration_experiment": {
     "status": "RETROSPECTIVE_RESEARCH_ONLY",
-    "training_games": 685,
+    "training_games": 686,
     "validation_games": 229,
     "evaluation_games": 229,
     "selected_log_odds_slope": 1.4,
     "selected_log_odds_offset": -0.25,
-    "evaluation_raw_elo_brier": 0.1762,
-    "evaluation_calibrated_brier": 0.1688,
+    "evaluation_raw_elo_brier": 0.1766,
+    "evaluation_calibrated_brier": 0.1693,
     "note": "Parameters selected using middle 20% only; final 20% used for evaluation. Both historical periods were previously examined during development. Not untouched prospective validation and not live probabilities."
   },
   "calibration_diagnostics": {
     "minimum_bin_games": 20,
-    "weighted_absolute_gap": 0.0752,
-    "largest_bin_gap": 0.233,
+    "weighted_absolute_gap": 0.0756,
+    "largest_bin_gap": 0.229,
     "validation": "DESCRIPTIVE_ONLY_NO_RECALIBRATION"
   },
-  "paired_form_brier": 0.2279,
-  "paired_elo_brier": 0.2116,
+  "paired_form_brier": 0.2278,
+  "paired_elo_brier": 0.2117,
   "historical_backfill_complete": true,
-  "elo_backtest_games": 1143,
-  "elo_brier": 0.2116,
+  "elo_backtest_games": 1144,
+  "elo_brier": 0.2117,
   "status": "EXPLORATORY_NOT_VALIDATED",
   "warning": "Regular-season-only strictly chronological simple form model, with backfill potentially incomplete. No market odds, injuries, opponent adjustments, game matching or validated profitability.",
   "examples": [
-    {
-      "game_id": "401909872",
-      "date": "2026-10-27T00:00Z",
-      "predicted_home_win": 0.4214,
-      "actual_home_win": 1,
-      "brier": 0.33474
-    },
     {
       "game_id": "401909873",
       "date": "2026-10-27T00:00Z",
@@ -219,16 +212,16 @@
       "predicted_home_win": 0.4214,
       "actual_home_win": 1,
       "brier": 0.33474
+    },
+    {
+      "game_id": "401909892",
+      "date": "2026-10-29T02:30Z",
+      "predicted_home_win": 0.3429,
+      "actual_home_win": 0,
+      "brier": 0.11755
     }
   ],
   "elo_examples": [
-    {
-      "game_id": "401909872",
-      "date": "2026-10-27T00:00Z",
-      "predicted_home_win": 0.6471,
-      "actual_home_win": 1,
-      "brier": 0.12455
-    },
     {
       "game_id": "401909873",
       "date": "2026-10-27T00:00Z",
@@ -361,6 +354,13 @@
       "predicted_home_win": 0.1991,
       "actual_home_win": 1,
       "brier": 0.6414
+    },
+    {
+      "game_id": "401909892",
+      "date": "2026-10-29T02:30Z",
+      "predicted_home_win": 0.4845,
+      "actual_home_win": 0,
+      "brier": 0.23471
     }
   ]
 }
