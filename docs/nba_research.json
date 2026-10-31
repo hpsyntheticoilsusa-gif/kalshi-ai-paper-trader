@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-10-31T02:54:52.464948+00:00",
+  "generated_utc": "2026-10-31T03:53:29.752551+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 25,
+  "qualifying_nba_markets": 57,
   "scoreboard_games": [
     {
       "event_id": "401909277",
@@ -200,14 +200,14 @@
           "team": "Golden State Warriors",
           "abbreviation": "GS",
           "home_away": "home",
-          "score": "28"
+          "score": "60"
         },
         {
           "team_id": "13",
           "team": "Los Angeles Lakers",
           "abbreviation": "LAL",
           "home_away": "away",
-          "score": "40"
+          "score": "69"
         }
       ]
     },
@@ -215,7 +215,7 @@
       "event_id": "401909286",
       "date": "2026-10-31T02:00Z",
       "name": "Denver Nuggets at Phoenix Suns",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_END_PERIOD",
       "season_type": 2,
       "teams": [
         {
@@ -223,19 +223,49 @@
           "team": "Phoenix Suns",
           "abbreviation": "PHX",
           "home_away": "home",
-          "score": "59"
+          "score": "93"
         },
         {
           "team_id": "7",
           "team": "Denver Nuggets",
           "abbreviation": "DEN",
           "home_away": "away",
-          "score": "59"
+          "score": "103"
         }
       ]
     }
   ],
   "market_samples": [
+    {
+      "ticker": "KXNBATOTAL-26OCT30DENPHX-258",
+      "title": "Full Game: Over 257.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT30DENPHX",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "62.0",
+      "spread_cents": "1.0",
+      "volume_24h": "59176.43",
+      "close_time": "2026-11-02T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT30DENPHX-260",
+      "title": "Full Game: Over 259.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT30DENPHX",
+      "yes_ask_cents": "32.0",
+      "no_ask_cents": "69.0",
+      "spread_cents": "1.0",
+      "volume_24h": "52096.53",
+      "close_time": "2026-11-02T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT30DENPHX-266",
+      "title": "Full Game: Over 265.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT30DENPHX",
+      "yes_ask_cents": "15.0",
+      "no_ask_cents": "87.0",
+      "spread_cents": "2.0",
+      "volume_24h": "46783.61",
+      "close_time": "2026-11-02T02:00:00Z"
+    },
     {
       "ticker": "KXNBATOTAL-26OCT31PORUTA-234",
       "title": "Full Game: Over 233.5 points scored",
@@ -243,8 +273,18 @@
       "yes_ask_cents": "46.0",
       "no_ask_cents": "55.0",
       "spread_cents": "1.0",
-      "volume_24h": "32782.24",
+      "volume_24h": "33201.18",
       "close_time": "2026-11-02T19:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT30DENPHX-262",
+      "title": "Full Game: Over 261.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT30DENPHX",
+      "yes_ask_cents": "29.0",
+      "no_ask_cents": "72.0",
+      "spread_cents": "1.0",
+      "volume_24h": "26868.36",
+      "close_time": "2026-11-02T02:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT31SACMEM-235",
@@ -253,47 +293,47 @@
       "yes_ask_cents": "46.0",
       "no_ask_cents": "55.0",
       "spread_cents": "1.0",
-      "volume_24h": "20591.11",
+      "volume_24h": "20594.63",
       "close_time": "2026-11-03T00:00:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26OCT30LALGSW-LALLDONCIC77-50",
-      "title": "Luka Don\u010di\u0107: 50+ points",
-      "event_ticker": "KXNBAPTS-26OCT30LALGSW",
-      "yes_ask_cents": "34.0",
-      "no_ask_cents": "73.0",
-      "spread_cents": "7.0",
-      "volume_24h": "10228.55",
+      "ticker": "KXNBATOTAL-26OCT30DENPHX-264",
+      "title": "Full Game: Over 263.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT30DENPHX",
+      "yes_ask_cents": "22.0",
+      "no_ask_cents": "79.0",
+      "spread_cents": "1.0",
+      "volume_24h": "17398.05",
+      "close_time": "2026-11-02T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT30DENPHX-DENCBRAUN0-30",
+      "title": "Christian Braun: 30+ points",
+      "event_ticker": "KXNBAPTS-26OCT30DENPHX",
+      "yes_ask_cents": "38.0",
+      "no_ask_cents": "68.0",
+      "spread_cents": "6.0",
+      "volume_24h": "10607.29",
       "close_time": "2026-11-02T02:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT31ATLNOP-240",
       "title": "Full Game: Over 239.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT31ATLNOP",
-      "yes_ask_cents": "55.0",
+      "yes_ask_cents": "54.0",
       "no_ask_cents": "47.0",
-      "spread_cents": "2.0",
-      "volume_24h": "7100.67",
+      "spread_cents": "1.0",
+      "volume_24h": "7276.93",
       "close_time": "2026-11-02T23:00:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26OCT30LALGSW-LALJLARAVIA12-10",
-      "title": "Jake LaRavia: 10+ points",
+      "ticker": "KXNBAPTS-26OCT30LALGSW-LALJLARAVIA12-15",
+      "title": "Jake LaRavia: 15+ points",
       "event_ticker": "KXNBAPTS-26OCT30LALGSW",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "59.0",
-      "spread_cents": "8.0",
-      "volume_24h": "5846.37",
-      "close_time": "2026-11-02T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT30DENPHX-DENNJOKIC15-15",
-      "title": "Nikola Joki\u0107: 15+ points",
-      "event_ticker": "KXNBAPTS-26OCT30DENPHX",
-      "yes_ask_cents": "94.0",
-      "no_ask_cents": "8.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3609.15",
+      "yes_ask_cents": "20.0",
+      "no_ask_cents": "86.0",
+      "spread_cents": "6.0",
+      "volume_24h": "5985.4",
       "close_time": "2026-11-02T02:00:00Z"
     },
     {
@@ -301,19 +341,19 @@
       "title": "Minnesota over 107.5 points scored",
       "event_ticker": "KXNBATEAMTOTAL-26OCT31MINSAS",
       "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "1.0",
-      "volume_24h": "2949.22",
+      "no_ask_cents": "52.0",
+      "spread_cents": "2.0",
+      "volume_24h": "2950.22",
       "close_time": "2026-11-03T00:00:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26OCT30LALGSW-LALJLARAVIA12-15",
-      "title": "Jake LaRavia: 15+ points",
-      "event_ticker": "KXNBAPTS-26OCT30LALGSW",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "94.0",
+      "ticker": "KXNBA3PT-26OCT30LALGSW-GSWSCURRY30-7",
+      "title": "Stephen Curry: 7+ threes",
+      "event_ticker": "KXNBA3PT-26OCT30LALGSW",
+      "yes_ask_cents": "46.0",
+      "no_ask_cents": "61.0",
       "spread_cents": "7.0",
-      "volume_24h": "2768.98",
+      "volume_24h": "2839.08",
       "close_time": "2026-11-02T02:00:00Z"
     },
     {
@@ -321,20 +361,40 @@
       "title": "Portland wins by over 6.5 points",
       "event_ticker": "KXNBASPREAD-26OCT31PORUTA",
       "yes_ask_cents": "50.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "2.0",
-      "volume_24h": "2538.23",
+      "no_ask_cents": "51.0",
+      "spread_cents": "1.0",
+      "volume_24h": "2680.22",
       "close_time": "2026-11-02T19:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26OCT30LALGSW-LALLDONCIC77-8",
+      "title": "Luka Don\u010di\u0107: 8+ threes",
+      "event_ticker": "KXNBA3PT-26OCT30LALGSW",
+      "yes_ask_cents": "26.0",
+      "no_ask_cents": "77.0",
+      "spread_cents": "3.0",
+      "volume_24h": "2346.95",
+      "close_time": "2026-11-02T02:00:00Z"
     },
     {
       "ticker": "KXNBATEAMTOTAL-26OCT31MINSAS-MIN114",
       "title": "Minnesota over 113.5 points scored",
       "event_ticker": "KXNBATEAMTOTAL-26OCT31MINSAS",
-      "yes_ask_cents": "36.0",
-      "no_ask_cents": "70.0",
-      "spread_cents": "6.0",
+      "yes_ask_cents": "33.0",
+      "no_ask_cents": "69.0",
+      "spread_cents": "2.0",
       "volume_24h": "2100.0",
       "close_time": "2026-11-03T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26OCT30LALGSW-LALCSEXTON10-2",
+      "title": "Collin Sexton: 2+ rebounds",
+      "event_ticker": "KXNBAREB-26OCT30LALGSW",
+      "yes_ask_cents": "98.0",
+      "no_ask_cents": "6.0",
+      "spread_cents": "4.0",
+      "volume_24h": "2073.81",
+      "close_time": "2026-11-02T02:00:00Z"
     },
     {
       "ticker": "KXNBATEAMTOTAL-26OCT31MINSAS-MIN110",
@@ -350,31 +410,221 @@
       "ticker": "KXNBATEAMTOTAL-26OCT31MINSAS-MIN112",
       "title": "Minnesota over 111.5 points scored",
       "event_ticker": "KXNBATEAMTOTAL-26OCT31MINSAS",
-      "yes_ask_cents": "42.0",
-      "no_ask_cents": "65.0",
-      "spread_cents": "7.0",
+      "yes_ask_cents": "40.0",
+      "no_ask_cents": "64.0",
+      "spread_cents": "4.0",
       "volume_24h": "2000.0",
       "close_time": "2026-11-03T00:00:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26OCT30LALGSW-LALLDONCIC77-55",
-      "title": "Luka Don\u010di\u0107: 55+ points",
-      "event_ticker": "KXNBAPTS-26OCT30LALGSW",
-      "yes_ask_cents": "15.0",
-      "no_ask_cents": "86.0",
+      "ticker": "KXNBA3PT-26OCT30LALGSW-GSWSCURRY30-8",
+      "title": "Stephen Curry: 8+ threes",
+      "event_ticker": "KXNBA3PT-26OCT30LALGSW",
+      "yes_ask_cents": "22.0",
+      "no_ask_cents": "79.0",
       "spread_cents": "1.0",
-      "volume_24h": "858.91",
+      "volume_24h": "1549.31",
       "close_time": "2026-11-02T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT31SACMEM-MEM11",
+      "title": "Memphis wins by over 10.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT31SACMEM",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1243.4",
+      "close_time": "2026-11-03T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT30DENPHX-268",
+      "title": "Full Game: Over 267.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT30DENPHX",
+      "yes_ask_cents": "13.0",
+      "no_ask_cents": "89.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1096.85",
+      "close_time": "2026-11-02T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT30DENPHX-270",
+      "title": "Full Game: Over 269.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT30DENPHX",
+      "yes_ask_cents": "11.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "3.0",
+      "volume_24h": "927.15",
+      "close_time": "2026-11-02T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT30DENPHX-DENCBRAUN0-35",
+      "title": "Christian Braun: 35+ points",
+      "event_ticker": "KXNBAPTS-26OCT30DENPHX",
+      "yes_ask_cents": "9.0",
+      "no_ask_cents": "97.0",
+      "spread_cents": "6.0",
+      "volume_24h": "664.71",
+      "close_time": "2026-11-02T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT31PORUTA-PORDLILLARD0-30",
+      "title": "Damian Lillard: 30+ points",
+      "event_ticker": "KXNBAPTS-26OCT31PORUTA",
+      "yes_ask_cents": "23.0",
+      "no_ask_cents": "80.0",
+      "spread_cents": "3.0",
+      "volume_24h": "599.99",
+      "close_time": "2026-11-02T19:00:00Z"
+    },
+    {
+      "ticker": "KXNBATEAMTOTAL-26OCT30DENPHX-DEN138",
+      "title": "Denver over 137.5 points scored",
+      "event_ticker": "KXNBATEAMTOTAL-26OCT30DENPHX",
+      "yes_ask_cents": "24.0",
+      "no_ask_cents": "77.0",
+      "spread_cents": "1.0",
+      "volume_24h": "575.01",
+      "close_time": "2026-11-02T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT31MINSAS-227",
+      "title": "Full Game: Over 226.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT31MINSAS",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "1.0",
+      "volume_24h": "434.42",
+      "close_time": "2026-11-03T00:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26OCT31CLEMIL-237",
       "title": "Full Game: Over 236.5 points scored",
       "event_ticker": "KXNBATOTAL-26OCT31CLEMIL",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "49.0",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "48.0",
       "spread_cents": "2.0",
-      "volume_24h": "418.54",
+      "volume_24h": "420.54",
       "close_time": "2026-11-03T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT31PORUTA-PORDLILLARD0-25",
+      "title": "Damian Lillard: 25+ points",
+      "event_ticker": "KXNBAPTS-26OCT31PORUTA",
+      "yes_ask_cents": "44.0",
+      "no_ask_cents": "59.0",
+      "spread_cents": "3.0",
+      "volume_24h": "357.7",
+      "close_time": "2026-11-02T19:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT31PHICHA-PHI2",
+      "title": "Philadelphia wins by over 1.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT31PHICHA",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "3.0",
+      "volume_24h": "325.38",
+      "close_time": "2026-11-02T22:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT31PORUTA-214",
+      "title": "Full Game: Over 213.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT31PORUTA",
+      "yes_ask_cents": "87.0",
+      "no_ask_cents": "16.0",
+      "spread_cents": "3.0",
+      "volume_24h": "323.54",
+      "close_time": "2026-11-02T19:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26OCT30LALGSW-LALAREAVES15-10",
+      "title": "Austin Reaves: 10+ assists",
+      "event_ticker": "KXNBAAST-26OCT30LALGSW",
+      "yes_ask_cents": "8.0",
+      "no_ask_cents": "99.0",
+      "spread_cents": "7.0",
+      "volume_24h": "320.07",
+      "close_time": "2026-11-02T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26OCT30LALGSW-LALLDONCIC77-14",
+      "title": "Luka Don\u010di\u0107: 14+ assists",
+      "event_ticker": "KXNBAAST-26OCT30LALGSW",
+      "yes_ask_cents": "2.0",
+      "no_ask_cents": "99.0",
+      "spread_cents": "1.0",
+      "volume_24h": "314.38",
+      "close_time": "2026-11-02T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT31CLEMIL-239",
+      "title": "Full Game: Over 238.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT31CLEMIL",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "2.0",
+      "volume_24h": "313.24",
+      "close_time": "2026-11-03T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26OCT30LALGSW-LALJLARAVIA12-3",
+      "title": "Jake LaRavia: 3+ threes",
+      "event_ticker": "KXNBA3PT-26OCT30LALGSW",
+      "yes_ask_cents": "18.0",
+      "no_ask_cents": "84.0",
+      "spread_cents": "2.0",
+      "volume_24h": "293.49",
+      "close_time": "2026-11-02T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT31ATLNOP-ATL4",
+      "title": "Atlanta wins by over 3.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT31ATLNOP",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "47.0",
+      "spread_cents": "1.0",
+      "volume_24h": "290.17",
+      "close_time": "2026-11-02T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT31MINSAS-SAS12",
+      "title": "San Antonio wins by over 11.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT31MINSAS",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "2.0",
+      "volume_24h": "280.9",
+      "close_time": "2026-11-03T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26OCT31SACMEM-233",
+      "title": "Full Game: Over 232.5 points scored",
+      "event_ticker": "KXNBATOTAL-26OCT31SACMEM",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "2.0",
+      "volume_24h": "279.08",
+      "close_time": "2026-11-03T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26OCT31MINSAS-SAS13",
+      "title": "San Antonio wins by over 12.5 points",
+      "event_ticker": "KXNBASPREAD-26OCT31MINSAS",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "2.0",
+      "volume_24h": "274.99",
+      "close_time": "2026-11-03T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26OCT30LALGSW-LALQGRIMES5-20",
+      "title": "Quentin Grimes: 20+ points",
+      "event_ticker": "KXNBAPTS-26OCT30LALGSW",
+      "yes_ask_cents": "5.0",
+      "no_ask_cents": "97.0",
+      "spread_cents": "2.0",
+      "volume_24h": "263.44",
+      "close_time": "2026-11-02T02:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26OCT31ATLNOP-ATL10",
@@ -385,106 +635,6 @@
       "spread_cents": "2.0",
       "volume_24h": "236.27",
       "close_time": "2026-11-02T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBATEAMTOTAL-26OCT31MINSAS-MIN118",
-      "title": "Minnesota over 117.5 points scored",
-      "event_ticker": "KXNBATEAMTOTAL-26OCT31MINSAS",
-      "yes_ask_cents": "26.0",
-      "no_ask_cents": "81.0",
-      "spread_cents": "7.0",
-      "volume_24h": "219.96",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT31PORUTA-PORDLILLARD0-25",
-      "title": "Damian Lillard: 25+ points",
-      "event_ticker": "KXNBAPTS-26OCT31PORUTA",
-      "yes_ask_cents": "38.0",
-      "no_ask_cents": "67.0",
-      "spread_cents": "5.0",
-      "volume_24h": "153.08",
-      "close_time": "2026-11-02T19:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT30LALGSW-LALQGRIMES5-20",
-      "title": "Quentin Grimes: 20+ points",
-      "event_ticker": "KXNBAPTS-26OCT30LALGSW",
-      "yes_ask_cents": "5.0",
-      "no_ask_cents": "96.0",
-      "spread_cents": "1.0",
-      "volume_24h": "126.63",
-      "close_time": "2026-11-02T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT31ATLNOP-NOP19",
-      "title": "New Orleans wins by over 18.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31ATLNOP",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "4.0",
-      "volume_24h": "125.0",
-      "close_time": "2026-11-02T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBAWINMARGIN-26OCT31PHICHA-CHA21PLUS",
-      "title": "Charlotte wins by 21 or more points",
-      "event_ticker": "KXNBAWINMARGIN-26OCT31PHICHA",
-      "yes_ask_cents": "9.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "1.0",
-      "volume_24h": "122.04",
-      "close_time": "2026-11-02T22:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT31MINSAS-SAS24",
-      "title": "San Antonio wins by over 23.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31MINSAS",
-      "yes_ask_cents": "20.0",
-      "no_ask_cents": "84.0",
-      "spread_cents": "4.0",
-      "volume_24h": "113.59",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26OCT30LALGSW-GSWSCURRY30-7",
-      "title": "Stephen Curry: 7+ threes",
-      "event_ticker": "KXNBA3PT-26OCT30LALGSW",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "7.0",
-      "volume_24h": "105.03",
-      "close_time": "2026-11-02T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBATEAMTOTAL-26OCT31MINSAS-MIN126",
-      "title": "Minnesota over 125.5 points scored",
-      "event_ticker": "KXNBATEAMTOTAL-26OCT31MINSAS",
-      "yes_ask_cents": "10.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "4.0",
-      "volume_24h": "100.0",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATEAMTOTAL-26OCT31MINSAS-MIN120",
-      "title": "Minnesota over 119.5 points scored",
-      "event_ticker": "KXNBATEAMTOTAL-26OCT31MINSAS",
-      "yes_ask_cents": "22.0",
-      "no_ask_cents": "85.0",
-      "spread_cents": "7.0",
-      "volume_24h": "100.0",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATEAMTOTAL-26OCT31MINSAS-MIN116",
-      "title": "Minnesota over 115.5 points scored",
-      "event_ticker": "KXNBATEAMTOTAL-26OCT31MINSAS",
-      "yes_ask_cents": "31.0",
-      "no_ask_cents": "76.0",
-      "spread_cents": "7.0",
-      "volume_24h": "100.0",
-      "close_time": "2026-11-03T00:00:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
