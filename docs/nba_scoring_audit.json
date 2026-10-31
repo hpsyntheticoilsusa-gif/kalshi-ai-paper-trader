@@ -1,36 +1,16 @@
 {
-  "generated_utc": "2026-10-31T03:53:31.736783+00:00",
-  "regular_season_games": 1314,
-  "chronological_scoring_tests": 1231,
-  "margin_mean_absolute_error_points": 12.23,
-  "total_mean_absolute_error_points": 15.59,
+  "generated_utc": "2026-10-31T04:53:03.217251+00:00",
+  "regular_season_games": 1316,
+  "chronological_scoring_tests": 1233,
+  "margin_mean_absolute_error_points": 12.24,
+  "total_mean_absolute_error_points": 15.6,
   "margin_zero_baseline_mae": 13.34,
-  "paired_total_games": 1231,
-  "paired_model_total_mae": 15.59,
+  "paired_total_games": 1233,
+  "paired_model_total_mae": 15.6,
   "paired_baseline_total_mae": 15.95,
   "test_gate": "RESEARCH_ONLY",
   "limitations": "Prior five regular-season games per team. No injuries, opponent adjustment, rest, pace, market lines, fees, or verified Kalshi game matching. Errors describe score projections only, NOT profitable spread/total trades.",
   "examples": [
-    {
-      "baseline_margin": 0.0,
-      "baseline_total": 230.66,
-      "game_id": "401909892",
-      "date": "2026-10-29T02:30Z",
-      "projected_margin": -6.0,
-      "actual_margin": -16,
-      "projected_total": 233.8,
-      "actual_total": 190
-    },
-    {
-      "baseline_margin": 0.0,
-      "baseline_total": 230.61,
-      "game_id": "401909893",
-      "date": "2026-10-30T00:00Z",
-      "projected_margin": 0.4,
-      "actual_margin": 3,
-      "projected_total": 237.4,
-      "actual_total": 225
-    },
     {
       "baseline_margin": 0.0,
       "baseline_total": 230.61,
@@ -130,6 +110,26 @@
       "actual_margin": 26,
       "projected_total": 222.4,
       "actual_total": 228
+    },
+    {
+      "baseline_margin": 0.0,
+      "baseline_total": 230.54,
+      "game_id": "401909285",
+      "date": "2026-10-31T02:00Z",
+      "projected_margin": -5.7,
+      "actual_margin": 17,
+      "projected_total": 236.9,
+      "actual_total": 207
+    },
+    {
+      "baseline_margin": 0.0,
+      "baseline_total": 230.54,
+      "game_id": "401909286",
+      "date": "2026-10-31T02:00Z",
+      "projected_margin": -3.6,
+      "actual_margin": -7,
+      "projected_total": 225.6,
+      "actual_total": 247
     }
   ]
 }
