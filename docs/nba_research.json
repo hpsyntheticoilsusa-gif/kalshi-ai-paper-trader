@@ -1,14 +1,14 @@
 {
-  "generated_utc": "2026-11-01T19:46:06.654208+00:00",
+  "generated_utc": "2026-11-01T20:45:31.219839+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 3,
+  "qualifying_nba_markets": 4,
   "scoreboard_games": [
     {
       "event_id": "401909903",
       "date": "2026-11-01T20:30Z",
       "name": "Boston Celtics at Orlando Magic",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "season_type": 2,
       "teams": [
         {
@@ -16,14 +16,14 @@
           "team": "Orlando Magic",
           "abbreviation": "ORL",
           "home_away": "home",
-          "score": "0"
+          "score": "10"
         },
         {
           "team_id": "2",
           "team": "Boston Celtics",
           "abbreviation": "BOS",
           "home_away": "away",
-          "score": "0"
+          "score": "2"
         }
       ]
     },
@@ -102,19 +102,19 @@
       "ticker": "KXNBA3PT-26NOV01BOSORL-BOSSHAUSER30-2",
       "title": "Sam Hauser: 2+ threes",
       "event_ticker": "KXNBA3PT-26NOV01BOSORL",
-      "yes_ask_cents": "58.0",
-      "no_ask_cents": "44.0",
-      "spread_cents": "2.0",
-      "volume_24h": "237.23",
+      "yes_ask_cents": "65.0",
+      "no_ask_cents": "41.0",
+      "spread_cents": "6.0",
+      "volume_24h": "397.08",
       "close_time": "2026-11-03T20:30:00Z"
     },
     {
       "ticker": "KXNBA3PT-26NOV01BOSORL-BOSSHAUSER30-1",
       "title": "Sam Hauser: 1+ threes",
       "event_ticker": "KXNBA3PT-26NOV01BOSORL",
-      "yes_ask_cents": "82.0",
-      "no_ask_cents": "21.0",
-      "spread_cents": "3.0",
+      "yes_ask_cents": "88.0",
+      "no_ask_cents": "18.0",
+      "spread_cents": "6.0",
       "volume_24h": "211.54",
       "close_time": "2026-11-03T20:30:00Z"
     },
@@ -122,10 +122,20 @@
       "ticker": "KXNBAPTS-26NOV01BOSORL-BOSSHAUSER30-15",
       "title": "Sam Hauser: 15+ points",
       "event_ticker": "KXNBAPTS-26NOV01BOSORL",
-      "yes_ask_cents": "12.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "2.0",
-      "volume_24h": "187.88",
+      "yes_ask_cents": "13.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "6.0",
+      "volume_24h": "187.94",
+      "close_time": "2026-11-03T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV01BOSORL-BOSSHAUSER30-10",
+      "title": "Sam Hauser: 10+ points",
+      "event_ticker": "KXNBAPTS-26NOV01BOSORL",
+      "yes_ask_cents": "33.0",
+      "no_ask_cents": "72.0",
+      "spread_cents": "5.0",
+      "volume_24h": "170.84",
       "close_time": "2026-11-03T20:30:00Z"
     }
   ],
