@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-11-01T02:13:03.704062+00:00",
+  "generated_utc": "2026-11-01T02:57:31.467787+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 329,
+  "qualifying_nba_markets": 7,
   "scoreboard_games": [
     {
       "event_id": "401909896",
@@ -77,7 +77,7 @@
       "event_id": "401909899",
       "date": "2026-11-01T00:00Z",
       "name": "Sacramento Kings at Memphis Grizzlies",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "season_type": 2,
       "teams": [
         {
@@ -85,14 +85,14 @@
           "team": "Memphis Grizzlies",
           "abbreviation": "MEM",
           "home_away": "home",
-          "score": "112"
+          "score": "136"
         },
         {
           "team_id": "23",
           "team": "Sacramento Kings",
           "abbreviation": "SAC",
           "home_away": "away",
-          "score": "80"
+          "score": "105"
         }
       ]
     },
@@ -100,7 +100,7 @@
       "event_id": "401909900",
       "date": "2026-11-01T00:00Z",
       "name": "Cleveland Cavaliers at Milwaukee Bucks",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "season_type": 2,
       "teams": [
         {
@@ -108,14 +108,14 @@
           "team": "Milwaukee Bucks",
           "abbreviation": "MIL",
           "home_away": "home",
-          "score": "109"
+          "score": "111"
         },
         {
           "team_id": "5",
           "team": "Cleveland Cavaliers",
           "abbreviation": "CLE",
           "home_away": "away",
-          "score": "127"
+          "score": "136"
         }
       ]
     },
@@ -123,7 +123,7 @@
       "event_id": "401909901",
       "date": "2026-11-01T00:00Z",
       "name": "Minnesota Timberwolves at San Antonio Spurs",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "season_type": 2,
       "teams": [
         {
@@ -131,14 +131,14 @@
           "team": "San Antonio Spurs",
           "abbreviation": "SA",
           "home_away": "home",
-          "score": "105"
+          "score": "121"
         },
         {
           "team_id": "16",
           "team": "Minnesota Timberwolves",
           "abbreviation": "MIN",
           "home_away": "away",
-          "score": "101"
+          "score": "111"
         }
       ]
     },
@@ -146,7 +146,7 @@
       "event_id": "401909902",
       "date": "2026-11-01T00:30Z",
       "name": "Oklahoma City Thunder at Houston Rockets",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "season_type": 2,
       "teams": [
         {
@@ -154,418 +154,88 @@
           "team": "Houston Rockets",
           "abbreviation": "HOU",
           "home_away": "home",
-          "score": "85"
+          "score": "119"
         },
         {
           "team_id": "25",
           "team": "Oklahoma City Thunder",
           "abbreviation": "OKC",
           "home_away": "away",
-          "score": "70"
+          "score": "98"
         }
       ]
     }
   ],
   "market_samples": [
     {
-      "ticker": "KXNBASPREAD-26OCT31OKCHOU-HOU3",
-      "title": "Houston wins by over 2.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31OKCHOU",
-      "yes_ask_cents": "90.0",
-      "no_ask_cents": "11.0",
-      "spread_cents": "1.0",
-      "volume_24h": "505133.72",
-      "close_time": "2026-11-03T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT31OKCHOU-HOU4",
-      "title": "Houston wins by over 3.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31OKCHOU",
-      "yes_ask_cents": "84.0",
-      "no_ask_cents": "17.0",
-      "spread_cents": "1.0",
-      "volume_24h": "145664.07",
-      "close_time": "2026-11-03T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT31MINSAS-SAS13",
-      "title": "San Antonio wins by over 12.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31MINSAS",
-      "yes_ask_cents": "16.0",
-      "no_ask_cents": "85.0",
-      "spread_cents": "1.0",
-      "volume_24h": "141251.05",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT31SACMEM-MEM9",
-      "title": "Memphis wins by over 8.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31SACMEM",
-      "yes_ask_cents": "99.0",
-      "no_ask_cents": "4.0",
-      "spread_cents": "3.0",
-      "volume_24h": "114076.93",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT31SACMEM-MEM11",
-      "title": "Memphis wins by over 10.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31SACMEM",
-      "yes_ask_cents": "98.0",
-      "no_ask_cents": "4.0",
-      "spread_cents": "2.0",
-      "volume_24h": "113333.9",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT31OKCHOU-HOU15",
-      "title": "Houston wins by over 14.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31OKCHOU",
-      "yes_ask_cents": "35.0",
-      "no_ask_cents": "66.0",
-      "spread_cents": "1.0",
-      "volume_24h": "106794.6",
-      "close_time": "2026-11-03T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT31CLEMIL-239",
-      "title": "Full Game: Over 238.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT31CLEMIL",
-      "yes_ask_cents": "98.0",
-      "no_ask_cents": "3.0",
-      "spread_cents": "1.0",
-      "volume_24h": "85189.29",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT31MINSAS-SAS8",
-      "title": "San Antonio wins by over 7.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31MINSAS",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "2.0",
-      "volume_24h": "83913.45",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT31MINSAS-239",
-      "title": "Full Game: Over 238.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT31MINSAS",
-      "yes_ask_cents": "57.0",
-      "no_ask_cents": "45.0",
-      "spread_cents": "2.0",
-      "volume_24h": "77133.15",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT31OKCHOU-221",
-      "title": "Full Game: Over 220.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT31OKCHOU",
+      "ticker": "KXNBASPREAD-26NOV01TORLAL-LAL4",
+      "title": "Los Angeles L wins by over 3.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV01TORLAL",
       "yes_ask_cents": "55.0",
       "no_ask_cents": "47.0",
       "spread_cents": "2.0",
-      "volume_24h": "76192.21",
-      "close_time": "2026-11-03T00:30:00Z"
+      "volume_24h": "1057.58",
+      "close_time": "2026-11-04T02:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT31MINSAS-SAS10",
-      "title": "San Antonio wins by over 9.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31MINSAS",
-      "yes_ask_cents": "32.0",
-      "no_ask_cents": "69.0",
-      "spread_cents": "1.0",
-      "volume_24h": "74464.61",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT31SACMEM-MEM12",
-      "title": "Memphis wins by over 11.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31SACMEM",
-      "yes_ask_cents": "97.0",
-      "no_ask_cents": "7.0",
-      "spread_cents": "4.0",
-      "volume_24h": "73026.5",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT31MINSAS-SAS9",
-      "title": "San Antonio wins by over 8.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31MINSAS",
-      "yes_ask_cents": "37.0",
-      "no_ask_cents": "64.0",
-      "spread_cents": "1.0",
-      "volume_24h": "71636.9",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT31SACMEM-MEM10",
-      "title": "Memphis wins by over 9.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31SACMEM",
-      "yes_ask_cents": "99.0",
-      "no_ask_cents": "2.0",
-      "spread_cents": "1.0",
-      "volume_24h": "67263.41",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT31SACMEM-231",
+      "ticker": "KXNBATOTAL-26NOV01BKNIND-231",
       "title": "Full Game: Over 230.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT31SACMEM",
-      "yes_ask_cents": "87.0",
-      "no_ask_cents": "21.0",
-      "spread_cents": "8.0",
-      "volume_24h": "58893.78",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT31MINSAS-241",
-      "title": "Full Game: Over 240.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT31MINSAS",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "57.0",
+      "event_ticker": "KXNBATOTAL-26NOV01BKNIND",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "51.0",
       "spread_cents": "2.0",
-      "volume_24h": "50515.04",
-      "close_time": "2026-11-03T00:00:00Z"
+      "volume_24h": "782.97",
+      "close_time": "2026-11-03T22:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT31MINSAS-SAS11",
-      "title": "San Antonio wins by over 10.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31MINSAS",
-      "yes_ask_cents": "25.0",
-      "no_ask_cents": "76.0",
-      "spread_cents": "1.0",
-      "volume_24h": "49848.77",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT31OKCHOU-219",
-      "title": "Full Game: Over 218.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT31OKCHOU",
-      "yes_ask_cents": "62.0",
+      "ticker": "KXNBASPREAD-26NOV01BOSORL-BOS4",
+      "title": "Boston wins by over 3.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV01BOSORL",
+      "yes_ask_cents": "61.0",
       "no_ask_cents": "41.0",
-      "spread_cents": "3.0",
-      "volume_24h": "49412.46",
-      "close_time": "2026-11-03T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT31CLEMIL-CLEDMITCHELL45-20",
-      "title": "Donovan Mitchell: 20+ points",
-      "event_ticker": "KXNBAPTS-26OCT31CLEMIL",
-      "yes_ask_cents": "2.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "1.0",
-      "volume_24h": "48347.1",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT31MINSAS-SAS12",
-      "title": "San Antonio wins by over 11.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31MINSAS",
-      "yes_ask_cents": "20.0",
-      "no_ask_cents": "81.0",
-      "spread_cents": "1.0",
-      "volume_24h": "46557.19",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT31MINSAS-SAS14",
-      "title": "San Antonio wins by over 13.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31MINSAS",
-      "yes_ask_cents": "12.0",
-      "no_ask_cents": "89.0",
-      "spread_cents": "1.0",
-      "volume_24h": "45687.47",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT31CLEMIL-CLE24",
-      "title": "Cleveland wins by over 23.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31CLEMIL",
-      "yes_ask_cents": "3.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "1.0",
-      "volume_24h": "45202.84",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT31MINSAS-237",
-      "title": "Full Game: Over 236.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT31MINSAS",
-      "yes_ask_cents": "67.0",
-      "no_ask_cents": "35.0",
       "spread_cents": "2.0",
-      "volume_24h": "44471.62",
-      "close_time": "2026-11-03T00:00:00Z"
+      "volume_24h": "358.1",
+      "close_time": "2026-11-03T20:30:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26OCT31CLEMIL-241",
-      "title": "Full Game: Over 240.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT31CLEMIL",
-      "yes_ask_cents": "89.0",
-      "no_ask_cents": "14.0",
-      "spread_cents": "3.0",
-      "volume_24h": "41284.36",
-      "close_time": "2026-11-03T00:00:00Z"
+      "ticker": "KXNBASPREAD-26NOV01BOSORL-ORL6",
+      "title": "Orlando wins by over 5.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV01BOSORL",
+      "yes_ask_cents": "18.0",
+      "no_ask_cents": "86.0",
+      "spread_cents": "4.0",
+      "volume_24h": "334.28",
+      "close_time": "2026-11-03T20:30:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT31CLEMIL-CLE34",
-      "title": "Cleveland wins by over 33.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31CLEMIL",
-      "yes_ask_cents": "4.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "3.0",
-      "volume_24h": "40237.4",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT31MINSAS-227",
-      "title": "Full Game: Over 226.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT31MINSAS",
-      "yes_ask_cents": "98.0",
-      "no_ask_cents": "3.0",
-      "spread_cents": "1.0",
-      "volume_24h": "39437.26",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT31OKCHOU-HOU17",
-      "title": "Houston wins by over 16.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31OKCHOU",
-      "yes_ask_cents": "27.0",
-      "no_ask_cents": "74.0",
-      "spread_cents": "1.0",
-      "volume_24h": "38004.8",
-      "close_time": "2026-11-03T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT31OKCHOU-HOU11",
-      "title": "Houston wins by over 10.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31OKCHOU",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "1.0",
-      "volume_24h": "36402.43",
-      "close_time": "2026-11-03T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT31OKCHOU-HOU8",
-      "title": "Houston wins by over 7.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31OKCHOU",
-      "yes_ask_cents": "68.0",
-      "no_ask_cents": "33.0",
-      "spread_cents": "1.0",
-      "volume_24h": "35980.47",
-      "close_time": "2026-11-03T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT31OKCHOU-HOU13",
-      "title": "Houston wins by over 12.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31OKCHOU",
-      "yes_ask_cents": "42.0",
-      "no_ask_cents": "59.0",
-      "spread_cents": "1.0",
-      "volume_24h": "35276.35",
-      "close_time": "2026-11-03T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT31MINSAS-229",
-      "title": "Full Game: Over 228.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT31MINSAS",
-      "yes_ask_cents": "94.0",
-      "no_ask_cents": "7.0",
-      "spread_cents": "1.0",
-      "volume_24h": "33293.07",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT31CLEMIL-CLE26",
-      "title": "Cleveland wins by over 25.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31CLEMIL",
-      "yes_ask_cents": "3.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "1.0",
-      "volume_24h": "33118.61",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT31MINSAS-235",
-      "title": "Full Game: Over 234.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT31MINSAS",
-      "yes_ask_cents": "77.0",
-      "no_ask_cents": "25.0",
+      "ticker": "KXNBASPREAD-26NOV01TORLAL-LAL5",
+      "title": "Los Angeles L wins by over 4.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV01TORLAL",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "51.0",
       "spread_cents": "2.0",
-      "volume_24h": "32409.33",
-      "close_time": "2026-11-03T00:00:00Z"
+      "volume_24h": "218.01",
+      "close_time": "2026-11-04T02:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26OCT31SACMEM-MEM21",
-      "title": "Memphis wins by over 20.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31SACMEM",
-      "yes_ask_cents": "91.0",
-      "no_ask_cents": "16.0",
-      "spread_cents": "7.0",
-      "volume_24h": "32015.01",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26OCT31OKCHOU-OKCSGILGEOUSALEXANDER2-30",
-      "title": "Shai Gilgeous-Alexander: 30+ points",
-      "event_ticker": "KXNBAPTS-26OCT31OKCHOU",
-      "yes_ask_cents": "80.0",
-      "no_ask_cents": "28.0",
-      "spread_cents": "8.0",
-      "volume_24h": "31304.72",
-      "close_time": "2026-11-03T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT31CLEMIL-243",
-      "title": "Full Game: Over 242.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT31CLEMIL",
-      "yes_ask_cents": "75.0",
-      "no_ask_cents": "28.0",
-      "spread_cents": "3.0",
-      "volume_24h": "30873.84",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26OCT31MINSAS-SAS7",
-      "title": "San Antonio wins by over 6.5 points",
-      "event_ticker": "KXNBASPREAD-26OCT31MINSAS",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "49.0",
+      "ticker": "KXNBASPREAD-26NOV01BOSORL-BOS7",
+      "title": "Boston wins by over 6.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV01BOSORL",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "52.0",
       "spread_cents": "2.0",
-      "volume_24h": "30460.04",
-      "close_time": "2026-11-03T00:00:00Z"
+      "volume_24h": "215.15",
+      "close_time": "2026-11-03T20:30:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26OCT31SACMEM-227",
-      "title": "Full Game: Over 226.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT31SACMEM",
-      "yes_ask_cents": "98.0",
-      "no_ask_cents": "8.0",
-      "spread_cents": "6.0",
-      "volume_24h": "29538.98",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBAAST-26OCT31CLEMIL-MILRROLLINS13-6",
-      "title": "Ryan Rollins: 6+ assists",
-      "event_ticker": "KXNBAAST-26OCT31CLEMIL",
-      "yes_ask_cents": "99.0",
-      "no_ask_cents": "2.0",
-      "spread_cents": "1.0",
-      "volume_24h": "28513.11",
-      "close_time": "2026-11-03T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26OCT31SACMEM-221",
-      "title": "Full Game: Over 220.5 points scored",
-      "event_ticker": "KXNBATOTAL-26OCT31SACMEM",
-      "yes_ask_cents": "98.0",
-      "no_ask_cents": "9.0",
-      "spread_cents": "7.0",
-      "volume_24h": "28447.54",
-      "close_time": "2026-11-03T00:00:00Z"
+      "ticker": "KXNBASPREAD-26NOV01BKNIND-IND5",
+      "title": "Indiana wins by over 4.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV01BKNIND",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "2.0",
+      "volume_24h": "206.22",
+      "close_time": "2026-11-03T22:00:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
