@@ -1,14 +1,14 @@
 {
-  "generated_utc": "2026-11-01T21:44:11.352439+00:00",
+  "generated_utc": "2026-11-01T22:44:49.713351+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 3,
+  "qualifying_nba_markets": 12,
   "scoreboard_games": [
     {
       "event_id": "401909903",
       "date": "2026-11-01T20:30Z",
       "name": "Boston Celtics at Orlando Magic",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "season_type": 2,
       "teams": [
         {
@@ -16,14 +16,14 @@
           "team": "Orlando Magic",
           "abbreviation": "ORL",
           "home_away": "home",
-          "score": "50"
+          "score": "83"
         },
         {
           "team_id": "2",
           "team": "Boston Celtics",
           "abbreviation": "BOS",
           "home_away": "away",
-          "score": "55"
+          "score": "90"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "event_id": "401909904",
       "date": "2026-11-01T22:00Z",
       "name": "Brooklyn Nets at Indiana Pacers",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "season_type": 2,
       "teams": [
         {
@@ -39,14 +39,14 @@
           "team": "Indiana Pacers",
           "abbreviation": "IND",
           "home_away": "home",
-          "score": "0"
+          "score": "21"
         },
         {
           "team_id": "17",
           "team": "Brooklyn Nets",
           "abbreviation": "BKN",
           "home_away": "away",
-          "score": "0"
+          "score": "22"
         }
       ]
     },
@@ -99,34 +99,124 @@
   ],
   "market_samples": [
     {
+      "ticker": "KXNBATOTAL-26NOV01BOSORL-193",
+      "title": "Full Game: Over 192.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV01BOSORL",
+      "yes_ask_cents": "98.0",
+      "no_ask_cents": "4.0",
+      "spread_cents": "2.0",
+      "volume_24h": "3042.03",
+      "close_time": "2026-11-03T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26NOV01BOSORL-BOSNQUETA88-10",
+      "title": "Neemias Queta: 10+ rebounds",
+      "event_ticker": "KXNBAREB-26NOV01BOSORL",
+      "yes_ask_cents": "31.0",
+      "no_ask_cents": "72.0",
+      "spread_cents": "3.0",
+      "volume_24h": "987.18",
+      "close_time": "2026-11-03T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV01BOSORL-BOSJTATUM0-40",
+      "title": "Jayson Tatum: 40+ points",
+      "event_ticker": "KXNBAPTS-26NOV01BOSORL",
+      "yes_ask_cents": "9.0",
+      "no_ask_cents": "99.0",
+      "spread_cents": "8.0",
+      "volume_24h": "985.16",
+      "close_time": "2026-11-03T20:30:00Z"
+    },
+    {
       "ticker": "KXNBAPTS-26NOV01BOSORL-BOSSHAUSER30-15",
       "title": "Sam Hauser: 15+ points",
       "event_ticker": "KXNBAPTS-26NOV01BOSORL",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "4.0",
-      "volume_24h": "250.5",
+      "yes_ask_cents": "2.0",
+      "no_ask_cents": "99.0",
+      "spread_cents": "1.0",
+      "volume_24h": "692.47",
       "close_time": "2026-11-03T20:30:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26NOV01BOSORL-BOSSHAUSER30-10",
-      "title": "Sam Hauser: 10+ points",
+      "ticker": "KXNBAAST-26NOV01TORLAL-LALWKESSLER14-2",
+      "title": "Walker Kessler: 2+ assists",
+      "event_ticker": "KXNBAAST-26NOV01TORLAL",
+      "yes_ask_cents": "36.0",
+      "no_ask_cents": "66.0",
+      "spread_cents": "2.0",
+      "volume_24h": "616.9",
+      "close_time": "2026-11-04T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV01BOSORL-191",
+      "title": "Full Game: Over 190.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV01BOSORL",
+      "yes_ask_cents": "99.0",
+      "no_ask_cents": "2.0",
+      "spread_cents": "1.0",
+      "volume_24h": "604.38",
+      "close_time": "2026-11-03T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV01BOSORL-ORLDBANE3-30",
+      "title": "Desmond Bane: 30+ points",
       "event_ticker": "KXNBAPTS-26NOV01BOSORL",
-      "yes_ask_cents": "5.0",
-      "no_ask_cents": "96.0",
-      "spread_cents": "1.0",
-      "volume_24h": "187.88",
+      "yes_ask_cents": "7.0",
+      "no_ask_cents": "98.0",
+      "spread_cents": "5.0",
+      "volume_24h": "537.98",
       "close_time": "2026-11-03T20:30:00Z"
     },
     {
-      "ticker": "KXNBA3PT-26NOV01BOSORL-BOSSHAUSER30-3",
-      "title": "Sam Hauser: 3+ threes",
-      "event_ticker": "KXNBA3PT-26NOV01BOSORL",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "95.0",
+      "ticker": "KXNBAPTS-26NOV01BOSORL-BOSNQUETA88-20",
+      "title": "Neemias Queta: 20+ points",
+      "event_ticker": "KXNBAPTS-26NOV01BOSORL",
+      "yes_ask_cents": "2.0",
+      "no_ask_cents": "99.0",
       "spread_cents": "1.0",
-      "volume_24h": "169.92",
+      "volume_24h": "505.9",
       "close_time": "2026-11-03T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBAESCALATORPTS-26NOV01LACGSW-GSWBPODZIEMSKI2",
+      "title": "Brandin Podziemski player points escalator",
+      "event_ticker": "KXNBAESCALATORPTS-26NOV01LACGSW",
+      "yes_ask_cents": "15.6",
+      "no_ask_cents": "92.0",
+      "spread_cents": "7.6",
+      "volume_24h": "431.69",
+      "close_time": "2026-11-04T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26NOV01TORLAL-LALJLARAVIA12-2",
+      "title": "Jake LaRavia: 2+ assists",
+      "event_ticker": "KXNBAAST-26NOV01TORLAL",
+      "yes_ask_cents": "46.0",
+      "no_ask_cents": "59.0",
+      "spread_cents": "5.0",
+      "volume_24h": "228.0",
+      "close_time": "2026-11-04T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26NOV01TORLAL-LALCSEXTON10-2",
+      "title": "Collin Sexton: 2+ rebounds",
+      "event_ticker": "KXNBAREB-26NOV01TORLAL",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "1.0",
+      "volume_24h": "171.86",
+      "close_time": "2026-11-04T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26NOV01TORLAL-LALCSEXTON10-4",
+      "title": "Collin Sexton: 4+ rebounds",
+      "event_ticker": "KXNBAREB-26NOV01TORLAL",
+      "yes_ask_cents": "15.0",
+      "no_ask_cents": "88.0",
+      "spread_cents": "3.0",
+      "volume_24h": "107.71",
+      "close_time": "2026-11-04T02:00:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
