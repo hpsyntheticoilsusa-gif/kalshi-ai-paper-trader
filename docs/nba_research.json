@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-11-01T16:45:38.757710+00:00",
+  "generated_utc": "2026-11-01T17:41:25.734012+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 4,
+  "qualifying_nba_markets": 1,
   "scoreboard_games": [
     {
       "event_id": "401909903",
@@ -99,26 +99,6 @@
   ],
   "market_samples": [
     {
-      "ticker": "KXNBAREB-26NOV01TORLAL-LALCSEXTON10-2",
-      "title": "Collin Sexton: 2+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV01TORLAL",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "3.0",
-      "volume_24h": "154.64",
-      "close_time": "2026-11-04T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAAST-26NOV01TORLAL-LALWKESSLER14-2",
-      "title": "Walker Kessler: 2+ assists",
-      "event_ticker": "KXNBAAST-26NOV01TORLAL",
-      "yes_ask_cents": "36.0",
-      "no_ask_cents": "66.0",
-      "spread_cents": "2.0",
-      "volume_24h": "153.17",
-      "close_time": "2026-11-04T02:00:00Z"
-    },
-    {
       "ticker": "KXNBAREB-26NOV01BOSORL-BOSNQUETA88-8",
       "title": "Neemias Queta: 8+ rebounds",
       "event_ticker": "KXNBAREB-26NOV01BOSORL",
@@ -127,16 +107,6 @@
       "spread_cents": "2.0",
       "volume_24h": "121.25",
       "close_time": "2026-11-03T20:30:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26NOV01TORLAL-LALCSEXTON10-4",
-      "title": "Collin Sexton: 4+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV01TORLAL",
-      "yes_ask_cents": "16.0",
-      "no_ask_cents": "88.0",
-      "spread_cents": "4.0",
-      "volume_24h": "107.71",
-      "close_time": "2026-11-04T02:00:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
