@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-11-01T18:52:41.092032+00:00",
+  "generated_utc": "2026-11-01T19:46:06.654208+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 1,
+  "qualifying_nba_markets": 3,
   "scoreboard_games": [
     {
       "event_id": "401909903",
@@ -99,13 +99,33 @@
   ],
   "market_samples": [
     {
+      "ticker": "KXNBA3PT-26NOV01BOSORL-BOSSHAUSER30-2",
+      "title": "Sam Hauser: 2+ threes",
+      "event_ticker": "KXNBA3PT-26NOV01BOSORL",
+      "yes_ask_cents": "58.0",
+      "no_ask_cents": "44.0",
+      "spread_cents": "2.0",
+      "volume_24h": "237.23",
+      "close_time": "2026-11-03T20:30:00Z"
+    },
+    {
       "ticker": "KXNBA3PT-26NOV01BOSORL-BOSSHAUSER30-1",
       "title": "Sam Hauser: 1+ threes",
       "event_ticker": "KXNBA3PT-26NOV01BOSORL",
-      "yes_ask_cents": "86.0",
-      "no_ask_cents": "19.0",
-      "spread_cents": "5.0",
+      "yes_ask_cents": "82.0",
+      "no_ask_cents": "21.0",
+      "spread_cents": "3.0",
       "volume_24h": "211.54",
+      "close_time": "2026-11-03T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV01BOSORL-BOSSHAUSER30-15",
+      "title": "Sam Hauser: 15+ points",
+      "event_ticker": "KXNBAPTS-26NOV01BOSORL",
+      "yes_ask_cents": "12.0",
+      "no_ask_cents": "90.0",
+      "spread_cents": "2.0",
+      "volume_24h": "187.88",
       "close_time": "2026-11-03T20:30:00Z"
     }
   ],
