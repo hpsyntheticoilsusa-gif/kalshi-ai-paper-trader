@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-11-01T03:58:22.428341+00:00",
+  "generated_utc": "2026-11-01T04:57:44.711163+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 24,
+  "qualifying_nba_markets": 31,
   "scoreboard_games": [
     {
       "event_id": "401909896",
@@ -171,18 +171,18 @@
       "ticker": "KXNBASPREAD-26NOV01BOSORL-BOS7",
       "title": "Boston wins by over 6.5 points",
       "event_ticker": "KXNBASPREAD-26NOV01BOSORL",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "50.0",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "51.0",
       "spread_cents": "2.0",
-      "volume_24h": "2329.57",
+      "volume_24h": "7429.52",
       "close_time": "2026-11-03T20:30:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26NOV01BKNIND-231",
       "title": "Full Game: Over 230.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV01BKNIND",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "51.0",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "52.0",
       "spread_cents": "2.0",
       "volume_24h": "2025.9",
       "close_time": "2026-11-03T22:00:00Z"
@@ -191,11 +191,21 @@
       "ticker": "KXNBASPREAD-26NOV01TORLAL-LAL4",
       "title": "Los Angeles L wins by over 3.5 points",
       "event_ticker": "KXNBASPREAD-26NOV01TORLAL",
-      "yes_ask_cents": "56.0",
+      "yes_ask_cents": "55.0",
       "no_ask_cents": "46.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1296.58",
+      "spread_cents": "1.0",
+      "volume_24h": "1558.9",
       "close_time": "2026-11-04T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBATEAMTOTAL-26NOV01BOSORL-BOS114",
+      "title": "Boston over 113.5 points scored",
+      "event_ticker": "KXNBATEAMTOTAL-26NOV01BOSORL",
+      "yes_ask_cents": "58.0",
+      "no_ask_cents": "46.0",
+      "spread_cents": "4.0",
+      "volume_24h": "1301.66",
+      "close_time": "2026-11-03T20:30:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26NOV01TORLAL-228",
@@ -204,7 +214,7 @@
       "yes_ask_cents": "51.0",
       "no_ask_cents": "51.0",
       "spread_cents": "2.0",
-      "volume_24h": "1026.86",
+      "volume_24h": "1240.42",
       "close_time": "2026-11-04T02:00:00Z"
     },
     {
@@ -214,7 +224,7 @@
       "yes_ask_cents": "51.0",
       "no_ask_cents": "50.0",
       "spread_cents": "1.0",
-      "volume_24h": "970.63",
+      "volume_24h": "1109.63",
       "close_time": "2026-11-03T20:30:00Z"
     },
     {
@@ -224,18 +234,68 @@
       "yes_ask_cents": "51.0",
       "no_ask_cents": "51.0",
       "spread_cents": "2.0",
-      "volume_24h": "574.62",
+      "volume_24h": "1105.62",
       "close_time": "2026-11-04T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV01BOSORL-BOS5",
+      "title": "Boston wins by over 4.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV01BOSORL",
+      "yes_ask_cents": "58.0",
+      "no_ask_cents": "43.0",
+      "spread_cents": "1.0",
+      "volume_24h": "624.79",
+      "close_time": "2026-11-03T20:30:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV01BOSORL-BOS8",
       "title": "Boston wins by over 7.5 points",
       "event_ticker": "KXNBASPREAD-26NOV01BOSORL",
       "yes_ask_cents": "47.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "2.0",
       "volume_24h": "530.1",
       "close_time": "2026-11-03T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV01BOSORL-199",
+      "title": "Full Game: Over 198.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV01BOSORL",
+      "yes_ask_cents": "94.0",
+      "no_ask_cents": "10.0",
+      "spread_cents": "4.0",
+      "volume_24h": "487.0",
+      "close_time": "2026-11-03T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV01BOSORL-BOS4",
+      "title": "Boston wins by over 3.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV01BOSORL",
+      "yes_ask_cents": "61.0",
+      "no_ask_cents": "40.0",
+      "spread_cents": "1.0",
+      "volume_24h": "453.83",
+      "close_time": "2026-11-03T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV01BKNIND-IND4",
+      "title": "Indiana wins by over 3.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV01BKNIND",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "1.0",
+      "volume_24h": "394.47",
+      "close_time": "2026-11-03T22:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV01LACGSW-GSW3",
+      "title": "Golden State wins by over 2.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV01LACGSW",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "3.0",
+      "volume_24h": "387.82",
+      "close_time": "2026-11-04T01:30:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26NOV01BOSORL-225",
@@ -248,33 +308,13 @@
       "close_time": "2026-11-03T20:30:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV01BOSORL-BOS4",
-      "title": "Boston wins by over 3.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV01BOSORL",
-      "yes_ask_cents": "61.0",
-      "no_ask_cents": "40.0",
-      "spread_cents": "1.0",
-      "volume_24h": "374.05",
-      "close_time": "2026-11-03T20:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV01BOSORL-BOS5",
-      "title": "Boston wins by over 4.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV01BOSORL",
-      "yes_ask_cents": "58.0",
-      "no_ask_cents": "44.0",
-      "spread_cents": "2.0",
-      "volume_24h": "370.79",
-      "close_time": "2026-11-03T20:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV01BKNIND-IND4",
-      "title": "Indiana wins by over 3.5 points",
+      "ticker": "KXNBASPREAD-26NOV01BKNIND-IND5",
+      "title": "Indiana wins by over 4.5 points",
       "event_ticker": "KXNBASPREAD-26NOV01BKNIND",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "49.0",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "54.0",
       "spread_cents": "2.0",
-      "volume_24h": "344.47",
+      "volume_24h": "342.95",
       "close_time": "2026-11-03T22:00:00Z"
     },
     {
@@ -288,21 +328,31 @@
       "close_time": "2026-11-03T20:30:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV01BKNIND-IND5",
-      "title": "Indiana wins by over 4.5 points",
+      "ticker": "KXNBA1H-26NOV01LACGSW-GSW",
+      "title": "Golden State wins the 1st half",
+      "event_ticker": "KXNBA1H-26NOV01LACGSW",
+      "yes_ask_cents": "57.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "6.0",
+      "volume_24h": "280.2",
+      "close_time": "2026-11-04T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV01BKNIND-IND3",
+      "title": "Indiana wins by over 2.5 points",
       "event_ticker": "KXNBASPREAD-26NOV01BKNIND",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "53.0",
+      "yes_ask_cents": "56.0",
+      "no_ask_cents": "46.0",
       "spread_cents": "2.0",
-      "volume_24h": "333.16",
+      "volume_24h": "273.18",
       "close_time": "2026-11-03T22:00:00Z"
     },
     {
       "ticker": "KXNBA1Q-26NOV01LACGSW-LAC",
       "title": "Los Angeles C wins the 1st quarter",
       "event_ticker": "KXNBA1Q-26NOV01LACGSW",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "58.0",
+      "yes_ask_cents": "47.0",
+      "no_ask_cents": "59.0",
       "spread_cents": "6.0",
       "volume_24h": "209.0",
       "close_time": "2026-11-04T01:30:00Z"
@@ -311,11 +361,31 @@
       "ticker": "KXNBA1Q-26NOV01TORLAL-LAL",
       "title": "Los Angeles L wins the 1st quarter",
       "event_ticker": "KXNBA1Q-26NOV01TORLAL",
-      "yes_ask_cents": "59.0",
+      "yes_ask_cents": "60.0",
       "no_ask_cents": "46.0",
-      "spread_cents": "5.0",
+      "spread_cents": "6.0",
       "volume_24h": "207.0",
       "close_time": "2026-11-04T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26NOV01BOSORL-ORLFWAGNER22-6",
+      "title": "Franz Wagner: 6+ assists",
+      "event_ticker": "KXNBAAST-26NOV01BOSORL",
+      "yes_ask_cents": "59.0",
+      "no_ask_cents": "44.0",
+      "spread_cents": "3.0",
+      "volume_24h": "188.69",
+      "close_time": "2026-11-03T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBAGAME-26NOV04PHIDET-PHI",
+      "title": "Philadelphia wins",
+      "event_ticker": "KXNBAGAME-26NOV04PHIDET",
+      "yes_ask_cents": "63.0",
+      "no_ask_cents": "45.0",
+      "spread_cents": "8.0",
+      "volume_24h": "170.26",
+      "close_time": "2026-11-07T00:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV01BOSORL-BOS6",
@@ -352,8 +422,8 @@
       "title": "Anthony Black: 6+ assists",
       "event_ticker": "KXNBAAST-26NOV01BOSORL",
       "yes_ask_cents": "25.0",
-      "no_ask_cents": "80.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "79.0",
+      "spread_cents": "4.0",
       "volume_24h": "144.38",
       "close_time": "2026-11-03T20:30:00Z"
     },
@@ -361,9 +431,9 @@
       "ticker": "KXNBATOTAL-26NOV01BKNIND-237",
       "title": "Full Game: Over 236.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV01BKNIND",
-      "yes_ask_cents": "40.0",
+      "yes_ask_cents": "39.0",
       "no_ask_cents": "65.0",
-      "spread_cents": "5.0",
+      "spread_cents": "4.0",
       "volume_24h": "143.0",
       "close_time": "2026-11-03T22:00:00Z"
     },
@@ -371,40 +441,40 @@
       "ticker": "KXNBA1QSPREAD-26NOV01BOSORL-BOS4",
       "title": "Boston wins 1Q by over 3.5 points",
       "event_ticker": "KXNBA1QSPREAD-26NOV01BOSORL",
-      "yes_ask_cents": "45.0",
+      "yes_ask_cents": "44.0",
       "no_ask_cents": "61.0",
-      "spread_cents": "6.0",
+      "spread_cents": "5.0",
       "volume_24h": "141.41",
       "close_time": "2026-11-03T20:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV01LACGSW-GSW3",
-      "title": "Golden State wins by over 2.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV01LACGSW",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "3.0",
-      "volume_24h": "127.95",
-      "close_time": "2026-11-04T01:30:00Z"
     },
     {
       "ticker": "KXNBAWINMARGIN-26NOV01BOSORL-BOS11TO20",
       "title": "Boston wins by 11 to 20 points",
       "event_ticker": "KXNBAWINMARGIN-26NOV01BOSORL",
-      "yes_ask_cents": "26.0",
-      "no_ask_cents": "78.0",
-      "spread_cents": "4.0",
+      "yes_ask_cents": "27.0",
+      "no_ask_cents": "76.0",
+      "spread_cents": "3.0",
       "volume_24h": "124.7",
       "close_time": "2026-11-03T20:30:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26NOV01BOSORL-BOSPGEORGE13-10",
-      "title": "Paul George: 10+ points",
-      "event_ticker": "KXNBAPTS-26NOV01BOSORL",
-      "yes_ask_cents": "86.0",
-      "no_ask_cents": "22.0",
+      "ticker": "KXNBA1H-26NOV01TORLAL-TOR",
+      "title": "Toronto wins the 1st half",
+      "event_ticker": "KXNBA1H-26NOV01TORLAL",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "69.0",
       "spread_cents": "8.0",
-      "volume_24h": "120.38",
+      "volume_24h": "105.62",
+      "close_time": "2026-11-04T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV01BOSORL-195",
+      "title": "Full Game: Over 194.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV01BOSORL",
+      "yes_ask_cents": "95.0",
+      "no_ask_cents": "7.0",
+      "spread_cents": "2.0",
+      "volume_24h": "100.0",
       "close_time": "2026-11-03T20:30:00Z"
     }
   ],
