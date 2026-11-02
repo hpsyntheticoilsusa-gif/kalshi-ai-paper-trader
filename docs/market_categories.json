@@ -1,57 +1,12 @@
 {
-  "generated_utc": "2026-11-02T09:14:46.607260+00:00",
+  "generated_utc": "2026-11-02T10:19:27.273748+00:00",
   "scope": "Only saved markets passing liquidity/spread filters; all qualifying saved from up to 20,000 scanned",
   "categories": {
-    "Sports": 479,
-    "Other": 88,
-    "Weather": 1,
+    "Sports": 449,
+    "Other": 52,
     "Science": 6
   },
   "markets": [
-    {
-      "ticker": "KXATPCHALLENGERMATCH-26NOV02SCHKUM-SCH",
-      "title": "Joel Schwaerzler wins",
-      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02SCHKUM",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "1.0",
-      "volume_24h": "100169.79",
-      "close_time": "2026-11-16T07:10:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNCAAMBTOTAL-26NOV02NIUGRAM-141",
-      "title": "Full Game: Over 140.5 points scored",
-      "event_ticker": "KXNCAAMBTOTAL-26NOV02NIUGRAM",
-      "yes_ask_cents": "96.0",
-      "no_ask_cents": "7.0",
-      "spread_cents": "3.0",
-      "volume_24h": "46815.54",
-      "close_time": "2026-11-04T08:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXATPCHALLENGERMATCH-26NOV02SCHKUM-KUM",
-      "title": "Jan Kumstat wins",
-      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02SCHKUM",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "1.0",
-      "volume_24h": "44945.89",
-      "close_time": "2026-11-16T07:10:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNCAAMBTOTAL-26NOV02NIUGRAM-154",
-      "title": "Full Game: Over 153.5 points scored",
-      "event_ticker": "KXNCAAMBTOTAL-26NOV02NIUGRAM",
-      "yes_ask_cents": "62.0",
-      "no_ask_cents": "39.0",
-      "spread_cents": "1.0",
-      "volume_24h": "26365.47",
-      "close_time": "2026-11-04T08:00:00Z",
-      "category": "Sports"
-    },
     {
       "ticker": "KXNBATOTAL-26NOV02DETCHA-211",
       "title": "Full Game: Over 210.5 points scored",
@@ -59,7 +14,7 @@
       "yes_ask_cents": "50.0",
       "no_ask_cents": "52.0",
       "spread_cents": "2.0",
-      "volume_24h": "17210.68",
+      "volume_24h": "17221.84",
       "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
     },
@@ -70,7 +25,7 @@
       "yes_ask_cents": "53.0",
       "no_ask_cents": "48.0",
       "spread_cents": "1.0",
-      "volume_24h": "13448.75",
+      "volume_24h": "13719.89",
       "close_time": "2026-11-05T00:00:00Z",
       "category": "Sports"
     },
@@ -92,7 +47,7 @@
       "yes_ask_cents": "49.0",
       "no_ask_cents": "52.0",
       "spread_cents": "1.0",
-      "volume_24h": "10525.11",
+      "volume_24h": "10609.87",
       "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
     },
@@ -108,24 +63,13 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNCAAMBTOTAL-26NOV02NIUGRAM-146",
-      "title": "Full Game: Over 145.5 points scored",
-      "event_ticker": "KXNCAAMBTOTAL-26NOV02NIUGRAM",
-      "yes_ask_cents": "90.0",
-      "no_ask_cents": "11.0",
-      "spread_cents": "1.0",
-      "volume_24h": "9585.5",
-      "close_time": "2026-11-04T08:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNCAAMBSPREAD-26NOV02TNSTMURR-MURR10",
       "title": "Murray St. wins by over 9.5 points",
       "event_ticker": "KXNCAAMBSPREAD-26NOV02TNSTMURR",
       "yes_ask_cents": "55.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "2.0",
-      "volume_24h": "8903.81",
+      "no_ask_cents": "46.0",
+      "spread_cents": "1.0",
+      "volume_24h": "8921.43",
       "close_time": "2026-11-04T16:30:00Z",
       "category": "Sports"
     },
@@ -136,7 +80,7 @@
       "yes_ask_cents": "49.0",
       "no_ask_cents": "52.0",
       "spread_cents": "1.0",
-      "volume_24h": "7632.48",
+      "volume_24h": "7634.45",
       "close_time": "2026-11-05T00:00:00Z",
       "category": "Sports"
     },
@@ -152,17 +96,6 @@
       "category": "Other"
     },
     {
-      "ticker": "KXNCAAMBTOTAL-26NOV02NIUGRAM-144",
-      "title": "Full Game: Over 143.5 points scored",
-      "event_ticker": "KXNCAAMBTOTAL-26NOV02NIUGRAM",
-      "yes_ask_cents": "93.0",
-      "no_ask_cents": "8.0",
-      "spread_cents": "1.0",
-      "volume_24h": "6957.53",
-      "close_time": "2026-11-04T08:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNBASPREAD-26NOV02MILMIN-MIN11",
       "title": "Minnesota wins by over 10.5 points",
       "event_ticker": "KXNBASPREAD-26NOV02MILMIN",
@@ -171,6 +104,17 @@
       "spread_cents": "1.0",
       "volume_24h": "6305.07",
       "close_time": "2026-11-05T01:00:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXATPCHALLENGERMATCH-26NOV02MPESOR-SOR",
+      "title": "Sebastian Sorger wins",
+      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02MPESOR",
+      "yes_ask_cents": "22.0",
+      "no_ask_cents": "79.0",
+      "spread_cents": "1.0",
+      "volume_24h": "6245.04",
+      "close_time": "2026-11-16T11:10:00Z",
       "category": "Sports"
     },
     {
@@ -229,36 +173,25 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXCBASPREAD-26NOV020635BRFSHA-BRF7",
+      "title": "Beijing Royal Fighters wins by over 6.5 points",
+      "event_ticker": "KXCBASPREAD-26NOV020635BRFSHA",
+      "yes_ask_cents": "57.0",
+      "no_ask_cents": "45.0",
+      "spread_cents": "2.0",
+      "volume_24h": "5092.73",
+      "close_time": "2026-11-04T11:35:00Z",
+      "category": "Other"
+    },
+    {
       "ticker": "KXNCAAFSPREAD-26NOV07OKSTKSU-KSU15",
       "title": "Kansas St. wins by over 14.5 points",
       "event_ticker": "KXNCAAFSPREAD-26NOV07OKSTKSU",
       "yes_ask_cents": "10.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "2.0",
       "volume_24h": "5081.0",
       "close_time": "2026-11-09T18:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFWMATCH-26NOV02HSUGNI-HSU",
-      "title": "Anna Hsu wins",
-      "event_ticker": "KXITFWMATCH-26NOV02HSUGNI",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "96.0",
-      "spread_cents": "2.0",
-      "volume_24h": "4999.81",
-      "close_time": "2026-11-16T10:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNCAAMBTOTAL-26NOV02NIUGRAM-151",
-      "title": "Full Game: Over 150.5 points scored",
-      "event_ticker": "KXNCAAMBTOTAL-26NOV02NIUGRAM",
-      "yes_ask_cents": "71.0",
-      "no_ask_cents": "30.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4958.67",
-      "close_time": "2026-11-04T08:00:00Z",
       "category": "Sports"
     },
     {
@@ -277,8 +210,8 @@
       "title": "Full Game: Over 231.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV02UTASAS",
       "yes_ask_cents": "52.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "2.0",
       "volume_24h": "4546.11",
       "close_time": "2026-11-05T01:30:00Z",
       "category": "Sports"
@@ -288,22 +221,11 @@
       "title": "Portland wins by over 15.5 points",
       "event_ticker": "KXNBASPREAD-26NOV02PORDEN",
       "yes_ask_cents": "9.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "1.0",
       "volume_24h": "4300.0",
       "close_time": "2026-11-05T02:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXROML1TOTAL-26NOV02UCLFCSB-1",
-      "title": "Will over 0.5 goals be scored?",
-      "event_ticker": "KXROML1TOTAL-26NOV02UCLFCSB",
-      "yes_ask_cents": "95.0",
-      "no_ask_cents": "6.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4000.0",
-      "close_time": "2026-11-04T18:30:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXNBASPREAD-26NOV02DETCHA-DET11",
@@ -317,24 +239,13 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXATPCHALLENGERMATCH-26NOV02MPESOR-SOR",
-      "title": "Sebastian Sorger wins",
-      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02MPESOR",
-      "yes_ask_cents": "21.0",
-      "no_ask_cents": "80.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3994.04",
-      "close_time": "2026-11-16T11:10:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXITFWMATCH-26NOV02TEJAGU-TEJ",
       "title": "Aiken Tejada wins",
       "event_ticker": "KXITFWMATCH-26NOV02TEJAGU",
       "yes_ask_cents": "9.0",
       "no_ask_cents": "93.0",
       "spread_cents": "2.0",
-      "volume_24h": "3785.62",
+      "volume_24h": "3850.9",
       "close_time": "2026-11-16T13:00:00Z",
       "category": "Sports"
     },
@@ -350,23 +261,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXITFWMATCH-26NOV02VANMAR-MAR",
-      "title": "Thea Marcu wins",
-      "event_ticker": "KXITFWMATCH-26NOV02VANMAR",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3749.83",
-      "close_time": "2026-11-16T10:30:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNCAAFSPREAD-26NOV07OKSTKSU-OKST18",
       "title": "Oklahoma St. wins by over 17.5 points",
       "event_ticker": "KXNCAAFSPREAD-26NOV07OKSTKSU",
       "yes_ask_cents": "22.0",
-      "no_ask_cents": "83.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "84.0",
+      "spread_cents": "6.0",
       "volume_24h": "3713.0",
       "close_time": "2026-11-09T18:00:00Z",
       "category": "Sports"
@@ -375,8 +275,8 @@
       "ticker": "KXNFLSPREAD-26NOV08DENCAR-DEN3",
       "title": "Denver wins by over 2.5 points?",
       "event_ticker": "KXNFLSPREAD-26NOV08DENCAR",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "48.0",
+      "yes_ask_cents": "55.0",
+      "no_ask_cents": "47.0",
       "spread_cents": "2.0",
       "volume_24h": "3526.66",
       "close_time": "2026-11-10T18:00:00Z",
@@ -411,7 +311,7 @@
       "yes_ask_cents": "51.0",
       "no_ask_cents": "50.0",
       "spread_cents": "1.0",
-      "volume_24h": "3004.79",
+      "volume_24h": "3072.41",
       "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
     },
@@ -419,8 +319,8 @@
       "ticker": "KXDIMAYORTOTAL-26NOV02BUCCAN-1",
       "title": "Will over 0.5 goals be scored?",
       "event_ticker": "KXDIMAYORTOTAL-26NOV02BUCCAN",
-      "yes_ask_cents": "92.0",
-      "no_ask_cents": "9.0",
+      "yes_ask_cents": "93.0",
+      "no_ask_cents": "8.0",
       "spread_cents": "1.0",
       "volume_24h": "3002.0",
       "close_time": "2026-11-05T01:15:00Z",
@@ -460,6 +360,17 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXNCAAMBSPREAD-26NOV02ARMYDUKE-DUKE43",
+      "title": "Duke wins by over 42.5 points",
+      "event_ticker": "KXNCAAMBSPREAD-26NOV02ARMYDUKE",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "2.0",
+      "volume_24h": "2728.5",
+      "close_time": "2026-11-04T23:30:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXITFMATCH-26NOV02RODROD2-ROD",
       "title": "Pedro Rodrigues Longobardi wins",
       "event_ticker": "KXITFMATCH-26NOV02RODROD2",
@@ -468,17 +379,6 @@
       "spread_cents": "3.0",
       "volume_24h": "2713.89",
       "close_time": "2026-11-16T13:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNCAAMBSPREAD-26NOV02ARMYDUKE-DUKE43",
-      "title": "Duke wins by over 42.5 points",
-      "event_ticker": "KXNCAAMBSPREAD-26NOV02ARMYDUKE",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "2.0",
-      "volume_24h": "2708.4",
-      "close_time": "2026-11-04T23:30:00Z",
       "category": "Sports"
     },
     {
@@ -504,23 +404,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXEERSTEDIVTOTAL-26NOV02UTRDOR-1",
-      "title": "Will over 0.5 goals be scored?",
-      "event_ticker": "KXEERSTEDIVTOTAL-26NOV02UTRDOR",
-      "yes_ask_cents": "96.0",
-      "no_ask_cents": "5.0",
-      "spread_cents": "1.0",
-      "volume_24h": "2590.92",
-      "close_time": "2026-11-04T19:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNBAPTS-26NOV02NOPMEM-NOPTMURPHY25-25",
       "title": "Trey Murphy III: 25+ points",
       "event_ticker": "KXNBAPTS-26NOV02NOPMEM",
-      "yes_ask_cents": "16.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "8.0",
+      "yes_ask_cents": "15.0",
+      "no_ask_cents": "91.0",
+      "spread_cents": "6.0",
       "volume_24h": "2583.43",
       "close_time": "2026-11-05T01:00:00Z",
       "category": "Sports"
@@ -548,15 +437,15 @@
       "category": "Other"
     },
     {
-      "ticker": "KXFISHBACKENDORSE-26NOV03-DJOL",
-      "title": "Will James Fishback endorse David Jolly in the 2026 Florida governor election before Nov 3, 2026?",
-      "event_ticker": "KXFISHBACKENDORSE-26NOV03",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "53.0",
+      "ticker": "KXCS2GAME-26NOV022330LGCB8-B8",
+      "title": "B8 wins",
+      "event_ticker": "KXCS2GAME-26NOV022330LGCB8",
+      "yes_ask_cents": "38.0",
+      "no_ask_cents": "64.0",
       "spread_cents": "2.0",
-      "volume_24h": "2504.0",
-      "close_time": "2026-11-03T15:00:00Z",
-      "category": "Other"
+      "volume_24h": "2493.66",
+      "close_time": "2026-11-05T04:30:00Z",
+      "category": "Sports"
     },
     {
       "ticker": "KXNBASPREAD-26NOV02SACDAL-DAL10",
@@ -565,7 +454,7 @@
       "yes_ask_cents": "53.0",
       "no_ask_cents": "48.0",
       "spread_cents": "1.0",
-      "volume_24h": "2375.6",
+      "volume_24h": "2402.99",
       "close_time": "2026-11-05T01:00:00Z",
       "category": "Sports"
     },
@@ -603,28 +492,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXITFWMATCH-26NOV02BROGAR-GAR",
-      "title": "Georgina Garcia-Perez wins",
-      "event_ticker": "KXITFWMATCH-26NOV02BROGAR",
-      "yes_ask_cents": "23.0",
-      "no_ask_cents": "78.0",
-      "spread_cents": "1.0",
-      "volume_24h": "2132.14",
-      "close_time": "2026-11-16T10:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXSTEVENSPOSTS-27",
-      "title": "Will Haley Stevens lose a committee assignment or her ranking post before Jan 3, 2027?",
-      "event_ticker": "KXSTEVENSPOSTS-27",
-      "yes_ask_cents": "91.0",
-      "no_ask_cents": "12.0",
-      "spread_cents": "3.0",
-      "volume_24h": "2119.78",
-      "close_time": "2027-01-03T04:59:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNBAPTS-26NOV02NOPMEM-NOPTMURPHY25-20",
       "title": "Trey Murphy III: 20+ points",
       "event_ticker": "KXNBAPTS-26NOV02NOPMEM",
@@ -651,21 +518,21 @@
       "title": "Foggia wins by more than 1.5 goals?",
       "event_ticker": "KXSERIECSPREAD-26NOV02CSRCAF",
       "yes_ask_cents": "13.0",
-      "no_ask_cents": "88.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "89.0",
+      "spread_cents": "2.0",
       "volume_24h": "2077.31",
       "close_time": "2026-11-04T19:30:00Z",
       "category": "Other"
     },
     {
-      "ticker": "KXUCLSCORE-26NOV03BOGLIL-BOG4LIL0",
-      "title": "Final score Bodoe/Glimt wins 4-0?",
-      "event_ticker": "KXUCLSCORE-26NOV03BOGLIL",
-      "yes_ask_cents": "3.0",
-      "no_ask_cents": "99.0",
+      "ticker": "KXCBASPREAD-26NOV020635QINGST-QIN3",
+      "title": "Qingdao Eagles wins by over 2.5 points",
+      "event_ticker": "KXCBASPREAD-26NOV020635QINGST",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "52.0",
       "spread_cents": "2.0",
-      "volume_24h": "2000.0",
-      "close_time": "2026-11-06T02:00:00Z",
+      "volume_24h": "2063.42",
+      "close_time": "2026-11-04T11:35:00Z",
       "category": "Other"
     },
     {
@@ -683,22 +550,22 @@
       "ticker": "KXNCAAMBTOTAL-26NOV02FDUILL-153",
       "title": "Full Game: Over 152.5 points scored",
       "event_ticker": "KXNCAAMBTOTAL-26NOV02FDUILL",
-      "yes_ask_cents": "62.0",
+      "yes_ask_cents": "59.0",
       "no_ask_cents": "46.0",
-      "spread_cents": "8.0",
+      "spread_cents": "5.0",
       "volume_24h": "1996.0",
       "close_time": "2026-11-05T01:00:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXATPGTOTAL-26NOV02DARHIJ-23",
-      "title": "Over 22.5 games",
-      "event_ticker": "KXATPGTOTAL-26NOV02DARHIJ",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1992.37",
-      "close_time": "2026-11-16T10:00:00Z",
+      "ticker": "KXNCAAFTOTAL-26NOV07PSUWASH-25",
+      "title": "Full Game: Over 24.5 points scored",
+      "event_ticker": "KXNCAAFTOTAL-26NOV07PSUWASH",
+      "yes_ask_cents": "96.0",
+      "no_ask_cents": "8.0",
+      "spread_cents": "4.0",
+      "volume_24h": "1971.0",
+      "close_time": "2026-11-09T20:30:00Z",
       "category": "Sports"
     },
     {
@@ -724,22 +591,22 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXATPGTOTAL-26NOV02RUUCER-23",
-      "title": "Over 22.5 games",
-      "event_ticker": "KXATPGTOTAL-26NOV02RUUCER",
-      "yes_ask_cents": "50.0",
+      "ticker": "KXNBASPREAD-26NOV02DETCHA-DET5",
+      "title": "Detroit wins by over 4.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV02DETCHA",
+      "yes_ask_cents": "49.0",
       "no_ask_cents": "52.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1925.81",
-      "close_time": "2026-11-16T12:20:00Z",
+      "spread_cents": "1.0",
+      "volume_24h": "1896.35",
+      "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
     },
     {
       "ticker": "KXNCAAMBTOTAL-26NOV02LEHSLU-154",
       "title": "Full Game: Over 153.5 points scored",
       "event_ticker": "KXNCAAMBTOTAL-26NOV02LEHSLU",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "48.0",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "49.0",
       "spread_cents": "3.0",
       "volume_24h": "1880.13",
       "close_time": "2026-11-05T01:00:00Z",
@@ -750,8 +617,8 @@
       "title": "Full Game: Over 224.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV02WASORL",
       "yes_ask_cents": "50.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "1.0",
       "volume_24h": "1873.89",
       "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
@@ -761,43 +628,65 @@
       "title": "Full Game: Over 149.5 points scored",
       "event_ticker": "KXNCAAMBTOTAL-26NOV02AMERCIN",
       "yes_ask_cents": "53.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "3.0",
       "volume_24h": "1857.0",
       "close_time": "2026-11-05T00:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXWTACHALLENGERMATCH-26NOV02SZISAW-SAW",
-      "title": "Madhurima Sawant wins",
-      "event_ticker": "KXWTACHALLENGERMATCH-26NOV02SZISAW",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "87.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1825.31",
-      "close_time": "2026-11-16T09:00:00Z",
       "category": "Sports"
     },
     {
       "ticker": "KXATPCHALLENGERMATCH-26NOV02RATZEI-RAT",
       "title": "Lucio Ratti wins",
       "event_ticker": "KXATPCHALLENGERMATCH-26NOV02RATZEI",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "62.0",
-      "spread_cents": "3.0",
-      "volume_24h": "1803.65",
+      "yes_ask_cents": "45.0",
+      "no_ask_cents": "57.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1847.69",
       "close_time": "2026-11-16T18:10:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXATPCHALLENGERMATCH-26NOV02MEJCAS-CAS",
+      "title": "Murphy Cassone wins",
+      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02MEJCAS",
+      "yes_ask_cents": "57.0",
+      "no_ask_cents": "44.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1835.62",
+      "close_time": "2026-11-16T19:00:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXNCAAFSPREAD-26NOV07UCLAMINN-UCLA28",
+      "title": "UCLA wins by over 27.5 points",
+      "event_ticker": "KXNCAAFSPREAD-26NOV07UCLAMINN",
+      "yes_ask_cents": "7.0",
+      "no_ask_cents": "97.0",
+      "spread_cents": "4.0",
+      "volume_24h": "1820.0",
+      "close_time": "2026-11-09T17:00:00Z",
       "category": "Sports"
     },
     {
       "ticker": "KXWTACHALLENGERMATCH-26NOV02MDLNOV-MDL",
       "title": "Warona Mdlulwa wins",
       "event_ticker": "KXWTACHALLENGERMATCH-26NOV02MDLNOV",
-      "yes_ask_cents": "5.0",
-      "no_ask_cents": "96.0",
+      "yes_ask_cents": "4.0",
+      "no_ask_cents": "97.0",
       "spread_cents": "1.0",
       "volume_24h": "1798.6",
       "close_time": "2026-11-16T11:20:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXATPCHALLENGERMATCH-26NOV02BASKAR-BAS",
+      "title": "Nishesh Basavareddy wins",
+      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02BASKAR",
+      "yes_ask_cents": "76.0",
+      "no_ask_cents": "25.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1782.27",
+      "close_time": "2026-11-16T15:00:00Z",
       "category": "Sports"
     },
     {
@@ -805,10 +694,32 @@
       "title": "Kansas St. wins by over 16.5 points",
       "event_ticker": "KXNCAAFSPREAD-26NOV07OKSTKSU",
       "yes_ask_cents": "9.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "2.0",
       "volume_24h": "1769.0",
       "close_time": "2026-11-09T18:00:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV02BOSHOU-HOU5",
+      "title": "Houston wins by over 4.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV02BOSHOU",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1760.06",
+      "close_time": "2026-11-05T01:30:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV02MIALAL-LAL3",
+      "title": "Los Angeles L wins by over 2.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV02MIALAL",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1732.29",
+      "close_time": "2026-11-05T03:00:00Z",
       "category": "Sports"
     },
     {
@@ -834,58 +745,25 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXUSDCAD15M-26NOV020415-30",
-      "title": "USD/CAD price up in next 15 mins?",
-      "event_ticker": "KXUSDCAD15M-26NOV020415",
-      "yes_ask_cents": "88.0",
-      "no_ask_cents": "13.0",
+      "ticker": "KXATPCHALLENGERMATCH-26NOV02ROSHIP-ROS",
+      "title": "Leonardo Rossi wins",
+      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02ROSHIP",
+      "yes_ask_cents": "59.0",
+      "no_ask_cents": "42.0",
       "spread_cents": "1.0",
-      "volume_24h": "1651.83",
-      "close_time": "2026-11-02T09:15:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV02DETCHA-DET5",
-      "title": "Detroit wins by over 4.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV02DETCHA",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1639.35",
-      "close_time": "2026-11-05T00:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNCAAMBSPREAD-26NOV02MONTORE-ORE18",
-      "title": "Oregon wins by over 17.5 points",
-      "event_ticker": "KXNCAAMBSPREAD-26NOV02MONTORE",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1627.31",
-      "close_time": "2026-11-05T03:00:00Z",
+      "volume_24h": "1698.17",
+      "close_time": "2026-11-16T09:00:00Z",
       "category": "Sports"
     },
     {
       "ticker": "KXNBAPTS-26NOV02CHIPHI-CHINPOWELL24-15",
       "title": "Norman Powell: 15+ points",
       "event_ticker": "KXNBAPTS-26NOV02CHIPHI",
-      "yes_ask_cents": "79.0",
-      "no_ask_cents": "25.0",
-      "spread_cents": "4.0",
+      "yes_ask_cents": "80.0",
+      "no_ask_cents": "26.0",
+      "spread_cents": "6.0",
       "volume_24h": "1618.25",
       "close_time": "2026-11-05T00:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXWTACHALLENGERMATCH-26NOV02SZISAW-SZI",
-      "title": "Franziska Sziedat wins",
-      "event_ticker": "KXWTACHALLENGERMATCH-26NOV02SZISAW",
-      "yes_ask_cents": "88.0",
-      "no_ask_cents": "13.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1615.15",
-      "close_time": "2026-11-16T09:00:00Z",
       "category": "Sports"
     },
     {
@@ -897,17 +775,6 @@
       "spread_cents": "1.0",
       "volume_24h": "1611.79",
       "close_time": "2026-11-08T01:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXATPCHALLENGERMATCH-26NOV02ROSHIP-ROS",
-      "title": "Leonardo Rossi wins",
-      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02ROSHIP",
-      "yes_ask_cents": "58.0",
-      "no_ask_cents": "43.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1588.86",
-      "close_time": "2026-11-16T09:00:00Z",
       "category": "Sports"
     },
     {
@@ -933,70 +800,15 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXATPGTOTAL-26NOV02JACMAC-24",
-      "title": "Over 23.5 games",
-      "event_ticker": "KXATPGTOTAL-26NOV02JACMAC",
-      "yes_ask_cents": "42.0",
-      "no_ask_cents": "59.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1551.54",
-      "close_time": "2026-11-16T14:30:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXITFWMATCH-26NOV02TARBAI-TAR",
       "title": "Agustina Tarantola wins",
       "event_ticker": "KXITFWMATCH-26NOV02TARBAI",
       "yes_ask_cents": "92.0",
-      "no_ask_cents": "14.0",
-      "spread_cents": "6.0",
+      "no_ask_cents": "15.0",
+      "spread_cents": "7.0",
       "volume_24h": "1542.52",
       "close_time": "2026-11-16T13:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV02MIALAL-LAL3",
-      "title": "Los Angeles L wins by over 2.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV02MIALAL",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1523.29",
-      "close_time": "2026-11-05T03:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXCS2GAME-26NOV022330LGCB8-B8",
-      "title": "B8 wins",
-      "event_ticker": "KXCS2GAME-26NOV022330LGCB8",
-      "yes_ask_cents": "40.0",
-      "no_ask_cents": "65.0",
-      "spread_cents": "5.0",
-      "volume_24h": "1516.31",
-      "close_time": "2026-11-05T04:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXUCLSCORE-26NOV03FEYINT-FEY0INT4",
-      "title": "Final score Inter Milano wins 4-0?",
-      "event_ticker": "KXUCLSCORE-26NOV03FEYINT",
-      "yes_ask_cents": "3.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1502.0",
-      "close_time": "2026-11-06T02:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXUSDJPY15M-26NOV020415-30",
-      "title": "USD/JPY price up in next 15 mins?",
-      "event_ticker": "KXUSDJPY15M-26NOV020415",
-      "yes_ask_cents": "35.0",
-      "no_ask_cents": "66.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1477.83",
-      "close_time": "2026-11-02T09:15:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXNCAAMBGAME-26NOV05JACFLA-FLA",
@@ -1007,17 +819,6 @@
       "spread_cents": "1.0",
       "volume_24h": "1409.0",
       "close_time": "2026-11-08T01:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXATPCHALLENGERMATCH-26NOV02BASKAR-BAS",
-      "title": "Nishesh Basavareddy wins",
-      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02BASKAR",
-      "yes_ask_cents": "76.0",
-      "no_ask_cents": "25.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1394.27",
-      "close_time": "2026-11-16T15:00:00Z",
       "category": "Sports"
     },
     {
@@ -1032,6 +833,17 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXNBASPREAD-26NOV02PORDEN-DEN4",
+      "title": "Denver wins by over 3.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV02PORDEN",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1352.98",
+      "close_time": "2026-11-05T02:00:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXNFLSPREAD-26NOV08DETMIA-DET8",
       "title": "Detroit wins by over 7.5 points?",
       "event_ticker": "KXNFLSPREAD-26NOV08DETMIA",
@@ -1043,12 +855,23 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXATPCHALLENGERMATCH-26NOV02GREMOE-MOE",
+      "title": "Marvin Moeller wins",
+      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02GREMOE",
+      "yes_ask_cents": "40.0",
+      "no_ask_cents": "61.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1282.37",
+      "close_time": "2026-11-16T12:00:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXITFMATCH-26NOV02DOBALB-DOB",
       "title": "Mitchell Dobek wins",
       "event_ticker": "KXITFMATCH-26NOV02DOBALB",
       "yes_ask_cents": "72.0",
-      "no_ask_cents": "32.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "33.0",
+      "spread_cents": "5.0",
       "volume_24h": "1277.93",
       "close_time": "2026-11-16T14:00:00Z",
       "category": "Sports"
@@ -1062,6 +885,17 @@
       "spread_cents": "1.0",
       "volume_24h": "1245.0",
       "close_time": "2026-11-05T00:00:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXNCAAMBSPREAD-26NOV02NAVYGW-GW17",
+      "title": "George Washington wins by over 16.5 points",
+      "event_ticker": "KXNCAAMBSPREAD-26NOV02NAVYGW",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1243.64",
+      "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
     },
     {
@@ -1098,25 +932,25 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXATPCHALLENGERMATCH-26NOV02GREMOE-MOE",
-      "title": "Marvin Moeller wins",
-      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02GREMOE",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "60.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1200.39",
-      "close_time": "2026-11-16T12:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXATPCHALLENGERMATCH-26NOV02PENWAL-PEN",
       "title": "Ryan Peniston wins",
       "event_ticker": "KXATPCHALLENGERMATCH-26NOV02PENWAL",
-      "yes_ask_cents": "71.0",
+      "yes_ask_cents": "72.0",
       "no_ask_cents": "30.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1192.55",
+      "spread_cents": "2.0",
+      "volume_24h": "1212.99",
       "close_time": "2026-11-16T10:10:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV02PORDEN-DEN5",
+      "title": "Denver wins by over 4.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV02PORDEN",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1187.19",
+      "close_time": "2026-11-05T02:00:00Z",
       "category": "Sports"
     },
     {
@@ -1131,28 +965,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV02PORDEN-DEN5",
-      "title": "Denver wins by over 4.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV02PORDEN",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1179.19",
-      "close_time": "2026-11-05T02:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV02BOSHOU-HOU5",
-      "title": "Houston wins by over 4.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV02BOSHOU",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1160.06",
-      "close_time": "2026-11-05T01:30:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNBASPREAD-26NOV02BKNNYK-NYK16",
       "title": "New York wins by over 15.5 points",
       "event_ticker": "KXNBASPREAD-26NOV02BKNNYK",
@@ -1164,12 +976,23 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXNBASPREAD-26NOV02WASORL-ORL5",
+      "title": "Orlando wins by over 4.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV02WASORL",
+      "yes_ask_cents": "42.0",
+      "no_ask_cents": "60.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1144.04",
+      "close_time": "2026-11-05T00:30:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXNBAREB-26NOV02CHIPHI-PHIJEMBIID21-8",
       "title": "Joel Embiid: 8+ rebounds",
       "event_ticker": "KXNBAREB-26NOV02CHIPHI",
       "yes_ask_cents": "57.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "47.0",
+      "spread_cents": "4.0",
       "volume_24h": "1140.21",
       "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
@@ -1178,9 +1001,9 @@
       "ticker": "KXATPCHALLENGERMATCH-26NOV02CANGIU-GIU",
       "title": "Lorenzo Giustino wins",
       "event_ticker": "KXATPCHALLENGERMATCH-26NOV02CANGIU",
-      "yes_ask_cents": "40.0",
+      "yes_ask_cents": "39.0",
       "no_ask_cents": "62.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "1139.56",
       "close_time": "2026-11-16T12:00:00Z",
       "category": "Sports"
@@ -1189,9 +1012,9 @@
       "ticker": "KXITFMATCH-26NOV02CHEDEG-CHE",
       "title": "Ben Chetewy Ungar wins",
       "event_ticker": "KXITFMATCH-26NOV02CHEDEG",
-      "yes_ask_cents": "91.0",
-      "no_ask_cents": "15.0",
-      "spread_cents": "6.0",
+      "yes_ask_cents": "88.0",
+      "no_ask_cents": "16.0",
+      "spread_cents": "4.0",
       "volume_24h": "1126.0",
       "close_time": "2026-11-16T15:00:00Z",
       "category": "Sports"
@@ -1241,36 +1064,14 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXATPGSPREAD-26NOV02RUUCER-RUU4",
-      "title": "Will Casper Ruud win at least 3.5 more games than Juan Manuel Cerundolo?",
-      "event_ticker": "KXATPGSPREAD-26NOV02RUUCER",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1092.1",
-      "close_time": "2026-11-16T12:20:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXATPGSPREAD-26NOV02DARHIJ-HIJ2",
-      "title": "Will Rinky Hijikata win at least 1.5 more games than Luciano Darderi?",
-      "event_ticker": "KXATPGSPREAD-26NOV02DARHIJ",
-      "yes_ask_cents": "49.0",
+      "ticker": "KXCS2GAME-26NOV022100MGLZHERO-HERO",
+      "title": "Heroic wins",
+      "event_ticker": "KXCS2GAME-26NOV022100MGLZHERO",
+      "yes_ask_cents": "52.0",
       "no_ask_cents": "52.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1086.05",
-      "close_time": "2026-11-16T10:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV02CHIPHI-PHITMAXEY0-25",
-      "title": "Tyrese Maxey: 25+ points",
-      "event_ticker": "KXNBAPTS-26NOV02CHIPHI",
-      "yes_ask_cents": "59.0",
-      "no_ask_cents": "43.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1058.01",
-      "close_time": "2026-11-05T00:30:00Z",
+      "spread_cents": "4.0",
+      "volume_24h": "1089.9",
+      "close_time": "2026-11-05T02:00:00Z",
       "category": "Sports"
     },
     {
@@ -1280,17 +1081,28 @@
       "yes_ask_cents": "47.0",
       "no_ask_cents": "54.0",
       "spread_cents": "1.0",
-      "volume_24h": "1057.4",
+      "volume_24h": "1085.09",
       "close_time": "2026-11-05T00:00:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV02CHIPHI-PHITMAXEY0-25",
+      "title": "Tyrese Maxey: 25+ points",
+      "event_ticker": "KXNBAPTS-26NOV02CHIPHI",
+      "yes_ask_cents": "58.0",
+      "no_ask_cents": "43.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1058.01",
+      "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
     },
     {
       "ticker": "KXITFWMATCH-26NOV02TARBAI-BAI",
       "title": "Jazmin Baier wins",
       "event_ticker": "KXITFWMATCH-26NOV02TARBAI",
-      "yes_ask_cents": "11.0",
+      "yes_ask_cents": "12.0",
       "no_ask_cents": "94.0",
-      "spread_cents": "5.0",
+      "spread_cents": "6.0",
       "volume_24h": "1055.18",
       "close_time": "2026-11-16T13:00:00Z",
       "category": "Sports"
@@ -1318,14 +1130,14 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXATPGTOTAL-26NOV02MOLDRO-24",
-      "title": "Over 23.5 games",
-      "event_ticker": "KXATPGTOTAL-26NOV02MOLDRO",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1045.0",
-      "close_time": "2026-11-16T15:40:00Z",
+      "ticker": "KXNBATOTAL-26NOV02NOPMEM-236",
+      "title": "Full Game: Over 235.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV02NOPMEM",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1049.4",
+      "close_time": "2026-11-05T01:00:00Z",
       "category": "Sports"
     },
     {
@@ -1333,8 +1145,8 @@
       "title": "Rudy Gobert: 12+ rebounds",
       "event_ticker": "KXNBAREB-26NOV02MILMIN",
       "yes_ask_cents": "38.0",
-      "no_ask_cents": "66.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "65.0",
+      "spread_cents": "3.0",
       "volume_24h": "1044.21",
       "close_time": "2026-11-05T01:00:00Z",
       "category": "Sports"
@@ -1351,47 +1163,25 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXLIGAPROMATCH-26NOV020345MOSKHA-KHA",
-      "title": "Kharlakin Oleg wins",
-      "event_ticker": "KXLIGAPROMATCH-26NOV020345MOSKHA",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1042.14",
-      "close_time": "2026-11-04T08:45:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXITFWMATCH-26NOV02PETLOM-PET",
-      "title": "Lucie Petruzelova wins",
-      "event_ticker": "KXITFWMATCH-26NOV02PETLOM",
-      "yes_ask_cents": "32.0",
-      "no_ask_cents": "69.0",
+      "ticker": "KXATPCHALLENGERMATCH-26NOV02KRAVIS-KRA",
+      "title": "Michal Krajci wins",
+      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02KRAVIS",
+      "yes_ask_cents": "31.0",
+      "no_ask_cents": "70.0",
       "spread_cents": "1.0",
-      "volume_24h": "1039.87",
-      "close_time": "2026-11-16T10:30:00Z",
+      "volume_24h": "1041.0",
+      "close_time": "2026-11-16T10:00:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXNCAAMBSPREAD-26NOV02NAVYGW-GW17",
-      "title": "George Washington wins by over 16.5 points",
-      "event_ticker": "KXNCAAMBSPREAD-26NOV02NAVYGW",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1036.38",
-      "close_time": "2026-11-05T00:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV02NOPMEM-236",
-      "title": "Full Game: Over 235.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV02NOPMEM",
-      "yes_ask_cents": "48.0",
+      "ticker": "KXWTACHALLENGERMATCH-26NOV02SHIVAI-VAI",
+      "title": "Dune Vaissaud wins",
+      "event_ticker": "KXWTACHALLENGERMATCH-26NOV02SHIVAI",
+      "yes_ask_cents": "47.0",
       "no_ask_cents": "54.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1031.46",
-      "close_time": "2026-11-05T01:00:00Z",
+      "spread_cents": "1.0",
+      "volume_24h": "1033.25",
+      "close_time": "2026-11-16T11:00:00Z",
       "category": "Sports"
     },
     {
@@ -1428,17 +1218,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXATPCHALLENGERMATCH-26NOV02KRAVIS-KRA",
-      "title": "Michal Krajci wins",
-      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02KRAVIS",
-      "yes_ask_cents": "25.0",
-      "no_ask_cents": "76.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1003.0",
-      "close_time": "2026-11-16T10:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXLALIGASPREAD-26NOV08ATMBAR-BAR2",
       "title": "Barcelona wins by more than 1.5 goals?",
       "event_ticker": "KXLALIGASPREAD-26NOV08ATMBAR",
@@ -1450,25 +1229,25 @@
       "category": "Other"
     },
     {
-      "ticker": "KXATPCHALLENGERMATCH-26NOV02KRAVIS-VIS",
-      "title": "Niels Visker wins",
-      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02KRAVIS",
-      "yes_ask_cents": "76.0",
-      "no_ask_cents": "25.0",
-      "spread_cents": "1.0",
-      "volume_24h": "984.87",
-      "close_time": "2026-11-16T10:00:00Z",
+      "ticker": "KXNBATOTAL-26NOV02TORLAC-220",
+      "title": "Full Game: Over 219.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV02TORLAC",
+      "yes_ask_cents": "56.0",
+      "no_ask_cents": "46.0",
+      "spread_cents": "2.0",
+      "volume_24h": "985.28",
+      "close_time": "2026-11-05T03:00:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXNCAAFTOTAL-26NOV07PSUWASH-25",
-      "title": "Full Game: Over 24.5 points scored",
-      "event_ticker": "KXNCAAFTOTAL-26NOV07PSUWASH",
-      "yes_ask_cents": "96.0",
-      "no_ask_cents": "8.0",
-      "spread_cents": "4.0",
-      "volume_24h": "975.0",
-      "close_time": "2026-11-09T20:30:00Z",
+      "ticker": "KXATPCHALLENGERMATCH-26NOV02KRAVIS-VIS",
+      "title": "Niels Visker wins",
+      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02KRAVIS",
+      "yes_ask_cents": "70.0",
+      "no_ask_cents": "31.0",
+      "spread_cents": "1.0",
+      "volume_24h": "984.87",
+      "close_time": "2026-11-16T10:00:00Z",
       "category": "Sports"
     },
     {
@@ -1476,8 +1255,8 @@
       "title": "Tareq Alani wins",
       "event_ticker": "KXITFMATCH-26NOV02KUHALA",
       "yes_ask_cents": "27.0",
-      "no_ask_cents": "78.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "75.0",
+      "spread_cents": "2.0",
       "volume_24h": "970.93",
       "close_time": "2026-11-16T14:00:00Z",
       "category": "Sports"
@@ -1494,28 +1273,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNBATOTAL-26NOV02TORLAC-220",
-      "title": "Full Game: Over 219.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV02TORLAC",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "1.0",
-      "volume_24h": "967.96",
-      "close_time": "2026-11-05T03:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV02WASORL-ORL5",
-      "title": "Orlando wins by over 4.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV02WASORL",
-      "yes_ask_cents": "42.0",
-      "no_ask_cents": "60.0",
-      "spread_cents": "2.0",
-      "volume_24h": "954.54",
-      "close_time": "2026-11-05T00:30:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNCAAMBTOTAL-26NOV02SOUSMU-158",
       "title": "Full Game: Over 157.5 points scored",
       "event_ticker": "KXNCAAMBTOTAL-26NOV02SOUSMU",
@@ -1527,44 +1284,22 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXSESBLGAME-26NOV031304HOGSLO-HOG",
-      "title": "Hogsbo Basket wins",
-      "event_ticker": "KXSESBLGAME-26NOV031304HOGSLO",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "64.0",
-      "spread_cents": "5.0",
-      "volume_24h": "911.1",
-      "close_time": "2026-11-05T18:04:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXNCAAFSPREAD-26NOV07UCLAMINN-UCLA28",
-      "title": "UCLA wins by over 27.5 points",
-      "event_ticker": "KXNCAAFSPREAD-26NOV07UCLAMINN",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "2.0",
-      "volume_24h": "910.0",
-      "close_time": "2026-11-09T17:00:00Z",
+      "ticker": "KXNBATOTAL-26NOV02ATLIND-233",
+      "title": "Full Game: Over 232.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV02ATLIND",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "1.0",
+      "volume_24h": "883.5",
+      "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXLIGAPROMATCH-26NOV020400KOLFRO-KOL",
-      "title": "Kolunov Oleg wins",
-      "event_ticker": "KXLIGAPROMATCH-26NOV020400KOLFRO",
-      "yes_ask_cents": "98.0",
-      "no_ask_cents": "4.0",
-      "spread_cents": "2.0",
-      "volume_24h": "905.64",
-      "close_time": "2026-11-04T09:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXATPCHALLENGERMATCH-26NOV02CANGIU-CAN",
       "title": "Carlo Alberto Caniato wins",
       "event_ticker": "KXATPCHALLENGERMATCH-26NOV02CANGIU",
-      "yes_ask_cents": "61.0",
-      "no_ask_cents": "40.0",
+      "yes_ask_cents": "63.0",
+      "no_ask_cents": "38.0",
       "spread_cents": "1.0",
       "volume_24h": "882.0",
       "close_time": "2026-11-16T12:00:00Z",
@@ -1593,17 +1328,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNBATOTAL-26NOV02ATLIND-233",
-      "title": "Full Game: Over 232.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV02ATLIND",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "1.0",
-      "volume_24h": "865.09",
-      "close_time": "2026-11-05T00:30:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNFLSPREAD-26NOV08DALIND-DAL6",
       "title": "Dallas wins by over 5.5 points?",
       "event_ticker": "KXNFLSPREAD-26NOV08DALIND",
@@ -1618,8 +1342,8 @@
       "ticker": "KXCBATOTAL-26NOV020635QINGST-175",
       "title": "Over 174.5 points scored",
       "event_ticker": "KXCBATOTAL-26NOV020635QINGST",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "55.0",
+      "yes_ask_cents": "45.0",
+      "no_ask_cents": "58.0",
       "spread_cents": "3.0",
       "volume_24h": "854.02",
       "close_time": "2026-11-04T11:35:00Z",
@@ -1630,8 +1354,8 @@
       "title": "Shai Gilgeous-Alexander: 30+ points",
       "event_ticker": "KXNBAPTS-26NOV02OKCCLE",
       "yes_ask_cents": "52.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "1.0",
       "volume_24h": "849.86",
       "close_time": "2026-11-05T00:00:00Z",
       "category": "Sports"
@@ -1681,17 +1405,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXLIGAPROMATCH-26NOV020345MOSKHA-MOS",
-      "title": "Moshnikov Oleg wins",
-      "event_ticker": "KXLIGAPROMATCH-26NOV020345MOSKHA",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "2.0",
-      "volume_24h": "820.9",
-      "close_time": "2026-11-04T08:45:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXMIDTERMMOV-KSSEND-P1.5",
       "title": "Will the margin of victory for Democrats in the U.S. Senate election in Kansas be at least 1.5 percentage points?",
       "event_ticker": "KXMIDTERMMOV-KSSEND",
@@ -1701,6 +1414,17 @@
       "volume_24h": "819.03",
       "close_time": "2027-11-03T14:00:00Z",
       "category": "Other"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV02MILMIN-234",
+      "title": "Full Game: Over 233.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV02MILMIN",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "1.0",
+      "volume_24h": "819.0",
+      "close_time": "2026-11-05T01:00:00Z",
+      "category": "Sports"
     },
     {
       "ticker": "KXNCAAWBGAME-26NOV05NKUUK-UK",
@@ -1725,34 +1449,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNBATOTAL-26NOV02MILMIN-234",
-      "title": "Full Game: Over 233.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV02MILMIN",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "1.0",
-      "volume_24h": "813.0",
-      "close_time": "2026-11-05T01:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNFLSPREAD-26NOV08HOULAC-HOU4",
-      "title": "Houston wins by over 3.5 points?",
-      "event_ticker": "KXNFLSPREAD-26NOV08HOULAC",
-      "yes_ask_cents": "57.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "4.0",
-      "volume_24h": "808.02",
-      "close_time": "2026-11-10T21:05:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNCAAFSPREAD-26NOV07ISUBAY-BAY28",
       "title": "Baylor wins by over 27.5 points",
       "event_ticker": "KXNCAAFSPREAD-26NOV07ISUBAY",
       "yes_ask_cents": "13.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "5.0",
       "volume_24h": "807.0",
       "close_time": "2026-11-09T17:00:00Z",
       "category": "Sports"
@@ -1769,14 +1471,14 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV02PORDEN-DEN4",
-      "title": "Denver wins by over 3.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV02PORDEN",
-      "yes_ask_cents": "54.0",
+      "ticker": "KXNBASPREAD-26NOV02NOPMEM-MEM6",
+      "title": "Memphis wins by over 5.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV02NOPMEM",
+      "yes_ask_cents": "53.0",
       "no_ask_cents": "48.0",
-      "spread_cents": "2.0",
-      "volume_24h": "802.98",
-      "close_time": "2026-11-05T02:00:00Z",
+      "spread_cents": "1.0",
+      "volume_24h": "797.43",
+      "close_time": "2026-11-05T01:00:00Z",
       "category": "Sports"
     },
     {
@@ -1795,8 +1497,8 @@
       "title": "Miami wins by over 6.5 points",
       "event_ticker": "KXNBASPREAD-26NOV02MIALAL",
       "yes_ask_cents": "30.0",
-      "no_ask_cents": "73.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "75.0",
+      "spread_cents": "5.0",
       "volume_24h": "782.1",
       "close_time": "2026-11-05T03:00:00Z",
       "category": "Sports"
@@ -1816,9 +1518,9 @@
       "ticker": "KXATPCHALLENGERMATCH-26NOV02PENWAL-WAL",
       "title": "Marcus Walters wins",
       "event_ticker": "KXATPCHALLENGERMATCH-26NOV02PENWAL",
-      "yes_ask_cents": "30.0",
+      "yes_ask_cents": "29.0",
       "no_ask_cents": "72.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "779.46",
       "close_time": "2026-11-16T10:10:00Z",
       "category": "Sports"
@@ -1835,14 +1537,14 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV02NOPMEM-MEM6",
-      "title": "Memphis wins by over 5.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV02NOPMEM",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "48.0",
+      "ticker": "KXATPCHALLENGERMATCH-26NOV02POUKEL-POU",
+      "title": "Lucas Poullain wins",
+      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02POUKEL",
+      "yes_ask_cents": "77.0",
+      "no_ask_cents": "24.0",
       "spread_cents": "1.0",
-      "volume_24h": "770.17",
-      "close_time": "2026-11-05T01:00:00Z",
+      "volume_24h": "767.56",
+      "close_time": "2026-11-16T10:00:00Z",
       "category": "Sports"
     },
     {
@@ -1854,28 +1556,6 @@
       "spread_cents": "2.0",
       "volume_24h": "764.55",
       "close_time": "2026-11-05T03:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFWMATCH-26NOV02BERKUP-KUP",
-      "title": "Anastasiya Kuparev wins",
-      "event_ticker": "KXITFWMATCH-26NOV02BERKUP",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "1.0",
-      "volume_24h": "762.71",
-      "close_time": "2026-11-16T10:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXATPCHALLENGERMATCH-26NOV02POUKEL-POU",
-      "title": "Lucas Poullain wins",
-      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02POUKEL",
-      "yes_ask_cents": "74.0",
-      "no_ask_cents": "27.0",
-      "spread_cents": "1.0",
-      "volume_24h": "761.56",
-      "close_time": "2026-11-16T10:00:00Z",
       "category": "Sports"
     },
     {
@@ -1901,23 +1581,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXEERSTEDIVBTTS-26NOV02PSVBRE-BTTS",
-      "title": "Both Teams To Score",
-      "event_ticker": "KXEERSTEDIVBTTS-26NOV02PSVBRE",
-      "yes_ask_cents": "66.0",
-      "no_ask_cents": "35.0",
-      "spread_cents": "1.0",
-      "volume_24h": "732.83",
-      "close_time": "2026-11-04T19:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNBAPTS-26NOV02BKNNYK-NYKKTOWNS32-15",
       "title": "Karl-Anthony Towns: 15+ points",
       "event_ticker": "KXNBAPTS-26NOV02BKNNYK",
-      "yes_ask_cents": "88.0",
+      "yes_ask_cents": "87.0",
       "no_ask_cents": "15.0",
-      "spread_cents": "3.0",
+      "spread_cents": "2.0",
       "volume_24h": "732.71",
       "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
@@ -1927,22 +1596,33 @@
       "title": "Santiago De la Fuente wins",
       "event_ticker": "KXATPCHALLENGERMATCH-26NOV02DLFTAB",
       "yes_ask_cents": "53.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "1.0",
       "volume_24h": "729.54",
       "close_time": "2026-11-16T13:00:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXUCLSCORE-26NOV03BARAVL-BAR3AVL3",
-      "title": "Final score Draw 3-3?",
-      "event_ticker": "KXUCLSCORE-26NOV03BARAVL",
-      "yes_ask_cents": "2.0",
-      "no_ask_cents": "99.0",
+      "ticker": "KXNBATOTAL-26NOV02PORDEN-230",
+      "title": "Full Game: Over 229.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV02PORDEN",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "47.0",
       "spread_cents": "1.0",
-      "volume_24h": "701.85",
-      "close_time": "2026-11-06T02:00:00Z",
-      "category": "Other"
+      "volume_24h": "708.32",
+      "close_time": "2026-11-05T02:00:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV02UTASAS-SAS17",
+      "title": "San Antonio wins by over 16.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV02UTASAS",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "1.0",
+      "volume_24h": "704.55",
+      "close_time": "2026-11-05T01:30:00Z",
+      "category": "Sports"
     },
     {
       "ticker": "KXNBASPREAD-26NOV02WASORL-ORL20",
@@ -1963,17 +1643,6 @@
       "no_ask_cents": "96.0",
       "spread_cents": "3.0",
       "volume_24h": "700.0",
-      "close_time": "2026-11-05T02:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV02PORDEN-230",
-      "title": "Full Game: Over 229.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV02PORDEN",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "1.0",
-      "volume_24h": "698.07",
       "close_time": "2026-11-05T02:00:00Z",
       "category": "Sports"
     },
@@ -2003,8 +1672,8 @@
       "ticker": "KXITFMATCH-26NOV02DOBALB-ALB",
       "title": "Danny Al Barbour wins",
       "event_ticker": "KXITFMATCH-26NOV02DOBALB",
-      "yes_ask_cents": "31.0",
-      "no_ask_cents": "72.0",
+      "yes_ask_cents": "30.0",
+      "no_ask_cents": "73.0",
       "spread_cents": "3.0",
       "volume_24h": "684.67",
       "close_time": "2026-11-16T14:00:00Z",
@@ -2014,67 +1683,34 @@
       "ticker": "KXCBATOTAL-26NOV020635BRFSHA-185",
       "title": "Over 184.5 points scored",
       "event_ticker": "KXCBATOTAL-26NOV020635BRFSHA",
-      "yes_ask_cents": "42.0",
-      "no_ask_cents": "60.0",
-      "spread_cents": "2.0",
+      "yes_ask_cents": "40.0",
+      "no_ask_cents": "66.0",
+      "spread_cents": "6.0",
       "volume_24h": "679.27",
       "close_time": "2026-11-04T11:35:00Z",
       "category": "Other"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV02UTASAS-SAS17",
-      "title": "San Antonio wins by over 16.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV02UTASAS",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "2.0",
-      "volume_24h": "658.89",
-      "close_time": "2026-11-05T01:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFWMATCH-26NOV02VANMAR-VAN",
-      "title": "Sarah Van Emst wins",
-      "event_ticker": "KXITFWMATCH-26NOV02VANMAR",
-      "yes_ask_cents": "95.0",
-      "no_ask_cents": "6.0",
-      "spread_cents": "1.0",
-      "volume_24h": "648.44",
-      "close_time": "2026-11-16T10:30:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNBASPREAD-26NOV02MIALAL-MIA4",
       "title": "Miami wins by over 3.5 points",
       "event_ticker": "KXNBASPREAD-26NOV02MIALAL",
-      "yes_ask_cents": "37.0",
+      "yes_ask_cents": "38.0",
       "no_ask_cents": "65.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "643.22",
       "close_time": "2026-11-05T03:00:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXWTIH-26NOV0205-T100.69",
-      "title": "Will the WTI Oil close price be above 100.69 USD/barrel on November 02, 2026 at 5:00 AM ET?",
-      "event_ticker": "KXWTIH-26NOV0205",
-      "yes_ask_cents": "5.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "2.0",
-      "volume_24h": "643.0",
-      "close_time": "2026-11-02T10:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXDENSUPERLIGABTTS-26NOV02SONFCC-BTTS",
-      "title": "Both Teams To Score",
-      "event_ticker": "KXDENSUPERLIGABTTS-26NOV02SONFCC",
-      "yes_ask_cents": "57.0",
-      "no_ask_cents": "45.0",
-      "spread_cents": "2.0",
-      "volume_24h": "636.92",
-      "close_time": "2026-11-04T18:00:00Z",
-      "category": "Other"
+      "ticker": "KXNBATOTAL-26NOV02PORDEN-232",
+      "title": "Full Game: Over 231.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV02PORDEN",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "1.0",
+      "volume_24h": "639.25",
+      "close_time": "2026-11-05T02:00:00Z",
+      "category": "Sports"
     },
     {
       "ticker": "KXITFWMATCH-26NOV02KAWBER-BER",
@@ -2092,32 +1728,10 @@
       "title": "Evan Mobley: 2+ threes",
       "event_ticker": "KXNBA3PT-26NOV02OKCCLE",
       "yes_ask_cents": "41.0",
-      "no_ask_cents": "62.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "61.0",
+      "spread_cents": "2.0",
       "volume_24h": "627.47",
       "close_time": "2026-11-05T00:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFWMATCH-26NOV02BIOBAY-BIO",
-      "title": "Alexandra Biot wins",
-      "event_ticker": "KXITFWMATCH-26NOV02BIOBAY",
-      "yes_ask_cents": "75.0",
-      "no_ask_cents": "27.0",
-      "spread_cents": "2.0",
-      "volume_24h": "625.02",
-      "close_time": "2026-11-16T11:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV02PORDEN-232",
-      "title": "Full Game: Over 231.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV02PORDEN",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "2.0",
-      "volume_24h": "620.65",
-      "close_time": "2026-11-05T02:00:00Z",
       "category": "Sports"
     },
     {
@@ -2132,23 +1746,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXITFWMATCH-26NOV02ROUPAO-ROU",
-      "title": "Styliani Roussopoulou wins",
-      "event_ticker": "KXITFWMATCH-26NOV02ROUPAO",
-      "yes_ask_cents": "4.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "1.0",
-      "volume_24h": "616.17",
-      "close_time": "2026-11-16T10:30:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXITFMATCH-26NOV02AREHER-ARE",
       "title": "Carlo Arena Fava wins",
       "event_ticker": "KXITFMATCH-26NOV02AREHER",
-      "yes_ask_cents": "94.0",
+      "yes_ask_cents": "95.0",
       "no_ask_cents": "10.0",
-      "spread_cents": "4.0",
+      "spread_cents": "5.0",
       "volume_24h": "614.01",
       "close_time": "2026-11-16T19:30:00Z",
       "category": "Sports"
@@ -2168,22 +1771,11 @@
       "ticker": "KXNCAAMBGAME-26NOV05LMCCREI-CREI",
       "title": "Creighton wins",
       "event_ticker": "KXNCAAMBGAME-26NOV05LMCCREI",
-      "yes_ask_cents": "97.0",
-      "no_ask_cents": "7.0",
+      "yes_ask_cents": "96.0",
+      "no_ask_cents": "8.0",
       "spread_cents": "4.0",
       "volume_24h": "604.0",
       "close_time": "2026-11-08T01:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXATPGTOTAL-26NOV02BELSON-24",
-      "title": "Over 23.5 games",
-      "event_ticker": "KXATPGTOTAL-26NOV02BELSON",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "1.0",
-      "volume_24h": "600.1",
-      "close_time": "2026-11-16T13:30:00Z",
       "category": "Sports"
     },
     {
@@ -2223,8 +1815,8 @@
       "ticker": "KXNFLTOTAL-26NOV08LVSF-52",
       "title": "Full Game: over 51.5 points scored?",
       "event_ticker": "KXNFLTOTAL-26NOV08LVSF",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "50.0",
       "spread_cents": "1.0",
       "volume_24h": "593.81",
       "close_time": "2026-11-10T21:25:00Z",
@@ -2234,9 +1826,9 @@
       "ticker": "KXNFLSPREAD-26NOV08GBNE-NE3",
       "title": "New England wins by over 2.5 points?",
       "event_ticker": "KXNFLSPREAD-26NOV08GBNE",
-      "yes_ask_cents": "54.0",
+      "yes_ask_cents": "53.0",
       "no_ask_cents": "48.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "592.55",
       "close_time": "2026-11-10T21:25:00Z",
       "category": "Sports"
@@ -2253,24 +1845,13 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNBAPTS-26NOV02CHIPHI-CHINPOWELL24-10",
-      "title": "Norman Powell: 10+ points",
-      "event_ticker": "KXNBAPTS-26NOV02CHIPHI",
-      "yes_ask_cents": "93.0",
-      "no_ask_cents": "12.0",
-      "spread_cents": "5.0",
-      "volume_24h": "589.0",
-      "close_time": "2026-11-05T00:30:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXODIMATCH-26NOV032100INDNZ-IND",
       "title": "India wins",
       "event_ticker": "KXODIMATCH-26NOV032100INDNZ",
-      "yes_ask_cents": "62.0",
-      "no_ask_cents": "42.0",
-      "spread_cents": "4.0",
-      "volume_24h": "587.44",
+      "yes_ask_cents": "61.0",
+      "no_ask_cents": "41.0",
+      "spread_cents": "2.0",
+      "volume_24h": "589.03",
       "close_time": "2026-11-06T10:00:00Z",
       "category": "Other"
     },
@@ -2286,17 +1867,6 @@
       "category": "Other"
     },
     {
-      "ticker": "KXUCLSCORE-26NOV03BARAVL-BAR3AVL1",
-      "title": "Final score FC Barcelona wins 3-1?",
-      "event_ticker": "KXUCLSCORE-26NOV03BARAVL",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "1.0",
-      "volume_24h": "582.66",
-      "close_time": "2026-11-06T02:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNBA3PT-26NOV02CHIPHI-CHITJONES30-1",
       "title": "Tre Jones: 1+ threes",
       "event_ticker": "KXNBA3PT-26NOV02CHIPHI",
@@ -2308,15 +1878,26 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXESOCCERGAME-26NOV020409ADRIROSE-ROSE",
-      "title": "OL Lyonnes (Rose) wins",
-      "event_ticker": "KXESOCCERGAME-26NOV020409ADRIROSE",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "56.0",
+      "ticker": "KXNBATOTAL-26NOV02BOSHOU-221",
+      "title": "Full Game: Over 220.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV02BOSHOU",
+      "yes_ask_cents": "47.0",
+      "no_ask_cents": "54.0",
       "spread_cents": "1.0",
-      "volume_24h": "559.37",
-      "close_time": "2026-11-16T09:09:00Z",
-      "category": "Other"
+      "volume_24h": "576.16",
+      "close_time": "2026-11-05T01:30:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXATPCHALLENGERMATCH-26NOV02HOUVRB-HOU",
+      "title": "Max Houkes wins",
+      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02HOUVRB",
+      "yes_ask_cents": "64.0",
+      "no_ask_cents": "37.0",
+      "spread_cents": "1.0",
+      "volume_24h": "575.76",
+      "close_time": "2026-11-16T11:10:00Z",
+      "category": "Sports"
     },
     {
       "ticker": "KXUCL1HSPREAD-26NOV03MUNROM-ROM2",
@@ -2330,25 +1911,14 @@
       "category": "Other"
     },
     {
-      "ticker": "KXATPCHALLENGERMATCH-26NOV02HOUVRB-HOU",
-      "title": "Max Houkes wins",
+      "ticker": "KXATPCHALLENGERMATCH-26NOV02HOUVRB-VRB",
+      "title": "Michael Vrbensky wins",
       "event_ticker": "KXATPCHALLENGERMATCH-26NOV02HOUVRB",
-      "yes_ask_cents": "65.0",
-      "no_ask_cents": "36.0",
+      "yes_ask_cents": "37.0",
+      "no_ask_cents": "64.0",
       "spread_cents": "1.0",
-      "volume_24h": "553.24",
+      "volume_24h": "557.0",
       "close_time": "2026-11-16T11:10:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV02BOSHOU-221",
-      "title": "Full Game: Over 220.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV02BOSHOU",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "1.0",
-      "volume_24h": "549.26",
-      "close_time": "2026-11-05T01:30:00Z",
       "category": "Sports"
     },
     {
@@ -2396,6 +1966,17 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXITFMATCH-26NOV02PERMCG-PER",
+      "title": "Brandon Perez wins",
+      "event_ticker": "KXITFMATCH-26NOV02PERMCG",
+      "yes_ask_cents": "67.0",
+      "no_ask_cents": "37.0",
+      "spread_cents": "4.0",
+      "volume_24h": "534.6",
+      "close_time": "2026-11-16T17:00:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXNCAAFSPREAD-26NOV07MSUMICH-MSU2",
       "title": "Michigan St. wins by over 1.5 points",
       "event_ticker": "KXNCAAFSPREAD-26NOV07MSUMICH",
@@ -2422,18 +2003,29 @@
       "title": "Chicago wins by over 6.5 points?",
       "event_ticker": "KXNFLSPREAD-26NOV08TBCHI",
       "yes_ask_cents": "47.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "61.0",
+      "spread_cents": "8.0",
       "volume_24h": "520.25",
       "close_time": "2026-11-11T01:20:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXITFMATCH-26NOV02SACACH-ACH",
+      "title": "Leon Achurra Correa wins",
+      "event_ticker": "KXITFMATCH-26NOV02SACACH",
+      "yes_ask_cents": "23.0",
+      "no_ask_cents": "79.0",
+      "spread_cents": "2.0",
+      "volume_24h": "518.21",
+      "close_time": "2026-11-16T14:00:00Z",
       "category": "Sports"
     },
     {
       "ticker": "KXNBAAST-26NOV02BKNNYK-NYKKTOWNS32-4",
       "title": "Karl-Anthony Towns: 4+ assists",
       "event_ticker": "KXNBAAST-26NOV02BKNNYK",
-      "yes_ask_cents": "58.0",
-      "no_ask_cents": "45.0",
+      "yes_ask_cents": "57.0",
+      "no_ask_cents": "46.0",
       "spread_cents": "3.0",
       "volume_24h": "514.51",
       "close_time": "2026-11-05T00:30:00Z",
@@ -2454,12 +2046,23 @@
       "ticker": "KXITFWMATCH-26NOV02KMIMIC-MIC",
       "title": "Barbora Michalkova wins",
       "event_ticker": "KXITFWMATCH-26NOV02KMIMIC",
-      "yes_ask_cents": "40.0",
-      "no_ask_cents": "62.0",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "63.0",
       "spread_cents": "2.0",
       "volume_24h": "513.0",
       "close_time": "2026-11-16T13:30:00Z",
       "category": "Sports"
+    },
+    {
+      "ticker": "KXPERLIGA1SPREAD-26NOV02CRICAJ-CRI2",
+      "title": "Sporting Cristal wins by more than 1.5 goals?",
+      "event_ticker": "KXPERLIGA1SPREAD-26NOV02CRICAJ",
+      "yes_ask_cents": "58.0",
+      "no_ask_cents": "44.0",
+      "spread_cents": "2.0",
+      "volume_24h": "506.91",
+      "close_time": "2026-11-04T20:30:00Z",
+      "category": "Other"
     },
     {
       "ticker": "KXNBASPREAD-26NOV02NOPMEM-MEM7",
@@ -2473,26 +2076,26 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXNBASPREAD-26NOV02CHIPHI-PHI16",
+      "title": "Philadelphia wins by over 15.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV02CHIPHI",
+      "yes_ask_cents": "38.0",
+      "no_ask_cents": "64.0",
+      "spread_cents": "2.0",
+      "volume_24h": "505.27",
+      "close_time": "2026-11-05T00:30:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXNCAAFGAME-26NOV07MSUMICH-MSU",
       "title": "Michigan St. wins",
       "event_ticker": "KXNCAAFGAME-26NOV07MSUMICH",
       "yes_ask_cents": "18.0",
-      "no_ask_cents": "85.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "84.0",
+      "spread_cents": "2.0",
       "volume_24h": "502.88",
       "close_time": "2026-11-10T00:30:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXUCLSCORE-26NOV03MUNROM-MUN0ROM1",
-      "title": "Final score AS Roma wins 1-0?",
-      "event_ticker": "KXUCLSCORE-26NOV03MUNROM",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "1.0",
-      "volume_24h": "500.0",
-      "close_time": "2026-11-06T02:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXNCAAMBGAME-26NOV05CCARDUKE-CCAR",
@@ -2528,6 +2131,17 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXITFWMATCH-26NOV02KMIMIC-KMI",
+      "title": "Anna Kmiecik wins",
+      "event_ticker": "KXITFWMATCH-26NOV02KMIMIC",
+      "yes_ask_cents": "61.0",
+      "no_ask_cents": "40.0",
+      "spread_cents": "1.0",
+      "volume_24h": "495.35",
+      "close_time": "2026-11-16T13:30:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXNBATOTAL-26NOV02OKCCLE-200",
       "title": "Full Game: Over 199.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV02OKCCLE",
@@ -2547,17 +2161,6 @@
       "spread_cents": "2.0",
       "volume_24h": "492.41",
       "close_time": "2026-11-05T01:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV02CHIPHI-PHI16",
-      "title": "Philadelphia wins by over 15.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV02CHIPHI",
-      "yes_ask_cents": "38.0",
-      "no_ask_cents": "64.0",
-      "spread_cents": "2.0",
-      "volume_24h": "490.03",
-      "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
     },
     {
@@ -2587,8 +2190,8 @@
       "title": "Washington wins by over 14.5 points",
       "event_ticker": "KXNCAAMBSPREAD-26NOV02COLGWASH",
       "yes_ask_cents": "51.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "3.0",
       "volume_24h": "479.0",
       "close_time": "2026-11-05T03:00:00Z",
       "category": "Sports"
@@ -2605,14 +2208,14 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXITFMATCH-26NOV02SACACH-ACH",
-      "title": "Leon Achurra Correa wins",
-      "event_ticker": "KXITFMATCH-26NOV02SACACH",
-      "yes_ask_cents": "23.0",
-      "no_ask_cents": "79.0",
+      "ticker": "KXATPCHALLENGERMATCH-26NOV02HENHEM-HEN",
+      "title": "Philip Henning wins",
+      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02HENHEM",
+      "yes_ask_cents": "56.0",
+      "no_ask_cents": "46.0",
       "spread_cents": "2.0",
-      "volume_24h": "476.96",
-      "close_time": "2026-11-16T14:00:00Z",
+      "volume_24h": "478.55",
+      "close_time": "2026-11-16T12:00:00Z",
       "category": "Sports"
     },
     {
@@ -2638,6 +2241,17 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXITFMATCH-26NOV02GOMBRA-BRA",
+      "title": "Alexander Bravo wins",
+      "event_ticker": "KXITFMATCH-26NOV02GOMBRA",
+      "yes_ask_cents": "34.0",
+      "no_ask_cents": "67.0",
+      "spread_cents": "1.0",
+      "volume_24h": "474.65",
+      "close_time": "2026-11-16T15:00:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXNBASPREAD-26NOV02MIALAL-LAL10",
       "title": "Los Angeles L wins by over 9.5 points",
       "event_ticker": "KXNBASPREAD-26NOV02MIALAL",
@@ -2660,6 +2274,17 @@
       "category": "Other"
     },
     {
+      "ticker": "KXWTACHALLENGERMATCH-26NOV02SHIVAI-SHI",
+      "title": "Isabella Shinikova wins",
+      "event_ticker": "KXWTACHALLENGERMATCH-26NOV02SHIVAI",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "47.0",
+      "spread_cents": "1.0",
+      "volume_24h": "470.7",
+      "close_time": "2026-11-16T11:00:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXITFMATCH-26NOV02MERADE-ADE",
       "title": "Nicholas Adesalu wins",
       "event_ticker": "KXITFMATCH-26NOV02MERADE",
@@ -2675,8 +2300,8 @@
       "title": "Texas Tech wins by over 33.5 points",
       "event_ticker": "KXNCAAMBSPREAD-26NOV02JKSTTTU",
       "yes_ask_cents": "51.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "5.0",
       "volume_24h": "469.92",
       "close_time": "2026-11-05T00:00:00Z",
       "category": "Sports"
@@ -2748,6 +2373,17 @@
       "category": "Other"
     },
     {
+      "ticker": "KXNBA3PT-26NOV02BKNNYK-NYKJHART3-2",
+      "title": "Josh Hart: 2+ threes",
+      "event_ticker": "KXNBA3PT-26NOV02BKNNYK",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "56.0",
+      "spread_cents": "4.0",
+      "volume_24h": "459.52",
+      "close_time": "2026-11-05T00:30:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXLIGAPORTUGAL1HTOTAL-26NOV02BENALV-2",
       "title": "Over 1.5 1H goals scored",
       "event_ticker": "KXLIGAPORTUGAL1HTOTAL-26NOV02BENALV",
@@ -2759,11 +2395,33 @@
       "category": "Other"
     },
     {
+      "ticker": "KXITFMATCH-26NOV02AREHER-HER",
+      "title": "Roberto Herman wins",
+      "event_ticker": "KXITFMATCH-26NOV02AREHER",
+      "yes_ask_cents": "6.0",
+      "no_ask_cents": "95.0",
+      "spread_cents": "1.0",
+      "volume_24h": "454.1",
+      "close_time": "2026-11-16T19:30:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXATPCHALLENGERMATCH-26NOV02POUKEL-KEL",
+      "title": "Yannik Kelm wins",
+      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02POUKEL",
+      "yes_ask_cents": "24.0",
+      "no_ask_cents": "77.0",
+      "spread_cents": "1.0",
+      "volume_24h": "453.96",
+      "close_time": "2026-11-16T10:00:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXNBAPTS-26NOV02BOSHOU-BOSJTATUM0-30",
       "title": "Jayson Tatum: 30+ points",
       "event_ticker": "KXNBAPTS-26NOV02BOSHOU",
-      "yes_ask_cents": "35.0",
-      "no_ask_cents": "72.0",
+      "yes_ask_cents": "34.0",
+      "no_ask_cents": "73.0",
       "spread_cents": "7.0",
       "volume_24h": "450.56",
       "close_time": "2026-11-05T01:30:00Z",
@@ -2773,8 +2431,8 @@
       "ticker": "KXNFLTEAMTOTAL-26NOV05JACBAL-BAL25",
       "title": "Baltimore over 24.5 points scored",
       "event_ticker": "KXNFLTEAMTOTAL-26NOV05JACBAL",
-      "yes_ask_cents": "19.0",
-      "no_ask_cents": "85.0",
+      "yes_ask_cents": "18.0",
+      "no_ask_cents": "86.0",
       "spread_cents": "4.0",
       "volume_24h": "449.8",
       "close_time": "2026-11-08T01:15:00Z",
@@ -2792,23 +2450,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXCBASPREAD-26NOV020635BRFSHA-BRF7",
-      "title": "Beijing Royal Fighters wins by over 6.5 points",
-      "event_ticker": "KXCBASPREAD-26NOV020635BRFSHA",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "2.0",
-      "volume_24h": "447.34",
-      "close_time": "2026-11-04T11:35:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNFLTOTAL-26NOV08DETMIA-50",
       "title": "Full Game: over 49.5 points scored?",
       "event_ticker": "KXNFLTOTAL-26NOV08DETMIA",
       "yes_ask_cents": "53.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "3.0",
       "volume_24h": "447.14",
       "close_time": "2026-11-10T18:00:00Z",
       "category": "Sports"
@@ -2825,36 +2472,25 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNBA3PT-26NOV02BKNNYK-NYKJHART3-2",
-      "title": "Josh Hart: 2+ threes",
-      "event_ticker": "KXNBA3PT-26NOV02BKNNYK",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "1.0",
-      "volume_24h": "445.52",
-      "close_time": "2026-11-05T00:30:00Z",
+      "ticker": "KXNBATOTAL-26NOV02BOSHOU-219",
+      "title": "Full Game: Over 218.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV02BOSHOU",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "2.0",
+      "volume_24h": "446.17",
+      "close_time": "2026-11-05T01:30:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXWTACHALLENGERMATCH-26NOV02SHIVAI-SHI",
-      "title": "Isabella Shinikova wins",
-      "event_ticker": "KXWTACHALLENGERMATCH-26NOV02SHIVAI",
-      "yes_ask_cents": "54.0",
+      "ticker": "KXNFLTOTAL-26NOV08DETMIA-49",
+      "title": "Full Game: over 48.5 points scored?",
+      "event_ticker": "KXNFLTOTAL-26NOV08DETMIA",
+      "yes_ask_cents": "55.0",
       "no_ask_cents": "47.0",
-      "spread_cents": "1.0",
-      "volume_24h": "442.81",
-      "close_time": "2026-11-16T11:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFMATCH-26NOV02AREHER-HER",
-      "title": "Roberto Herman wins",
-      "event_ticker": "KXITFMATCH-26NOV02AREHER",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "1.0",
-      "volume_24h": "440.69",
-      "close_time": "2026-11-16T19:30:00Z",
+      "spread_cents": "2.0",
+      "volume_24h": "439.04",
+      "close_time": "2026-11-10T18:00:00Z",
       "category": "Sports"
     },
     {
@@ -2873,30 +2509,19 @@
       "title": "Gabriela Kawano Cho wins",
       "event_ticker": "KXITFWMATCH-26NOV02KAWBER",
       "yes_ask_cents": "98.0",
-      "no_ask_cents": "7.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "6.0",
+      "spread_cents": "4.0",
       "volume_24h": "428.03",
       "close_time": "2026-11-16T14:00:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXPERLIGA1SPREAD-26NOV02CRICAJ-CRI2",
-      "title": "Sporting Cristal wins by more than 1.5 goals?",
-      "event_ticker": "KXPERLIGA1SPREAD-26NOV02CRICAJ",
-      "yes_ask_cents": "58.0",
-      "no_ask_cents": "44.0",
-      "spread_cents": "2.0",
-      "volume_24h": "423.17",
-      "close_time": "2026-11-04T20:30:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXODIMATCH-26NOV032100INDNZ-NZ",
       "title": "New Zealand wins",
       "event_ticker": "KXODIMATCH-26NOV032100INDNZ",
-      "yes_ask_cents": "40.0",
-      "no_ask_cents": "63.0",
-      "spread_cents": "3.0",
+      "yes_ask_cents": "42.0",
+      "no_ask_cents": "60.0",
+      "spread_cents": "2.0",
       "volume_24h": "422.46",
       "close_time": "2026-11-06T10:00:00Z",
       "category": "Other"
@@ -2924,23 +2549,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXATPCHALLENGERMATCH-26NOV02HENHEM-HEN",
-      "title": "Philip Henning wins",
-      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02HENHEM",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "45.0",
-      "spread_cents": "1.0",
-      "volume_24h": "417.92",
-      "close_time": "2026-11-16T12:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNBAPTS-26NOV02UTASAS-SASVWEMBANYAMA1-30",
       "title": "Victor Wembanyama: 30+ points",
       "event_ticker": "KXNBAPTS-26NOV02UTASAS",
       "yes_ask_cents": "32.0",
-      "no_ask_cents": "73.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "71.0",
+      "spread_cents": "3.0",
       "volume_24h": "416.56",
       "close_time": "2026-11-05T01:30:00Z",
       "category": "Sports"
@@ -2957,6 +2571,17 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXNBATOTAL-26NOV02DETCHA-209",
+      "title": "Full Game: Over 208.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV02DETCHA",
+      "yes_ask_cents": "55.0",
+      "no_ask_cents": "47.0",
+      "spread_cents": "2.0",
+      "volume_24h": "415.84",
+      "close_time": "2026-11-05T00:30:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXWTACHALLENGERMATCH-26NOV02TORGIO-GIO",
       "title": "Luisina Giovannini wins",
       "event_ticker": "KXWTACHALLENGERMATCH-26NOV02TORGIO",
@@ -2968,14 +2593,14 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXITFWMATCH-26NOV02BIOBAY-BAY",
-      "title": "Alexandra Bayuschenko wins",
-      "event_ticker": "KXITFWMATCH-26NOV02BIOBAY",
-      "yes_ask_cents": "26.0",
-      "no_ask_cents": "78.0",
-      "spread_cents": "4.0",
-      "volume_24h": "410.0",
-      "close_time": "2026-11-16T11:00:00Z",
+      "ticker": "KXNBATOTAL-26NOV02NOPMEM-238",
+      "title": "Full Game: Over 237.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV02NOPMEM",
+      "yes_ask_cents": "44.0",
+      "no_ask_cents": "58.0",
+      "spread_cents": "2.0",
+      "volume_24h": "406.82",
+      "close_time": "2026-11-05T01:00:00Z",
       "category": "Sports"
     },
     {
@@ -2994,8 +2619,8 @@
       "title": "Julius Randle: 20+ points",
       "event_ticker": "KXNBAPTS-26NOV02BKNNYK",
       "yes_ask_cents": "47.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "57.0",
+      "spread_cents": "4.0",
       "volume_24h": "400.84",
       "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
@@ -3023,17 +2648,6 @@
       "category": "Other"
     },
     {
-      "ticker": "KXATPCHALLENGERMATCH-26NOV02POUKEL-KEL",
-      "title": "Yannik Kelm wins",
-      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02POUKEL",
-      "yes_ask_cents": "25.0",
-      "no_ask_cents": "76.0",
-      "spread_cents": "1.0",
-      "volume_24h": "396.85",
-      "close_time": "2026-11-16T10:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXITFMATCH-26NOV02BENLAG-BEN",
       "title": "Maxwell Benson wins",
       "event_ticker": "KXITFMATCH-26NOV02BENLAG",
@@ -3049,8 +2663,8 @@
       "title": "Grammatikopoulou / Yardley wins",
       "event_ticker": "KXITFWDOUBLES-26NOV02EBETSYGRAYAR",
       "yes_ask_cents": "9.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "95.0",
+      "spread_cents": "4.0",
       "volume_24h": "395.36",
       "close_time": "2026-11-16T13:00:00Z",
       "category": "Sports"
@@ -3071,21 +2685,10 @@
       "title": "UCLA wins by over 24.5 points",
       "event_ticker": "KXNCAAFSPREAD-26NOV07UCLAMINN",
       "yes_ask_cents": "11.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "94.0",
+      "spread_cents": "5.0",
       "volume_24h": "392.0",
       "close_time": "2026-11-09T17:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFWMATCH-26NOV02SALVAR-VAR",
-      "title": "Viktoria Varga wins",
-      "event_ticker": "KXITFWMATCH-26NOV02SALVAR",
-      "yes_ask_cents": "84.0",
-      "no_ask_cents": "17.0",
-      "spread_cents": "1.0",
-      "volume_24h": "391.98",
-      "close_time": "2026-11-16T11:00:00Z",
       "category": "Sports"
     },
     {
@@ -3103,42 +2706,42 @@
       "ticker": "KXITFWMATCH-26NOV02HESGAD-HES",
       "title": "Amandine Hesse wins",
       "event_ticker": "KXITFWMATCH-26NOV02HESGAD",
-      "yes_ask_cents": "74.0",
+      "yes_ask_cents": "73.0",
       "no_ask_cents": "29.0",
-      "spread_cents": "3.0",
+      "spread_cents": "2.0",
       "volume_24h": "391.1",
       "close_time": "2026-11-16T13:00:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXNBATOTAL-26NOV02NOPMEM-238",
-      "title": "Full Game: Over 237.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV02NOPMEM",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "58.0",
-      "spread_cents": "2.0",
-      "volume_24h": "390.08",
-      "close_time": "2026-11-05T01:00:00Z",
+      "ticker": "KXNCAAMBTOTAL-26NOV02NHCSYR-138",
+      "title": "Full Game: Over 137.5 points scored",
+      "event_ticker": "KXNCAAMBTOTAL-26NOV02NHCSYR",
+      "yes_ask_cents": "45.0",
+      "no_ask_cents": "60.0",
+      "spread_cents": "5.0",
+      "volume_24h": "386.01",
+      "close_time": "2026-11-05T00:00:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXUCLSCORE-26NOV03BARAVL-BAR2AVL0",
-      "title": "Final score FC Barcelona wins 2-0?",
-      "event_ticker": "KXUCLSCORE-26NOV03BARAVL",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "1.0",
-      "volume_24h": "385.85",
-      "close_time": "2026-11-06T02:00:00Z",
-      "category": "Other"
+      "ticker": "KXATPCHALLENGERMATCH-26NOV02MEJCAS-MEJ",
+      "title": "Nicolas Mejia wins",
+      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02MEJCAS",
+      "yes_ask_cents": "44.0",
+      "no_ask_cents": "58.0",
+      "spread_cents": "2.0",
+      "volume_24h": "384.89",
+      "close_time": "2026-11-16T19:00:00Z",
+      "category": "Sports"
     },
     {
       "ticker": "KXNBAPTS-26NOV02CHIPHI-PHIJBROWN7-15",
       "title": "Jaylen Brown: 15+ points",
       "event_ticker": "KXNBAPTS-26NOV02CHIPHI",
-      "yes_ask_cents": "87.0",
-      "no_ask_cents": "17.0",
-      "spread_cents": "4.0",
+      "yes_ask_cents": "89.0",
+      "no_ask_cents": "19.0",
+      "spread_cents": "8.0",
       "volume_24h": "384.74",
       "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
@@ -3181,8 +2784,8 @@
       "title": "Luna Morini wins",
       "event_ticker": "KXITFWMATCH-26NOV02MORPAJ",
       "yes_ask_cents": "94.0",
-      "no_ask_cents": "8.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "9.0",
+      "spread_cents": "3.0",
       "volume_24h": "378.51",
       "close_time": "2026-11-16T13:00:00Z",
       "category": "Sports"
@@ -3210,28 +2813,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNBATOTAL-26NOV02DETCHA-209",
-      "title": "Full Game: Over 208.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV02DETCHA",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "2.0",
-      "volume_24h": "367.39",
-      "close_time": "2026-11-05T00:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNCAAMBTOTAL-26NOV02NHCSYR-138",
-      "title": "Full Game: Over 137.5 points scored",
-      "event_ticker": "KXNCAAMBTOTAL-26NOV02NHCSYR",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "60.0",
-      "spread_cents": "5.0",
-      "volume_24h": "364.62",
-      "close_time": "2026-11-05T00:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXUCL1H-26NOV03MUNROM-ROM",
       "title": "Roma wins 1st Half",
       "event_ticker": "KXUCL1H-26NOV03MUNROM",
@@ -3247,30 +2828,19 @@
       "title": "Pogon Szczecin wins by more than 1.5 goals?",
       "event_ticker": "KXEKSTRAKLASASPREAD-26NOV02CZEPSZ",
       "yes_ask_cents": "14.0",
-      "no_ask_cents": "89.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "88.0",
+      "spread_cents": "2.0",
       "volume_24h": "362.6",
       "close_time": "2026-11-04T19:30:00Z",
       "category": "Other"
-    },
-    {
-      "ticker": "KXTEMPMIAH-26NOV0205-T76.99",
-      "title": "Will the temp in Miami be above 76.99\u00b0 on Nov 2, 2026 at 5am EST?",
-      "event_ticker": "KXTEMPMIAH-26NOV0205",
-      "yes_ask_cents": "98.0",
-      "no_ask_cents": "5.0",
-      "spread_cents": "3.0",
-      "volume_24h": "359.11",
-      "close_time": "2026-11-02T10:00:00Z",
-      "category": "Weather"
     },
     {
       "ticker": "KXBIGGESTQUAKE-02NOV26-6.6",
       "title": "What will the biggest earthquake be on Nov 2, 2026?",
       "event_ticker": "KXBIGGESTQUAKE-02NOV26",
       "yes_ask_cents": "10.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "96.0",
+      "spread_cents": "6.0",
       "volume_24h": "355.03",
       "close_time": "2026-11-02T23:59:59Z",
       "category": "Science"
@@ -3280,8 +2850,8 @@
       "title": "Jack McGary wins",
       "event_ticker": "KXITFMATCH-26NOV02PERMCG",
       "yes_ask_cents": "33.0",
-      "no_ask_cents": "73.0",
-      "spread_cents": "6.0",
+      "no_ask_cents": "72.0",
+      "spread_cents": "5.0",
       "volume_24h": "354.34",
       "close_time": "2026-11-16T17:00:00Z",
       "category": "Sports"
@@ -3290,9 +2860,9 @@
       "ticker": "KXMIDTERMMOV-KSSEND-P2.5",
       "title": "Will the margin of victory for Democrats in the U.S. Senate election in Kansas be at least 2.5 percentage points?",
       "event_ticker": "KXMIDTERMMOV-KSSEND",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "58.0",
-      "spread_cents": "4.0",
+      "yes_ask_cents": "47.0",
+      "no_ask_cents": "59.0",
+      "spread_cents": "6.0",
       "volume_24h": "353.58",
       "close_time": "2027-11-03T14:00:00Z",
       "category": "Other"
@@ -3323,9 +2893,9 @@
       "ticker": "KXITFWMATCH-26NOV02XUXODO-ODO",
       "title": "Caterina Odorizzi wins",
       "event_ticker": "KXITFWMATCH-26NOV02XUXODO",
-      "yes_ask_cents": "10.0",
+      "yes_ask_cents": "9.0",
       "no_ask_cents": "95.0",
-      "spread_cents": "5.0",
+      "spread_cents": "4.0",
       "volume_24h": "348.39",
       "close_time": "2026-11-16T17:00:00Z",
       "category": "Sports"
@@ -3340,39 +2910,6 @@
       "volume_24h": "343.52",
       "close_time": "2026-11-16T16:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXNCAAMBSPREAD-26NOV02NIUGRAM-NIU30",
-      "title": "Northern Illinois wins by over 29.5 points",
-      "event_ticker": "KXNCAAMBSPREAD-26NOV02NIUGRAM",
-      "yes_ask_cents": "2.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "1.0",
-      "volume_24h": "342.18",
-      "close_time": "2026-11-04T08:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFWMATCH-26NOV02KMIMIC-KMI",
-      "title": "Anna Kmiecik wins",
-      "event_ticker": "KXITFWMATCH-26NOV02KMIMIC",
-      "yes_ask_cents": "62.0",
-      "no_ask_cents": "40.0",
-      "spread_cents": "2.0",
-      "volume_24h": "341.0",
-      "close_time": "2026-11-16T13:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXUCLSCORE-26NOV03BARAVL-BAR2AVL2",
-      "title": "Final score Draw 2-2?",
-      "event_ticker": "KXUCLSCORE-26NOV03BARAVL",
-      "yes_ask_cents": "5.0",
-      "no_ask_cents": "96.0",
-      "spread_cents": "1.0",
-      "volume_24h": "340.23",
-      "close_time": "2026-11-06T02:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXNCAAMBTOTAL-26NOV02SIEBRY-149",
@@ -3419,17 +2956,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXITFWMATCH-26NOV02PETLOM-LOM",
-      "title": "Marta Lombardini wins",
-      "event_ticker": "KXITFWMATCH-26NOV02PETLOM",
-      "yes_ask_cents": "69.0",
-      "no_ask_cents": "33.0",
-      "spread_cents": "2.0",
-      "volume_24h": "330.06",
-      "close_time": "2026-11-16T10:30:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNBA3PT-26NOV02CHIPHI-PHILJAMES23-2",
       "title": "LeBron James: 2+ threes",
       "event_ticker": "KXNBA3PT-26NOV02CHIPHI",
@@ -3441,33 +2967,22 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNBATOTAL-26NOV02BOSHOU-219",
-      "title": "Full Game: Over 218.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV02BOSHOU",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "49.0",
+      "ticker": "KXNCAAMBSPREAD-26NOV02UTMTULN-TULN9",
+      "title": "Tulane wins by over 8.5 points",
+      "event_ticker": "KXNCAAMBSPREAD-26NOV02UTMTULN",
+      "yes_ask_cents": "45.0",
+      "no_ask_cents": "57.0",
       "spread_cents": "2.0",
-      "volume_24h": "328.01",
-      "close_time": "2026-11-05T01:30:00Z",
+      "volume_24h": "327.61",
+      "close_time": "2026-11-05T01:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXBIGGESTQUAKE-02NOV26-6.2",
-      "title": "What will the biggest earthquake be on Nov 2, 2026?",
-      "event_ticker": "KXBIGGESTQUAKE-02NOV26",
-      "yes_ask_cents": "15.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "7.0",
-      "volume_24h": "325.67",
-      "close_time": "2026-11-02T23:59:59Z",
-      "category": "Science"
     },
     {
       "ticker": "KXNBAPTS-26NOV02CHIPHI-PHITMAXEY0-30",
       "title": "Tyrese Maxey: 30+ points",
       "event_ticker": "KXNBAPTS-26NOV02CHIPHI",
-      "yes_ask_cents": "34.0",
-      "no_ask_cents": "71.0",
+      "yes_ask_cents": "33.0",
+      "no_ask_cents": "72.0",
       "spread_cents": "5.0",
       "volume_24h": "325.44",
       "close_time": "2026-11-05T00:30:00Z",
@@ -3494,17 +3009,6 @@
       "volume_24h": "324.0",
       "close_time": "2026-11-16T19:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXEERSTEDIVSPREAD-26NOV02PSVBRE-PSV3",
-      "title": "Jong Eindhoven wins by more than 2.5 goals?",
-      "event_ticker": "KXEERSTEDIVSPREAD-26NOV02PSVBRE",
-      "yes_ask_cents": "3.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "1.0",
-      "volume_24h": "323.0",
-      "close_time": "2026-11-04T19:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXITFMATCH-26NOV02RENCUE-CUE",
@@ -3551,34 +3055,34 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXWTACHALLENGERMATCH-26NOV02SHIVAI-VAI",
-      "title": "Dune Vaissaud wins",
-      "event_ticker": "KXWTACHALLENGERMATCH-26NOV02SHIVAI",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "1.0",
-      "volume_24h": "312.25",
-      "close_time": "2026-11-16T11:00:00Z",
+      "ticker": "KXNBAPTS-26NOV02MIALAL-LALLDONCIC77-40",
+      "title": "Luka Don\u010di\u0107: 40+ points",
+      "event_ticker": "KXNBAPTS-26NOV02MIALAL",
+      "yes_ask_cents": "30.0",
+      "no_ask_cents": "77.0",
+      "spread_cents": "7.0",
+      "volume_24h": "310.41",
+      "close_time": "2026-11-05T03:00:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXBKDWHOPPER-26DEC02-T8.09",
-      "title": "Will the average U.S. price of Burger King Double Whopper for November 2026 be at least $8.09?",
-      "event_ticker": "KXBKDWHOPPER-26DEC02",
-      "yes_ask_cents": "96.0",
-      "no_ask_cents": "12.0",
-      "spread_cents": "8.0",
-      "volume_24h": "310.0",
-      "close_time": "2026-12-02T04:59:00Z",
-      "category": "Other"
+      "ticker": "KXITFWMATCH-26NOV02TIABLA-BLA",
+      "title": "Klara Blazkova wins",
+      "event_ticker": "KXITFWMATCH-26NOV02TIABLA",
+      "yes_ask_cents": "21.0",
+      "no_ask_cents": "80.0",
+      "spread_cents": "1.0",
+      "volume_24h": "306.51",
+      "close_time": "2026-11-16T13:30:00Z",
+      "category": "Sports"
     },
     {
       "ticker": "KXNBATOTAL-26NOV02OKCCLE-226",
       "title": "Full Game: Over 225.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV02OKCCLE",
       "yes_ask_cents": "57.0",
-      "no_ask_cents": "44.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "45.0",
+      "spread_cents": "2.0",
       "volume_24h": "302.9",
       "close_time": "2026-11-05T00:00:00Z",
       "category": "Sports"
@@ -3592,17 +3096,6 @@
       "spread_cents": "2.0",
       "volume_24h": "302.19",
       "close_time": "2026-11-10T18:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNCAAMBSPREAD-26NOV02UTMTULN-TULN9",
-      "title": "Tulane wins by over 8.5 points",
-      "event_ticker": "KXNCAAMBSPREAD-26NOV02UTMTULN",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "2.0",
-      "volume_24h": "301.92",
-      "close_time": "2026-11-05T01:00:00Z",
       "category": "Sports"
     },
     {
@@ -3637,17 +3130,6 @@
       "volume_24h": "300.0",
       "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXPERLIGA1TOTAL-26NOV02UTCDEP-4",
-      "title": "Will over 3.5 goals be scored?",
-      "event_ticker": "KXPERLIGA1TOTAL-26NOV02UTCDEP",
-      "yes_ask_cents": "32.0",
-      "no_ask_cents": "69.0",
-      "spread_cents": "1.0",
-      "volume_24h": "298.99",
-      "close_time": "2026-11-04T18:15:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXNBASPREAD-26NOV02MILMIN-MIN9",
@@ -3694,17 +3176,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXITFWMATCH-26NOV02TIABLA-BLA",
-      "title": "Klara Blazkova wins",
-      "event_ticker": "KXITFWMATCH-26NOV02TIABLA",
-      "yes_ask_cents": "22.0",
-      "no_ask_cents": "79.0",
-      "spread_cents": "1.0",
-      "volume_24h": "296.51",
-      "close_time": "2026-11-16T13:30:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXITFMATCH-26NOV02MICHAM-HAM",
       "title": "Lucas Hammond wins",
       "event_ticker": "KXITFMATCH-26NOV02MICHAM",
@@ -3738,33 +3209,11 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXLIGAPROMATCH-26NOV020400KOLFRO-FRO",
-      "title": "Frolov Aleksandr wins",
-      "event_ticker": "KXLIGAPROMATCH-26NOV020400KOLFRO",
-      "yes_ask_cents": "4.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "2.0",
-      "volume_24h": "291.04",
-      "close_time": "2026-11-04T09:00:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXITFWMATCH-26NOV02SLAGOR-GOR",
-      "title": "Daria Gorska wins",
-      "event_ticker": "KXITFWMATCH-26NOV02SLAGOR",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "1.0",
-      "volume_24h": "290.18",
-      "close_time": "2026-11-16T11:30:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNBASPREAD-26NOV02TORLAC-TOR2",
       "title": "Toronto wins by over 1.5 points",
       "event_ticker": "KXNBASPREAD-26NOV02TORLAC",
-      "yes_ask_cents": "64.0",
-      "no_ask_cents": "38.0",
+      "yes_ask_cents": "63.0",
+      "no_ask_cents": "39.0",
       "spread_cents": "2.0",
       "volume_24h": "288.42",
       "close_time": "2026-11-05T03:00:00Z",
@@ -3775,8 +3224,8 @@
       "title": "Ian Lucca Cervantes Tomas wins",
       "event_ticker": "KXITFMATCH-26NOV02CERQUE",
       "yes_ask_cents": "67.0",
-      "no_ask_cents": "38.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "36.0",
+      "spread_cents": "3.0",
       "volume_24h": "287.0",
       "close_time": "2026-11-16T18:00:00Z",
       "category": "Sports"
@@ -3818,9 +3267,9 @@
       "ticker": "KXNBASTL-26NOV02BKNNYK-NYKOANUNOBY8-2",
       "title": "OG Anunoby: 2+ steals",
       "event_ticker": "KXNBASTL-26NOV02BKNNYK",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "58.0",
-      "spread_cents": "3.0",
+      "yes_ask_cents": "42.0",
+      "no_ask_cents": "59.0",
+      "spread_cents": "1.0",
       "volume_24h": "277.76",
       "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
@@ -3884,22 +3333,11 @@
       "ticker": "KXNBA1HSPREAD-26NOV02CHIPHI-PHI7",
       "title": "Philadelphia wins the 1st half by over 6.5 points",
       "event_ticker": "KXNBA1HSPREAD-26NOV02CHIPHI",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "6.0",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "4.0",
       "volume_24h": "267.41",
       "close_time": "2026-11-05T00:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFWMATCH-26NOV02HSUGNI-GNI",
-      "title": "Oriana Gniewkowska wins",
-      "event_ticker": "KXITFWMATCH-26NOV02HSUGNI",
-      "yes_ask_cents": "96.0",
-      "no_ask_cents": "5.0",
-      "spread_cents": "1.0",
-      "volume_24h": "266.29",
-      "close_time": "2026-11-16T10:00:00Z",
       "category": "Sports"
     },
     {
@@ -3928,11 +3366,22 @@
       "ticker": "KXNBASPREAD-26NOV02UTASAS-UTA3",
       "title": "Utah wins by over 2.5 points",
       "event_ticker": "KXNBASPREAD-26NOV02UTASAS",
-      "yes_ask_cents": "9.0",
+      "yes_ask_cents": "10.0",
       "no_ask_cents": "94.0",
-      "spread_cents": "3.0",
+      "spread_cents": "4.0",
       "volume_24h": "261.14",
       "close_time": "2026-11-05T01:30:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXNCAAFSPREAD-26NOV07CINHOU-CIN12",
+      "title": "Cincinnati wins by over 11.5 points",
+      "event_ticker": "KXNCAAFSPREAD-26NOV07CINHOU",
+      "yes_ask_cents": "6.0",
+      "no_ask_cents": "98.0",
+      "spread_cents": "4.0",
+      "volume_24h": "260.0",
+      "close_time": "2026-11-09T20:30:00Z",
       "category": "Sports"
     },
     {
@@ -3958,15 +3407,26 @@
       "category": "Other"
     },
     {
-      "ticker": "KXDENSUPERLIGASPREAD-26NOV02SONFCC-FCC2",
-      "title": "Copenhagen wins by more than 1.5 goals?",
-      "event_ticker": "KXDENSUPERLIGASPREAD-26NOV02SONFCC",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "59.0",
-      "spread_cents": "2.0",
-      "volume_24h": "257.71",
-      "close_time": "2026-11-04T18:00:00Z",
-      "category": "Other"
+      "ticker": "KXNBAPTS-26NOV02OKCCLE-OKCAMITCHELL25-20",
+      "title": "Ajay Mitchell: 20+ points",
+      "event_ticker": "KXNBAPTS-26NOV02OKCCLE",
+      "yes_ask_cents": "41.0",
+      "no_ask_cents": "65.0",
+      "spread_cents": "6.0",
+      "volume_24h": "258.01",
+      "close_time": "2026-11-05T00:00:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV02BOSHOU-BOSJTATUM0-25",
+      "title": "Jayson Tatum: 25+ points",
+      "event_ticker": "KXNBAPTS-26NOV02BOSHOU",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "3.0",
+      "volume_24h": "256.91",
+      "close_time": "2026-11-05T01:30:00Z",
+      "category": "Sports"
     },
     {
       "ticker": "KXNCAAMBSPREAD-26NOV02NEBU-BU2",
@@ -3983,8 +3443,8 @@
       "ticker": "KXCBASPREAD-26NOV020635QINGST-QIN7",
       "title": "Qingdao Eagles wins by over 6.5 points",
       "event_ticker": "KXCBASPREAD-26NOV020635QINGST",
-      "yes_ask_cents": "42.0",
-      "no_ask_cents": "61.0",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "64.0",
       "spread_cents": "3.0",
       "volume_24h": "253.36",
       "close_time": "2026-11-04T11:35:00Z",
@@ -3994,9 +3454,9 @@
       "ticker": "KXNBAPTS-26NOV02OKCCLE-CLEEMOBLEY4-10",
       "title": "Evan Mobley: 10+ points",
       "event_ticker": "KXNBAPTS-26NOV02OKCCLE",
-      "yes_ask_cents": "87.0",
+      "yes_ask_cents": "89.0",
       "no_ask_cents": "19.0",
-      "spread_cents": "6.0",
+      "spread_cents": "8.0",
       "volume_24h": "251.01",
       "close_time": "2026-11-05T00:00:00Z",
       "category": "Sports"
@@ -4028,8 +3488,8 @@
       "title": "Dylan Harper: 20+ points",
       "event_ticker": "KXNBAPTS-26NOV02UTASAS",
       "yes_ask_cents": "34.0",
-      "no_ask_cents": "68.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "69.0",
+      "spread_cents": "3.0",
       "volume_24h": "244.6",
       "close_time": "2026-11-05T01:30:00Z",
       "category": "Sports"
@@ -4046,22 +3506,11 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNCAAMBTOTAL-26NOV02NIUGRAM-119",
-      "title": "Full Game: Over 118.5 points scored",
-      "event_ticker": "KXNCAAMBTOTAL-26NOV02NIUGRAM",
-      "yes_ask_cents": "99.0",
-      "no_ask_cents": "2.0",
-      "spread_cents": "1.0",
-      "volume_24h": "242.94",
-      "close_time": "2026-11-04T08:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNFLSPREAD-26NOV08LARWAS-LAR7",
       "title": "Los Angeles R wins by over 6.5 points?",
       "event_ticker": "KXNFLSPREAD-26NOV08LARWAS",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "57.0",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "56.0",
       "spread_cents": "5.0",
       "volume_24h": "241.88",
       "close_time": "2026-11-10T18:00:00Z",
@@ -4076,6 +3525,17 @@
       "spread_cents": "1.0",
       "volume_24h": "237.63",
       "close_time": "2026-11-16T10:10:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXITFMATCH-26NOV02HORKAR-HOR",
+      "title": "Marcel Hornung wins",
+      "event_ticker": "KXITFMATCH-26NOV02HORKAR",
+      "yes_ask_cents": "41.0",
+      "no_ask_cents": "61.0",
+      "spread_cents": "2.0",
+      "volume_24h": "237.18",
+      "close_time": "2026-11-16T17:00:00Z",
       "category": "Sports"
     },
     {
@@ -4110,17 +3570,6 @@
       "volume_24h": "234.62",
       "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXUCLSCORE-26NOV03BARAVL-BAR4AVL2",
-      "title": "Final score FC Barcelona wins 4-2?",
-      "event_ticker": "KXUCLSCORE-26NOV03BARAVL",
-      "yes_ask_cents": "4.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "2.0",
-      "volume_24h": "234.25",
-      "close_time": "2026-11-06T02:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXITFWMATCH-26NOV02TIABLA-TIA",
@@ -4167,59 +3616,37 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXATPGSPREAD-26NOV02JACMAC-MAC2",
-      "title": "Will Tomas Machac win at least 1.5 more games than Kyrian Jacquet?",
-      "event_ticker": "KXATPGSPREAD-26NOV02JACMAC",
-      "yes_ask_cents": "59.0",
-      "no_ask_cents": "43.0",
+      "ticker": "KXNBAREB-26NOV02ATLIND-INDANESMITH23-4",
+      "title": "Aaron Nesmith: 4+ rebounds",
+      "event_ticker": "KXNBAREB-26NOV02ATLIND",
+      "yes_ask_cents": "41.0",
+      "no_ask_cents": "61.0",
       "spread_cents": "2.0",
-      "volume_24h": "225.96",
-      "close_time": "2026-11-16T14:30:00Z",
+      "volume_24h": "224.78",
+      "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
     },
     {
       "ticker": "KXNBATEAMTOTAL-26NOV02UTASAS-SAS132",
       "title": "San Antonio over 131.5 points scored",
       "event_ticker": "KXNBATEAMTOTAL-26NOV02UTASAS",
-      "yes_ask_cents": "33.0",
+      "yes_ask_cents": "31.0",
       "no_ask_cents": "75.0",
-      "spread_cents": "8.0",
+      "spread_cents": "6.0",
       "volume_24h": "224.2",
       "close_time": "2026-11-05T01:30:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXNBAPTS-26NOV02BOSHOU-BOSJTATUM0-25",
-      "title": "Jayson Tatum: 25+ points",
-      "event_ticker": "KXNBAPTS-26NOV02BOSHOU",
-      "yes_ask_cents": "58.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "7.0",
-      "volume_24h": "223.97",
-      "close_time": "2026-11-05T01:30:00Z",
+      "ticker": "KXCS2GAME-26NOV020700FALMEG-FAL",
+      "title": "Falcons Force wins",
+      "event_ticker": "KXCS2GAME-26NOV020700FALMEG",
+      "yes_ask_cents": "66.0",
+      "no_ask_cents": "35.0",
+      "spread_cents": "1.0",
+      "volume_24h": "220.92",
+      "close_time": "2026-11-04T12:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV02CHIPHI-PHIJBROWN7-20",
-      "title": "Jaylen Brown: 20+ points",
-      "event_ticker": "KXNBAPTS-26NOV02CHIPHI",
-      "yes_ask_cents": "67.0",
-      "no_ask_cents": "39.0",
-      "spread_cents": "6.0",
-      "volume_24h": "219.96",
-      "close_time": "2026-11-05T00:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXPERLIGA1SPREAD-26NOV02UTCDEP-DEP2",
-      "title": "Deportivo Garcilaso wins by more than 1.5 goals?",
-      "event_ticker": "KXPERLIGA1SPREAD-26NOV02UTCDEP",
-      "yes_ask_cents": "22.0",
-      "no_ask_cents": "81.0",
-      "spread_cents": "3.0",
-      "volume_24h": "219.85",
-      "close_time": "2026-11-04T18:15:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXNBAPTS-26NOV02BKNNYK-NYKMBRIDGES25-20",
@@ -4230,17 +3657,6 @@
       "spread_cents": "4.0",
       "volume_24h": "219.71",
       "close_time": "2026-11-05T00:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV02UTASAS-SASDHARPER2-15",
-      "title": "Dylan Harper: 15+ points",
-      "event_ticker": "KXNBAPTS-26NOV02UTASAS",
-      "yes_ask_cents": "65.0",
-      "no_ask_cents": "42.0",
-      "spread_cents": "7.0",
-      "volume_24h": "219.26",
-      "close_time": "2026-11-05T01:30:00Z",
       "category": "Sports"
     },
     {
@@ -4277,6 +3693,17 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXITFMATCH-26NOV02ALVALV2-ALV",
+      "title": "Patricio Alvarado wins",
+      "event_ticker": "KXITFMATCH-26NOV02ALVALV2",
+      "yes_ask_cents": "43.0",
+      "no_ask_cents": "65.0",
+      "spread_cents": "8.0",
+      "volume_24h": "217.0",
+      "close_time": "2026-11-16T17:00:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXNBASPREAD-26NOV02TORLAC-TOR5",
       "title": "Toronto wins by over 4.5 points",
       "event_ticker": "KXNBASPREAD-26NOV02TORLAC",
@@ -4310,47 +3737,14 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXLALIGA2TOTAL-26NOV02VLLLEG-3",
-      "title": "Will over 2.5 goals be scored?",
-      "event_ticker": "KXLALIGA2TOTAL-26NOV02VLLLEG",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "1.0",
-      "volume_24h": "213.3",
-      "close_time": "2026-11-04T17:30:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV02CHIPHI-PHIJEMBIID21-20",
-      "title": "Joel Embiid: 20+ points",
-      "event_ticker": "KXNBAPTS-26NOV02CHIPHI",
-      "yes_ask_cents": "66.0",
-      "no_ask_cents": "42.0",
-      "spread_cents": "8.0",
-      "volume_24h": "212.39",
-      "close_time": "2026-11-05T00:30:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNBASPREAD-26NOV02CHIPHI-PHI11",
       "title": "Philadelphia wins by over 10.5 points",
       "event_ticker": "KXNBASPREAD-26NOV02CHIPHI",
       "yes_ask_cents": "56.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "45.0",
+      "spread_cents": "1.0",
       "volume_24h": "212.22",
       "close_time": "2026-11-05T00:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNFLTOTAL-26NOV08DETMIA-49",
-      "title": "Full Game: over 48.5 points scored?",
-      "event_ticker": "KXNFLTOTAL-26NOV08DETMIA",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "2.0",
-      "volume_24h": "209.9",
-      "close_time": "2026-11-10T18:00:00Z",
       "category": "Sports"
     },
     {
@@ -4358,8 +3752,8 @@
       "title": "Jaden McDaniels: 6+ rebounds",
       "event_ticker": "KXNBAREB-26NOV02MILMIN",
       "yes_ask_cents": "53.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "3.0",
       "volume_24h": "207.77",
       "close_time": "2026-11-05T01:00:00Z",
       "category": "Sports"
@@ -4387,17 +3781,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNCAAWBSPREAD-26NOV02OKLAUNC-UNC4",
-      "title": "North Carolina wins by over 3.5 points",
-      "event_ticker": "KXNCAAWBSPREAD-26NOV02OKLAUNC",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "59.0",
-      "spread_cents": "4.0",
-      "volume_24h": "206.28",
-      "close_time": "2026-11-04T19:30:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXATPCHALLENGERMATCH-26NOV02REMDRE-DRE",
       "title": "Ivan Dreycopp wins",
       "event_ticker": "KXATPCHALLENGERMATCH-26NOV02REMDRE",
@@ -4409,36 +3792,25 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNBAPTS-26NOV02OKCCLE-CLEJHARDEN1-20",
-      "title": "James Harden: 20+ points",
-      "event_ticker": "KXNBAPTS-26NOV02OKCCLE",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "64.0",
-      "spread_cents": "5.0",
-      "volume_24h": "205.29",
-      "close_time": "2026-11-05T00:00:00Z",
-      "category": "Sports"
+      "ticker": "KXMIDTERMMOV-KSSEND-P0.5",
+      "title": "Will the margin of victory for Democrats in the U.S. Senate election in Kansas be at least 0.5 percentage points?",
+      "event_ticker": "KXMIDTERMMOV-KSSEND",
+      "yes_ask_cents": "64.0",
+      "no_ask_cents": "44.0",
+      "spread_cents": "8.0",
+      "volume_24h": "206.0",
+      "close_time": "2027-11-03T14:00:00Z",
+      "category": "Other"
     },
     {
-      "ticker": "KXITFWMATCH-26NOV02SUCKOV-KOV",
-      "title": "Danka Kovinic wins",
-      "event_ticker": "KXITFWMATCH-26NOV02SUCKOV",
-      "yes_ask_cents": "62.0",
-      "no_ask_cents": "39.0",
-      "spread_cents": "1.0",
-      "volume_24h": "204.57",
-      "close_time": "2026-11-16T11:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXATPGTOTAL-26NOV02DARHIJ-28",
-      "title": "Over 27.5 games",
-      "event_ticker": "KXATPGTOTAL-26NOV02DARHIJ",
-      "yes_ask_cents": "30.0",
-      "no_ask_cents": "71.0",
-      "spread_cents": "1.0",
-      "volume_24h": "204.27",
-      "close_time": "2026-11-16T10:00:00Z",
+      "ticker": "KXNBASPREAD-26NOV02WASORL-WAS5",
+      "title": "Washington wins by over 4.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV02WASORL",
+      "yes_ask_cents": "35.0",
+      "no_ask_cents": "69.0",
+      "spread_cents": "4.0",
+      "volume_24h": "205.56",
+      "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
     },
     {
@@ -4446,8 +3818,8 @@
       "title": "Selina Dal wins",
       "event_ticker": "KXITFWMATCH-26NOV02SERDAL",
       "yes_ask_cents": "50.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "5.0",
       "volume_24h": "203.42",
       "close_time": "2026-11-16T12:00:00Z",
       "category": "Sports"
@@ -4457,21 +3829,21 @@
       "title": "Marcus Smart: 15+ points",
       "event_ticker": "KXNBAPTS-26NOV02BOSHOU",
       "yes_ask_cents": "11.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "8.0",
+      "no_ask_cents": "96.0",
+      "spread_cents": "7.0",
       "volume_24h": "202.56",
       "close_time": "2026-11-05T01:30:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXITFMATCH-26NOV02HORKAR-HOR",
-      "title": "Marcel Hornung wins",
-      "event_ticker": "KXITFMATCH-26NOV02HORKAR",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "2.0",
-      "volume_24h": "202.18",
-      "close_time": "2026-11-16T17:00:00Z",
+      "ticker": "KXNBAAST-26NOV02MILMIN-MINADOSUNMU13-6",
+      "title": "Ayo Dosunmu: 6+ assists",
+      "event_ticker": "KXNBAAST-26NOV02MILMIN",
+      "yes_ask_cents": "24.0",
+      "no_ask_cents": "81.0",
+      "spread_cents": "5.0",
+      "volume_24h": "202.24",
+      "close_time": "2026-11-05T01:00:00Z",
       "category": "Sports"
     },
     {
@@ -4486,26 +3858,26 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNBATEAMTOTAL-26NOV02CHIPHI-PHI122",
-      "title": "Philadelphia over 121.5 points scored",
-      "event_ticker": "KXNBATEAMTOTAL-26NOV02CHIPHI",
-      "yes_ask_cents": "69.0",
-      "no_ask_cents": "37.0",
-      "spread_cents": "6.0",
-      "volume_24h": "200.46",
-      "close_time": "2026-11-05T00:30:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNBASPREAD-26NOV02MIALAL-LAL16",
       "title": "Los Angeles L wins by over 15.5 points",
       "event_ticker": "KXNBASPREAD-26NOV02MIALAL",
       "yes_ask_cents": "16.0",
-      "no_ask_cents": "87.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "86.0",
+      "spread_cents": "2.0",
       "volume_24h": "200.0",
       "close_time": "2026-11-05T03:00:00Z",
       "category": "Sports"
+    },
+    {
+      "ticker": "KXCBASPREAD-26NOV020635QINGST-QIN23",
+      "title": "Qingdao Eagles wins by over 22.5 points",
+      "event_ticker": "KXCBASPREAD-26NOV020635QINGST",
+      "yes_ask_cents": "10.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "3.0",
+      "volume_24h": "200.0",
+      "close_time": "2026-11-04T11:35:00Z",
+      "category": "Other"
     },
     {
       "ticker": "KXNBASPREAD-26NOV02NOPMEM-MEM15",
@@ -4519,26 +3891,26 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXCBASPREAD-26NOV020635QINGST-QIN23",
-      "title": "Qingdao Eagles wins by over 22.5 points",
-      "event_ticker": "KXCBASPREAD-26NOV020635QINGST",
-      "yes_ask_cents": "10.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "5.0",
-      "volume_24h": "200.0",
-      "close_time": "2026-11-04T11:35:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNBA2QTOTAL-26NOV02DETCHA-51",
       "title": "2nd Quarter: Over 50.5 points scored",
       "event_ticker": "KXNBA2QTOTAL-26NOV02DETCHA",
-      "yes_ask_cents": "53.0",
+      "yes_ask_cents": "55.0",
       "no_ask_cents": "53.0",
-      "spread_cents": "6.0",
+      "spread_cents": "8.0",
       "volume_24h": "200.0",
       "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
+    },
+    {
+      "ticker": "KXCBASPREAD-26NOV020635QINGST-GST11",
+      "title": "Guangdong Southern Tigers wins by over 10.5 points",
+      "event_ticker": "KXCBASPREAD-26NOV020635QINGST",
+      "yes_ask_cents": "20.0",
+      "no_ask_cents": "84.0",
+      "spread_cents": "4.0",
+      "volume_24h": "199.54",
+      "close_time": "2026-11-04T11:35:00Z",
+      "category": "Other"
     },
     {
       "ticker": "KXNBASPREAD-26NOV02WASORL-ORL4",
@@ -4585,58 +3957,14 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXITFWDOUBLES-26NOV02GAVSAKKUSSPA-KUSSPA",
-      "title": "Kusy / Spasova wins",
-      "event_ticker": "KXITFWDOUBLES-26NOV02GAVSAKKUSSPA",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "3.0",
-      "volume_24h": "198.16",
-      "close_time": "2026-11-16T12:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXUCLSCORE-26NOV03VILPSG-VIL0PSG2",
-      "title": "Final score Paris Saint-Germain wins 2-0?",
-      "event_ticker": "KXUCLSCORE-26NOV03VILPSG",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "2.0",
-      "volume_24h": "198.04",
-      "close_time": "2026-11-06T02:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXITFMATCH-26NOV02PETWRI-PET",
       "title": "Pedro Petroski Rocha wins",
       "event_ticker": "KXITFMATCH-26NOV02PETWRI",
-      "yes_ask_cents": "79.0",
+      "yes_ask_cents": "78.0",
       "no_ask_cents": "29.0",
-      "spread_cents": "8.0",
+      "spread_cents": "7.0",
       "volume_24h": "197.0",
       "close_time": "2026-11-16T15:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXCS2GAME-26NOV020700FALMEG-FAL",
-      "title": "Falcons Force wins",
-      "event_ticker": "KXCS2GAME-26NOV020700FALMEG",
-      "yes_ask_cents": "66.0",
-      "no_ask_cents": "35.0",
-      "spread_cents": "1.0",
-      "volume_24h": "196.72",
-      "close_time": "2026-11-04T12:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFWMATCH-26NOV02FOJRAM-FOJ",
-      "title": "Lea Fojcik wins",
-      "event_ticker": "KXITFWMATCH-26NOV02FOJRAM",
-      "yes_ask_cents": "75.0",
-      "no_ask_cents": "27.0",
-      "spread_cents": "2.0",
-      "volume_24h": "196.12",
-      "close_time": "2026-11-16T11:00:00Z",
       "category": "Sports"
     },
     {
@@ -4662,14 +3990,36 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXITFWMATCH-26NOV02MALREG-REG",
+      "title": "Fernanda Guadalupe Regalado Macias wins",
+      "event_ticker": "KXITFWMATCH-26NOV02MALREG",
+      "yes_ask_cents": "10.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "3.0",
+      "volume_24h": "195.23",
+      "close_time": "2026-11-16T16:00:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXNBAWINMARGIN-26NOV02CHIPHI-PHI1TO5",
       "title": "Philadelphia wins by 1 to 5 points",
       "event_ticker": "KXNBAWINMARGIN-26NOV02CHIPHI",
       "yes_ask_cents": "12.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "5.0",
       "volume_24h": "195.08",
       "close_time": "2026-11-05T00:30:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV02MIALAL-238",
+      "title": "Full Game: Over 237.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV02MIALAL",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "1.0",
+      "volume_24h": "193.25",
+      "close_time": "2026-11-05T03:00:00Z",
       "category": "Sports"
     },
     {
@@ -4677,22 +4027,22 @@
       "title": "Philadelphia wins by over 1.5 points",
       "event_ticker": "KXNBASPREAD-26NOV02CHIPHI",
       "yes_ask_cents": "81.0",
-      "no_ask_cents": "21.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "22.0",
+      "spread_cents": "3.0",
       "volume_24h": "191.97",
       "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXISRPLTOTAL-26NOV02RGGMTA-6",
-      "title": "Will over 5.5 goals be scored?",
-      "event_ticker": "KXISRPLTOTAL-26NOV02RGGMTA",
-      "yes_ask_cents": "16.0",
-      "no_ask_cents": "85.0",
-      "spread_cents": "1.0",
-      "volume_24h": "190.0",
-      "close_time": "2026-11-04T18:00:00Z",
-      "category": "Other"
+      "ticker": "KXITFWMATCH-26NOV02SOUHAR-SOU",
+      "title": "Natalia Sousa Salazar wins",
+      "event_ticker": "KXITFWMATCH-26NOV02SOUHAR",
+      "yes_ask_cents": "62.0",
+      "no_ask_cents": "43.0",
+      "spread_cents": "5.0",
+      "volume_24h": "191.6",
+      "close_time": "2026-11-16T17:00:00Z",
+      "category": "Sports"
     },
     {
       "ticker": "KXNBASPREAD-26NOV02MILMIN-MIN10",
@@ -4703,17 +4053,6 @@
       "spread_cents": "1.0",
       "volume_24h": "189.12",
       "close_time": "2026-11-05T01:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFWMATCH-26NOV02BROGAR-BRO",
-      "title": "Tessa Johanna Brockmann wins",
-      "event_ticker": "KXITFWMATCH-26NOV02BROGAR",
-      "yes_ask_cents": "78.0",
-      "no_ask_cents": "23.0",
-      "spread_cents": "1.0",
-      "volume_24h": "188.84",
-      "close_time": "2026-11-16T10:00:00Z",
       "category": "Sports"
     },
     {
@@ -4739,17 +4078,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXITFWMATCH-26NOV02BERKUP-BER",
-      "title": "Nahia Berecoechea wins",
-      "event_ticker": "KXITFWMATCH-26NOV02BERKUP",
-      "yes_ask_cents": "93.0",
-      "no_ask_cents": "9.0",
-      "spread_cents": "2.0",
-      "volume_24h": "186.49",
-      "close_time": "2026-11-16T10:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNCAAMBTOTAL-26NOV02LIUFAU-154",
       "title": "Full Game: Over 153.5 points scored",
       "event_ticker": "KXNCAAMBTOTAL-26NOV02LIUFAU",
@@ -4764,22 +4092,11 @@
       "ticker": "KXITFMATCH-26NOV02MARCUN-CUN",
       "title": "Joao Cunha Cunha wins",
       "event_ticker": "KXITFMATCH-26NOV02MARCUN",
-      "yes_ask_cents": "68.0",
-      "no_ask_cents": "38.0",
+      "yes_ask_cents": "67.0",
+      "no_ask_cents": "39.0",
       "spread_cents": "6.0",
       "volume_24h": "186.0",
       "close_time": "2026-11-16T14:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV02MIALAL-238",
-      "title": "Full Game: Over 237.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV02MIALAL",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "1.0",
-      "volume_24h": "184.25",
-      "close_time": "2026-11-05T03:00:00Z",
       "category": "Sports"
     },
     {
@@ -4794,22 +4111,11 @@
       "category": "Science"
     },
     {
-      "ticker": "KXITFWMATCH-26NOV02IANKAR-KAR",
-      "title": "Lora Kardos wins",
-      "event_ticker": "KXITFWMATCH-26NOV02IANKAR",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "45.0",
-      "spread_cents": "1.0",
-      "volume_24h": "183.15",
-      "close_time": "2026-11-16T11:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXBIGGESTQUAKE-02NOV26-6.0",
       "title": "What will the biggest earthquake be on Nov 2, 2026?",
       "event_ticker": "KXBIGGESTQUAKE-02NOV26",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "79.0",
+      "yes_ask_cents": "27.0",
+      "no_ask_cents": "80.0",
       "spread_cents": "7.0",
       "volume_24h": "181.38",
       "close_time": "2026-11-02T23:59:59Z",
@@ -4841,9 +4147,9 @@
       "ticker": "KXNBASPREAD-26NOV02TORLAC-TOR4",
       "title": "Toronto wins by over 3.5 points",
       "event_ticker": "KXNBASPREAD-26NOV02TORLAC",
-      "yes_ask_cents": "58.0",
+      "yes_ask_cents": "57.0",
       "no_ask_cents": "44.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "178.26",
       "close_time": "2026-11-05T03:00:00Z",
       "category": "Sports"
@@ -4852,23 +4158,12 @@
       "ticker": "KXNBA3PT-26NOV02PORDEN-PORTCAMARA33-3",
       "title": "Toumani Camara: 3+ threes",
       "event_ticker": "KXNBA3PT-26NOV02PORDEN",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "7.0",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "4.0",
       "volume_24h": "177.89",
       "close_time": "2026-11-05T02:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXEBASKETBALLGAME-26NOV020412BRYCCADE-CADE",
-      "title": "New Orleans Pelicans (Cade) wins",
-      "event_ticker": "KXEBASKETBALLGAME-26NOV020412BRYCCADE",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "4.0",
-      "volume_24h": "177.41",
-      "close_time": "2026-11-16T09:12:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXNBA3PT-26NOV02MILMIN-MILJJAQUEZ24-1",
@@ -4893,17 +4188,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXITFWMATCH-26NOV02SOUHAR-SOU",
-      "title": "Natalia Sousa Salazar wins",
-      "event_ticker": "KXITFWMATCH-26NOV02SOUHAR",
-      "yes_ask_cents": "62.0",
-      "no_ask_cents": "43.0",
-      "spread_cents": "5.0",
-      "volume_24h": "175.77",
-      "close_time": "2026-11-16T17:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXBIGGESTQUAKE-02NOV26-7.0",
       "title": "What will the biggest earthquake be on Nov 2, 2026?",
       "event_ticker": "KXBIGGESTQUAKE-02NOV26",
@@ -4915,23 +4199,23 @@
       "category": "Science"
     },
     {
-      "ticker": "KXCBASPREAD-26NOV020635QINGST-GST11",
-      "title": "Guangdong Southern Tigers wins by over 10.5 points",
-      "event_ticker": "KXCBASPREAD-26NOV020635QINGST",
-      "yes_ask_cents": "18.0",
-      "no_ask_cents": "87.0",
-      "spread_cents": "5.0",
-      "volume_24h": "175.0",
-      "close_time": "2026-11-04T11:35:00Z",
-      "category": "Other"
+      "ticker": "KXITFWMATCH-26NOV02AVAGIB-AVA",
+      "title": "Sofia Avataneo wins",
+      "event_ticker": "KXITFWMATCH-26NOV02AVAGIB",
+      "yes_ask_cents": "44.0",
+      "no_ask_cents": "62.0",
+      "spread_cents": "6.0",
+      "volume_24h": "174.64",
+      "close_time": "2026-11-16T19:00:00Z",
+      "category": "Sports"
     },
     {
       "ticker": "KXNCAAFSPREAD-26NOV07CINHOU-HOU31",
       "title": "Houston wins by over 30.5 points",
       "event_ticker": "KXNCAAFSPREAD-26NOV07CINHOU",
       "yes_ask_cents": "12.0",
-      "no_ask_cents": "89.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "90.0",
+      "spread_cents": "2.0",
       "volume_24h": "173.0",
       "close_time": "2026-11-09T20:30:00Z",
       "category": "Sports"
@@ -4948,6 +4232,17 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXNBASPREAD-26NOV02OKCCLE-CLE8",
+      "title": "Cleveland wins by over 7.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV02OKCCLE",
+      "yes_ask_cents": "40.0",
+      "no_ask_cents": "62.0",
+      "spread_cents": "2.0",
+      "volume_24h": "171.51",
+      "close_time": "2026-11-05T00:00:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXNBATOTAL-26NOV02NOPMEM-240",
       "title": "Full Game: Over 239.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV02NOPMEM",
@@ -4959,22 +4254,11 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV02WASORL-WAS5",
-      "title": "Washington wins by over 4.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV02WASORL",
-      "yes_ask_cents": "35.0",
-      "no_ask_cents": "69.0",
-      "spread_cents": "4.0",
-      "volume_24h": "170.83",
-      "close_time": "2026-11-05T00:30:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNBAAST-26NOV02MIALAL-MIAGANTETOKOUNMPO7-6",
       "title": "Giannis Antetokounmpo: 6+ assists",
       "event_ticker": "KXNBAAST-26NOV02MIALAL",
-      "yes_ask_cents": "57.0",
-      "no_ask_cents": "45.0",
+      "yes_ask_cents": "56.0",
+      "no_ask_cents": "46.0",
       "spread_cents": "2.0",
       "volume_24h": "170.51",
       "close_time": "2026-11-05T03:00:00Z",
@@ -4985,11 +4269,22 @@
       "title": "Darryn Peterson: 20+ points",
       "event_ticker": "KXNBAPTS-26NOV02UTASAS",
       "yes_ask_cents": "21.0",
-      "no_ask_cents": "84.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "86.0",
+      "spread_cents": "7.0",
       "volume_24h": "169.09",
       "close_time": "2026-11-05T01:30:00Z",
       "category": "Sports"
+    },
+    {
+      "ticker": "KXLALIGASPREAD-26NOV08ATMBAR-BAR3",
+      "title": "Barcelona wins by more than 2.5 goals?",
+      "event_ticker": "KXLALIGASPREAD-26NOV08ATMBAR",
+      "yes_ask_cents": "17.0",
+      "no_ask_cents": "86.0",
+      "spread_cents": "3.0",
+      "volume_24h": "167.18",
+      "close_time": "2026-11-10T20:00:00Z",
+      "category": "Other"
     },
     {
       "ticker": "KXNBAPTS-26NOV02BOSHOU-BOSPPRITCHARD11-20",
@@ -5003,23 +4298,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXESOCCERGAME-26NOV020409ADRIROSE-ADRI",
-      "title": "RC Lens (Adri) wins",
-      "event_ticker": "KXESOCCERGAME-26NOV020409ADRIROSE",
-      "yes_ask_cents": "33.0",
-      "no_ask_cents": "69.0",
-      "spread_cents": "2.0",
-      "volume_24h": "167.1",
-      "close_time": "2026-11-16T09:09:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXCBASPREAD-26NOV020635BRFSHA-BRF11",
       "title": "Beijing Royal Fighters wins by over 10.5 points",
       "event_ticker": "KXCBASPREAD-26NOV020635BRFSHA",
-      "yes_ask_cents": "40.0",
-      "no_ask_cents": "63.0",
-      "spread_cents": "3.0",
+      "yes_ask_cents": "45.0",
+      "no_ask_cents": "56.0",
+      "spread_cents": "1.0",
       "volume_24h": "165.03",
       "close_time": "2026-11-04T11:35:00Z",
       "category": "Other"
@@ -5094,9 +4378,9 @@
       "ticker": "KXNBAPTS-26NOV02BOSHOU-BOSJTATUM0-20",
       "title": "Jayson Tatum: 20+ points",
       "event_ticker": "KXNBAPTS-26NOV02BOSHOU",
-      "yes_ask_cents": "81.0",
-      "no_ask_cents": "26.0",
-      "spread_cents": "7.0",
+      "yes_ask_cents": "80.0",
+      "no_ask_cents": "25.0",
+      "spread_cents": "5.0",
       "volume_24h": "158.07",
       "close_time": "2026-11-05T01:30:00Z",
       "category": "Sports"
@@ -5106,10 +4390,21 @@
       "title": "Austin Reaves: 3+ threes",
       "event_ticker": "KXNBA3PT-26NOV02MIALAL",
       "yes_ask_cents": "44.0",
-      "no_ask_cents": "60.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "61.0",
+      "spread_cents": "5.0",
       "volume_24h": "157.1",
       "close_time": "2026-11-05T03:00:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXNBAREB-26NOV02UTASAS-UTAICOLLIER8-6",
+      "title": "Isaiah Collier: 6+ rebounds",
+      "event_ticker": "KXNBAREB-26NOV02UTASAS",
+      "yes_ask_cents": "10.0",
+      "no_ask_cents": "98.0",
+      "spread_cents": "8.0",
+      "volume_24h": "157.03",
+      "close_time": "2026-11-05T01:30:00Z",
       "category": "Sports"
     },
     {
@@ -5124,22 +4419,11 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXITFWMATCH-26NOV02MALREG-REG",
-      "title": "Fernanda Guadalupe Regalado Macias wins",
-      "event_ticker": "KXITFWMATCH-26NOV02MALREG",
-      "yes_ask_cents": "10.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "3.0",
-      "volume_24h": "156.4",
-      "close_time": "2026-11-16T16:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXWTACHALLENGERMATCH-26NOV02ALVPER-PER",
       "title": "Maria Paulina Perez Garcia wins",
       "event_ticker": "KXWTACHALLENGERMATCH-26NOV02ALVPER",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "95.0",
+      "yes_ask_cents": "5.0",
+      "no_ask_cents": "96.0",
       "spread_cents": "1.0",
       "volume_24h": "156.37",
       "close_time": "2026-11-16T17:10:00Z",
@@ -5161,33 +4445,22 @@
       "title": "Jeremiah Fears: 4+ assists",
       "event_ticker": "KXNBAAST-26NOV02NOPMEM",
       "yes_ask_cents": "49.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "3.0",
       "volume_24h": "155.26",
       "close_time": "2026-11-05T01:00:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXLIGAPROMATCH-26NOV020415KONBOG-KON",
-      "title": "Konobeev Aleksei wins",
-      "event_ticker": "KXLIGAPROMATCH-26NOV020415KONBOG",
+      "ticker": "KXBIGGESTQUAKE-02NOV26-5.6",
+      "title": "What will the biggest earthquake be on Nov 2, 2026?",
+      "event_ticker": "KXBIGGESTQUAKE-02NOV26",
       "yes_ask_cents": "51.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "2.0",
-      "volume_24h": "153.21",
-      "close_time": "2026-11-04T09:15:00Z",
-      "category": "Other"
-    },
-    {
-      "ticker": "KXITFWMATCH-26NOV02ROUPAO-PAO",
-      "title": "Matilde Paoletti wins",
-      "event_ticker": "KXITFWMATCH-26NOV02ROUPAO",
-      "yes_ask_cents": "97.0",
-      "no_ask_cents": "5.0",
-      "spread_cents": "2.0",
-      "volume_24h": "153.09",
-      "close_time": "2026-11-16T10:30:00Z",
-      "category": "Sports"
+      "no_ask_cents": "57.0",
+      "spread_cents": "8.0",
+      "volume_24h": "154.72",
+      "close_time": "2026-11-02T23:59:59Z",
+      "category": "Science"
     },
     {
       "ticker": "KXMIDTERMMOV-KSSENR-P1.5",
@@ -5205,8 +4478,8 @@
       "title": "Kansas City wins by over 17.5 points?",
       "event_ticker": "KXNFLSPREAD-26NOV08NYJKC",
       "yes_ask_cents": "25.0",
-      "no_ask_cents": "76.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "78.0",
+      "spread_cents": "3.0",
       "volume_24h": "152.0",
       "close_time": "2026-11-10T18:00:00Z",
       "category": "Sports"
@@ -5238,8 +4511,8 @@
       "title": "Memphis wins by over 11.5 points",
       "event_ticker": "KXNBASPREAD-26NOV02NOPMEM",
       "yes_ask_cents": "34.0",
-      "no_ask_cents": "68.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "69.0",
+      "spread_cents": "3.0",
       "volume_24h": "150.0",
       "close_time": "2026-11-05T01:00:00Z",
       "category": "Sports"
@@ -5259,31 +4532,20 @@
       "ticker": "KXNBAPTS-26NOV02MILMIN-MINLBALL1-25",
       "title": "LaMelo Ball: 25+ points",
       "event_ticker": "KXNBAPTS-26NOV02MILMIN",
-      "yes_ask_cents": "32.0",
-      "no_ask_cents": "74.0",
-      "spread_cents": "6.0",
+      "yes_ask_cents": "31.0",
+      "no_ask_cents": "73.0",
+      "spread_cents": "4.0",
       "volume_24h": "148.26",
       "close_time": "2026-11-05T01:00:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXLALIGA2BTTS-26NOV02VLLLEG-BTTS",
-      "title": "Both Teams To Score",
-      "event_ticker": "KXLALIGA2BTTS-26NOV02VLLLEG",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "2.0",
-      "volume_24h": "148.06",
-      "close_time": "2026-11-04T17:30:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXITFMATCH-26NOV02CUNBUL-CUN",
       "title": "Vitor Machado De Melo Cunha wins",
       "event_ticker": "KXITFMATCH-26NOV02CUNBUL",
-      "yes_ask_cents": "66.0",
-      "no_ask_cents": "36.0",
-      "spread_cents": "2.0",
+      "yes_ask_cents": "68.0",
+      "no_ask_cents": "37.0",
+      "spread_cents": "5.0",
       "volume_24h": "147.35",
       "close_time": "2026-11-16T13:00:00Z",
       "category": "Sports"
@@ -5292,8 +4554,8 @@
       "ticker": "KXNBAPTS-26NOV02BOSHOU-BOSPPRITCHARD11-10",
       "title": "Payton Pritchard: 10+ points",
       "event_ticker": "KXNBAPTS-26NOV02BOSHOU",
-      "yes_ask_cents": "70.0",
-      "no_ask_cents": "33.0",
+      "yes_ask_cents": "69.0",
+      "no_ask_cents": "34.0",
       "spread_cents": "3.0",
       "volume_24h": "147.02",
       "close_time": "2026-11-05T01:30:00Z",
@@ -5307,6 +4569,17 @@
       "no_ask_cents": "65.0",
       "spread_cents": "3.0",
       "volume_24h": "145.76",
+      "close_time": "2026-11-05T01:00:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV02NOPMEM-MEM9",
+      "title": "Memphis wins by over 8.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV02NOPMEM",
+      "yes_ask_cents": "42.0",
+      "no_ask_cents": "60.0",
+      "spread_cents": "2.0",
+      "volume_24h": "145.36",
       "close_time": "2026-11-05T01:00:00Z",
       "category": "Sports"
     },
@@ -5370,8 +4643,8 @@
       "title": "Thomas Enrique Menzel Piccioli wins",
       "event_ticker": "KXITFMATCH-26NOV02MENNAP",
       "yes_ask_cents": "76.0",
-      "no_ask_cents": "25.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "26.0",
+      "spread_cents": "2.0",
       "volume_24h": "143.42",
       "close_time": "2026-11-16T14:00:00Z",
       "category": "Sports"
@@ -5385,17 +4658,6 @@
       "spread_cents": "2.0",
       "volume_24h": "143.02",
       "close_time": "2026-11-05T00:30:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFMATCH-26NOV02CLABET-CLA",
-      "title": "Miles Clark wins",
-      "event_ticker": "KXITFMATCH-26NOV02CLABET",
-      "yes_ask_cents": "92.0",
-      "no_ask_cents": "16.0",
-      "spread_cents": "8.0",
-      "volume_24h": "143.0",
-      "close_time": "2026-11-16T18:00:00Z",
       "category": "Sports"
     },
     {
@@ -5413,9 +4675,9 @@
       "ticker": "KXNBAPTS-26NOV02BKNNYK-NYKJBRUNSON11-15",
       "title": "Jalen Brunson: 15+ points",
       "event_ticker": "KXNBAPTS-26NOV02BKNNYK",
-      "yes_ask_cents": "91.0",
-      "no_ask_cents": "15.0",
-      "spread_cents": "6.0",
+      "yes_ask_cents": "92.0",
+      "no_ask_cents": "16.0",
+      "spread_cents": "8.0",
       "volume_24h": "141.19",
       "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
@@ -5443,6 +4705,17 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXNBASPREAD-26NOV02WASORL-WAS3",
+      "title": "Washington wins by over 2.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV02WASORL",
+      "yes_ask_cents": "41.0",
+      "no_ask_cents": "61.0",
+      "spread_cents": "2.0",
+      "volume_24h": "139.34",
+      "close_time": "2026-11-05T00:30:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXNBASPREAD-26NOV02WASORL-ORL2",
       "title": "Orlando wins by over 1.5 points",
       "event_ticker": "KXNBASPREAD-26NOV02WASORL",
@@ -5458,33 +4731,33 @@
       "title": "Full Game: Over 143.5 points scored",
       "event_ticker": "KXNCAAMBTOTAL-26NOV02UMESWAKE",
       "yes_ask_cents": "52.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "1.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "2.0",
       "volume_24h": "138.26",
       "close_time": "2026-11-05T01:00:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXITFMATCH-26NOV02PERMCG-PER",
-      "title": "Brandon Perez wins",
-      "event_ticker": "KXITFMATCH-26NOV02PERMCG",
-      "yes_ask_cents": "68.0",
-      "no_ask_cents": "37.0",
-      "spread_cents": "5.0",
-      "volume_24h": "137.6",
-      "close_time": "2026-11-16T17:00:00Z",
+      "ticker": "KXNBAREB-26NOV02CHIPHI-CHICWILSON8-6",
+      "title": "Caleb Wilson: 6+ rebounds",
+      "event_ticker": "KXNBAREB-26NOV02CHIPHI",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "47.0",
+      "spread_cents": "1.0",
+      "volume_24h": "136.5",
+      "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXLIGAPROMATCH-26NOV020400BUKOLS-BUK",
-      "title": "Bukhtiiarov Ivan wins",
-      "event_ticker": "KXLIGAPROMATCH-26NOV020400BUKOLS",
-      "yes_ask_cents": "61.0",
-      "no_ask_cents": "40.0",
-      "spread_cents": "1.0",
-      "volume_24h": "136.94",
-      "close_time": "2026-11-04T09:00:00Z",
-      "category": "Other"
+      "ticker": "KXITFMATCH-26NOV02JARMAN-JAR",
+      "title": "Reid Jarvis wins",
+      "event_ticker": "KXITFMATCH-26NOV02JARMAN",
+      "yes_ask_cents": "93.0",
+      "no_ask_cents": "15.0",
+      "spread_cents": "8.0",
+      "volume_24h": "136.0",
+      "close_time": "2026-11-16T17:00:00Z",
+      "category": "Sports"
     },
     {
       "ticker": "KXNBATOTAL-26NOV02TORLAC-192",
@@ -5542,14 +4815,14 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV02NOPMEM-MEM9",
-      "title": "Memphis wins by over 8.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV02NOPMEM",
-      "yes_ask_cents": "42.0",
-      "no_ask_cents": "60.0",
-      "spread_cents": "2.0",
-      "volume_24h": "130.36",
-      "close_time": "2026-11-05T01:00:00Z",
+      "ticker": "KXATPCHALLENGERMATCH-26NOV02KENBAR-BAR",
+      "title": "Hynek Barton wins",
+      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02KENBAR",
+      "yes_ask_cents": "69.0",
+      "no_ask_cents": "32.0",
+      "spread_cents": "1.0",
+      "volume_24h": "131.08",
+      "close_time": "2026-11-16T19:00:00Z",
       "category": "Sports"
     },
     {
@@ -5567,22 +4840,11 @@
       "ticker": "KXNCAAFSPREAD-26NOV07ISUBAY-BAY22",
       "title": "Baylor wins by over 21.5 points",
       "event_ticker": "KXNCAAFSPREAD-26NOV07ISUBAY",
-      "yes_ask_cents": "22.0",
-      "no_ask_cents": "80.0",
-      "spread_cents": "2.0",
-      "volume_24h": "130.0",
-      "close_time": "2026-11-09T17:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXNCAAFSPREAD-26NOV07CINHOU-CIN12",
-      "title": "Cincinnati wins by over 11.5 points",
-      "event_ticker": "KXNCAAFSPREAD-26NOV07CINHOU",
-      "yes_ask_cents": "6.0",
-      "no_ask_cents": "98.0",
+      "yes_ask_cents": "21.0",
+      "no_ask_cents": "83.0",
       "spread_cents": "4.0",
       "volume_24h": "130.0",
-      "close_time": "2026-11-09T20:30:00Z",
+      "close_time": "2026-11-09T17:00:00Z",
       "category": "Sports"
     },
     {
@@ -5590,8 +4852,8 @@
       "title": "Patricio Betancourt wins",
       "event_ticker": "KXITFMATCH-26NOV02CLABET",
       "yes_ask_cents": "13.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "6.0",
+      "no_ask_cents": "94.0",
+      "spread_cents": "7.0",
       "volume_24h": "130.0",
       "close_time": "2026-11-16T18:00:00Z",
       "category": "Sports"
@@ -5608,23 +4870,12 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXEERSTEDIVSPREAD-26NOV02PSVBRE-BRE3",
-      "title": "Breda wins by more than 2.5 goals?",
-      "event_ticker": "KXEERSTEDIVSPREAD-26NOV02PSVBRE",
-      "yes_ask_cents": "22.0",
-      "no_ask_cents": "80.0",
-      "spread_cents": "2.0",
-      "volume_24h": "129.15",
-      "close_time": "2026-11-04T19:00:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXITFWMATCH-26NOV02MORPAJ-PAJ",
       "title": "Abril Pajello wins",
       "event_ticker": "KXITFWMATCH-26NOV02MORPAJ",
-      "yes_ask_cents": "7.0",
+      "yes_ask_cents": "8.0",
       "no_ask_cents": "95.0",
-      "spread_cents": "2.0",
+      "spread_cents": "3.0",
       "volume_24h": "128.38",
       "close_time": "2026-11-16T13:00:00Z",
       "category": "Sports"
@@ -5652,6 +4903,17 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXEBASKETBALLGAME-26NOV020508DIRKBRYC-DIRK",
+      "title": "Indiana Pacers (Dirk) wins",
+      "event_ticker": "KXEBASKETBALLGAME-26NOV020508DIRKBRYC",
+      "yes_ask_cents": "16.0",
+      "no_ask_cents": "85.0",
+      "spread_cents": "1.0",
+      "volume_24h": "127.45",
+      "close_time": "2026-11-16T10:08:00Z",
+      "category": "Other"
+    },
+    {
       "ticker": "KXNCAAMBGAME-26NOV05CCARDUKE-DUKE",
       "title": "Duke wins",
       "event_ticker": "KXNCAAMBGAME-26NOV05CCARDUKE",
@@ -5677,23 +4939,12 @@
       "ticker": "KXATPCHALLENGERMATCH-26NOV02GIUAND-AND",
       "title": "Adrian Andreev wins",
       "event_ticker": "KXATPCHALLENGERMATCH-26NOV02GIUAND",
-      "yes_ask_cents": "43.0",
+      "yes_ask_cents": "44.0",
       "no_ask_cents": "58.0",
-      "spread_cents": "1.0",
+      "spread_cents": "2.0",
       "volume_24h": "125.9",
       "close_time": "2026-11-16T09:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXESOCCERGAME-26NOV020410DECLHAZA-HAZA",
-      "title": "Juventus (Hazard) wins",
-      "event_ticker": "KXESOCCERGAME-26NOV020410DECLHAZA",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "4.0",
-      "volume_24h": "125.87",
-      "close_time": "2026-11-16T09:10:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXNBAREB-26NOV02PORDEN-DENNJOKIC15-12",
@@ -5710,8 +4961,8 @@
       "ticker": "KXWTACHALLENGERMATCH-26NOV02MDLNOV-NOV",
       "title": "Kristina Novak wins",
       "event_ticker": "KXWTACHALLENGERMATCH-26NOV02MDLNOV",
-      "yes_ask_cents": "96.0",
-      "no_ask_cents": "5.0",
+      "yes_ask_cents": "97.0",
+      "no_ask_cents": "4.0",
       "spread_cents": "1.0",
       "volume_24h": "125.0",
       "close_time": "2026-11-16T11:20:00Z",
@@ -5755,22 +5006,11 @@
       "title": "Philadelphia wins by 6 to 10 points",
       "event_ticker": "KXNBAWINMARGIN-26NOV02CHIPHI",
       "yes_ask_cents": "20.0",
-      "no_ask_cents": "85.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "84.0",
+      "spread_cents": "4.0",
       "volume_24h": "124.08",
       "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXEERSTEDIVSPREAD-26NOV02UTRDOR-DOR2",
-      "title": "Dordrecht wins by more than 1.5 goals?",
-      "event_ticker": "KXEERSTEDIVSPREAD-26NOV02UTRDOR",
-      "yes_ask_cents": "15.0",
-      "no_ask_cents": "86.0",
-      "spread_cents": "1.0",
-      "volume_24h": "123.75",
-      "close_time": "2026-11-04T19:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXNBAPTS-26NOV02BOSHOU-HOUKDURANT7-30",
@@ -5798,22 +5038,11 @@
       "ticker": "KXNBA3PT-26NOV02OKCCLE-CLEEMOBLEY4-3",
       "title": "Evan Mobley: 3+ threes",
       "event_ticker": "KXNBA3PT-26NOV02OKCCLE",
-      "yes_ask_cents": "20.0",
+      "yes_ask_cents": "21.0",
       "no_ask_cents": "83.0",
-      "spread_cents": "3.0",
+      "spread_cents": "4.0",
       "volume_24h": "122.51",
       "close_time": "2026-11-05T00:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFWMATCH-26NOV02AVAGIB-AVA",
-      "title": "Sofia Avataneo wins",
-      "event_ticker": "KXITFWMATCH-26NOV02AVAGIB",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "5.0",
-      "volume_24h": "121.15",
-      "close_time": "2026-11-16T19:00:00Z",
       "category": "Sports"
     },
     {
@@ -5865,8 +5094,8 @@
       "title": "Illinois wins",
       "event_ticker": "KXNCAAMBGAME-26NOV05PENNILL",
       "yes_ask_cents": "92.0",
-      "no_ask_cents": "13.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "11.0",
+      "spread_cents": "3.0",
       "volume_24h": "116.24",
       "close_time": "2026-11-08T01:30:00Z",
       "category": "Sports"
@@ -5897,11 +5126,22 @@
       "ticker": "KXNBA3PT-26NOV02PORDEN-PORDLILLARD0-4",
       "title": "Damian Lillard: 4+ threes",
       "event_ticker": "KXNBA3PT-26NOV02PORDEN",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "65.0",
-      "spread_cents": "8.0",
+      "yes_ask_cents": "41.0",
+      "no_ask_cents": "64.0",
+      "spread_cents": "5.0",
       "volume_24h": "114.82",
       "close_time": "2026-11-05T02:00:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXATPCHALLENGERMATCH-26NOV02RIBMIG-RIB",
+      "title": "Eduardo Ribeiro wins",
+      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02RIBMIG",
+      "yes_ask_cents": "63.0",
+      "no_ask_cents": "38.0",
+      "spread_cents": "1.0",
+      "volume_24h": "114.81",
+      "close_time": "2026-11-16T19:10:00Z",
       "category": "Sports"
     },
     {
@@ -5925,17 +5165,6 @@
       "volume_24h": "114.5",
       "close_time": "2026-11-05T03:00:00Z",
       "category": "Sports"
-    },
-    {
-      "ticker": "KXDENSUPERLIGATOTAL-26NOV02SONFCC-4",
-      "title": "Will over 3.5 goals be scored?",
-      "event_ticker": "KXDENSUPERLIGATOTAL-26NOV02SONFCC",
-      "yes_ask_cents": "40.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "1.0",
-      "volume_24h": "114.2",
-      "close_time": "2026-11-04T18:00:00Z",
-      "category": "Other"
     },
     {
       "ticker": "KXNBASPREAD-26NOV02BKNNYK-NYK3",
@@ -5964,30 +5193,19 @@
       "title": "Full Game: Over 199.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV02PHXGSW",
       "yes_ask_cents": "95.0",
-      "no_ask_cents": "7.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "8.0",
+      "spread_cents": "3.0",
       "volume_24h": "113.41",
       "close_time": "2026-11-05T03:00:00Z",
-      "category": "Sports"
-    },
-    {
-      "ticker": "KXITFWMATCH-26NOV02ALLKRY-KRY",
-      "title": "Sofia Kryvoruchko wins",
-      "event_ticker": "KXITFWMATCH-26NOV02ALLKRY",
-      "yes_ask_cents": "11.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "1.0",
-      "volume_24h": "113.33",
-      "close_time": "2026-11-16T10:30:00Z",
       "category": "Sports"
     },
     {
       "ticker": "KXNCAAMBSPREAD-26NOV02USTPRE-UST4",
       "title": "St. Thomas wins by over 3.5 points",
       "event_ticker": "KXNCAAMBSPREAD-26NOV02USTPRE",
-      "yes_ask_cents": "51.0",
+      "yes_ask_cents": "50.0",
       "no_ask_cents": "53.0",
-      "spread_cents": "4.0",
+      "spread_cents": "3.0",
       "volume_24h": "113.28",
       "close_time": "2026-11-05T00:00:00Z",
       "category": "Sports"
@@ -6041,8 +5259,8 @@
       "title": "Jacksonville over 3.5 points scored",
       "event_ticker": "KXNFLTEAMTOTAL-26NOV05JACBAL",
       "yes_ask_cents": "99.0",
-      "no_ask_cents": "3.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "4.0",
+      "spread_cents": "3.0",
       "volume_24h": "110.0",
       "close_time": "2026-11-08T01:15:00Z",
       "category": "Sports"
@@ -6059,17 +5277,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXESOCCERGAME-26NOV020409ADRIROSE-TIE",
-      "title": "Game ends in a tie",
-      "event_ticker": "KXESOCCERGAME-26NOV020409ADRIROSE",
-      "yes_ask_cents": "27.0",
-      "no_ask_cents": "75.0",
-      "spread_cents": "2.0",
-      "volume_24h": "107.28",
-      "close_time": "2026-11-16T09:09:00Z",
-      "category": "Other"
-    },
-    {
       "ticker": "KXNCAAMBTOTAL-26NOV02CHSOUSF-158",
       "title": "Full Game: Over 157.5 points scored",
       "event_ticker": "KXNCAAMBTOTAL-26NOV02CHSOUSF",
@@ -6081,12 +5288,23 @@
       "category": "Sports"
     },
     {
+      "ticker": "KXATPCHALLENGERMATCH-26NOV02BASKAR-KAR",
+      "title": "Milos Karol wins",
+      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02BASKAR",
+      "yes_ask_cents": "25.0",
+      "no_ask_cents": "76.0",
+      "spread_cents": "1.0",
+      "volume_24h": "107.0",
+      "close_time": "2026-11-16T15:00:00Z",
+      "category": "Sports"
+    },
+    {
       "ticker": "KXNCAAFTOTAL-26NOV07CINHOU-76",
       "title": "Full Game: Over 75.5 points scored",
       "event_ticker": "KXNCAAFTOTAL-26NOV07CINHOU",
       "yes_ask_cents": "23.0",
-      "no_ask_cents": "81.0",
-      "spread_cents": "4.0",
+      "no_ask_cents": "82.0",
+      "spread_cents": "5.0",
       "volume_24h": "107.0",
       "close_time": "2026-11-09T20:30:00Z",
       "category": "Sports"
@@ -6132,6 +5350,28 @@
       "no_ask_cents": "8.0",
       "spread_cents": "5.0",
       "volume_24h": "106.0",
+      "close_time": "2026-11-05T00:30:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXCS2GAME-26NOV021000MISPF-MIS",
+      "title": "Misa Esports wins",
+      "event_ticker": "KXCS2GAME-26NOV021000MISPF",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "5.0",
+      "volume_24h": "105.78",
+      "close_time": "2026-11-04T15:00:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV02WASORL-ORLABLACK0-15",
+      "title": "Anthony Black: 15+ points",
+      "event_ticker": "KXNBAPTS-26NOV02WASORL",
+      "yes_ask_cents": "56.0",
+      "no_ask_cents": "47.0",
+      "spread_cents": "3.0",
+      "volume_24h": "105.56",
       "close_time": "2026-11-05T00:30:00Z",
       "category": "Sports"
     },
@@ -6191,17 +5431,6 @@
       "category": "Sports"
     },
     {
-      "ticker": "KXATPCHALLENGERMATCH-26NOV02KENBAR-BAR",
-      "title": "Hynek Barton wins",
-      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02KENBAR",
-      "yes_ask_cents": "68.0",
-      "no_ask_cents": "33.0",
-      "spread_cents": "1.0",
-      "volume_24h": "103.0",
-      "close_time": "2026-11-16T19:00:00Z",
-      "category": "Sports"
-    },
-    {
       "ticker": "KXNBAAST-26NOV02OKCCLE-CLEEMOBLEY4-4",
       "title": "Evan Mobley: 4+ assists",
       "event_ticker": "KXNBAAST-26NOV02OKCCLE",
@@ -6217,10 +5446,21 @@
       "title": "Landry Shamet: 2+ threes",
       "event_ticker": "KXNBA3PT-26NOV02BKNNYK",
       "yes_ask_cents": "48.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "56.0",
+      "spread_cents": "4.0",
       "volume_24h": "102.48",
       "close_time": "2026-11-05T00:30:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV02PHXGSW-PHXDBROOKS3-25",
+      "title": "Dillon Brooks: 25+ points",
+      "event_ticker": "KXNBAPTS-26NOV02PHXGSW",
+      "yes_ask_cents": "15.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "7.0",
+      "volume_24h": "100.67",
+      "close_time": "2026-11-05T03:00:00Z",
       "category": "Sports"
     },
     {
@@ -6239,21 +5479,21 @@
       "title": "Full Game: over 44.5 points scored?",
       "event_ticker": "KXNFLTOTAL-26NOV08DENCAR",
       "yes_ask_cents": "46.0",
-      "no_ask_cents": "60.0",
-      "spread_cents": "6.0",
+      "no_ask_cents": "61.0",
+      "spread_cents": "7.0",
       "volume_24h": "100.49",
       "close_time": "2026-11-10T18:00:00Z",
       "category": "Sports"
     },
     {
-      "ticker": "KXNFLTEAMTOTAL-26NOV05JACBAL-JAC8",
-      "title": "Jacksonville over 7.5 points scored",
-      "event_ticker": "KXNFLTEAMTOTAL-26NOV05JACBAL",
-      "yes_ask_cents": "98.0",
-      "no_ask_cents": "4.0",
+      "ticker": "KXATPCHALLENGERMATCH-26NOV02RIBMIG-MIG",
+      "title": "Luis Felipe Miguel wins",
+      "event_ticker": "KXATPCHALLENGERMATCH-26NOV02RIBMIG",
+      "yes_ask_cents": "38.0",
+      "no_ask_cents": "64.0",
       "spread_cents": "2.0",
       "volume_24h": "100.0",
-      "close_time": "2026-11-08T01:15:00Z",
+      "close_time": "2026-11-16T19:10:00Z",
       "category": "Sports"
     },
     {
@@ -6265,6 +5505,28 @@
       "spread_cents": "2.0",
       "volume_24h": "100.0",
       "close_time": "2026-11-05T01:30:00Z",
+      "category": "Sports"
+    },
+    {
+      "ticker": "KXCBASPREAD-26NOV020635QINGST-GST3",
+      "title": "Guangdong Southern Tigers wins by over 2.5 points",
+      "event_ticker": "KXCBASPREAD-26NOV020635QINGST",
+      "yes_ask_cents": "40.0",
+      "no_ask_cents": "63.0",
+      "spread_cents": "3.0",
+      "volume_24h": "100.0",
+      "close_time": "2026-11-04T11:35:00Z",
+      "category": "Other"
+    },
+    {
+      "ticker": "KXNFLTEAMTOTAL-26NOV05JACBAL-JAC8",
+      "title": "Jacksonville over 7.5 points scored",
+      "event_ticker": "KXNFLTEAMTOTAL-26NOV05JACBAL",
+      "yes_ask_cents": "98.0",
+      "no_ask_cents": "5.0",
+      "spread_cents": "3.0",
+      "volume_24h": "100.0",
+      "close_time": "2026-11-08T01:15:00Z",
       "category": "Sports"
     },
     {
