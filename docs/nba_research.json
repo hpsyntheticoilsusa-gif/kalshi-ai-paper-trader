@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-11-01T23:42:04.939358+00:00",
+  "generated_utc": "2026-11-02T01:15:33.187688+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 19,
+  "qualifying_nba_markets": 22,
   "scoreboard_games": [
     {
       "event_id": "401909903",
@@ -31,7 +31,7 @@
       "event_id": "401909904",
       "date": "2026-11-01T22:00Z",
       "name": "Brooklyn Nets at Indiana Pacers",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "season_type": 2,
       "teams": [
         {
@@ -39,14 +39,14 @@
           "team": "Indiana Pacers",
           "abbreviation": "IND",
           "home_away": "home",
-          "score": "40"
+          "score": "90"
         },
         {
           "team_id": "17",
           "team": "Brooklyn Nets",
           "abbreviation": "BKN",
           "home_away": "away",
-          "score": "52"
+          "score": "98"
         }
       ]
     },
@@ -99,124 +99,34 @@
   ],
   "market_samples": [
     {
-      "ticker": "KXNBATOTAL-26NOV01BKNIND-191",
-      "title": "Full Game: Over 190.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV01BKNIND",
-      "yes_ask_cents": "30.0",
-      "no_ask_cents": "73.0",
-      "spread_cents": "3.0",
-      "volume_24h": "94927.0",
-      "close_time": "2026-11-03T22:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV01BKNIND-195",
-      "title": "Full Game: Over 194.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV01BKNIND",
-      "yes_ask_cents": "18.0",
-      "no_ask_cents": "84.0",
-      "spread_cents": "2.0",
-      "volume_24h": "27186.41",
-      "close_time": "2026-11-03T22:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV01BKNIND-201",
-      "title": "Full Game: Over 200.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV01BKNIND",
-      "yes_ask_cents": "11.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "4.0",
-      "volume_24h": "15524.21",
-      "close_time": "2026-11-03T22:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV01BKNIND-193",
-      "title": "Full Game: Over 192.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV01BKNIND",
-      "yes_ask_cents": "25.0",
-      "no_ask_cents": "79.0",
-      "spread_cents": "4.0",
-      "volume_24h": "13889.88",
-      "close_time": "2026-11-03T22:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV01BKNIND-199",
-      "title": "Full Game: Over 198.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV01BKNIND",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "3.0",
-      "volume_24h": "12529.79",
-      "close_time": "2026-11-03T22:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV01BKNIND-197",
-      "title": "Full Game: Over 196.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV01BKNIND",
-      "yes_ask_cents": "17.0",
-      "no_ask_cents": "87.0",
-      "spread_cents": "4.0",
-      "volume_24h": "11389.42",
-      "close_time": "2026-11-03T22:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV01BKNIND-189",
-      "title": "Full Game: Over 188.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV01BKNIND",
-      "yes_ask_cents": "37.0",
-      "no_ask_cents": "67.0",
-      "spread_cents": "4.0",
-      "volume_24h": "6402.12",
-      "close_time": "2026-11-03T22:00:00Z"
-    },
-    {
       "ticker": "KXNBAAST-26NOV01TORLAL-LALJLARAVIA12-2",
       "title": "Jake LaRavia: 2+ assists",
       "event_ticker": "KXNBAAST-26NOV01TORLAL",
-      "yes_ask_cents": "50.0",
+      "yes_ask_cents": "49.0",
       "no_ask_cents": "52.0",
-      "spread_cents": "2.0",
-      "volume_24h": "2512.58",
+      "spread_cents": "1.0",
+      "volume_24h": "3204.63",
       "close_time": "2026-11-04T02:00:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26NOV01BKNIND-187",
-      "title": "Full Game: Over 186.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV01BKNIND",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "4.0",
-      "volume_24h": "2410.33",
-      "close_time": "2026-11-03T22:00:00Z"
+      "ticker": "KXNBASPREAD-26NOV02DETCHA-DET11",
+      "title": "Detroit wins by over 10.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV02DETCHA",
+      "yes_ask_cents": "28.0",
+      "no_ask_cents": "74.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1235.54",
+      "close_time": "2026-11-05T00:30:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26NOV01BKNIND-183",
-      "title": "Full Game: Over 182.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV01BKNIND",
-      "yes_ask_cents": "57.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "4.0",
-      "volume_24h": "1569.75",
-      "close_time": "2026-11-03T22:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV01BKNIND-185",
-      "title": "Full Game: Over 184.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV01BKNIND",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "4.0",
-      "volume_24h": "1555.61",
-      "close_time": "2026-11-03T22:00:00Z"
-    },
-    {
-      "ticker": "KXNBATEAMTOTAL-26NOV01BKNIND-IND97",
-      "title": "Indiana over 96.5 points scored",
-      "event_ticker": "KXNBATEAMTOTAL-26NOV01BKNIND",
-      "yes_ask_cents": "22.0",
-      "no_ask_cents": "85.0",
-      "spread_cents": "7.0",
-      "volume_24h": "1043.52",
-      "close_time": "2026-11-03T22:00:00Z"
+      "ticker": "KXNBAESCALATORPTS-26NOV01TORLAL-LALWKESSLER14",
+      "title": "Walker Kessler player points escalator",
+      "event_ticker": "KXNBAESCALATORPTS-26NOV01TORLAL",
+      "yes_ask_cents": "12.86",
+      "no_ask_cents": "94.99",
+      "spread_cents": "7.85",
+      "volume_24h": "652.81",
+      "close_time": "2026-11-04T02:00:00Z"
     },
     {
       "ticker": "KXNBAAST-26NOV01TORLAL-LALWKESSLER14-2",
@@ -229,64 +139,184 @@
       "close_time": "2026-11-04T02:00:00Z"
     },
     {
-      "ticker": "KXNBATEAMTOTAL-26NOV01BKNIND-IND93",
-      "title": "Indiana over 92.5 points scored",
-      "event_ticker": "KXNBATEAMTOTAL-26NOV01BKNIND",
-      "yes_ask_cents": "33.0",
-      "no_ask_cents": "71.0",
-      "spread_cents": "4.0",
-      "volume_24h": "413.83",
-      "close_time": "2026-11-03T22:00:00Z"
+      "ticker": "KXNBATOTAL-26NOV02OKCCLE-228",
+      "title": "Full Game: Over 227.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV02OKCCLE",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "1.0",
+      "volume_24h": "283.99",
+      "close_time": "2026-11-05T00:00:00Z"
     },
     {
-      "ticker": "KXNBATEAMTOTAL-26NOV01BKNIND-IND99",
-      "title": "Indiana over 98.5 points scored",
-      "event_ticker": "KXNBATEAMTOTAL-26NOV01BKNIND",
-      "yes_ask_cents": "12.0",
-      "no_ask_cents": "89.0",
-      "spread_cents": "1.0",
-      "volume_24h": "301.05",
-      "close_time": "2026-11-03T22:00:00Z"
+      "ticker": "KXNBATOTAL-26NOV02BKNNYK-195",
+      "title": "Full Game: Over 194.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV02BKNNYK",
+      "yes_ask_cents": "95.0",
+      "no_ask_cents": "7.0",
+      "spread_cents": "2.0",
+      "volume_24h": "279.0",
+      "close_time": "2026-11-05T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV02OKCCLE-200",
+      "title": "Full Game: Over 199.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV02OKCCLE",
+      "yes_ask_cents": "95.0",
+      "no_ask_cents": "7.0",
+      "spread_cents": "2.0",
+      "volume_24h": "279.0",
+      "close_time": "2026-11-05T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26NOV01TORLAL-LALJLARAVIA12-2",
+      "title": "Jake LaRavia: 2+ threes",
+      "event_ticker": "KXNBA3PT-26NOV01TORLAL",
+      "yes_ask_cents": "30.0",
+      "no_ask_cents": "72.0",
+      "spread_cents": "2.0",
+      "volume_24h": "275.42",
+      "close_time": "2026-11-04T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV02CHIPHI-PHILJAMES23-10",
+      "title": "LeBron James: 10+ points",
+      "event_ticker": "KXNBAPTS-26NOV02CHIPHI",
+      "yes_ask_cents": "91.0",
+      "no_ask_cents": "16.0",
+      "spread_cents": "7.0",
+      "volume_24h": "247.1",
+      "close_time": "2026-11-05T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV01TORLAL-LALJLARAVIA12-15",
+      "title": "Jake LaRavia: 15+ points",
+      "event_ticker": "KXNBAPTS-26NOV01TORLAL",
+      "yes_ask_cents": "8.0",
+      "no_ask_cents": "95.0",
+      "spread_cents": "3.0",
+      "volume_24h": "217.3",
+      "close_time": "2026-11-04T02:00:00Z"
     },
     {
       "ticker": "KXNBAREB-26NOV01TORLAL-LALCSEXTON10-2",
       "title": "Collin Sexton: 2+ rebounds",
       "event_ticker": "KXNBAREB-26NOV01TORLAL",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "50.0",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "51.0",
       "spread_cents": "1.0",
-      "volume_24h": "208.71",
+      "volume_24h": "210.6",
       "close_time": "2026-11-04T02:00:00Z"
     },
     {
-      "ticker": "KXNBATEAMTOTAL-26NOV01BKNIND-BKN95",
-      "title": "Brooklyn over 94.5 points scored",
-      "event_ticker": "KXNBATEAMTOTAL-26NOV01BKNIND",
-      "yes_ask_cents": "61.0",
-      "no_ask_cents": "43.0",
-      "spread_cents": "4.0",
-      "volume_24h": "182.41",
-      "close_time": "2026-11-03T22:00:00Z"
+      "ticker": "KXNBAPTS-26NOV01LACGSW-GSWYLENDEBORG1-10",
+      "title": "Yaxel Lendeborg: 10+ points",
+      "event_ticker": "KXNBAPTS-26NOV01LACGSW",
+      "yes_ask_cents": "92.0",
+      "no_ask_cents": "15.0",
+      "spread_cents": "7.0",
+      "volume_24h": "209.82",
+      "close_time": "2026-11-04T01:30:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26NOV01BKNIND-INDPSIAKAM43-35",
-      "title": "Pascal Siakam: 35+ points",
-      "event_ticker": "KXNBAPTS-26NOV01BKNIND",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "7.0",
-      "volume_24h": "160.76",
-      "close_time": "2026-11-03T22:00:00Z"
+      "ticker": "KXNBASPREAD-26NOV02CHIPHI-PHI11",
+      "title": "Philadelphia wins by over 10.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV02CHIPHI",
+      "yes_ask_cents": "56.0",
+      "no_ask_cents": "46.0",
+      "spread_cents": "2.0",
+      "volume_24h": "186.24",
+      "close_time": "2026-11-05T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV01TORLAL-LALJLARAVIA12-10",
+      "title": "Jake LaRavia: 10+ points",
+      "event_ticker": "KXNBAPTS-26NOV01TORLAL",
+      "yes_ask_cents": "28.0",
+      "no_ask_cents": "74.0",
+      "spread_cents": "2.0",
+      "volume_24h": "178.83",
+      "close_time": "2026-11-04T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV02CHIPHI-240",
+      "title": "Full Game: Over 239.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV02CHIPHI",
+      "yes_ask_cents": "47.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "1.0",
+      "volume_24h": "125.32",
+      "close_time": "2026-11-05T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV02CHIPHI-238",
+      "title": "Full Game: Over 237.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV02CHIPHI",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "2.0",
+      "volume_24h": "125.0",
+      "close_time": "2026-11-05T00:30:00Z"
     },
     {
       "ticker": "KXNBAREB-26NOV01TORLAL-LALCSEXTON10-4",
       "title": "Collin Sexton: 4+ rebounds",
       "event_ticker": "KXNBAREB-26NOV01TORLAL",
       "yes_ask_cents": "14.0",
-      "no_ask_cents": "88.0",
-      "spread_cents": "2.0",
-      "volume_24h": "107.71",
+      "no_ask_cents": "89.0",
+      "spread_cents": "3.0",
+      "volume_24h": "107.72",
       "close_time": "2026-11-04T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV02UTASAS-202",
+      "title": "Full Game: Over 201.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV02UTASAS",
+      "yes_ask_cents": "98.0",
+      "no_ask_cents": "10.0",
+      "spread_cents": "8.0",
+      "volume_24h": "106.0",
+      "close_time": "2026-11-05T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBAESCALATORPTS-26NOV01TORLAL-TORSBARNES4",
+      "title": "Scottie Barnes player points escalator",
+      "event_ticker": "KXNBAESCALATORPTS-26NOV01TORLAL",
+      "yes_ask_cents": "22.22",
+      "no_ask_cents": "84.99",
+      "spread_cents": "7.21",
+      "volume_24h": "105.87",
+      "close_time": "2026-11-04T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26NOV02OKCCLE-OKCIHARTENSTEIN55-4",
+      "title": "Isaiah Hartenstein: 4+ assists",
+      "event_ticker": "KXNBAAST-26NOV02OKCCLE",
+      "yes_ask_cents": "44.0",
+      "no_ask_cents": "58.0",
+      "spread_cents": "2.0",
+      "volume_24h": "103.92",
+      "close_time": "2026-11-05T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV02DETCHA-181",
+      "title": "Full Game: Over 180.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV02DETCHA",
+      "yes_ask_cents": "95.0",
+      "no_ask_cents": "8.0",
+      "spread_cents": "3.0",
+      "volume_24h": "100.0",
+      "close_time": "2026-11-05T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV02BOSHOU-191",
+      "title": "Full Game: Over 190.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV02BOSHOU",
+      "yes_ask_cents": "95.0",
+      "no_ask_cents": "11.0",
+      "spread_cents": "6.0",
+      "volume_24h": "100.0",
+      "close_time": "2026-11-05T01:30:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
