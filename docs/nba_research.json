@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-11-03T08:59:53.252590+00:00",
+  "generated_utc": "2026-11-03T10:01:44.020996+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 13,
+  "qualifying_nba_markets": 16,
   "scoreboard_games": [
     {
       "event_id": "401909907",
@@ -355,20 +355,30 @@
       "ticker": "KXNBASPREAD-26NOV04PHIDET-DET2",
       "title": "Detroit wins by over 1.5 points",
       "event_ticker": "KXNBASPREAD-26NOV04PHIDET",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "5.0",
-      "volume_24h": "3188.87",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "4.0",
+      "volume_24h": "3400.87",
       "close_time": "2026-11-07T00:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV04PHIDET-DET3",
       "title": "Detroit wins by over 2.5 points",
       "event_ticker": "KXNBASPREAD-26NOV04PHIDET",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "54.0",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "1.0",
+      "volume_24h": "2108.94",
+      "close_time": "2026-11-07T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV04PHIDET-220",
+      "title": "Full Game: Over 219.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV04PHIDET",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "50.0",
       "spread_cents": "2.0",
-      "volume_24h": "2100.94",
+      "volume_24h": "1068.83",
       "close_time": "2026-11-07T00:00:00Z"
     },
     {
@@ -382,33 +392,43 @@
       "close_time": "2026-11-07T01:30:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26NOV04PHIDET-220",
-      "title": "Full Game: Over 219.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV04PHIDET",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "4.0",
-      "volume_24h": "878.83",
+      "ticker": "KXNBAWINMARGIN-26NOV04PHIDET-PHI1TO5",
+      "title": "Philadelphia wins by 1 to 5 points",
+      "event_ticker": "KXNBAWINMARGIN-26NOV04PHIDET",
+      "yes_ask_cents": "14.0",
+      "no_ask_cents": "91.0",
+      "spread_cents": "5.0",
+      "volume_24h": "832.15",
       "close_time": "2026-11-07T00:00:00Z"
     },
     {
       "ticker": "KXNBAGAME-26NOV06WASATL-WAS",
       "title": "Washington wins",
       "event_ticker": "KXNBAGAME-26NOV06WASATL",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "7.0",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "60.0",
+      "spread_cents": "8.0",
       "volume_24h": "734.12",
       "close_time": "2026-11-09T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV04PHIDET-234",
+      "title": "Full Game: Over 233.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV04PHIDET",
+      "yes_ask_cents": "24.0",
+      "no_ask_cents": "81.0",
+      "spread_cents": "5.0",
+      "volume_24h": "728.34",
+      "close_time": "2026-11-07T00:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV04CHABKN-CHA3",
       "title": "Charlotte wins by over 2.5 points",
       "event_ticker": "KXNBASPREAD-26NOV04CHABKN",
-      "yes_ask_cents": "52.0",
+      "yes_ask_cents": "53.0",
       "no_ask_cents": "51.0",
-      "spread_cents": "3.0",
-      "volume_24h": "467.82",
+      "spread_cents": "4.0",
+      "volume_24h": "645.58",
       "close_time": "2026-11-07T00:30:00Z"
     },
     {
@@ -425,11 +445,31 @@
       "ticker": "KXNBASPREAD-26NOV04MINHOU-HOU9",
       "title": "Houston wins by over 8.5 points",
       "event_ticker": "KXNBASPREAD-26NOV04MINHOU",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "51.0",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "50.0",
       "spread_cents": "4.0",
       "volume_24h": "153.44",
       "close_time": "2026-11-07T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBAWINMARGIN-26NOV04PHIDET-DET1TO5",
+      "title": "Detroit wins by 1 to 5 points",
+      "event_ticker": "KXNBAWINMARGIN-26NOV04PHIDET",
+      "yes_ask_cents": "20.0",
+      "no_ask_cents": "87.0",
+      "spread_cents": "7.0",
+      "volume_24h": "149.5",
+      "close_time": "2026-11-07T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBAWINMARGIN-26NOV04PHIDET-PHI6TO10",
+      "title": "Philadelphia wins by 6 to 10 points",
+      "event_ticker": "KXNBAWINMARGIN-26NOV04PHIDET",
+      "yes_ask_cents": "19.0",
+      "no_ask_cents": "88.0",
+      "spread_cents": "7.0",
+      "volume_24h": "131.28",
+      "close_time": "2026-11-07T00:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26NOV04CHABKN-215",
@@ -452,22 +492,12 @@
       "close_time": "2026-11-07T00:00:00Z"
     },
     {
-      "ticker": "KXNBAWINMARGIN-26NOV04PHIDET-PHI1TO5",
-      "title": "Philadelphia wins by 1 to 5 points",
-      "event_ticker": "KXNBAWINMARGIN-26NOV04PHIDET",
-      "yes_ask_cents": "18.0",
-      "no_ask_cents": "87.0",
-      "spread_cents": "5.0",
-      "volume_24h": "112.88",
-      "close_time": "2026-11-07T00:00:00Z"
-    },
-    {
       "ticker": "KXNBASPREAD-26NOV04DALSAS-SAS25",
       "title": "San Antonio wins by over 24.5 points",
       "event_ticker": "KXNBASPREAD-26NOV04DALSAS",
       "yes_ask_cents": "21.0",
-      "no_ask_cents": "84.0",
-      "spread_cents": "5.0",
+      "no_ask_cents": "82.0",
+      "spread_cents": "3.0",
       "volume_24h": "101.57",
       "close_time": "2026-11-07T02:30:00Z"
     },
