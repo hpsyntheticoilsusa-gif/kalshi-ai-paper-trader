@@ -1,0 +1,35 @@
+name: NFL research safety tests
+on:
+  pull_request:
+    paths:
+      - 'nfl_research.py'
+      - 'test_nfl_research.py'
+      - '.github/workflows/scan.yml'
+      - '.github/workflows/nfl-checks.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify NFL observation gate
+        run: python -m unittest -v test_nfl_research.py
+      - name: Generate NFL observation report
+        run: python nfl_research.py
+      - name: Assert no paper trades or actionable picks
+        run: |
+          python - <<'PY'
+          import json
+          with open("docs/nfl_research.json", encoding="utf-8") as f:
+              data = json.load(f)
+          assert data["status"] == "OBSERVATION_ONLY"
+          assert data["qualified_picks"] == 0
+          assert data["paper_orders_created"] == 0
+          assert all(c["signal"] == "PASS" and c["paper_quantity"] == 0 for c in data["contracts"])
+          print("PASS: generated NFL data is observation-only")
+          PY
