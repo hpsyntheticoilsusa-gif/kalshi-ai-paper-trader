@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-11-04T05:06:46.827051+00:00",
+  "generated_utc": "2026-11-04T06:08:01.960234+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 112,
+  "qualifying_nba_markets": 139,
   "scoreboard_games": [
     {
       "event_id": "401909922",
@@ -329,64 +329,44 @@
   ],
   "market_samples": [
     {
-      "ticker": "KXNBASPREAD-26NOV04PORPHX-POR3",
-      "title": "Portland wins by over 2.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV04PORPHX",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "2.0",
-      "volume_24h": "4087.24",
-      "close_time": "2026-11-07T02:00:00Z"
-    },
-    {
       "ticker": "KXNBASPREAD-26NOV04MILBOS-BOS12",
       "title": "Boston wins by over 11.5 points",
       "event_ticker": "KXNBASPREAD-26NOV04MILBOS",
       "yes_ask_cents": "49.0",
       "no_ask_cents": "52.0",
       "spread_cents": "1.0",
-      "volume_24h": "3769.07",
+      "volume_24h": "4200.46",
       "close_time": "2026-11-07T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV04PORPHX-POR3",
+      "title": "Portland wins by over 2.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV04PORPHX",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "2.0",
+      "volume_24h": "4180.18",
+      "close_time": "2026-11-07T02:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV04INDMEM-MEM7",
       "title": "Memphis wins by over 6.5 points",
       "event_ticker": "KXNBASPREAD-26NOV04INDMEM",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3523.58",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "1.0",
+      "volume_24h": "3786.3",
       "close_time": "2026-11-07T01:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV04PORPHX-POR4",
       "title": "Portland wins by over 3.5 points",
       "event_ticker": "KXNBASPREAD-26NOV04PORPHX",
-      "yes_ask_cents": "48.0",
+      "yes_ask_cents": "49.0",
       "no_ask_cents": "53.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3412.53",
-      "close_time": "2026-11-07T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV04MILBOS-224",
-      "title": "Full Game: Over 223.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV04MILBOS",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3014.88",
-      "close_time": "2026-11-07T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV04LALSAC-235",
-      "title": "Full Game: Over 234.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV04LALSAC",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "52.0",
       "spread_cents": "2.0",
-      "volume_24h": "2465.77",
-      "close_time": "2026-11-07T03:00:00Z"
+      "volume_24h": "3642.94",
+      "close_time": "2026-11-07T02:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV04LALSAC-LAL12",
@@ -395,37 +375,87 @@
       "yes_ask_cents": "51.0",
       "no_ask_cents": "50.0",
       "spread_cents": "1.0",
-      "volume_24h": "2152.21",
+      "volume_24h": "3627.04",
       "close_time": "2026-11-07T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV04TORDEN-DEN5",
-      "title": "Denver wins by over 4.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV04TORDEN",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "1.0",
-      "volume_24h": "2075.05",
-      "close_time": "2026-11-07T02:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26NOV04ATLWAS-233",
       "title": "Full Game: Over 232.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV04ATLWAS",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "1.0",
+      "volume_24h": "3154.95",
+      "close_time": "2026-11-07T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV04MILBOS-224",
+      "title": "Full Game: Over 223.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV04MILBOS",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "1.0",
+      "volume_24h": "3143.03",
+      "close_time": "2026-11-07T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV04TORDEN-DEN5",
+      "title": "Denver wins by over 4.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV04TORDEN",
       "yes_ask_cents": "51.0",
       "no_ask_cents": "51.0",
       "spread_cents": "2.0",
-      "volume_24h": "1872.8",
+      "volume_24h": "3070.33",
+      "close_time": "2026-11-07T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV04ATLWAS-ATL3",
+      "title": "Atlanta wins by over 2.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV04ATLWAS",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "1.0",
+      "volume_24h": "2974.25",
+      "close_time": "2026-11-07T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV04LALSAC-235",
+      "title": "Full Game: Over 234.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV04LALSAC",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "2.0",
+      "volume_24h": "2773.53",
+      "close_time": "2026-11-07T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV04UTANOP-NOP6",
+      "title": "New Orleans wins by over 5.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV04UTANOP",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "2.0",
+      "volume_24h": "2707.37",
+      "close_time": "2026-11-07T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV04PHIDET-PHITMAXEY0-25",
+      "title": "Tyrese Maxey: 25+ points",
+      "event_ticker": "KXNBAPTS-26NOV04PHIDET",
+      "yes_ask_cents": "43.0",
+      "no_ask_cents": "60.0",
+      "spread_cents": "3.0",
+      "volume_24h": "2224.85",
       "close_time": "2026-11-07T00:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV04CHINYK-NYK13",
       "title": "New York wins by over 12.5 points",
       "event_ticker": "KXNBASPREAD-26NOV04CHINYK",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "53.0",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "52.0",
       "spread_cents": "1.0",
-      "volume_24h": "1816.16",
+      "volume_24h": "2130.41",
       "close_time": "2026-11-07T00:30:00Z"
     },
     {
@@ -435,7 +465,7 @@
       "yes_ask_cents": "54.0",
       "no_ask_cents": "48.0",
       "spread_cents": "2.0",
-      "volume_24h": "1548.51",
+      "volume_24h": "1550.52",
       "close_time": "2026-11-07T00:00:00Z"
     },
     {
@@ -449,32 +479,22 @@
       "close_time": "2026-11-07T02:00:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26NOV04PHIDET-PHITMAXEY0-25",
-      "title": "Tyrese Maxey: 25+ points",
-      "event_ticker": "KXNBAPTS-26NOV04PHIDET",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "4.0",
-      "volume_24h": "1369.65",
-      "close_time": "2026-11-07T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV04ATLWAS-ATL3",
-      "title": "Atlanta wins by over 2.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV04ATLWAS",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1365.67",
-      "close_time": "2026-11-07T00:00:00Z"
+      "ticker": "KXNBATOTAL-26NOV04CHINYK-233",
+      "title": "Full Game: Over 232.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV04CHINYK",
+      "yes_ask_cents": "55.0",
+      "no_ask_cents": "46.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1450.52",
+      "close_time": "2026-11-07T00:30:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26NOV04ATLWAS-235",
       "title": "Full Game: Over 234.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV04ATLWAS",
-      "yes_ask_cents": "46.0",
+      "yes_ask_cents": "45.0",
       "no_ask_cents": "56.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "1230.46",
       "close_time": "2026-11-07T00:00:00Z"
     },
@@ -482,10 +502,40 @@
       "ticker": "KXNBAAST-26NOV04CLEOKC-CLEDMITCHELL45-6",
       "title": "Donovan Mitchell: 6+ assists",
       "event_ticker": "KXNBAAST-26NOV04CLEOKC",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "3.0",
-      "volume_24h": "1106.32",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "4.0",
+      "volume_24h": "1220.42",
+      "close_time": "2026-11-07T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26NOV04CHINYK-NYKJHART3-4",
+      "title": "Josh Hart: 4+ assists",
+      "event_ticker": "KXNBAAST-26NOV04CHINYK",
+      "yes_ask_cents": "58.0",
+      "no_ask_cents": "43.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1123.52",
+      "close_time": "2026-11-07T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26NOV04ATLWAS-WASTYOUNG3-2",
+      "title": "Trae Young: 2+ rebounds",
+      "event_ticker": "KXNBAREB-26NOV04ATLWAS",
+      "yes_ask_cents": "88.0",
+      "no_ask_cents": "19.0",
+      "spread_cents": "7.0",
+      "volume_24h": "1054.59",
+      "close_time": "2026-11-07T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV04CLEOKC-OKCAMITCHELL25-25",
+      "title": "Ajay Mitchell: 25+ points",
+      "event_ticker": "KXNBAPTS-26NOV04CLEOKC",
+      "yes_ask_cents": "18.0",
+      "no_ask_cents": "84.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1035.65",
       "close_time": "2026-11-07T01:00:00Z"
     },
     {
@@ -493,9 +543,9 @@
       "title": "Boston wins by over 14.5 points",
       "event_ticker": "KXNBASPREAD-26NOV04MILBOS",
       "yes_ask_cents": "40.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1004.72",
+      "no_ask_cents": "62.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1013.72",
       "close_time": "2026-11-07T00:30:00Z"
     },
     {
@@ -505,16 +555,26 @@
       "yes_ask_cents": "45.0",
       "no_ask_cents": "56.0",
       "spread_cents": "1.0",
-      "volume_24h": "883.95",
+      "volume_24h": "990.91",
       "close_time": "2026-11-07T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTSPROT-26NOV04PHIDET-PHITMAXEY0-25",
+      "title": "Tyrese Maxey: 25+ points",
+      "event_ticker": "KXNBAPTSPROT-26NOV04PHIDET",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "59.0",
+      "spread_cents": "7.0",
+      "volume_24h": "805.18",
+      "close_time": "2026-11-07T00:00:00Z"
     },
     {
       "ticker": "KXNBAPTS-26NOV04PHIDET-DETCCUNNINGHAM2-30",
       "title": "Cade Cunningham: 30+ points",
       "event_ticker": "KXNBAPTS-26NOV04PHIDET",
-      "yes_ask_cents": "28.0",
+      "yes_ask_cents": "27.0",
       "no_ask_cents": "75.0",
-      "spread_cents": "3.0",
+      "spread_cents": "2.0",
       "volume_24h": "800.92",
       "close_time": "2026-11-07T00:00:00Z"
     },
@@ -529,22 +589,22 @@
       "close_time": "2026-11-07T02:00:00Z"
     },
     {
-      "ticker": "KXNBAPTSPROT-26NOV04PHIDET-PHITMAXEY0-25",
-      "title": "Tyrese Maxey: 25+ points",
-      "event_ticker": "KXNBAPTSPROT-26NOV04PHIDET",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "58.0",
-      "spread_cents": "7.0",
-      "volume_24h": "784.48",
+      "ticker": "KXNBASPREAD-26NOV04ATLWAS-WAS19",
+      "title": "Washington wins by over 18.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV04ATLWAS",
+      "yes_ask_cents": "8.0",
+      "no_ask_cents": "96.0",
+      "spread_cents": "4.0",
+      "volume_24h": "723.57",
       "close_time": "2026-11-07T00:00:00Z"
     },
     {
       "ticker": "KXNBA3PTPROT-26NOV04CHABKN-CHAGALLEN8-3",
       "title": "Grayson Allen: 3+ threes",
       "event_ticker": "KXNBA3PTPROT-26NOV04CHABKN",
-      "yes_ask_cents": "48.0",
+      "yes_ask_cents": "46.0",
       "no_ask_cents": "55.0",
-      "spread_cents": "3.0",
+      "spread_cents": "1.0",
       "volume_24h": "710.29",
       "close_time": "2026-11-07T00:30:00Z"
     },
@@ -553,20 +613,20 @@
       "title": "Full Game: Over 218.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV04PORPHX",
       "yes_ask_cents": "69.0",
-      "no_ask_cents": "33.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "32.0",
+      "spread_cents": "1.0",
       "volume_24h": "700.0",
       "close_time": "2026-11-07T02:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV04ATLWAS-WAS19",
-      "title": "Washington wins by over 18.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV04ATLWAS",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "96.0",
-      "spread_cents": "4.0",
-      "volume_24h": "696.57",
-      "close_time": "2026-11-07T00:00:00Z"
+      "ticker": "KXNBAPRA-26NOV04CLEOKC-OKCJWILLIAMS6-20",
+      "title": "Jaylin Williams: 20+ points, rebounds, and assists",
+      "event_ticker": "KXNBAPRA-26NOV04CLEOKC",
+      "yes_ask_cents": "33.0",
+      "no_ask_cents": "72.0",
+      "spread_cents": "5.0",
+      "volume_24h": "675.71",
+      "close_time": "2026-11-07T01:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV04INDMEM-MEM15",
@@ -575,108 +635,28 @@
       "yes_ask_cents": "27.0",
       "no_ask_cents": "76.0",
       "spread_cents": "3.0",
-      "volume_24h": "641.91",
+      "volume_24h": "652.48",
       "close_time": "2026-11-07T01:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV04ATLWAS-WAS7",
-      "title": "Washington wins by over 6.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV04ATLWAS",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "76.0",
-      "spread_cents": "4.0",
-      "volume_24h": "624.0",
-      "close_time": "2026-11-07T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV04LALSAC-253",
-      "title": "Full Game: Over 252.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV04LALSAC",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "88.0",
-      "spread_cents": "2.0",
-      "volume_24h": "576.57",
-      "close_time": "2026-11-07T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV04UTANOP-236",
-      "title": "Full Game: Over 235.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV04UTANOP",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "1.0",
-      "volume_24h": "576.0",
-      "close_time": "2026-11-07T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV04PHIDET-PHILJAMES23-25",
-      "title": "LeBron James: 25+ points",
-      "event_ticker": "KXNBAPTS-26NOV04PHIDET",
-      "yes_ask_cents": "9.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "6.0",
-      "volume_24h": "566.53",
-      "close_time": "2026-11-07T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV04LALSAC-LAL11",
-      "title": "Los Angeles L wins by over 10.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV04LALSAC",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "1.0",
-      "volume_24h": "558.45",
-      "close_time": "2026-11-07T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV04PORPHX-PHXJGREEN4-25",
-      "title": "Jalen Green: 25+ points",
-      "event_ticker": "KXNBAPTS-26NOV04PORPHX",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "4.0",
-      "volume_24h": "548.94",
-      "close_time": "2026-11-07T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV04ATLWAS-WASADAVIS23-25",
-      "title": "Anthony Davis: 25+ points",
-      "event_ticker": "KXNBAPTS-26NOV04ATLWAS",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "1.0",
-      "volume_24h": "547.62",
-      "close_time": "2026-11-07T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV04PORPHX-227",
-      "title": "Full Game: Over 226.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV04PORPHX",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "2.0",
-      "volume_24h": "535.0",
-      "close_time": "2026-11-07T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV04ATLWAS-WAS3",
-      "title": "Washington wins by over 2.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV04ATLWAS",
-      "yes_ask_cents": "40.0",
-      "no_ask_cents": "63.0",
-      "spread_cents": "3.0",
-      "volume_24h": "530.62",
-      "close_time": "2026-11-07T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV04TORDEN-DEN6",
-      "title": "Denver wins by over 5.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV04TORDEN",
+      "ticker": "KXNBASPREAD-26NOV04PORPHX-POR5",
+      "title": "Portland wins by over 4.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV04PORPHX",
       "yes_ask_cents": "46.0",
       "no_ask_cents": "56.0",
       "spread_cents": "2.0",
-      "volume_24h": "526.55",
+      "volume_24h": "643.06",
       "close_time": "2026-11-07T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV04CLEOKC-OKCSGILGEOUSALEXANDER2-35",
+      "title": "Shai Gilgeous-Alexander: 35+ points",
+      "event_ticker": "KXNBAPTS-26NOV04CLEOKC",
+      "yes_ask_cents": "42.0",
+      "no_ask_cents": "61.0",
+      "spread_cents": "3.0",
+      "volume_24h": "636.69",
+      "close_time": "2026-11-07T01:00:00Z"
     },
     {
       "ticker": "KXNBAAST-26NOV04CHINYK-NYKKTOWNS32-8",
@@ -685,48 +665,68 @@
       "yes_ask_cents": "8.0",
       "no_ask_cents": "95.0",
       "spread_cents": "3.0",
-      "volume_24h": "518.33",
+      "volume_24h": "635.76",
       "close_time": "2026-11-07T00:30:00Z"
     },
     {
-      "ticker": "KXNBA3PT-26NOV04PORPHX-PORTCAMARA33-3",
-      "title": "Toumani Camara: 3+ threes",
-      "event_ticker": "KXNBA3PT-26NOV04PORPHX",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "4.0",
-      "volume_24h": "497.52",
-      "close_time": "2026-11-07T02:00:00Z"
+      "ticker": "KXNBASPREAD-26NOV04ATLWAS-WAS7",
+      "title": "Washington wins by over 6.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV04ATLWAS",
+      "yes_ask_cents": "28.0",
+      "no_ask_cents": "75.0",
+      "spread_cents": "3.0",
+      "volume_24h": "624.0",
+      "close_time": "2026-11-07T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV04PHIDET-PHITMAXEY0-15",
+      "title": "Tyrese Maxey: 15+ points",
+      "event_ticker": "KXNBAPTS-26NOV04PHIDET",
+      "yes_ask_cents": "89.0",
+      "no_ask_cents": "14.0",
+      "spread_cents": "3.0",
+      "volume_24h": "617.9",
+      "close_time": "2026-11-07T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV04PHIDET-PHITMAXEY0-30",
+      "title": "Tyrese Maxey: 30+ points",
+      "event_ticker": "KXNBAPTS-26NOV04PHIDET",
+      "yes_ask_cents": "24.0",
+      "no_ask_cents": "79.0",
+      "spread_cents": "3.0",
+      "volume_24h": "615.89",
+      "close_time": "2026-11-07T00:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV04PORPHX-POR8",
       "title": "Portland wins by over 7.5 points",
       "event_ticker": "KXNBASPREAD-26NOV04PORPHX",
-      "yes_ask_cents": "34.0",
+      "yes_ask_cents": "35.0",
       "no_ask_cents": "67.0",
-      "spread_cents": "1.0",
-      "volume_24h": "473.27",
+      "spread_cents": "2.0",
+      "volume_24h": "604.27",
       "close_time": "2026-11-07T02:00:00Z"
     },
     {
-      "ticker": "KXNBA2D-26NOV04ATLWAS-WASTYOUNG3",
-      "title": "Trae Young: Double Double",
-      "event_ticker": "KXNBA2D-26NOV04ATLWAS",
-      "yes_ask_cents": "59.0",
-      "no_ask_cents": "45.0",
-      "spread_cents": "4.0",
-      "volume_24h": "466.3",
-      "close_time": "2026-11-07T00:00:00Z"
+      "ticker": "KXNBATOTAL-26NOV04UTANOP-236",
+      "title": "Full Game: Over 235.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV04UTANOP",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "2.0",
+      "volume_24h": "594.26",
+      "close_time": "2026-11-07T01:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV04MILBOS-BOS10",
-      "title": "Boston wins by over 9.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV04MILBOS",
-      "yes_ask_cents": "58.0",
-      "no_ask_cents": "43.0",
-      "spread_cents": "1.0",
-      "volume_24h": "460.7",
-      "close_time": "2026-11-07T00:30:00Z"
+      "ticker": "KXNBATOTAL-26NOV04PORPHX-227",
+      "title": "Full Game: Over 226.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV04PORPHX",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "2.0",
+      "volume_24h": "582.66",
+      "close_time": "2026-11-07T02:00:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
