@@ -1,244 +1,14 @@
 {
-  "generated_utc": "2026-11-05T15:06:12.932957+00:00",
+  "generated_utc": "2026-11-05T16:12:13.093593+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 130,
+  "qualifying_nba_markets": 161,
   "scoreboard_games": [
     {
-      "event_id": "401909922",
-      "date": "2026-11-05T00:00Z",
-      "name": "Philadelphia 76ers at Detroit Pistons",
-      "status": "STATUS_FINAL",
-      "season_type": 2,
-      "teams": [
-        {
-          "team_id": "8",
-          "team": "Detroit Pistons",
-          "abbreviation": "DET",
-          "home_away": "home",
-          "score": "106"
-        },
-        {
-          "team_id": "20",
-          "team": "Philadelphia 76ers",
-          "abbreviation": "PHI",
-          "home_away": "away",
-          "score": "112"
-        }
-      ]
-    },
-    {
-      "event_id": "401909923",
-      "date": "2026-11-05T00:00Z",
-      "name": "Atlanta Hawks at Washington Wizards",
-      "status": "STATUS_FINAL",
-      "season_type": 2,
-      "teams": [
-        {
-          "team_id": "27",
-          "team": "Washington Wizards",
-          "abbreviation": "WSH",
-          "home_away": "home",
-          "score": "105"
-        },
-        {
-          "team_id": "1",
-          "team": "Atlanta Hawks",
-          "abbreviation": "ATL",
-          "home_away": "away",
-          "score": "120"
-        }
-      ]
-    },
-    {
-      "event_id": "401909924",
-      "date": "2026-11-05T00:30Z",
-      "name": "Milwaukee Bucks at Boston Celtics",
-      "status": "STATUS_FINAL",
-      "season_type": 2,
-      "teams": [
-        {
-          "team_id": "2",
-          "team": "Boston Celtics",
-          "abbreviation": "BOS",
-          "home_away": "home",
-          "score": "109"
-        },
-        {
-          "team_id": "15",
-          "team": "Milwaukee Bucks",
-          "abbreviation": "MIL",
-          "home_away": "away",
-          "score": "102"
-        }
-      ]
-    },
-    {
-      "event_id": "401909925",
-      "date": "2026-11-05T00:30Z",
-      "name": "Charlotte Hornets at Brooklyn Nets",
-      "status": "STATUS_FINAL",
-      "season_type": 2,
-      "teams": [
-        {
-          "team_id": "17",
-          "team": "Brooklyn Nets",
-          "abbreviation": "BKN",
-          "home_away": "home",
-          "score": "114"
-        },
-        {
-          "team_id": "30",
-          "team": "Charlotte Hornets",
-          "abbreviation": "CHA",
-          "home_away": "away",
-          "score": "104"
-        }
-      ]
-    },
-    {
-      "event_id": "401909926",
-      "date": "2026-11-05T00:30Z",
-      "name": "Chicago Bulls at New York Knicks",
-      "status": "STATUS_FINAL",
-      "season_type": 2,
-      "teams": [
-        {
-          "team_id": "18",
-          "team": "New York Knicks",
-          "abbreviation": "NY",
-          "home_away": "home",
-          "score": "135"
-        },
-        {
-          "team_id": "4",
-          "team": "Chicago Bulls",
-          "abbreviation": "CHI",
-          "home_away": "away",
-          "score": "105"
-        }
-      ]
-    },
-    {
-      "event_id": "401909927",
-      "date": "2026-11-05T01:00Z",
-      "name": "Indiana Pacers at Memphis Grizzlies",
-      "status": "STATUS_FINAL",
-      "season_type": 2,
-      "teams": [
-        {
-          "team_id": "29",
-          "team": "Memphis Grizzlies",
-          "abbreviation": "MEM",
-          "home_away": "home",
-          "score": "103"
-        },
-        {
-          "team_id": "11",
-          "team": "Indiana Pacers",
-          "abbreviation": "IND",
-          "home_away": "away",
-          "score": "107"
-        }
-      ]
-    },
-    {
-      "event_id": "401909928",
-      "date": "2026-11-05T01:00Z",
-      "name": "Utah Jazz at New Orleans Pelicans",
-      "status": "STATUS_FINAL",
-      "season_type": 2,
-      "teams": [
-        {
-          "team_id": "3",
-          "team": "New Orleans Pelicans",
-          "abbreviation": "NO",
-          "home_away": "home",
-          "score": "120"
-        },
-        {
-          "team_id": "26",
-          "team": "Utah Jazz",
-          "abbreviation": "UTAH",
-          "home_away": "away",
-          "score": "113"
-        }
-      ]
-    },
-    {
-      "event_id": "401909929",
-      "date": "2026-11-05T01:00Z",
-      "name": "Cleveland Cavaliers at Oklahoma City Thunder",
-      "status": "STATUS_FINAL",
-      "season_type": 2,
-      "teams": [
-        {
-          "team_id": "25",
-          "team": "Oklahoma City Thunder",
-          "abbreviation": "OKC",
-          "home_away": "home",
-          "score": "124"
-        },
-        {
-          "team_id": "5",
-          "team": "Cleveland Cavaliers",
-          "abbreviation": "CLE",
-          "home_away": "away",
-          "score": "116"
-        }
-      ]
-    },
-    {
-      "event_id": "401909930",
-      "date": "2026-11-05T01:30Z",
-      "name": "Minnesota Timberwolves at Houston Rockets",
-      "status": "STATUS_FINAL",
-      "season_type": 2,
-      "teams": [
-        {
-          "team_id": "10",
-          "team": "Houston Rockets",
-          "abbreviation": "HOU",
-          "home_away": "home",
-          "score": "107"
-        },
-        {
-          "team_id": "16",
-          "team": "Minnesota Timberwolves",
-          "abbreviation": "MIN",
-          "home_away": "away",
-          "score": "117"
-        }
-      ]
-    },
-    {
-      "event_id": "401909931",
-      "date": "2026-11-05T02:00Z",
-      "name": "Toronto Raptors at Denver Nuggets",
-      "status": "STATUS_FINAL",
-      "season_type": 2,
-      "teams": [
-        {
-          "team_id": "7",
-          "team": "Denver Nuggets",
-          "abbreviation": "DEN",
-          "home_away": "home",
-          "score": "128"
-        },
-        {
-          "team_id": "28",
-          "team": "Toronto Raptors",
-          "abbreviation": "TOR",
-          "home_away": "away",
-          "score": "109"
-        }
-      ]
-    },
-    {
-      "event_id": "401909932",
-      "date": "2026-11-05T02:00Z",
-      "name": "Portland Trail Blazers at Phoenix Suns",
-      "status": "STATUS_FINAL",
+      "event_id": "401909936",
+      "date": "2026-11-06T02:00Z",
+      "name": "Orlando Magic at Phoenix Suns",
+      "status": "STATUS_SCHEDULED",
       "season_type": 2,
       "teams": [
         {
@@ -246,83 +16,37 @@
           "team": "Phoenix Suns",
           "abbreviation": "PHX",
           "home_away": "home",
-          "score": "119"
+          "score": "0"
         },
         {
-          "team_id": "22",
-          "team": "Portland Trail Blazers",
-          "abbreviation": "POR",
+          "team_id": "19",
+          "team": "Orlando Magic",
+          "abbreviation": "ORL",
           "home_away": "away",
-          "score": "132"
+          "score": "0"
         }
       ]
     },
     {
-      "event_id": "401909933",
-      "date": "2026-11-05T02:30Z",
-      "name": "Dallas Mavericks at San Antonio Spurs",
-      "status": "STATUS_FINAL",
+      "event_id": "401909937",
+      "date": "2026-11-06T03:00Z",
+      "name": "Miami Heat at Golden State Warriors",
+      "status": "STATUS_SCHEDULED",
       "season_type": 2,
       "teams": [
         {
-          "team_id": "24",
-          "team": "San Antonio Spurs",
-          "abbreviation": "SA",
+          "team_id": "9",
+          "team": "Golden State Warriors",
+          "abbreviation": "GS",
           "home_away": "home",
-          "score": "112"
-        },
-        {
-          "team_id": "6",
-          "team": "Dallas Mavericks",
-          "abbreviation": "DAL",
-          "home_away": "away",
-          "score": "111"
-        }
-      ]
-    },
-    {
-      "event_id": "401909934",
-      "date": "2026-11-05T03:00Z",
-      "name": "Los Angeles Lakers at Sacramento Kings",
-      "status": "STATUS_FINAL",
-      "season_type": 2,
-      "teams": [
-        {
-          "team_id": "23",
-          "team": "Sacramento Kings",
-          "abbreviation": "SAC",
-          "home_away": "home",
-          "score": "103"
-        },
-        {
-          "team_id": "13",
-          "team": "Los Angeles Lakers",
-          "abbreviation": "LAL",
-          "home_away": "away",
-          "score": "116"
-        }
-      ]
-    },
-    {
-      "event_id": "401909935",
-      "date": "2026-11-05T03:30Z",
-      "name": "Miami Heat at LA Clippers",
-      "status": "STATUS_FINAL",
-      "season_type": 2,
-      "teams": [
-        {
-          "team_id": "12",
-          "team": "LA Clippers",
-          "abbreviation": "LAC",
-          "home_away": "home",
-          "score": "116"
+          "score": "0"
         },
         {
           "team_id": "14",
           "team": "Miami Heat",
           "abbreviation": "MIA",
           "home_away": "away",
-          "score": "117"
+          "score": "0"
         }
       ]
     }
@@ -335,17 +59,17 @@
       "yes_ask_cents": "49.0",
       "no_ask_cents": "52.0",
       "spread_cents": "1.0",
-      "volume_24h": "7955.16",
+      "volume_24h": "15033.81",
       "close_time": "2026-11-08T03:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV05ORLPHX-PHX2",
       "title": "Phoenix wins by over 1.5 points",
       "event_ticker": "KXNBASPREAD-26NOV05ORLPHX",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "52.0",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "53.0",
       "spread_cents": "1.0",
-      "volume_24h": "4802.15",
+      "volume_24h": "8893.73",
       "close_time": "2026-11-08T02:00:00Z"
     },
     {
@@ -355,7 +79,7 @@
       "yes_ask_cents": "42.0",
       "no_ask_cents": "59.0",
       "spread_cents": "1.0",
-      "volume_24h": "4383.64",
+      "volume_24h": "4775.32",
       "close_time": "2026-11-08T03:00:00Z"
     },
     {
@@ -365,7 +89,7 @@
       "yes_ask_cents": "61.0",
       "no_ask_cents": "40.0",
       "spread_cents": "1.0",
-      "volume_24h": "3317.66",
+      "volume_24h": "4203.0",
       "close_time": "2026-11-08T03:00:00Z"
     },
     {
@@ -375,37 +99,17 @@
       "yes_ask_cents": "53.0",
       "no_ask_cents": "48.0",
       "spread_cents": "1.0",
-      "volume_24h": "2590.96",
+      "volume_24h": "3132.16",
       "close_time": "2026-11-08T03:00:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26NOV05MIAGSW-239",
-      "title": "Full Game: Over 238.5 points scored",
+      "ticker": "KXNBATOTAL-26NOV05MIAGSW-235",
+      "title": "Full Game: Over 234.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV05MIAGSW",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "58.0",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "52.0",
       "spread_cents": "1.0",
-      "volume_24h": "2555.56",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV05ORLPHX-PHX4",
-      "title": "Phoenix wins by over 3.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV05ORLPHX",
-      "yes_ask_cents": "42.0",
-      "no_ask_cents": "59.0",
-      "spread_cents": "1.0",
-      "volume_24h": "2520.02",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV05MIAGSW-GSWSCURRY30-20",
-      "title": "Stephen Curry: 20+ points",
-      "event_ticker": "KXNBAPTS-26NOV05MIAGSW",
-      "yes_ask_cents": "85.0",
-      "no_ask_cents": "17.0",
-      "spread_cents": "2.0",
-      "volume_24h": "2384.53",
+      "volume_24h": "2880.36",
       "close_time": "2026-11-08T03:00:00Z"
     },
     {
@@ -415,67 +119,7 @@
       "yes_ask_cents": "57.0",
       "no_ask_cents": "45.0",
       "spread_cents": "2.0",
-      "volume_24h": "2382.72",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV05MIAGSW-235",
-      "title": "Full Game: Over 234.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV05MIAGSW",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "2.0",
-      "volume_24h": "2094.51",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAAST-26NOV05ORLPHX-PHXOIGHODARO11-6",
-      "title": "Oso Ighodaro: 6+ assists",
-      "event_ticker": "KXNBAAST-26NOV05ORLPHX",
-      "yes_ask_cents": "10.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "3.0",
-      "volume_24h": "2031.24",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV05MIAGSW-GSWYLENDEBORG1-20",
-      "title": "Yaxel Lendeborg: 20+ points",
-      "event_ticker": "KXNBAPTS-26NOV05MIAGSW",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "3.0",
-      "volume_24h": "2013.35",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26NOV05MIAGSW-GSWSCURRY30-5",
-      "title": "Stephen Curry: 5+ threes",
-      "event_ticker": "KXNBA3PT-26NOV05MIAGSW",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1974.97",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV05MIAGSW-GSW4",
-      "title": "Golden State wins by over 3.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV05MIAGSW",
-      "yes_ask_cents": "64.0",
-      "no_ask_cents": "38.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1880.18",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV05MIAGSW-GSW10",
-      "title": "Golden State wins by over 9.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV05MIAGSW",
-      "yes_ask_cents": "42.0",
-      "no_ask_cents": "60.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1838.8",
+      "volume_24h": "2827.22",
       "close_time": "2026-11-08T03:00:00Z"
     },
     {
@@ -485,17 +129,127 @@
       "yes_ask_cents": "50.0",
       "no_ask_cents": "51.0",
       "spread_cents": "1.0",
-      "volume_24h": "1599.62",
+      "volume_24h": "2697.67",
       "close_time": "2026-11-08T02:00:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26NOV05MIAGSW-229",
-      "title": "Full Game: Over 228.5 points scored",
+      "ticker": "KXNBATOTAL-26NOV05MIAGSW-239",
+      "title": "Full Game: Over 238.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV05MIAGSW",
-      "yes_ask_cents": "65.0",
-      "no_ask_cents": "37.0",
+      "yes_ask_cents": "40.0",
+      "no_ask_cents": "61.0",
+      "spread_cents": "1.0",
+      "volume_24h": "2555.56",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV05MIAGSW-GSWSCURRY30-20",
+      "title": "Stephen Curry: 20+ points",
+      "event_ticker": "KXNBAPTS-26NOV05MIAGSW",
+      "yes_ask_cents": "86.0",
+      "no_ask_cents": "17.0",
+      "spread_cents": "3.0",
+      "volume_24h": "2535.61",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV05ORLPHX-PHX4",
+      "title": "Phoenix wins by over 3.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV05ORLPHX",
+      "yes_ask_cents": "42.0",
+      "no_ask_cents": "60.0",
       "spread_cents": "2.0",
-      "volume_24h": "1469.85",
+      "volume_24h": "2522.02",
+      "close_time": "2026-11-08T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26NOV05MIAGSW-GSWSCURRY30-5",
+      "title": "Stephen Curry: 5+ threes",
+      "event_ticker": "KXNBA3PT-26NOV05MIAGSW",
+      "yes_ask_cents": "45.0",
+      "no_ask_cents": "56.0",
+      "spread_cents": "1.0",
+      "volume_24h": "2453.91",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV05ORLPHX-PHXDBOOKER15-25",
+      "title": "Devin Booker: 25+ points",
+      "event_ticker": "KXNBAPTS-26NOV05ORLPHX",
+      "yes_ask_cents": "57.0",
+      "no_ask_cents": "44.0",
+      "spread_cents": "1.0",
+      "volume_24h": "2379.32",
+      "close_time": "2026-11-08T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV05MIAGSW-GSWYLENDEBORG1-20",
+      "title": "Yaxel Lendeborg: 20+ points",
+      "event_ticker": "KXNBAPTS-26NOV05MIAGSW",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "1.0",
+      "volume_24h": "2211.62",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26NOV05ORLPHX-PHXOIGHODARO11-6",
+      "title": "Oso Ighodaro: 6+ assists",
+      "event_ticker": "KXNBAAST-26NOV05ORLPHX",
+      "yes_ask_cents": "11.0",
+      "no_ask_cents": "93.0",
+      "spread_cents": "4.0",
+      "volume_24h": "2134.22",
+      "close_time": "2026-11-08T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV05MIAGSW-GSW10",
+      "title": "Golden State wins by over 9.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV05MIAGSW",
+      "yes_ask_cents": "41.0",
+      "no_ask_cents": "60.0",
+      "spread_cents": "1.0",
+      "volume_24h": "2002.15",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV05MIAGSW-GSW4",
+      "title": "Golden State wins by over 3.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV05MIAGSW",
+      "yes_ask_cents": "64.0",
+      "no_ask_cents": "38.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1895.42",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV05MIAGSW-GSWSCURRY30-25",
+      "title": "Stephen Curry: 25+ points",
+      "event_ticker": "KXNBAPTS-26NOV05MIAGSW",
+      "yes_ask_cents": "67.0",
+      "no_ask_cents": "36.0",
+      "spread_cents": "3.0",
+      "volume_24h": "1770.32",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAWINMARGIN-26NOV05MIAGSW-GSW6TO10",
+      "title": "Golden State wins by 6 to 10 points",
+      "event_ticker": "KXNBAWINMARGIN-26NOV05MIAGSW",
+      "yes_ask_cents": "19.0",
+      "no_ask_cents": "84.0",
+      "spread_cents": "3.0",
+      "volume_24h": "1625.12",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV05MIAGSW-249",
+      "title": "Full Game: Over 248.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV05MIAGSW",
+      "yes_ask_cents": "24.0",
+      "no_ask_cents": "77.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1617.97",
       "close_time": "2026-11-08T03:00:00Z"
     },
     {
@@ -505,17 +259,37 @@
       "yes_ask_cents": "60.0",
       "no_ask_cents": "41.0",
       "spread_cents": "1.0",
-      "volume_24h": "1445.29",
+      "volume_24h": "1606.58",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBA1HTOTAL-26NOV05MIAGSW-122",
+      "title": "1st Half: Over 121.5 points scored",
+      "event_ticker": "KXNBA1HTOTAL-26NOV05MIAGSW",
+      "yes_ask_cents": "46.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1533.99",
       "close_time": "2026-11-08T03:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV05MIAGSW-GSW11",
       "title": "Golden State wins by over 10.5 points",
       "event_ticker": "KXNBASPREAD-26NOV05MIAGSW",
-      "yes_ask_cents": "39.0",
+      "yes_ask_cents": "40.0",
       "no_ask_cents": "62.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1437.84",
+      "spread_cents": "2.0",
+      "volume_24h": "1486.29",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV05MIAGSW-229",
+      "title": "Full Game: Over 228.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV05MIAGSW",
+      "yes_ask_cents": "64.0",
+      "no_ask_cents": "40.0",
+      "spread_cents": "4.0",
+      "volume_24h": "1469.85",
       "close_time": "2026-11-08T03:00:00Z"
     },
     {
@@ -529,33 +303,83 @@
       "close_time": "2026-11-08T03:00:00Z"
     },
     {
+      "ticker": "KXNBA3PT-26NOV05MIAGSW-GSWSCURRY30-6",
+      "title": "Stephen Curry: 6+ threes",
+      "event_ticker": "KXNBA3PT-26NOV05MIAGSW",
+      "yes_ask_cents": "28.0",
+      "no_ask_cents": "75.0",
+      "spread_cents": "3.0",
+      "volume_24h": "1380.62",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
       "ticker": "KXNBATOTAL-26NOV05ORLPHX-225",
       "title": "Full Game: Over 224.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV05ORLPHX",
       "yes_ask_cents": "46.0",
       "no_ask_cents": "55.0",
       "spread_cents": "1.0",
-      "volume_24h": "1341.5",
+      "volume_24h": "1375.65",
       "close_time": "2026-11-08T02:00:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26NOV05MIAGSW-GSWSCURRY30-25",
-      "title": "Stephen Curry: 25+ points",
-      "event_ticker": "KXNBAPTS-26NOV05MIAGSW",
-      "yes_ask_cents": "66.0",
-      "no_ask_cents": "37.0",
-      "spread_cents": "3.0",
-      "volume_24h": "1301.05",
+      "ticker": "KXNBA3PT-26NOV05MIAGSW-GSWSCURRY30-4",
+      "title": "Stephen Curry: 4+ threes",
+      "event_ticker": "KXNBA3PT-26NOV05MIAGSW",
+      "yes_ask_cents": "61.0",
+      "no_ask_cents": "40.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1360.2",
       "close_time": "2026-11-08T03:00:00Z"
     },
     {
       "ticker": "KXNBAAST-26NOV05ORLPHX-PHXOIGHODARO11-4",
       "title": "Oso Ighodaro: 4+ assists",
       "event_ticker": "KXNBAAST-26NOV05ORLPHX",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "74.0",
+      "yes_ask_cents": "34.0",
+      "no_ask_cents": "67.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1330.86",
+      "close_time": "2026-11-08T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV05ORLPHX-PHXJGREEN4-25",
+      "title": "Jalen Green: 25+ points",
+      "event_ticker": "KXNBAPTS-26NOV05ORLPHX",
+      "yes_ask_cents": "14.0",
+      "no_ask_cents": "89.0",
+      "spread_cents": "3.0",
+      "volume_24h": "1299.05",
+      "close_time": "2026-11-08T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV05ORLPHX-ORLABLACK0-15",
+      "title": "Anthony Black: 15+ points",
+      "event_ticker": "KXNBAPTS-26NOV05ORLPHX",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1243.94",
+      "close_time": "2026-11-08T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV05MIAGSW-237",
+      "title": "Full Game: Over 236.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV05MIAGSW",
+      "yes_ask_cents": "45.0",
+      "no_ask_cents": "57.0",
       "spread_cents": "2.0",
-      "volume_24h": "1248.54",
+      "volume_24h": "1219.99",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV05ORLPHX-201",
+      "title": "Full Game: Over 200.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV05ORLPHX",
+      "yes_ask_cents": "92.0",
+      "no_ask_cents": "10.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1172.73",
       "close_time": "2026-11-08T02:00:00Z"
     },
     {
@@ -572,21 +396,11 @@
       "ticker": "KXNBAPRA-26NOV05ORLPHX-PHXOIGHODARO11-15",
       "title": "Oso Ighodaro: 15+ points, rebounds, and assists",
       "event_ticker": "KXNBAPRA-26NOV05ORLPHX",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "2.0",
+      "yes_ask_cents": "57.0",
+      "no_ask_cents": "46.0",
+      "spread_cents": "3.0",
       "volume_24h": "1143.25",
       "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV05MIAGSW-237",
-      "title": "Full Game: Over 236.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV05MIAGSW",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "1.0",
-      "volume_24h": "1141.6",
-      "close_time": "2026-11-08T03:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV05ORLPHX-PHX13",
@@ -599,133 +413,43 @@
       "close_time": "2026-11-08T02:00:00Z"
     },
     {
-      "ticker": "KXNBA3PT-26NOV05MIAGSW-GSWSCURRY30-6",
-      "title": "Stephen Curry: 6+ threes",
-      "event_ticker": "KXNBA3PT-26NOV05MIAGSW",
-      "yes_ask_cents": "27.0",
-      "no_ask_cents": "75.0",
+      "ticker": "KXNBAPTS-26NOV05ORLPHX-PHXJGREEN4-20",
+      "title": "Jalen Green: 20+ points",
+      "event_ticker": "KXNBAPTS-26NOV05ORLPHX",
+      "yes_ask_cents": "33.0",
+      "no_ask_cents": "69.0",
       "spread_cents": "2.0",
-      "volume_24h": "1098.04",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26NOV05MIAGSW-GSWSCURRY30-7",
-      "title": "Stephen Curry: 7+ threes",
-      "event_ticker": "KXNBA3PT-26NOV05MIAGSW",
-      "yes_ask_cents": "18.0",
-      "no_ask_cents": "86.0",
-      "spread_cents": "4.0",
-      "volume_24h": "907.93",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV05ORLPHX-PHX5",
-      "title": "Phoenix wins by over 4.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV05ORLPHX",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "2.0",
-      "volume_24h": "903.44",
+      "volume_24h": "1069.33",
       "close_time": "2026-11-08T02:00:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26NOV05MIAGSW-225",
-      "title": "Full Game: Over 224.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV05MIAGSW",
-      "yes_ask_cents": "75.0",
-      "no_ask_cents": "28.0",
-      "spread_cents": "3.0",
-      "volume_24h": "838.46",
+      "ticker": "KXNBASPREAD-26NOV05MIAGSW-MIA14",
+      "title": "Miami wins by over 13.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV05MIAGSW",
+      "yes_ask_cents": "8.0",
+      "no_ask_cents": "94.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1051.48",
       "close_time": "2026-11-08T03:00:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26NOV05ORLPHX-PHXJGREEN4-25",
-      "title": "Jalen Green: 25+ points",
-      "event_ticker": "KXNBAPTS-26NOV05ORLPHX",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "89.0",
+      "ticker": "KXNBA1HTOTAL-26NOV05ORLPHX-116",
+      "title": "1st Half: Over 115.5 points scored",
+      "event_ticker": "KXNBA1HTOTAL-26NOV05ORLPHX",
+      "yes_ask_cents": "46.0",
+      "no_ask_cents": "56.0",
       "spread_cents": "2.0",
-      "volume_24h": "831.29",
+      "volume_24h": "1029.02",
       "close_time": "2026-11-08T02:00:00Z"
     },
     {
       "ticker": "KXNBAPTS-26NOV05ORLPHX-ORLDBANE3-20",
       "title": "Desmond Bane: 20+ points",
       "event_ticker": "KXNBAPTS-26NOV05ORLPHX",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "45.0",
+      "yes_ask_cents": "59.0",
+      "no_ask_cents": "42.0",
       "spread_cents": "1.0",
-      "volume_24h": "800.72",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV05ORLPHX-PHXDBOOKER15-25",
-      "title": "Devin Booker: 25+ points",
-      "event_ticker": "KXNBAPTS-26NOV05ORLPHX",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "1.0",
-      "volume_24h": "786.8",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26NOV05MIAGSW-122",
-      "title": "1st Half: Over 121.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26NOV05MIAGSW",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "1.0",
-      "volume_24h": "747.99",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26NOV05ORLPHX-ORLDBANE3-4",
-      "title": "Desmond Bane: 4+ threes",
-      "event_ticker": "KXNBA3PT-26NOV05ORLPHX",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "2.0",
-      "volume_24h": "722.85",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV05MIAGSW-GSW15",
-      "title": "Golden State wins by over 14.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV05MIAGSW",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "74.0",
-      "spread_cents": "2.0",
-      "volume_24h": "711.62",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV05ORLPHX-ORLTDASILVA23-20",
-      "title": "Tristan da Silva: 20+ points",
-      "event_ticker": "KXNBAPTS-26NOV05ORLPHX",
-      "yes_ask_cents": "15.0",
-      "no_ask_cents": "87.0",
-      "spread_cents": "2.0",
-      "volume_24h": "700.26",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV05MIAGSW-249",
-      "title": "Full Game: Over 248.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV05MIAGSW",
-      "yes_ask_cents": "26.0",
-      "no_ask_cents": "78.0",
-      "spread_cents": "4.0",
-      "volume_24h": "678.22",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBATEAMTOTAL-26NOV05ORLPHX-PHX112",
-      "title": "Phoenix over 111.5 points scored",
-      "event_ticker": "KXNBATEAMTOTAL-26NOV05ORLPHX",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "2.0",
-      "volume_24h": "672.08",
+      "volume_24h": "974.51",
       "close_time": "2026-11-08T02:00:00Z"
     }
   ],
