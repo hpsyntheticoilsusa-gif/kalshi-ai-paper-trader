@@ -1,19 +1,19 @@
 {
-  "generated_utc": "2026-11-05T16:12:13.968612+00:00",
-  "observations": 110529,
-  "new_observations": 161,
-  "distinct_events": 2686,
+  "generated_utc": "2026-11-05T17:22:45.480398+00:00",
+  "observations": 110729,
+  "new_observations": 200,
+  "distinct_events": 2689,
   "first_snapshot_utc": "2026-10-08T22:40:47.190191+00:00",
-  "last_snapshot_utc": "2026-11-05T16:12:13.968612+00:00",
+  "last_snapshot_utc": "2026-11-05T17:22:45.480398+00:00",
   "verified_contract_to_game_matches": 0,
   "validated_expected_edge_count": 0,
   "status": "OBSERVATION_ONLY",
   "contract_families_latest_scan": {
-    "FIRST_HALF": 3,
+    "FIRST_HALF": 7,
     "SPREAD": 33,
-    "TOTAL": 16,
+    "TOTAL": 21,
     "POSSIBLE_GAME_WINNER": 2,
-    "OTHER_NBA": 107
+    "OTHER_NBA": 137
   },
   "game_winner_model_matches_allowed": 0,
   "warnings": [
