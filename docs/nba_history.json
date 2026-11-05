@@ -1,27 +1,27 @@
 {
-  "generated_utc": "2026-11-05T06:09:31.040205+00:00",
+  "generated_utc": "2026-11-05T07:28:34.783745+00:00",
   "source": "ESPN public scoreboard; not Kalshi settlement source",
   "historical_dates_checked": 400,
   "historical_dates_target": 400,
   "dates_requested_this_run": 3,
   "failed_daily_fetches": 0,
-  "completed_games": 1584,
+  "completed_games": 1585,
   "by_phase": {
     "preseason": 138,
-    "regular": 1355,
+    "regular": 1356,
     "postseason": 85,
     "unknown": 6
   },
-  "backtest_games": 1272,
-  "model_brier": 0.2284,
+  "backtest_games": 1273,
+  "model_brier": 0.2283,
   "neutral_50_50_brier": 0.25,
-  "paired_backtest_games": 1196,
+  "paired_backtest_games": 1197,
   "chronological_holdout": {
     "games": 240,
-    "form_brier": 0.2182,
-    "elo_brier": 0.1917,
+    "form_brier": 0.2184,
+    "elo_brier": 0.1924,
     "neutral_brier": 0.25,
-    "first_game_date": "2026-03-29T19:30Z"
+    "first_game_date": "2026-03-29T21:00Z"
   },
   "elo_holdout_calibration": [
     {
@@ -38,15 +38,15 @@
     },
     {
       "bin": "0.4-0.6",
-      "games": 72,
-      "mean_predicted": 0.508,
-      "actual_home_win_rate": 0.458
+      "games": 71,
+      "mean_predicted": 0.509,
+      "actual_home_win_rate": 0.465
     },
     {
       "bin": "0.6-0.8",
-      "games": 87,
-      "mean_predicted": 0.692,
-      "actual_home_win_rate": 0.701
+      "games": 88,
+      "mean_predicted": 0.691,
+      "actual_home_win_rate": 0.693
     },
     {
       "bin": "0.8-1.0",
@@ -57,36 +57,29 @@
   ],
   "calibration_experiment": {
     "status": "RETROSPECTIVE_RESEARCH_ONLY",
-    "training_games": 717,
+    "training_games": 718,
     "validation_games": 239,
     "evaluation_games": 240,
     "selected_log_odds_slope": 1.4,
     "selected_log_odds_offset": -0.25,
-    "evaluation_raw_elo_brier": 0.1917,
-    "evaluation_calibrated_brier": 0.188,
+    "evaluation_raw_elo_brier": 0.1924,
+    "evaluation_calibrated_brier": 0.1888,
     "note": "Parameters selected using middle 20% only; final 20% used for evaluation. Both historical periods were previously examined during development. Not untouched prospective validation and not live probabilities."
   },
   "calibration_diagnostics": {
     "minimum_bin_games": 20,
-    "weighted_absolute_gap": 0.0487,
+    "weighted_absolute_gap": 0.0441,
     "largest_bin_gap": 0.135,
     "validation": "DESCRIPTIVE_ONLY_NO_RECALIBRATION"
   },
-  "paired_form_brier": 0.228,
-  "paired_elo_brier": 0.2124,
+  "paired_form_brier": 0.2279,
+  "paired_elo_brier": 0.2125,
   "historical_backfill_complete": true,
-  "elo_backtest_games": 1196,
-  "elo_brier": 0.2124,
+  "elo_backtest_games": 1197,
+  "elo_brier": 0.2125,
   "status": "EXPLORATORY_NOT_VALIDATED",
   "warning": "Regular-season-only strictly chronological simple form model, with backfill potentially incomplete. No market odds, injuries, opponent adjustments, game matching or validated profitability.",
   "examples": [
-    {
-      "game_id": "401909915",
-      "date": "2026-11-03T01:00Z",
-      "predicted_home_win": 0.5786,
-      "actual_home_win": 1,
-      "brier": 0.1776
-    },
     {
       "game_id": "401909916",
       "date": "2026-11-03T01:30Z",
@@ -219,16 +212,16 @@
       "predicted_home_win": 0.3429,
       "actual_home_win": 0,
       "brier": 0.11755
+    },
+    {
+      "game_id": "401909935",
+      "date": "2026-11-05T03:30Z",
+      "predicted_home_win": 0.3429,
+      "actual_home_win": 0,
+      "brier": 0.11755
     }
   ],
   "elo_examples": [
-    {
-      "game_id": "401909915",
-      "date": "2026-11-03T01:00Z",
-      "predicted_home_win": 0.8005,
-      "actual_home_win": 1,
-      "brier": 0.03981
-    },
     {
       "game_id": "401909916",
       "date": "2026-11-03T01:30Z",
@@ -361,6 +354,13 @@
       "predicted_home_win": 0.2428,
       "actual_home_win": 0,
       "brier": 0.05897
+    },
+    {
+      "game_id": "401909935",
+      "date": "2026-11-05T03:30Z",
+      "predicted_home_win": 0.6007,
+      "actual_home_win": 0,
+      "brier": 0.36087
     }
   ]
 }
