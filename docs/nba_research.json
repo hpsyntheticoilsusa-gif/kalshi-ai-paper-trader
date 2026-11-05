@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-11-05T04:02:25.196273+00:00",
+  "generated_utc": "2026-11-05T05:08:05.272385+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 41,
+  "qualifying_nba_markets": 29,
   "scoreboard_games": [
     {
       "event_id": "401909922",
@@ -146,7 +146,7 @@
       "event_id": "401909928",
       "date": "2026-11-05T01:00Z",
       "name": "Utah Jazz at New Orleans Pelicans",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "season_type": 2,
       "teams": [
         {
@@ -154,7 +154,7 @@
           "team": "New Orleans Pelicans",
           "abbreviation": "NO",
           "home_away": "home",
-          "score": "118"
+          "score": "120"
         },
         {
           "team_id": "26",
@@ -192,7 +192,7 @@
       "event_id": "401909930",
       "date": "2026-11-05T01:30Z",
       "name": "Minnesota Timberwolves at Houston Rockets",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "season_type": 2,
       "teams": [
         {
@@ -200,14 +200,14 @@
           "team": "Houston Rockets",
           "abbreviation": "HOU",
           "home_away": "home",
-          "score": "106"
+          "score": "107"
         },
         {
           "team_id": "16",
           "team": "Minnesota Timberwolves",
           "abbreviation": "MIN",
           "home_away": "away",
-          "score": "111"
+          "score": "117"
         }
       ]
     },
@@ -215,7 +215,7 @@
       "event_id": "401909931",
       "date": "2026-11-05T02:00Z",
       "name": "Toronto Raptors at Denver Nuggets",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "season_type": 2,
       "teams": [
         {
@@ -223,14 +223,14 @@
           "team": "Denver Nuggets",
           "abbreviation": "DEN",
           "home_away": "home",
-          "score": "117"
+          "score": "128"
         },
         {
           "team_id": "28",
           "team": "Toronto Raptors",
           "abbreviation": "TOR",
           "home_away": "away",
-          "score": "96"
+          "score": "109"
         }
       ]
     },
@@ -238,7 +238,7 @@
       "event_id": "401909932",
       "date": "2026-11-05T02:00Z",
       "name": "Portland Trail Blazers at Phoenix Suns",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "season_type": 2,
       "teams": [
         {
@@ -246,14 +246,14 @@
           "team": "Phoenix Suns",
           "abbreviation": "PHX",
           "home_away": "home",
-          "score": "79"
+          "score": "119"
         },
         {
           "team_id": "22",
           "team": "Portland Trail Blazers",
           "abbreviation": "POR",
           "home_away": "away",
-          "score": "97"
+          "score": "132"
         }
       ]
     },
@@ -261,7 +261,7 @@
       "event_id": "401909933",
       "date": "2026-11-05T02:30Z",
       "name": "Dallas Mavericks at San Antonio Spurs",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "season_type": 2,
       "teams": [
         {
@@ -269,14 +269,14 @@
           "team": "San Antonio Spurs",
           "abbreviation": "SA",
           "home_away": "home",
-          "score": "68"
+          "score": "100"
         },
         {
           "team_id": "6",
           "team": "Dallas Mavericks",
           "abbreviation": "DAL",
           "home_away": "away",
-          "score": "51"
+          "score": "96"
         }
       ]
     },
@@ -292,14 +292,14 @@
           "team": "Sacramento Kings",
           "abbreviation": "SAC",
           "home_away": "home",
-          "score": "39"
+          "score": "81"
         },
         {
           "team_id": "13",
           "team": "Los Angeles Lakers",
           "abbreviation": "LAL",
           "home_away": "away",
-          "score": "44"
+          "score": "93"
         }
       ]
     },
@@ -315,418 +315,308 @@
           "team": "LA Clippers",
           "abbreviation": "LAC",
           "home_away": "home",
-          "score": "20"
+          "score": "83"
         },
         {
           "team_id": "14",
           "team": "Miami Heat",
           "abbreviation": "MIA",
           "home_away": "away",
-          "score": "28"
+          "score": "71"
         }
       ]
     }
   ],
   "market_samples": [
     {
-      "ticker": "KXNBAPTS-26NOV04DALSAS-SASVWEMBANYAMA1-40",
-      "title": "Victor Wembanyama: 40+ points",
-      "event_ticker": "KXNBAPTS-26NOV04DALSAS",
-      "yes_ask_cents": "64.0",
-      "no_ask_cents": "37.0",
-      "spread_cents": "1.0",
-      "volume_24h": "8481.92",
-      "close_time": "2026-11-07T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV04DALSAS-DALMJOHNSON14-10",
-      "title": "Morez Johnson Jr.: 10+ points",
-      "event_ticker": "KXNBAPTS-26NOV04DALSAS",
-      "yes_ask_cents": "33.0",
-      "no_ask_cents": "69.0",
-      "spread_cents": "2.0",
-      "volume_24h": "5566.29",
-      "close_time": "2026-11-07T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV04DALSAS-DALZRISACHER10-10",
-      "title": "Zaccharie Risacher: 10+ points",
-      "event_ticker": "KXNBAPTS-26NOV04DALSAS",
-      "yes_ask_cents": "16.0",
-      "no_ask_cents": "89.0",
-      "spread_cents": "5.0",
-      "volume_24h": "3948.51",
-      "close_time": "2026-11-07T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26NOV04MIALAC-MIAGANTETOKOUNMPO7-2",
-      "title": "Giannis Antetokounmpo: 2+ threes",
-      "event_ticker": "KXNBA3PT-26NOV04MIALAC",
-      "yes_ask_cents": "11.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "5.0",
-      "volume_24h": "2730.98",
-      "close_time": "2026-11-07T03:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV04DALSAS-DALCFLAGG32-15",
-      "title": "Cooper Flagg: 15+ points",
-      "event_ticker": "KXNBAPTS-26NOV04DALSAS",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "3.0",
-      "volume_24h": "1914.53",
-      "close_time": "2026-11-07T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26NOV04MIALAC-LACMSTRUSSF-3",
-      "title": "Max Strus: 3+ threes",
-      "event_ticker": "KXNBA3PT-26NOV04MIALAC",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "63.0",
-      "spread_cents": "4.0",
-      "volume_24h": "1614.04",
-      "close_time": "2026-11-07T03:30:00Z"
-    },
-    {
-      "ticker": "KXNBA4QTOTAL-26NOV04MINHOU-54",
-      "title": "4th Quarter: Over 53.5 points scored",
-      "event_ticker": "KXNBA4QTOTAL-26NOV04MINHOU",
-      "yes_ask_cents": "99.0",
-      "no_ask_cents": "9.0",
-      "spread_cents": "8.0",
-      "volume_24h": "1396.15",
-      "close_time": "2026-11-07T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV04LALSAC-LALSMAMUKELASHVILI54-10",
-      "title": "Sandro Mamukelashvili: 10+ points",
+      "ticker": "KXNBAPTS-26NOV04LALSAC-LALLDONCIC77-45",
+      "title": "Luka Don\u010di\u0107: 45+ points",
       "event_ticker": "KXNBAPTS-26NOV04LALSAC",
-      "yes_ask_cents": "20.0",
-      "no_ask_cents": "86.0",
-      "spread_cents": "6.0",
-      "volume_24h": "1362.04",
+      "yes_ask_cents": "24.0",
+      "no_ask_cents": "79.0",
+      "spread_cents": "3.0",
+      "volume_24h": "62266.68",
       "close_time": "2026-11-07T03:00:00Z"
     },
     {
-      "ticker": "KXNBAAST-26NOV04DALSAS-DALPWASHINGTON25-4",
-      "title": "P.J. Washington: 4+ assists",
-      "event_ticker": "KXNBAAST-26NOV04DALSAS",
-      "yes_ask_cents": "12.0",
-      "no_ask_cents": "96.0",
-      "spread_cents": "8.0",
-      "volume_24h": "1323.13",
-      "close_time": "2026-11-07T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26NOV04MINHOU-MINTLYLES41-2",
-      "title": "Trey Lyles: 2+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV04MINHOU",
-      "yes_ask_cents": "98.0",
-      "no_ask_cents": "5.0",
-      "spread_cents": "3.0",
-      "volume_24h": "1174.78",
-      "close_time": "2026-11-07T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26NOV04DALSAS-DALMJOHNSON14-4",
-      "title": "Morez Johnson Jr.: 4+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV04DALSAS",
-      "yes_ask_cents": "27.0",
-      "no_ask_cents": "81.0",
-      "spread_cents": "8.0",
-      "volume_24h": "1173.64",
-      "close_time": "2026-11-07T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV04DALSAS-DALMJOHNSON14-15",
-      "title": "Morez Johnson Jr.: 15+ points",
+      "ticker": "KXNBAPTS-26NOV04DALSAS-DALKIRVING11-35",
+      "title": "Kyrie Irving: 35+ points",
       "event_ticker": "KXNBAPTS-26NOV04DALSAS",
       "yes_ask_cents": "13.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "5.0",
-      "volume_24h": "977.56",
+      "no_ask_cents": "88.0",
+      "spread_cents": "1.0",
+      "volume_24h": "6726.69",
       "close_time": "2026-11-07T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBA4QTOTAL-26NOV04DALSAS-55",
+      "title": "4th Quarter: Over 54.5 points scored",
+      "event_ticker": "KXNBA4QTOTAL-26NOV04DALSAS",
+      "yes_ask_cents": "76.0",
+      "no_ask_cents": "28.0",
+      "spread_cents": "4.0",
+      "volume_24h": "5186.36",
+      "close_time": "2026-11-07T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26NOV04LALSAC-SACDACUFF5-10",
+      "title": "Darius Acuff Jr.: 10+ assists",
+      "event_ticker": "KXNBAAST-26NOV04LALSAC",
+      "yes_ask_cents": "78.0",
+      "no_ask_cents": "29.0",
+      "spread_cents": "7.0",
+      "volume_24h": "4740.06",
+      "close_time": "2026-11-07T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBA4QTOTAL-26NOV04DALSAS-53",
+      "title": "4th Quarter: Over 52.5 points scored",
+      "event_ticker": "KXNBA4QTOTAL-26NOV04DALSAS",
+      "yes_ask_cents": "81.0",
+      "no_ask_cents": "22.0",
+      "spread_cents": "3.0",
+      "volume_24h": "4500.24",
+      "close_time": "2026-11-07T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26NOV04LALSAC-LALLDONCIC77-8",
+      "title": "Luka Don\u010di\u0107: 8+ threes",
+      "event_ticker": "KXNBA3PT-26NOV04LALSAC",
+      "yes_ask_cents": "20.0",
+      "no_ask_cents": "85.0",
+      "spread_cents": "5.0",
+      "volume_24h": "2480.85",
+      "close_time": "2026-11-07T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBA4QTOTAL-26NOV04MIALAC-55",
+      "title": "4th Quarter: Over 54.5 points scored",
+      "event_ticker": "KXNBA4QTOTAL-26NOV04MIALAC",
+      "yes_ask_cents": "58.0",
+      "no_ask_cents": "44.0",
+      "spread_cents": "2.0",
+      "volume_24h": "2396.48",
+      "close_time": "2026-11-07T03:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV04MIALAC-MIAGANTETOKOUNMPO7-20",
+      "title": "Giannis Antetokounmpo: 20+ points",
+      "event_ticker": "KXNBAPTS-26NOV04MIALAC",
+      "yes_ask_cents": "69.0",
+      "no_ask_cents": "37.0",
+      "spread_cents": "6.0",
+      "volume_24h": "2330.97",
+      "close_time": "2026-11-07T03:30:00Z"
+    },
+    {
+      "ticker": "KXNBA4QTOTAL-26NOV04DALSAS-49",
+      "title": "4th Quarter: Over 48.5 points scored",
+      "event_ticker": "KXNBA4QTOTAL-26NOV04DALSAS",
+      "yes_ask_cents": "92.0",
+      "no_ask_cents": "11.0",
+      "spread_cents": "3.0",
+      "volume_24h": "1950.21",
+      "close_time": "2026-11-07T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBA4QTOTAL-26NOV04DALSAS-57",
+      "title": "4th Quarter: Over 56.5 points scored",
+      "event_ticker": "KXNBA4QTOTAL-26NOV04DALSAS",
+      "yes_ask_cents": "66.0",
+      "no_ask_cents": "38.0",
+      "spread_cents": "4.0",
+      "volume_24h": "1918.24",
+      "close_time": "2026-11-07T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV04MIALAC-MIAKTHOMPSON11-30",
+      "title": "Klay Thompson: 30+ points",
+      "event_ticker": "KXNBAPTS-26NOV04MIALAC",
+      "yes_ask_cents": "8.0",
+      "no_ask_cents": "97.0",
+      "spread_cents": "5.0",
+      "volume_24h": "1456.66",
+      "close_time": "2026-11-07T03:30:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26NOV04LALSAC-SACDSABONIS11-18",
+      "title": "Domantas Sabonis: 18+ rebounds",
+      "event_ticker": "KXNBAREB-26NOV04LALSAC",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "56.0",
+      "spread_cents": "6.0",
+      "volume_24h": "1305.42",
+      "close_time": "2026-11-07T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV04LALSAC-SACDSABONIS11-25",
+      "title": "Domantas Sabonis: 25+ points",
+      "event_ticker": "KXNBAPTS-26NOV04LALSAC",
+      "yes_ask_cents": "4.0",
+      "no_ask_cents": "98.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1158.72",
+      "close_time": "2026-11-07T03:00:00Z"
     },
     {
       "ticker": "KXNBA4QTOTAL-26NOV04DALSAS-61",
       "title": "4th Quarter: Over 60.5 points scored",
       "event_ticker": "KXNBA4QTOTAL-26NOV04DALSAS",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "78.0",
-      "spread_cents": "6.0",
-      "volume_24h": "942.5",
+      "yes_ask_cents": "41.0",
+      "no_ask_cents": "61.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1081.55",
       "close_time": "2026-11-07T02:30:00Z"
     },
     {
-      "ticker": "KXNBA4QTOTAL-26NOV04PORPHX-67",
-      "title": "4th Quarter: Over 66.5 points scored",
-      "event_ticker": "KXNBA4QTOTAL-26NOV04PORPHX",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "92.0",
+      "ticker": "KXNBAPTS-26NOV04MIALAC-MIABADEBAYO13-30",
+      "title": "Bam Adebayo: 30+ points",
+      "event_ticker": "KXNBAPTS-26NOV04MIALAC",
+      "yes_ask_cents": "58.0",
+      "no_ask_cents": "48.0",
       "spread_cents": "6.0",
-      "volume_24h": "929.5",
-      "close_time": "2026-11-07T02:00:00Z"
+      "volume_24h": "1057.71",
+      "close_time": "2026-11-07T03:30:00Z"
     },
     {
-      "ticker": "KXNBAREB-26NOV04DALSAS-SASLKORNET7-4",
-      "title": "Luke Kornet: 4+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV04DALSAS",
-      "yes_ask_cents": "27.0",
-      "no_ask_cents": "76.0",
-      "spread_cents": "3.0",
-      "volume_24h": "855.98",
+      "ticker": "KXNBA4QTOTAL-26NOV04DALSAS-51",
+      "title": "4th Quarter: Over 50.5 points scored",
+      "event_ticker": "KXNBA4QTOTAL-26NOV04DALSAS",
+      "yes_ask_cents": "89.0",
+      "no_ask_cents": "15.0",
+      "spread_cents": "4.0",
+      "volume_24h": "788.1",
       "close_time": "2026-11-07T02:30:00Z"
     },
     {
       "ticker": "KXNBA4QTOTAL-26NOV04DALSAS-67",
       "title": "4th Quarter: Over 66.5 points scored",
       "event_ticker": "KXNBA4QTOTAL-26NOV04DALSAS",
-      "yes_ask_cents": "12.0",
-      "no_ask_cents": "94.0",
+      "yes_ask_cents": "16.0",
+      "no_ask_cents": "90.0",
       "spread_cents": "6.0",
       "volume_24h": "772.73",
       "close_time": "2026-11-07T02:30:00Z"
     },
     {
-      "ticker": "KXNBAAST-26NOV04MIALAC-MIAKTHOMPSON11-2",
-      "title": "Klay Thompson: 2+ assists",
+      "ticker": "KXNBAAST-26NOV04MIALAC-LACKWAGLER1-6",
+      "title": "Keaton Wagler: 6+ assists",
       "event_ticker": "KXNBAAST-26NOV04MIALAC",
-      "yes_ask_cents": "33.0",
-      "no_ask_cents": "74.0",
+      "yes_ask_cents": "9.0",
+      "no_ask_cents": "98.0",
       "spread_cents": "7.0",
-      "volume_24h": "600.41",
+      "volume_24h": "759.39",
       "close_time": "2026-11-07T03:30:00Z"
     },
     {
-      "ticker": "KXNBAREB-26NOV04DALSAS-DALCMARTIN16-2",
-      "title": "Caleb Martin: 2+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV04DALSAS",
-      "yes_ask_cents": "98.0",
-      "no_ask_cents": "7.0",
-      "spread_cents": "5.0",
-      "volume_24h": "580.77",
-      "close_time": "2026-11-07T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBAAST-26NOV04DALSAS-SASJCHAMPAGNIE30-2",
-      "title": "Julian Champagnie: 2+ assists",
-      "event_ticker": "KXNBAAST-26NOV04DALSAS",
-      "yes_ask_cents": "98.0",
-      "no_ask_cents": "8.0",
-      "spread_cents": "6.0",
-      "volume_24h": "558.98",
-      "close_time": "2026-11-07T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26NOV04PORPHX-PORDCLINGAN23-2",
-      "title": "Donovan Clingan: 2+ threes",
-      "event_ticker": "KXNBA3PT-26NOV04PORPHX",
-      "yes_ask_cents": "19.0",
-      "no_ask_cents": "86.0",
-      "spread_cents": "5.0",
-      "volume_24h": "542.07",
-      "close_time": "2026-11-07T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA4QTOTAL-26NOV04MINHOU-60",
-      "title": "4th Quarter: Over 59.5 points scored",
-      "event_ticker": "KXNBA4QTOTAL-26NOV04MINHOU",
-      "yes_ask_cents": "66.0",
-      "no_ask_cents": "41.0",
-      "spread_cents": "7.0",
-      "volume_24h": "507.96",
-      "close_time": "2026-11-07T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV04DALSAS-DALPWASHINGTON25-25",
-      "title": "P.J. Washington: 25+ points",
+      "ticker": "KXNBAPTS-26NOV04DALSAS-DALCMARTIN16-10",
+      "title": "Caleb Martin: 10+ points",
       "event_ticker": "KXNBAPTS-26NOV04DALSAS",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "7.0",
-      "volume_24h": "431.81",
+      "yes_ask_cents": "4.0",
+      "no_ask_cents": "98.0",
+      "spread_cents": "2.0",
+      "volume_24h": "652.53",
       "close_time": "2026-11-07T02:30:00Z"
     },
     {
-      "ticker": "KXNBAREB-26NOV04DALSAS-DALZRISACHER10-4",
-      "title": "Zaccharie Risacher: 4+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV04DALSAS",
-      "yes_ask_cents": "35.0",
-      "no_ask_cents": "72.0",
-      "spread_cents": "7.0",
-      "volume_24h": "430.45",
-      "close_time": "2026-11-07T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26NOV04LALSAC-LALSMAMUKELASHVILI54-6",
-      "title": "Sandro Mamukelashvili: 6+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV04LALSAC",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "51.0",
+      "ticker": "KXNBAPTS-26NOV04MIALAC-LACKWAGLER1-10",
+      "title": "Keaton Wagler: 10+ points",
+      "event_ticker": "KXNBAPTS-26NOV04MIALAC",
+      "yes_ask_cents": "88.0",
+      "no_ask_cents": "18.0",
       "spread_cents": "6.0",
-      "volume_24h": "410.51",
-      "close_time": "2026-11-07T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26NOV04PORPHX-PHXOIGHODARO11-6",
-      "title": "Oso Ighodaro: 6+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV04PORPHX",
-      "yes_ask_cents": "98.0",
-      "no_ask_cents": "9.0",
-      "spread_cents": "7.0",
-      "volume_24h": "393.59",
-      "close_time": "2026-11-07T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA4QTOTAL-26NOV04MINHOU-62",
-      "title": "4th Quarter: Over 61.5 points scored",
-      "event_ticker": "KXNBA4QTOTAL-26NOV04MINHOU",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "60.0",
-      "spread_cents": "8.0",
-      "volume_24h": "379.56",
-      "close_time": "2026-11-07T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26NOV04DALSAS-DALNMARSHALL3-2",
-      "title": "Naji Marshall: 2+ threes",
-      "event_ticker": "KXNBA3PT-26NOV04DALSAS",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "97.0",
-      "spread_cents": "4.0",
-      "volume_24h": "338.98",
-      "close_time": "2026-11-07T02:30:00Z"
+      "volume_24h": "537.7",
+      "close_time": "2026-11-07T03:30:00Z"
     },
     {
       "ticker": "KXNBA4QTOTAL-26NOV04DALSAS-63",
       "title": "4th Quarter: Over 62.5 points scored",
       "event_ticker": "KXNBA4QTOTAL-26NOV04DALSAS",
-      "yes_ask_cents": "24.0",
-      "no_ask_cents": "84.0",
-      "spread_cents": "8.0",
-      "volume_24h": "325.25",
+      "yes_ask_cents": "29.0",
+      "no_ask_cents": "74.0",
+      "spread_cents": "3.0",
+      "volume_24h": "421.19",
       "close_time": "2026-11-07T02:30:00Z"
     },
     {
-      "ticker": "KXNBAAST-26NOV04MIALAC-MIAAWIGGINS22-2",
-      "title": "Andrew Wiggins: 2+ assists",
-      "event_ticker": "KXNBAAST-26NOV04MIALAC",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "60.0",
-      "spread_cents": "5.0",
-      "volume_24h": "242.29",
-      "close_time": "2026-11-07T03:30:00Z"
-    },
-    {
-      "ticker": "KXNBA4QTOTAL-26NOV04PORPHX-61",
-      "title": "4th Quarter: Over 60.5 points scored",
-      "event_ticker": "KXNBA4QTOTAL-26NOV04PORPHX",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "77.0",
-      "spread_cents": "5.0",
-      "volume_24h": "228.2",
-      "close_time": "2026-11-07T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA4QTOTAL-26NOV04DALSAS-53",
-      "title": "4th Quarter: Over 52.5 points scored",
-      "event_ticker": "KXNBA4QTOTAL-26NOV04DALSAS",
-      "yes_ask_cents": "59.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "5.0",
-      "volume_24h": "190.0",
-      "close_time": "2026-11-07T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26NOV04MIALAC-LACMSTRUSSF-5",
-      "title": "Max Strus: 5+ threes",
-      "event_ticker": "KXNBA3PT-26NOV04MIALAC",
-      "yes_ask_cents": "11.0",
-      "no_ask_cents": "96.0",
-      "spread_cents": "7.0",
-      "volume_24h": "181.97",
-      "close_time": "2026-11-07T03:30:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26NOV04DALSAS-DALMJOHNSON14-6",
-      "title": "Morez Johnson Jr.: 6+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV04DALSAS",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "98.0",
+      "ticker": "KXNBAPTS-26NOV04MIALAC-LACRHACHIMURA28-30",
+      "title": "Rui Hachimura: 30+ points",
+      "event_ticker": "KXNBAPTS-26NOV04MIALAC",
+      "yes_ask_cents": "9.0",
+      "no_ask_cents": "97.0",
       "spread_cents": "6.0",
-      "volume_24h": "172.0",
-      "close_time": "2026-11-07T02:30:00Z"
+      "volume_24h": "331.76",
+      "close_time": "2026-11-07T03:30:00Z"
     },
     {
-      "ticker": "KXNBAREB-26NOV04LALSAC-LALSMAMUKELASHVILI54-8",
-      "title": "Sandro Mamukelashvili: 8+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV04LALSAC",
-      "yes_ask_cents": "20.0",
-      "no_ask_cents": "82.0",
-      "spread_cents": "2.0",
-      "volume_24h": "161.15",
-      "close_time": "2026-11-07T03:00:00Z"
+      "ticker": "KXNBA4QTOTAL-26NOV04MIALAC-69",
+      "title": "4th Quarter: Over 68.5 points scored",
+      "event_ticker": "KXNBA4QTOTAL-26NOV04MIALAC",
+      "yes_ask_cents": "14.0",
+      "no_ask_cents": "91.0",
+      "spread_cents": "5.0",
+      "volume_24h": "247.93",
+      "close_time": "2026-11-07T03:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV04MIALAC-MIATHARDAWAY10-10",
+      "title": "Tim Hardaway Jr.: 10+ points",
+      "event_ticker": "KXNBAPTS-26NOV04MIALAC",
+      "yes_ask_cents": "7.0",
+      "no_ask_cents": "96.0",
+      "spread_cents": "3.0",
+      "volume_24h": "219.08",
+      "close_time": "2026-11-07T03:30:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26NOV04MIALAC-LACDJONES5-4",
+      "title": "Derrick Jones Jr.: 4+ assists",
+      "event_ticker": "KXNBAAST-26NOV04MIALAC",
+      "yes_ask_cents": "37.0",
+      "no_ask_cents": "66.0",
+      "spread_cents": "3.0",
+      "volume_24h": "215.16",
+      "close_time": "2026-11-07T03:30:00Z"
+    },
+    {
+      "ticker": "KXNBA4QTOTAL-26NOV04MIALAC-53",
+      "title": "4th Quarter: Over 52.5 points scored",
+      "event_ticker": "KXNBA4QTOTAL-26NOV04MIALAC",
+      "yes_ask_cents": "69.0",
+      "no_ask_cents": "36.0",
+      "spread_cents": "5.0",
+      "volume_24h": "189.7",
+      "close_time": "2026-11-07T03:30:00Z"
     },
     {
       "ticker": "KXNBA4QTOTAL-26NOV04DALSAS-65",
       "title": "4th Quarter: Over 64.5 points scored",
       "event_ticker": "KXNBA4QTOTAL-26NOV04DALSAS",
-      "yes_ask_cents": "15.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "5.0",
-      "volume_24h": "150.41",
+      "yes_ask_cents": "21.0",
+      "no_ask_cents": "83.0",
+      "spread_cents": "4.0",
+      "volume_24h": "153.41",
       "close_time": "2026-11-07T02:30:00Z"
     },
     {
-      "ticker": "KXNBAAST-26NOV04DALSAS-DALZRISACHER10-4",
-      "title": "Zaccharie Risacher: 4+ assists",
-      "event_ticker": "KXNBAAST-26NOV04DALSAS",
-      "yes_ask_cents": "18.0",
-      "no_ask_cents": "85.0",
-      "spread_cents": "3.0",
-      "volume_24h": "137.4",
-      "close_time": "2026-11-07T02:30:00Z"
+      "ticker": "KXNBAGAME-26NOV08PHICHI-PHI",
+      "title": "Philadelphia wins",
+      "event_ticker": "KXNBAGAME-26NOV08PHICHI",
+      "yes_ask_cents": "83.0",
+      "no_ask_cents": "25.0",
+      "spread_cents": "8.0",
+      "volume_24h": "153.2",
+      "close_time": "2026-11-10T20:30:00Z"
     },
     {
-      "ticker": "KXNBAAST-26NOV04MIALAC-LACBLOPEZ11-2",
-      "title": "Brook Lopez: 2+ assists",
-      "event_ticker": "KXNBAAST-26NOV04MIALAC",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "77.0",
-      "spread_cents": "5.0",
-      "volume_24h": "129.97",
+      "ticker": "KXNBA4QTOTAL-26NOV04MIALAC-49",
+      "title": "4th Quarter: Over 48.5 points scored",
+      "event_ticker": "KXNBA4QTOTAL-26NOV04MIALAC",
+      "yes_ask_cents": "84.0",
+      "no_ask_cents": "20.0",
+      "spread_cents": "4.0",
+      "volume_24h": "117.67",
       "close_time": "2026-11-07T03:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV04LALSAC-SACDSABONIS11-25",
-      "title": "Domantas Sabonis: 25+ points",
-      "event_ticker": "KXNBAPTS-26NOV04LALSAC",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "5.0",
-      "volume_24h": "124.72",
-      "close_time": "2026-11-07T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV04DALSAS-DALDGAFFORD21-20",
-      "title": "Daniel Gafford: 20+ points",
-      "event_ticker": "KXNBAPTS-26NOV04DALSAS",
-      "yes_ask_cents": "4.0",
-      "no_ask_cents": "98.0",
-      "spread_cents": "2.0",
-      "volume_24h": "122.87",
-      "close_time": "2026-11-07T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBABLK-26NOV04DALSAS-DALDGAFFORD21-1",
-      "title": "Daniel Gafford: 1+ blocks",
-      "event_ticker": "KXNBABLK-26NOV04DALSAS",
-      "yes_ask_cents": "99.0",
-      "no_ask_cents": "4.0",
-      "spread_cents": "3.0",
-      "volume_24h": "109.0",
-      "close_time": "2026-11-07T02:30:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
