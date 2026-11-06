@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-11-06T19:57:09.277832+00:00",
+  "generated_utc": "2026-11-06T20:54:35.297966+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 683,
+  "qualifying_nba_markets": 812,
   "scoreboard_games": [
     {
       "event_id": "401909287",
@@ -220,27 +220,7 @@
       "yes_ask_cents": "53.0",
       "no_ask_cents": "48.0",
       "spread_cents": "1.0",
-      "volume_24h": "25883.93",
-      "close_time": "2026-11-09T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV06BOSCHA-BOS9",
-      "title": "Boston wins by over 8.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV06BOSCHA",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "1.0",
-      "volume_24h": "19880.17",
-      "close_time": "2026-11-09T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV06WASATL-ATL8",
-      "title": "Atlanta wins by over 7.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV06WASATL",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "2.0",
-      "volume_24h": "19670.37",
+      "volume_24h": "26935.94",
       "close_time": "2026-11-09T00:00:00Z"
     },
     {
@@ -250,7 +230,27 @@
       "yes_ask_cents": "49.0",
       "no_ask_cents": "52.0",
       "spread_cents": "1.0",
-      "volume_24h": "18148.16",
+      "volume_24h": "21159.59",
+      "close_time": "2026-11-09T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV06BOSCHA-BOS9",
+      "title": "Boston wins by over 8.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV06BOSCHA",
+      "yes_ask_cents": "56.0",
+      "no_ask_cents": "45.0",
+      "spread_cents": "1.0",
+      "volume_24h": "20715.03",
+      "close_time": "2026-11-09T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV06WASATL-ATL8",
+      "title": "Atlanta wins by over 7.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV06WASATL",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "2.0",
+      "volume_24h": "19707.96",
       "close_time": "2026-11-09T00:00:00Z"
     },
     {
@@ -260,8 +260,18 @@
       "yes_ask_cents": "55.0",
       "no_ask_cents": "46.0",
       "spread_cents": "1.0",
-      "volume_24h": "16891.09",
+      "volume_24h": "17879.26",
       "close_time": "2026-11-09T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV06WASATL-ATL9",
+      "title": "Atlanta wins by over 8.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV06WASATL",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "1.0",
+      "volume_24h": "16608.76",
+      "close_time": "2026-11-09T00:00:00Z"
     },
     {
       "ticker": "KXNBA3D-26NOV06PHICLE-PHILJAMES23",
@@ -270,7 +280,7 @@
       "yes_ask_cents": "9.0",
       "no_ask_cents": "92.0",
       "spread_cents": "1.0",
-      "volume_24h": "13623.9",
+      "volume_24h": "16303.84",
       "close_time": "2026-11-09T00:30:00Z"
     },
     {
@@ -280,18 +290,28 @@
       "yes_ask_cents": "51.0",
       "no_ask_cents": "50.0",
       "spread_cents": "1.0",
-      "volume_24h": "11859.09",
+      "volume_24h": "12192.56",
       "close_time": "2026-11-09T03:00:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26NOV06OKCMEM-227",
-      "title": "Full Game: Over 226.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV06OKCMEM",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "56.0",
+      "ticker": "KXNBATOTAL-26NOV06WASATL-229",
+      "title": "Full Game: Over 228.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV06WASATL",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "48.0",
       "spread_cents": "1.0",
-      "volume_24h": "10828.07",
-      "close_time": "2026-11-09T01:00:00Z"
+      "volume_24h": "11026.1",
+      "close_time": "2026-11-09T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26NOV06SASSAC-SASSCASTLE5-6",
+      "title": "Stephon Castle: 6+ assists",
+      "event_ticker": "KXNBAAST-26NOV06SASSAC",
+      "yes_ask_cents": "55.0",
+      "no_ask_cents": "46.0",
+      "spread_cents": "1.0",
+      "volume_24h": "10849.3",
+      "close_time": "2026-11-09T03:00:00Z"
     },
     {
       "ticker": "KXNBA3PT-26NOV06SASSAC-SASSCASTLE5-2",
@@ -300,108 +320,138 @@
       "yes_ask_cents": "56.0",
       "no_ask_cents": "45.0",
       "spread_cents": "1.0",
-      "volume_24h": "10702.9",
+      "volume_24h": "10754.56",
       "close_time": "2026-11-09T03:00:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26NOV06WASATL-229",
-      "title": "Full Game: Over 228.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV06WASATL",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "1.0",
-      "volume_24h": "9932.22",
-      "close_time": "2026-11-09T00:00:00Z"
+      "ticker": "KXNBAAST-26NOV06SASSAC-SASSCASTLE5-8",
+      "title": "Stephon Castle: 8+ assists",
+      "event_ticker": "KXNBAAST-26NOV06SASSAC",
+      "yes_ask_cents": "28.0",
+      "no_ask_cents": "75.0",
+      "spread_cents": "3.0",
+      "volume_24h": "10184.11",
+      "close_time": "2026-11-09T03:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV06WASATL-ATL7",
       "title": "Atlanta wins by over 6.5 points",
       "event_ticker": "KXNBASPREAD-26NOV06WASATL",
       "yes_ask_cents": "58.0",
-      "no_ask_cents": "44.0",
-      "spread_cents": "2.0",
-      "volume_24h": "8428.73",
+      "no_ask_cents": "43.0",
+      "spread_cents": "1.0",
+      "volume_24h": "8848.82",
       "close_time": "2026-11-09T00:00:00Z"
     },
     {
       "ticker": "KXNBAPTS-26NOV06PORLAL-LALLDONCIC77-35",
       "title": "Luka Don\u010di\u0107: 35+ points",
       "event_ticker": "KXNBAPTS-26NOV06PORLAL",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "45.0",
+      "yes_ask_cents": "55.0",
+      "no_ask_cents": "46.0",
       "spread_cents": "1.0",
-      "volume_24h": "8228.04",
+      "volume_24h": "8724.48",
       "close_time": "2026-11-09T03:00:00Z"
     },
     {
-      "ticker": "KXNBAAST-26NOV06MINNOP-MINJMCDANIELS3-4",
-      "title": "Jaden McDaniels: 4+ assists",
-      "event_ticker": "KXNBAAST-26NOV06MINNOP",
-      "yes_ask_cents": "34.0",
-      "no_ask_cents": "67.0",
-      "spread_cents": "1.0",
-      "volume_24h": "7562.19",
-      "close_time": "2026-11-09T01:00:00Z"
+      "ticker": "KXNBAREB-26NOV06BOSCHA-CHANREID0-8",
+      "title": "Naz Reid: 8+ rebounds",
+      "event_ticker": "KXNBAREB-26NOV06BOSCHA",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "2.0",
+      "volume_24h": "8376.27",
+      "close_time": "2026-11-09T00:00:00Z"
     },
     {
       "ticker": "KXNBA1HTOTAL-26NOV06PHICLE-119",
       "title": "1st Half: Over 118.5 points scored",
       "event_ticker": "KXNBA1HTOTAL-26NOV06PHICLE",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "3.0",
-      "volume_24h": "7401.4",
-      "close_time": "2026-11-09T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV06PHICLE-CLEDMITCHELL45-25",
-      "title": "Donovan Mitchell: 25+ points",
-      "event_ticker": "KXNBAPTS-26NOV06PHICLE",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "48.0",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "51.0",
       "spread_cents": "1.0",
-      "volume_24h": "7115.72",
+      "volume_24h": "8128.67",
       "close_time": "2026-11-09T00:30:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26NOV06BOSCHA-211",
       "title": "Full Game: Over 210.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV06BOSCHA",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "56.0",
+      "yes_ask_cents": "44.0",
+      "no_ask_cents": "57.0",
       "spread_cents": "1.0",
-      "volume_24h": "7082.33",
+      "volume_24h": "7704.22",
       "close_time": "2026-11-09T00:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26NOV06WASATL-231",
       "title": "Full Game: Over 230.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV06WASATL",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "54.0",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "53.0",
       "spread_cents": "1.0",
-      "volume_24h": "6653.79",
+      "volume_24h": "7628.69",
       "close_time": "2026-11-09T00:00:00Z"
     },
     {
-      "ticker": "KXNBAREB-26NOV06BOSCHA-CHANREID0-8",
-      "title": "Naz Reid: 8+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV06BOSCHA",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "1.0",
-      "volume_24h": "5596.13",
-      "close_time": "2026-11-09T00:00:00Z"
+      "ticker": "KXNBAAST-26NOV06PHICLE-PHITMAXEY0-6",
+      "title": "Tyrese Maxey: 6+ assists",
+      "event_ticker": "KXNBAAST-26NOV06PHICLE",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "63.0",
+      "spread_cents": "2.0",
+      "volume_24h": "7625.0",
+      "close_time": "2026-11-09T00:30:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV06WASATL-ATL9",
-      "title": "Atlanta wins by over 8.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV06WASATL",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
+      "ticker": "KXNBAAST-26NOV06MINNOP-MINJMCDANIELS3-4",
+      "title": "Jaden McDaniels: 4+ assists",
+      "event_ticker": "KXNBAAST-26NOV06MINNOP",
+      "yes_ask_cents": "35.0",
+      "no_ask_cents": "67.0",
+      "spread_cents": "2.0",
+      "volume_24h": "7562.19",
+      "close_time": "2026-11-09T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV06PHICLE-CLEDMITCHELL45-25",
+      "title": "Donovan Mitchell: 25+ points",
+      "event_ticker": "KXNBAPTS-26NOV06PHICLE",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "49.0",
       "spread_cents": "1.0",
-      "volume_24h": "5483.23",
-      "close_time": "2026-11-09T00:00:00Z"
+      "volume_24h": "7535.37",
+      "close_time": "2026-11-09T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26NOV06TORMIL-TORJSHEAD1-6",
+      "title": "Jamal Shead: 6+ assists",
+      "event_ticker": "KXNBAAST-26NOV06TORMIL",
+      "yes_ask_cents": "75.0",
+      "no_ask_cents": "26.0",
+      "spread_cents": "1.0",
+      "volume_24h": "7223.91",
+      "close_time": "2026-11-09T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV06OKCMEM-OKCAMITCHELL25-20",
+      "title": "Ajay Mitchell: 20+ points",
+      "event_ticker": "KXNBAPTS-26NOV06OKCMEM",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "1.0",
+      "volume_24h": "6899.7",
+      "close_time": "2026-11-09T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3D-26NOV06MINNOP-MINADOSUNMU13",
+      "title": "Ayo Dosunmu: Triple Double",
+      "event_ticker": "KXNBA3D-26NOV06MINNOP",
+      "yes_ask_cents": "2.0",
+      "no_ask_cents": "99.0",
+      "spread_cents": "1.0",
+      "volume_24h": "5598.63",
+      "close_time": "2026-11-09T01:00:00Z"
     },
     {
       "ticker": "KXNBA3PT-26NOV06SASSAC-SACDACUFF5-3",
@@ -410,7 +460,17 @@
       "yes_ask_cents": "53.0",
       "no_ask_cents": "48.0",
       "spread_cents": "1.0",
-      "volume_24h": "5399.9",
+      "volume_24h": "5579.25",
+      "close_time": "2026-11-09T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV06PORLAL-LALWKESSLER14-15",
+      "title": "Walker Kessler: 15+ points",
+      "event_ticker": "KXNBAPTS-26NOV06PORLAL",
+      "yes_ask_cents": "37.0",
+      "no_ask_cents": "65.0",
+      "spread_cents": "2.0",
+      "volume_24h": "5531.15",
       "close_time": "2026-11-09T03:00:00Z"
     },
     {
@@ -420,17 +480,27 @@
       "yes_ask_cents": "69.0",
       "no_ask_cents": "32.0",
       "spread_cents": "1.0",
-      "volume_24h": "5170.19",
+      "volume_24h": "5397.14",
       "close_time": "2026-11-09T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26NOV06PHICLE-PHITMAXEY0-6",
+      "title": "Tyrese Maxey: 6+ rebounds",
+      "event_ticker": "KXNBAREB-26NOV06PHICLE",
+      "yes_ask_cents": "20.0",
+      "no_ask_cents": "82.0",
+      "spread_cents": "2.0",
+      "volume_24h": "5277.65",
+      "close_time": "2026-11-09T00:30:00Z"
     },
     {
       "ticker": "KXNBA3PT-26NOV06PHICLE-PHIJEMBIID21-1",
       "title": "Joel Embiid: 1+ threes",
       "event_ticker": "KXNBA3PT-26NOV06PHICLE",
-      "yes_ask_cents": "57.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "4.0",
-      "volume_24h": "4639.57",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "2.0",
+      "volume_24h": "5160.45",
       "close_time": "2026-11-09T00:30:00Z"
     },
     {
@@ -440,38 +510,78 @@
       "yes_ask_cents": "35.0",
       "no_ask_cents": "66.0",
       "spread_cents": "1.0",
-      "volume_24h": "4633.3",
+      "volume_24h": "5144.22",
       "close_time": "2026-11-09T03:00:00Z"
     },
     {
-      "ticker": "KXNBAAST-26NOV06TORMIL-TORJSHEAD1-6",
-      "title": "Jamal Shead: 6+ assists",
-      "event_ticker": "KXNBAAST-26NOV06TORMIL",
-      "yes_ask_cents": "57.0",
-      "no_ask_cents": "45.0",
+      "ticker": "KXNBAPRA-26NOV06PHICLE-PHITMAXEY0-35",
+      "title": "Tyrese Maxey: 35+ combined points, rebounds, and assists",
+      "event_ticker": "KXNBAPRA-26NOV06PHICLE",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "54.0",
       "spread_cents": "2.0",
-      "volume_24h": "4370.6",
-      "close_time": "2026-11-09T01:00:00Z"
+      "volume_24h": "5122.6",
+      "close_time": "2026-11-09T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBA3D-26NOV06SASSAC-SASVWEMBANYAMA1",
+      "title": "Victor Wembanyama: Triple Double",
+      "event_ticker": "KXNBA3D-26NOV06SASSAC",
+      "yes_ask_cents": "3.0",
+      "no_ask_cents": "98.0",
+      "spread_cents": "1.0",
+      "volume_24h": "4532.32",
+      "close_time": "2026-11-09T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBA1HSPREAD-26NOV06BOSCHA-BOS5",
+      "title": "Boston wins the 1st half by over 4.5 points",
+      "event_ticker": "KXNBA1HSPREAD-26NOV06BOSCHA",
+      "yes_ask_cents": "55.0",
+      "no_ask_cents": "46.0",
+      "spread_cents": "1.0",
+      "volume_24h": "4472.76",
+      "close_time": "2026-11-09T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV06BOSCHA-205",
+      "title": "Full Game: Over 204.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV06BOSCHA",
+      "yes_ask_cents": "60.0",
+      "no_ask_cents": "41.0",
+      "spread_cents": "1.0",
+      "volume_24h": "4464.82",
+      "close_time": "2026-11-09T00:00:00Z"
     },
     {
       "ticker": "KXNBAREB-26NOV06TORMIL-TORCMURRAYBOYLES30-6",
       "title": "Collin Murray-Boyles: 6+ rebounds",
       "event_ticker": "KXNBAREB-26NOV06TORMIL",
       "yes_ask_cents": "59.0",
-      "no_ask_cents": "44.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "43.0",
+      "spread_cents": "2.0",
       "volume_24h": "4362.85",
       "close_time": "2026-11-09T01:00:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26NOV06OKCMEM-225",
-      "title": "Full Game: Over 224.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV06OKCMEM",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "53.0",
+      "ticker": "KXNBAREB-26NOV06MINNOP-MINJMCDANIELS3-6",
+      "title": "Jaden McDaniels: 6+ rebounds",
+      "event_ticker": "KXNBAREB-26NOV06MINNOP",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "47.0",
       "spread_cents": "1.0",
-      "volume_24h": "4238.45",
+      "volume_24h": "4331.47",
       "close_time": "2026-11-09T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26NOV06PHICLE-PHITMAXEY0-8",
+      "title": "Tyrese Maxey: 8+ assists",
+      "event_ticker": "KXNBAAST-26NOV06PHICLE",
+      "yes_ask_cents": "15.0",
+      "no_ask_cents": "87.0",
+      "spread_cents": "2.0",
+      "volume_24h": "4087.58",
+      "close_time": "2026-11-09T00:30:00Z"
     },
     {
       "ticker": "KXNBAAST-26NOV06BOSCHA-BOSPPRITCHARD11-4",
@@ -480,138 +590,28 @@
       "yes_ask_cents": "49.0",
       "no_ask_cents": "52.0",
       "spread_cents": "1.0",
-      "volume_24h": "4036.99",
+      "volume_24h": "4064.99",
       "close_time": "2026-11-09T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV06TORMIL-TORJWALTER14-15",
+      "title": "Ja'Kobe Walter: 15+ points",
+      "event_ticker": "KXNBAPTS-26NOV06TORMIL",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "1.0",
+      "volume_24h": "3962.72",
+      "close_time": "2026-11-09T01:00:00Z"
     },
     {
       "ticker": "KXNBAPTS-26NOV06UTADAL-DALCFLAGG32-30",
       "title": "Cooper Flagg: 30+ points",
       "event_ticker": "KXNBAPTS-26NOV06UTADAL",
-      "yes_ask_cents": "37.0",
-      "no_ask_cents": "65.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3742.17",
+      "yes_ask_cents": "34.0",
+      "no_ask_cents": "67.0",
+      "spread_cents": "1.0",
+      "volume_24h": "3911.62",
       "close_time": "2026-11-09T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26NOV06MINNOP-MINJMCDANIELS3-6",
-      "title": "Jaden McDaniels: 6+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV06MINNOP",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3716.47",
-      "close_time": "2026-11-09T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HSPREAD-26NOV06BOSCHA-BOS5",
-      "title": "Boston wins the 1st half by over 4.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26NOV06BOSCHA",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3622.09",
-      "close_time": "2026-11-09T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBAWINMARGIN-26NOV06OKCMEM-OKC1TO5",
-      "title": "Oklahoma City wins by 1 to 5 points",
-      "event_ticker": "KXNBAWINMARGIN-26NOV06OKCMEM",
-      "yes_ask_cents": "24.0",
-      "no_ask_cents": "81.0",
-      "spread_cents": "5.0",
-      "volume_24h": "3575.96",
-      "close_time": "2026-11-09T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26NOV06SASSAC-SASDHARPER2-6",
-      "title": "Dylan Harper: 6+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV06SASSAC",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3401.5",
-      "close_time": "2026-11-09T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26NOV06MINNOP-NOPDMURRAY5-6",
-      "title": "Dejounte Murray: 6+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV06MINNOP",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3330.87",
-      "close_time": "2026-11-09T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26NOV06SASSAC-SASDVASSELL24-2",
-      "title": "Devin Vassell: 2+ threes",
-      "event_ticker": "KXNBA3PT-26NOV06SASSAC",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "45.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3297.16",
-      "close_time": "2026-11-09T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV06TORMIL-TORJSHEAD1-10",
-      "title": "Jamal Shead: 10+ points",
-      "event_ticker": "KXNBAPTS-26NOV06TORMIL",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "58.0",
-      "spread_cents": "5.0",
-      "volume_24h": "3230.67",
-      "close_time": "2026-11-09T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26NOV06SASSAC-SASKJOHNSON3-4",
-      "title": "Keldon Johnson: 4+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV06SASSAC",
-      "yes_ask_cents": "67.0",
-      "no_ask_cents": "35.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3211.78",
-      "close_time": "2026-11-09T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV06BOSCHA-BOS21",
-      "title": "Boston wins by over 20.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV06BOSCHA",
-      "yes_ask_cents": "21.0",
-      "no_ask_cents": "80.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3044.27",
-      "close_time": "2026-11-09T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBAAST-26NOV06SASSAC-SASDVASSELL24-6",
-      "title": "Devin Vassell: 6+ assists",
-      "event_ticker": "KXNBAAST-26NOV06SASSAC",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "94.0",
-      "spread_cents": "2.0",
-      "volume_24h": "2989.57",
-      "close_time": "2026-11-09T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAAST-26NOV06MINNOP-MINJKUMINGA0-6",
-      "title": "Jonathan Kuminga: 6+ assists",
-      "event_ticker": "KXNBAAST-26NOV06MINNOP",
-      "yes_ask_cents": "7.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "2.0",
-      "volume_24h": "2953.12",
-      "close_time": "2026-11-09T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV06WASATL-WASKGEORGE18-25",
-      "title": "Kyshawn George: 25+ points",
-      "event_ticker": "KXNBAPTS-26NOV06WASATL",
-      "yes_ask_cents": "11.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "1.0",
-      "volume_24h": "2928.1",
-      "close_time": "2026-11-09T00:00:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
