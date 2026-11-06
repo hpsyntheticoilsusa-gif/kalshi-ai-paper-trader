@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-11-05T23:51:13.396514+00:00",
+  "generated_utc": "2026-11-06T01:19:11.697594+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 320,
+  "qualifying_nba_markets": 120,
   "scoreboard_games": [
     {
       "event_id": "401909936",
@@ -56,280 +56,40 @@
       "ticker": "KXNBAPTS-26NOV05MIAGSW-MIAKTHOMPSON11-20",
       "title": "Klay Thompson: 20+ points",
       "event_ticker": "KXNBAPTS-26NOV05MIAGSW",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "88.0",
-      "spread_cents": "1.0",
-      "volume_24h": "22422.54",
+      "yes_ask_cents": "16.0",
+      "no_ask_cents": "87.0",
+      "spread_cents": "3.0",
+      "volume_24h": "42953.56",
       "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26NOV05ORLPHX-PHXKMALUACH10-6",
-      "title": "Khaman Maluach: 6+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV05ORLPHX",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "1.0",
-      "volume_24h": "13714.77",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV05MIAGSW-GSWSCURRY30-30",
-      "title": "Stephen Curry: 30+ points",
-      "event_ticker": "KXNBAPTS-26NOV05MIAGSW",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "58.0",
-      "spread_cents": "1.0",
-      "volume_24h": "12267.79",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26NOV05ORLPHX-PHXJGREEN4-4",
-      "title": "Jalen Green: 4+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV05ORLPHX",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "1.0",
-      "volume_24h": "10743.27",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HSPREAD-26NOV05ORLPHX-PHX2",
-      "title": "Phoenix wins the 1st half by over 1.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26NOV05ORLPHX",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "1.0",
-      "volume_24h": "10439.59",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26NOV05MIAGSW-MIAGANTETOKOUNMPO7-12",
-      "title": "Giannis Antetokounmpo: 12+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV05MIAGSW",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "1.0",
-      "volume_24h": "9910.81",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAAST-26NOV05ORLPHX-PHXDBOOKER15-6",
-      "title": "Devin Booker: 6+ assists",
-      "event_ticker": "KXNBAAST-26NOV05ORLPHX",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "1.0",
-      "volume_24h": "9877.89",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26NOV05MIAGSW-GSWSCURRY30-5",
-      "title": "Stephen Curry: 5+ threes",
-      "event_ticker": "KXNBA3PT-26NOV05MIAGSW",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "1.0",
-      "volume_24h": "9307.56",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPRA-26NOV05MIAGSW-GSWSCURRY30-35",
-      "title": "Stephen Curry: 35+ points, rebounds, and assists",
-      "event_ticker": "KXNBAPRA-26NOV05MIAGSW",
-      "yes_ask_cents": "62.0",
-      "no_ask_cents": "42.0",
-      "spread_cents": "4.0",
-      "volume_24h": "9080.99",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV05MIAGSW-GSWYLENDEBORG1-20",
-      "title": "Yaxel Lendeborg: 20+ points",
-      "event_ticker": "KXNBAPTS-26NOV05MIAGSW",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "2.0",
-      "volume_24h": "8950.38",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26NOV05ORLPHX-PHXKMALUACH10-8",
-      "title": "Khaman Maluach: 8+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV05ORLPHX",
-      "yes_ask_cents": "25.0",
-      "no_ask_cents": "77.0",
-      "spread_cents": "2.0",
-      "volume_24h": "8866.82",
-      "close_time": "2026-11-08T02:00:00Z"
     },
     {
       "ticker": "KXNBAPTS-26NOV05MIAGSW-MIAKTHOMPSON11-15",
       "title": "Klay Thompson: 15+ points",
       "event_ticker": "KXNBAPTS-26NOV05MIAGSW",
-      "yes_ask_cents": "34.0",
-      "no_ask_cents": "68.0",
+      "yes_ask_cents": "35.0",
+      "no_ask_cents": "67.0",
       "spread_cents": "2.0",
-      "volume_24h": "8634.12",
+      "volume_24h": "12704.36",
       "close_time": "2026-11-08T03:00:00Z"
     },
     {
       "ticker": "KXNBAPTS-26NOV05MIAGSW-MIADMITCHELL2-10",
       "title": "Davion Mitchell: 10+ points",
       "event_ticker": "KXNBAPTS-26NOV05MIAGSW",
-      "yes_ask_cents": "66.0",
-      "no_ask_cents": "36.0",
-      "spread_cents": "2.0",
-      "volume_24h": "8521.26",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26NOV05ORLPHX-ORLJRICHARDSON11-1",
-      "title": "Jase Richardson: 1+ threes",
-      "event_ticker": "KXNBA3PT-26NOV05ORLPHX",
-      "yes_ask_cents": "66.0",
-      "no_ask_cents": "35.0",
-      "spread_cents": "1.0",
-      "volume_24h": "7305.77",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV05ORLPHX-ORLABLACK0-15",
-      "title": "Anthony Black: 15+ points",
-      "event_ticker": "KXNBAPTS-26NOV05ORLPHX",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "45.0",
-      "spread_cents": "1.0",
-      "volume_24h": "5804.83",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV05ORLPHX-PHXDBOOKER15-25",
-      "title": "Devin Booker: 25+ points",
-      "event_ticker": "KXNBAPTS-26NOV05ORLPHX",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "1.0",
-      "volume_24h": "5638.63",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV05MIAGSW-GSWSCURRY30-20",
-      "title": "Stephen Curry: 20+ points",
-      "event_ticker": "KXNBAPTS-26NOV05MIAGSW",
-      "yes_ask_cents": "86.0",
-      "no_ask_cents": "16.0",
-      "spread_cents": "2.0",
-      "volume_24h": "5442.42",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26NOV05MIAGSW-GSWSCURRY30-4",
-      "title": "Stephen Curry: 4+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV05MIAGSW",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "1.0",
-      "volume_24h": "5268.51",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26NOV05ORLPHX-114",
-      "title": "1st Half: Over 113.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26NOV05ORLPHX",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "2.0",
-      "volume_24h": "4807.93",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV05MIAGSW-GSWSCURRY30-25",
-      "title": "Stephen Curry: 25+ points",
-      "event_ticker": "KXNBAPTS-26NOV05MIAGSW",
-      "yes_ask_cents": "65.0",
-      "no_ask_cents": "36.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4647.09",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV05MIAGSW-GSWSCURRY30-35",
-      "title": "Stephen Curry: 35+ points",
-      "event_ticker": "KXNBAPTS-26NOV05MIAGSW",
-      "yes_ask_cents": "25.0",
-      "no_ask_cents": "76.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4595.28",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBA3D-26NOV05MIAGSW-GSWYLENDEBORG1",
-      "title": "Yaxel Lendeborg: Triple Double",
-      "event_ticker": "KXNBA3D-26NOV05MIAGSW",
-      "yes_ask_cents": "2.0",
-      "no_ask_cents": "99.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4575.37",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAAST-26NOV05ORLPHX-ORLABLACK0-4",
-      "title": "Anthony Black: 4+ assists",
-      "event_ticker": "KXNBAAST-26NOV05ORLPHX",
-      "yes_ask_cents": "62.0",
-      "no_ask_cents": "39.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4555.83",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26NOV05MIAGSW-GSWSCURRY30-4",
-      "title": "Stephen Curry: 4+ threes",
-      "event_ticker": "KXNBA3PT-26NOV05MIAGSW",
       "yes_ask_cents": "64.0",
       "no_ask_cents": "37.0",
       "spread_cents": "1.0",
-      "volume_24h": "4496.83",
+      "volume_24h": "8950.42",
       "close_time": "2026-11-08T03:00:00Z"
     },
     {
-      "ticker": "KXNBAREB-26NOV05MIAGSW-GSWDGREEN23-4",
-      "title": "Draymond Green: 4+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV05MIAGSW",
-      "yes_ask_cents": "77.0",
-      "no_ask_cents": "26.0",
-      "spread_cents": "3.0",
-      "volume_24h": "4413.66",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26NOV05ORLPHX-ORLDBANE3-4",
-      "title": "Desmond Bane: 4+ threes",
-      "event_ticker": "KXNBA3PT-26NOV05ORLPHX",
-      "yes_ask_cents": "42.0",
-      "no_ask_cents": "59.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4194.51",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26NOV05ORLPHX-ORLJRICHARDSON11-3",
-      "title": "Jase Richardson: 3+ threes",
-      "event_ticker": "KXNBA3PT-26NOV05ORLPHX",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "90.0",
-      "spread_cents": "3.0",
-      "volume_24h": "4187.5",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV05MIAGSW-GSWYLENDEBORG1-25",
-      "title": "Yaxel Lendeborg: 25+ points",
+      "ticker": "KXNBAPTS-26NOV05MIAGSW-MIAKTHOMPSON11-10",
+      "title": "Klay Thompson: 10+ points",
       "event_ticker": "KXNBAPTS-26NOV05MIAGSW",
-      "yes_ask_cents": "24.0",
-      "no_ask_cents": "77.0",
+      "yes_ask_cents": "64.0",
+      "no_ask_cents": "37.0",
       "spread_cents": "1.0",
-      "volume_24h": "4080.66",
+      "volume_24h": "7298.02",
       "close_time": "2026-11-08T03:00:00Z"
     },
     {
@@ -339,97 +99,27 @@
       "yes_ask_cents": "23.0",
       "no_ask_cents": "78.0",
       "spread_cents": "1.0",
-      "volume_24h": "4028.41",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26NOV05MIAGSW-GSWGNIANGPF-4",
-      "title": "Georges Niang: 4+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV05MIAGSW",
-      "yes_ask_cents": "42.0",
-      "no_ask_cents": "59.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3704.92",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26NOV05ORLPHX-116",
-      "title": "1st Half: Over 115.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26NOV05ORLPHX",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3696.73",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26NOV05ORLPHX-PHXKMALUACH10-4",
-      "title": "Khaman Maluach: 4+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV05ORLPHX",
-      "yes_ask_cents": "78.0",
-      "no_ask_cents": "24.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3670.17",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV05MIAGSW-MIAGANTETOKOUNMPO7-30",
-      "title": "Giannis Antetokounmpo: 30+ points",
-      "event_ticker": "KXNBAPTS-26NOV05MIAGSW",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3663.75",
-      "close_time": "2026-11-08T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV05MIAGSW-MIAKTHOMPSON11-10",
-      "title": "Klay Thompson: 10+ points",
-      "event_ticker": "KXNBAPTS-26NOV05MIAGSW",
-      "yes_ask_cents": "65.0",
-      "no_ask_cents": "36.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3532.2",
+      "volume_24h": "4436.81",
       "close_time": "2026-11-08T03:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV06PHICLE-PHI3",
       "title": "Philadelphia wins by over 2.5 points",
       "event_ticker": "KXNBASPREAD-26NOV06PHICLE",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "50.0",
       "spread_cents": "1.0",
-      "volume_24h": "3497.09",
+      "volume_24h": "4242.72",
       "close_time": "2026-11-09T00:30:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26NOV05ORLPHX-ORLDBANE3-20",
-      "title": "Desmond Bane: 20+ points",
-      "event_ticker": "KXNBAPTS-26NOV05ORLPHX",
-      "yes_ask_cents": "57.0",
-      "no_ask_cents": "44.0",
+      "ticker": "KXNBAAST-26NOV05MIAGSW-MIAPLARSSON9-8",
+      "title": "Pelle Larsson: 8+ assists",
+      "event_ticker": "KXNBAAST-26NOV05MIAGSW",
+      "yes_ask_cents": "6.0",
+      "no_ask_cents": "95.0",
       "spread_cents": "1.0",
-      "volume_24h": "3497.0",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26NOV05ORLPHX-ORLTDASILVA23-3",
-      "title": "Tristan da Silva: 3+ threes",
-      "event_ticker": "KXNBA3PT-26NOV05ORLPHX",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "54.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3354.37",
-      "close_time": "2026-11-08T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTSPROT-26NOV05MIAGSW-MIAAWIGGINS22-20",
-      "title": "Andrew Wiggins: 20+ points",
-      "event_ticker": "KXNBAPTSPROT-26NOV05MIAGSW",
-      "yes_ask_cents": "10.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3172.93",
+      "volume_24h": "4176.29",
       "close_time": "2026-11-08T03:00:00Z"
     },
     {
@@ -439,17 +129,327 @@
       "yes_ask_cents": "10.0",
       "no_ask_cents": "91.0",
       "spread_cents": "1.0",
-      "volume_24h": "3091.38",
+      "volume_24h": "4154.29",
       "close_time": "2026-11-08T02:00:00Z"
     },
     {
-      "ticker": "KXNBA3D-26NOV05MIAGSW-MIAGANTETOKOUNMPO7",
-      "title": "Giannis Antetokounmpo: Triple Double",
-      "event_ticker": "KXNBA3D-26NOV05MIAGSW",
-      "yes_ask_cents": "13.0",
-      "no_ask_cents": "89.0",
+      "ticker": "KXNBAAST-26NOV05ORLPHX-PHXOIGHODARO11-4",
+      "title": "Oso Ighodaro: 4+ assists",
+      "event_ticker": "KXNBAAST-26NOV05ORLPHX",
+      "yes_ask_cents": "33.0",
+      "no_ask_cents": "68.0",
+      "spread_cents": "1.0",
+      "volume_24h": "3519.27",
+      "close_time": "2026-11-08T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAESCALATORPTS-26NOV05MIAGSW-GSWSCURRY30",
+      "title": "Stephen Curry player points escalator",
+      "event_ticker": "KXNBAESCALATORPTS-26NOV05MIAGSW",
+      "yes_ask_cents": "25.19",
+      "no_ask_cents": "78.0",
+      "spread_cents": "3.19",
+      "volume_24h": "3478.09",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTSPROT-26NOV05MIAGSW-MIAAWIGGINS22-20",
+      "title": "Andrew Wiggins: 20+ points",
+      "event_ticker": "KXNBAPTSPROT-26NOV05MIAGSW",
+      "yes_ask_cents": "11.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "3.0",
+      "volume_24h": "3172.93",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26NOV05MIAGSW-MIAKTHOMPSON11-4",
+      "title": "Klay Thompson: 4+ threes",
+      "event_ticker": "KXNBA3PT-26NOV05MIAGSW",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "62.0",
+      "spread_cents": "1.0",
+      "volume_24h": "3003.94",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTSPROT-26NOV05MIAGSW-MIAKTHOMPSON11-20",
+      "title": "Klay Thompson: 20+ points",
+      "event_ticker": "KXNBAPTSPROT-26NOV05MIAGSW",
+      "yes_ask_cents": "15.0",
+      "no_ask_cents": "90.0",
+      "spread_cents": "5.0",
+      "volume_24h": "2796.38",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26NOV05MIAGSW-MIADMITCHELL2-8",
+      "title": "Davion Mitchell: 8+ assists",
+      "event_ticker": "KXNBAAST-26NOV05MIAGSW",
+      "yes_ask_cents": "44.0",
+      "no_ask_cents": "57.0",
+      "spread_cents": "1.0",
+      "volume_24h": "2343.82",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26NOV05MIAGSW-MIAAWIGGINS22-4",
+      "title": "Andrew Wiggins: 4+ rebounds",
+      "event_ticker": "KXNBAREB-26NOV05MIAGSW",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "1.0",
+      "volume_24h": "2266.62",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAASTPROT-26NOV05ORLPHX-PHXOIGHODARO11-6",
+      "title": "Oso Ighodaro: 6+ assists",
+      "event_ticker": "KXNBAASTPROT-26NOV05ORLPHX",
+      "yes_ask_cents": "12.0",
+      "no_ask_cents": "94.0",
+      "spread_cents": "6.0",
+      "volume_24h": "2093.34",
+      "close_time": "2026-11-08T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV06MINNOP-MIN6",
+      "title": "Minnesota wins by over 5.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV06MINNOP",
+      "yes_ask_cents": "47.0",
+      "no_ask_cents": "55.0",
       "spread_cents": "2.0",
-      "volume_24h": "2890.82",
+      "volume_24h": "2032.0",
+      "close_time": "2026-11-09T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBAESCALATORPTS-26NOV05MIAGSW-MIABADEBAYO13",
+      "title": "Bam Adebayo player points escalator",
+      "event_ticker": "KXNBAESCALATORPTS-26NOV05MIAGSW",
+      "yes_ask_cents": "9.55",
+      "no_ask_cents": "92.0",
+      "spread_cents": "1.55",
+      "volume_24h": "1964.39",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26NOV05MIAGSW-MIAKTHOMPSON11-3",
+      "title": "Klay Thompson: 3+ threes",
+      "event_ticker": "KXNBA3PT-26NOV05MIAGSW",
+      "yes_ask_cents": "60.0",
+      "no_ask_cents": "41.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1928.75",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV06PHICLE-PHI2",
+      "title": "Philadelphia wins by over 1.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV06PHICLE",
+      "yes_ask_cents": "55.0",
+      "no_ask_cents": "46.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1907.02",
+      "close_time": "2026-11-09T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBAESCALATOR3PT-26NOV05MIAGSW-MIAKTHOMPSON11",
+      "title": "Klay Thompson player threes escalator",
+      "event_ticker": "KXNBAESCALATOR3PT-26NOV05MIAGSW",
+      "yes_ask_cents": "9.57",
+      "no_ask_cents": "94.8",
+      "spread_cents": "4.37",
+      "volume_24h": "1890.09",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV06PHICLE-231",
+      "title": "Full Game: Over 230.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV06PHICLE",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1809.63",
+      "close_time": "2026-11-09T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBAASTPROT-26NOV05ORLPHX-PHXOIGHODARO11-4",
+      "title": "Oso Ighodaro: 4+ assists",
+      "event_ticker": "KXNBAASTPROT-26NOV05ORLPHX",
+      "yes_ask_cents": "36.0",
+      "no_ask_cents": "70.0",
+      "spread_cents": "6.0",
+      "volume_24h": "1607.44",
+      "close_time": "2026-11-08T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAESCALATORPTS-26NOV05ORLPHX-PHXDBOOKER15",
+      "title": "Devin Booker player points escalator",
+      "event_ticker": "KXNBAESCALATORPTS-26NOV05ORLPHX",
+      "yes_ask_cents": "18.73",
+      "no_ask_cents": "84.91",
+      "spread_cents": "3.64",
+      "volume_24h": "1514.42",
+      "close_time": "2026-11-08T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26NOV05MIAGSW-MIAPLARSSON9-6",
+      "title": "Pelle Larsson: 6+ assists",
+      "event_ticker": "KXNBAAST-26NOV05MIAGSW",
+      "yes_ask_cents": "20.0",
+      "no_ask_cents": "81.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1426.9",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26NOV05MIAGSW-MIAKTHOMPSON11-2",
+      "title": "Klay Thompson: 2+ assists",
+      "event_ticker": "KXNBAAST-26NOV05MIAGSW",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1377.57",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPRA-26NOV05ORLPHX-PHXOIGHODARO11-20",
+      "title": "Oso Ighodaro: 20+ points, rebounds, and assists",
+      "event_ticker": "KXNBAPRA-26NOV05ORLPHX",
+      "yes_ask_cents": "24.0",
+      "no_ask_cents": "78.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1342.15",
+      "close_time": "2026-11-08T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26NOV05ORLPHX-PHXOIGHODARO11-2",
+      "title": "Oso Ighodaro: 2+ assists",
+      "event_ticker": "KXNBAAST-26NOV05ORLPHX",
+      "yes_ask_cents": "77.0",
+      "no_ask_cents": "26.0",
+      "spread_cents": "3.0",
+      "volume_24h": "1338.26",
+      "close_time": "2026-11-08T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAESCALATORPTS-26NOV05MIAGSW-GSWBPODZIEMSKI2",
+      "title": "Brandin Podziemski player points escalator",
+      "event_ticker": "KXNBAESCALATORPTS-26NOV05MIAGSW",
+      "yes_ask_cents": "7.87",
+      "no_ask_cents": "97.0",
+      "spread_cents": "4.87",
+      "volume_24h": "1326.68",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAESCALATOR3PT-26NOV05MIAGSW-GSWSCURRY30",
+      "title": "Stephen Curry player threes escalator",
+      "event_ticker": "KXNBAESCALATOR3PT-26NOV05MIAGSW",
+      "yes_ask_cents": "17.44",
+      "no_ask_cents": "86.99",
+      "spread_cents": "4.43",
+      "volume_24h": "1291.08",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26NOV05ORLPHX-PHXOIGHODARO11-6",
+      "title": "Oso Ighodaro: 6+ rebounds",
+      "event_ticker": "KXNBAREB-26NOV05ORLPHX",
+      "yes_ask_cents": "45.0",
+      "no_ask_cents": "56.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1288.32",
+      "close_time": "2026-11-08T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPRA-26NOV05ORLPHX-PHXOIGHODARO11-15",
+      "title": "Oso Ighodaro: 15+ points, rebounds, and assists",
+      "event_ticker": "KXNBAPRA-26NOV05ORLPHX",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1279.9",
+      "close_time": "2026-11-08T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAESCALATORPTS-26NOV05MIAGSW-MIAGANTETOKOUNMPO7",
+      "title": "Giannis Antetokounmpo player points escalator",
+      "event_ticker": "KXNBAESCALATORPTS-26NOV05MIAGSW",
+      "yes_ask_cents": "24.99",
+      "no_ask_cents": "78.0",
+      "spread_cents": "2.99",
+      "volume_24h": "1269.58",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBA2D-26NOV05MIAGSW-MIADMITCHELL2",
+      "title": "Davion Mitchell: Double Double",
+      "event_ticker": "KXNBA2D-26NOV05MIAGSW",
+      "yes_ask_cents": "17.0",
+      "no_ask_cents": "84.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1186.1",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBA4QTOTAL-26NOV05ORLPHX-54",
+      "title": "4th Quarter: Over 53.5 points scored",
+      "event_ticker": "KXNBA4QTOTAL-26NOV05ORLPHX",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "7.0",
+      "volume_24h": "1180.0",
+      "close_time": "2026-11-08T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV05ORLPHX-PHXCGILLESPIE12-20",
+      "title": "Collin Gillespie: 20+ points",
+      "event_ticker": "KXNBAPTS-26NOV05ORLPHX",
+      "yes_ask_cents": "7.0",
+      "no_ask_cents": "95.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1178.72",
+      "close_time": "2026-11-08T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV05ORLPHX-PHXOIGHODARO11-10",
+      "title": "Oso Ighodaro: 10+ points",
+      "event_ticker": "KXNBAPTS-26NOV05ORLPHX",
+      "yes_ask_cents": "24.0",
+      "no_ask_cents": "77.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1143.34",
+      "close_time": "2026-11-08T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26NOV05MIAGSW-MIAGANTETOKOUNMPO7-6",
+      "title": "Giannis Antetokounmpo: 6+ rebounds",
+      "event_ticker": "KXNBAREB-26NOV05MIAGSW",
+      "yes_ask_cents": "93.0",
+      "no_ask_cents": "9.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1103.35",
+      "close_time": "2026-11-08T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAESCALATORPTS-26NOV05ORLPHX-PHXJGREEN4",
+      "title": "Jalen Green player points escalator",
+      "event_ticker": "KXNBAESCALATORPTS-26NOV05ORLPHX",
+      "yes_ask_cents": "8.03",
+      "no_ask_cents": "96.9",
+      "spread_cents": "4.93",
+      "volume_24h": "1061.09",
+      "close_time": "2026-11-08T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26NOV05MIAGSW-MIAAWIGGINS22-2",
+      "title": "Andrew Wiggins: 2+ threes",
+      "event_ticker": "KXNBA3PT-26NOV05MIAGSW",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "52.0",
+      "spread_cents": "1.0",
+      "volume_24h": "936.65",
       "close_time": "2026-11-08T03:00:00Z"
     }
   ],
