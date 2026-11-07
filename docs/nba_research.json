@@ -1,14 +1,14 @@
 {
-  "generated_utc": "2026-11-07T18:53:34.722039+00:00",
+  "generated_utc": "2026-11-07T22:45:30.883322+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 0,
+  "qualifying_nba_markets": 15,
   "scoreboard_games": [
     {
       "event_id": "401909938",
       "date": "2026-11-07T22:00Z",
       "name": "Denver Nuggets at Indiana Pacers",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_END_PERIOD",
       "season_type": 2,
       "teams": [
         {
@@ -16,14 +16,14 @@
           "team": "Indiana Pacers",
           "abbreviation": "IND",
           "home_away": "home",
-          "score": "0"
+          "score": "19"
         },
         {
           "team_id": "7",
           "team": "Denver Nuggets",
           "abbreviation": "DEN",
           "home_away": "away",
-          "score": "0"
+          "score": "27"
         }
       ]
     },
@@ -166,7 +166,158 @@
       ]
     }
   ],
-  "market_samples": [],
+  "market_samples": [
+    {
+      "ticker": "KXNBA3PT-26NOV07NYKCLE-CLEMHEZONJA33-2",
+      "title": "Mario Hezonja: 2+ threes",
+      "event_ticker": "KXNBA3PT-26NOV07NYKCLE",
+      "yes_ask_cents": "55.0",
+      "no_ask_cents": "47.0",
+      "spread_cents": "2.0",
+      "volume_24h": "3841.19",
+      "close_time": "2026-11-10T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV08LALDET-DET2",
+      "title": "Detroit wins by over 1.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV08LALDET",
+      "yes_ask_cents": "62.0",
+      "no_ask_cents": "43.0",
+      "spread_cents": "5.0",
+      "volume_24h": "3060.46",
+      "close_time": "2026-11-10T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26NOV07WASOKC-OKCBSTIRTZ14-4",
+      "title": "Bennett Stirtz: 4+ threes",
+      "event_ticker": "KXNBA3PT-26NOV07WASOKC",
+      "yes_ask_cents": "11.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "3.0",
+      "volume_24h": "2578.55",
+      "close_time": "2026-11-10T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV07BKNATL-BKNMWAGNER13-10",
+      "title": "Moritz Wagner: 10+ points",
+      "event_ticker": "KXNBAPTS-26NOV07BKNATL",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "2.0",
+      "volume_24h": "2254.35",
+      "close_time": "2026-11-10T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26NOV07NYKCLE-CLEMTHOMAS15-5",
+      "title": "Meleek Thomas: 5+ threes",
+      "event_ticker": "KXNBA3PT-26NOV07NYKCLE",
+      "yes_ask_cents": "9.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1850.06",
+      "close_time": "2026-11-10T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26NOV07NYKCLE-CLEMTHOMAS15-4",
+      "title": "Meleek Thomas: 4+ threes",
+      "event_ticker": "KXNBA3PT-26NOV07NYKCLE",
+      "yes_ask_cents": "20.0",
+      "no_ask_cents": "82.0",
+      "spread_cents": "2.0",
+      "volume_24h": "831.0",
+      "close_time": "2026-11-10T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26NOV07NYKCLE-CLEMTHOMAS15-3",
+      "title": "Meleek Thomas: 3+ threes",
+      "event_ticker": "KXNBA3PT-26NOV07NYKCLE",
+      "yes_ask_cents": "37.0",
+      "no_ask_cents": "65.0",
+      "spread_cents": "2.0",
+      "volume_24h": "756.0",
+      "close_time": "2026-11-10T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV08PHICHI-240",
+      "title": "Full Game: Over 239.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV08PHICHI",
+      "yes_ask_cents": "45.0",
+      "no_ask_cents": "56.0",
+      "spread_cents": "1.0",
+      "volume_24h": "656.75",
+      "close_time": "2026-11-10T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV07SASPOR-PORSHENDERSON00-25",
+      "title": "Scoot Henderson: 25+ points",
+      "event_ticker": "KXNBAPTS-26NOV07SASPOR",
+      "yes_ask_cents": "9.0",
+      "no_ask_cents": "95.0",
+      "spread_cents": "4.0",
+      "volume_24h": "588.18",
+      "close_time": "2026-11-10T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26NOV07NYKCLE-CLEMTHOMAS15-4",
+      "title": "Meleek Thomas: 4+ rebounds",
+      "event_ticker": "KXNBAREB-26NOV07NYKCLE",
+      "yes_ask_cents": "35.0",
+      "no_ask_cents": "67.0",
+      "spread_cents": "2.0",
+      "volume_24h": "540.71",
+      "close_time": "2026-11-10T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26NOV07BKNATL-BKNMWAGNER13-6",
+      "title": "Moritz Wagner: 6+ rebounds",
+      "event_ticker": "KXNBAREB-26NOV07BKNATL",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "62.0",
+      "spread_cents": "1.0",
+      "volume_24h": "514.25",
+      "close_time": "2026-11-10T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV07NYKCLE-CLEMTHOMAS15-10",
+      "title": "Meleek Thomas: 10+ points",
+      "event_ticker": "KXNBAPTS-26NOV07NYKCLE",
+      "yes_ask_cents": "64.0",
+      "no_ask_cents": "38.0",
+      "spread_cents": "2.0",
+      "volume_24h": "419.5",
+      "close_time": "2026-11-10T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV07NYKCLE-CLEMHEZONJA33-10",
+      "title": "Mario Hezonja: 10+ points",
+      "event_ticker": "KXNBAPTS-26NOV07NYKCLE",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "3.0",
+      "volume_24h": "404.37",
+      "close_time": "2026-11-10T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26NOV07NYKCLE-CLEMHEZONJA33-8",
+      "title": "Mario Hezonja: 8+ rebounds",
+      "event_ticker": "KXNBAREB-26NOV07NYKCLE",
+      "yes_ask_cents": "35.0",
+      "no_ask_cents": "67.0",
+      "spread_cents": "2.0",
+      "volume_24h": "151.0",
+      "close_time": "2026-11-10T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV07WASOKC-OKCBSTIRTZ14-10",
+      "title": "Bennett Stirtz: 10+ points",
+      "event_ticker": "KXNBAPTS-26NOV07WASOKC",
+      "yes_ask_cents": "41.0",
+      "no_ask_cents": "60.0",
+      "spread_cents": "1.0",
+      "volume_24h": "107.6",
+      "close_time": "2026-11-10T01:00:00Z"
+    }
+  ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
   "missing": [
     "Verified contract-to-game mapping",
