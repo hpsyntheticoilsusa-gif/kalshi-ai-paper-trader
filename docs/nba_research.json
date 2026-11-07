@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-11-07T08:09:20.123491+00:00",
+  "generated_utc": "2026-11-07T08:58:26.798613+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 87,
+  "qualifying_nba_markets": 91,
   "scoreboard_games": [
     {
       "event_id": "401909287",
@@ -217,19 +217,19 @@
       "ticker": "KXNBASPREAD-26NOV07DENIND-DEN7",
       "title": "Denver wins by over 6.5 points",
       "event_ticker": "KXNBASPREAD-26NOV07DENIND",
-      "yes_ask_cents": "55.0",
+      "yes_ask_cents": "54.0",
       "no_ask_cents": "47.0",
-      "spread_cents": "2.0",
-      "volume_24h": "5714.23",
+      "spread_cents": "1.0",
+      "volume_24h": "5802.36",
       "close_time": "2026-11-09T22:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV07NYKCLE-NYK4",
       "title": "New York wins by over 3.5 points",
       "event_ticker": "KXNBASPREAD-26NOV07NYKCLE",
-      "yes_ask_cents": "57.0",
+      "yes_ask_cents": "56.0",
       "no_ask_cents": "45.0",
-      "spread_cents": "2.0",
+      "spread_cents": "1.0",
       "volume_24h": "4986.57",
       "close_time": "2026-11-10T01:00:00Z"
     },
@@ -240,7 +240,7 @@
       "yes_ask_cents": "50.0",
       "no_ask_cents": "51.0",
       "spread_cents": "1.0",
-      "volume_24h": "4524.73",
+      "volume_24h": "4917.37",
       "close_time": "2026-11-10T01:30:00Z"
     },
     {
@@ -248,9 +248,9 @@
       "title": "Full Game: Over 228.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV07DENIND",
       "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3704.85",
+      "no_ask_cents": "52.0",
+      "spread_cents": "2.0",
+      "volume_24h": "3951.87",
       "close_time": "2026-11-09T22:00:00Z"
     },
     {
@@ -260,17 +260,17 @@
       "yes_ask_cents": "50.0",
       "no_ask_cents": "51.0",
       "spread_cents": "1.0",
-      "volume_24h": "3092.17",
+      "volume_24h": "3488.64",
       "close_time": "2026-11-10T02:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV07SASPOR-SAS3",
       "title": "San Antonio wins by over 2.5 points",
       "event_ticker": "KXNBASPREAD-26NOV07SASPOR",
-      "yes_ask_cents": "60.0",
+      "yes_ask_cents": "59.0",
       "no_ask_cents": "43.0",
-      "spread_cents": "3.0",
-      "volume_24h": "3033.78",
+      "spread_cents": "2.0",
+      "volume_24h": "3195.89",
       "close_time": "2026-11-10T03:00:00Z"
     },
     {
@@ -284,13 +284,33 @@
       "close_time": "2026-11-10T01:00:00Z"
     },
     {
+      "ticker": "KXNBASPREAD-26NOV07WASOKC-OKC12",
+      "title": "Oklahoma City wins by over 11.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV07WASOKC",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "2.0",
+      "volume_24h": "2409.8",
+      "close_time": "2026-11-10T01:00:00Z"
+    },
+    {
       "ticker": "KXNBATOTAL-26NOV07SASPOR-229",
       "title": "Full Game: Over 228.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV07SASPOR",
-      "yes_ask_cents": "49.0",
+      "yes_ask_cents": "47.0",
       "no_ask_cents": "55.0",
-      "spread_cents": "4.0",
+      "spread_cents": "2.0",
       "volume_24h": "2148.73",
+      "close_time": "2026-11-10T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV07SASPOR-SAS4",
+      "title": "San Antonio wins by over 3.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV07SASPOR",
+      "yes_ask_cents": "57.0",
+      "no_ask_cents": "44.0",
+      "spread_cents": "1.0",
+      "volume_24h": "1860.95",
       "close_time": "2026-11-10T03:00:00Z"
     },
     {
@@ -298,20 +318,10 @@
       "title": "San Antonio wins by over 4.5 points",
       "event_ticker": "KXNBASPREAD-26NOV07SASPOR",
       "yes_ask_cents": "54.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "2.0",
       "volume_24h": "1809.95",
       "close_time": "2026-11-10T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV07WASOKC-OKC12",
-      "title": "Oklahoma City wins by over 11.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV07WASOKC",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1784.71",
-      "close_time": "2026-11-10T01:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV07HOUPHX-HOU7",
@@ -320,18 +330,8 @@
       "yes_ask_cents": "54.0",
       "no_ask_cents": "47.0",
       "spread_cents": "1.0",
-      "volume_24h": "1625.83",
+      "volume_24h": "1626.72",
       "close_time": "2026-11-10T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV07SASPOR-SAS4",
-      "title": "San Antonio wins by over 3.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV07SASPOR",
-      "yes_ask_cents": "58.0",
-      "no_ask_cents": "44.0",
-      "spread_cents": "2.0",
-      "volume_24h": "1601.72",
-      "close_time": "2026-11-10T03:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26NOV07DENIND-207",
@@ -341,6 +341,26 @@
       "no_ask_cents": "11.0",
       "spread_cents": "2.0",
       "volume_24h": "1526.8",
+      "close_time": "2026-11-09T22:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV07DENIND-DEN8",
+      "title": "Denver wins by over 7.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV07DENIND",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "2.0",
+      "volume_24h": "1400.37",
+      "close_time": "2026-11-09T22:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV07DENIND-221",
+      "title": "Full Game: Over 220.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV07DENIND",
+      "yes_ask_cents": "69.0",
+      "no_ask_cents": "35.0",
+      "spread_cents": "4.0",
+      "volume_24h": "1366.4",
       "close_time": "2026-11-09T22:00:00Z"
     },
     {
@@ -358,8 +378,8 @@
       "title": "Atlanta wins by over 3.5 points",
       "event_ticker": "KXNBASPREAD-26NOV07BKNATL",
       "yes_ask_cents": "63.0",
-      "no_ask_cents": "40.0",
-      "spread_cents": "3.0",
+      "no_ask_cents": "39.0",
+      "spread_cents": "2.0",
       "volume_24h": "1260.36",
       "close_time": "2026-11-10T00:30:00Z"
     },
@@ -367,9 +387,9 @@
       "ticker": "KXNBATOTAL-26NOV07DENIND-233",
       "title": "Full Game: Over 232.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV07DENIND",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "4.0",
+      "yes_ask_cents": "42.0",
+      "no_ask_cents": "60.0",
+      "spread_cents": "2.0",
       "volume_24h": "1096.0",
       "close_time": "2026-11-09T22:00:00Z"
     },
@@ -378,8 +398,8 @@
       "title": "Full Game: Over 230.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV07DENIND",
       "yes_ask_cents": "46.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "2.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "1.0",
       "volume_24h": "1056.61",
       "close_time": "2026-11-09T22:00:00Z"
     },
@@ -400,28 +420,28 @@
       "yes_ask_cents": "52.0",
       "no_ask_cents": "49.0",
       "spread_cents": "1.0",
-      "volume_24h": "960.88",
+      "volume_24h": "982.33",
       "close_time": "2026-11-10T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV07DENIND-DEN8",
-      "title": "Denver wins by over 7.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV07DENIND",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "2.0",
-      "volume_24h": "925.78",
-      "close_time": "2026-11-09T22:00:00Z"
     },
     {
       "ticker": "KXNBA1HSPREAD-26NOV07DENIND-DEN4",
       "title": "Denver wins the 1st half by over 3.5 points",
       "event_ticker": "KXNBA1HSPREAD-26NOV07DENIND",
-      "yes_ask_cents": "53.0",
+      "yes_ask_cents": "52.0",
       "no_ask_cents": "50.0",
-      "spread_cents": "3.0",
+      "spread_cents": "2.0",
       "volume_24h": "859.24",
       "close_time": "2026-11-09T22:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV07BKNATL-ATL7",
+      "title": "Atlanta wins by over 6.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV07BKNATL",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "1.0",
+      "volume_24h": "828.86",
+      "close_time": "2026-11-10T00:30:00Z"
     },
     {
       "ticker": "KXNBAWINMARGIN-26NOV07DENIND-DEN1TO5",
@@ -437,10 +457,10 @@
       "ticker": "KXNBAWINMARGIN-26NOV07ORLGSW-GSW6TO10",
       "title": "Golden State wins by 6 to 10 points",
       "event_ticker": "KXNBAWINMARGIN-26NOV07ORLGSW",
-      "yes_ask_cents": "22.0",
+      "yes_ask_cents": "21.0",
       "no_ask_cents": "86.0",
-      "spread_cents": "8.0",
-      "volume_24h": "750.28",
+      "spread_cents": "7.0",
+      "volume_24h": "769.68",
       "close_time": "2026-11-10T01:30:00Z"
     },
     {
@@ -457,21 +477,11 @@
       "ticker": "KXNBATOTAL-26NOV07DENIND-225",
       "title": "Full Game: Over 224.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV07DENIND",
-      "yes_ask_cents": "60.0",
-      "no_ask_cents": "43.0",
+      "yes_ask_cents": "61.0",
+      "no_ask_cents": "42.0",
       "spread_cents": "3.0",
       "volume_24h": "628.44",
       "close_time": "2026-11-09T22:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV07BKNATL-ATL7",
-      "title": "Atlanta wins by over 6.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV07BKNATL",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "1.0",
-      "volume_24h": "542.61",
-      "close_time": "2026-11-10T00:30:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV07DENIND-DEN5",
@@ -480,8 +490,28 @@
       "yes_ask_cents": "61.0",
       "no_ask_cents": "40.0",
       "spread_cents": "1.0",
-      "volume_24h": "534.5",
+      "volume_24h": "619.5",
       "close_time": "2026-11-09T22:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV07WASOKC-221",
+      "title": "Full Game: Over 220.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV07WASOKC",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "2.0",
+      "volume_24h": "523.9",
+      "close_time": "2026-11-10T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV07SASPOR-SAS6",
+      "title": "San Antonio wins by over 5.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV07SASPOR",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "2.0",
+      "volume_24h": "493.98",
+      "close_time": "2026-11-10T03:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26NOV07HOUPHX-223",
@@ -490,7 +520,7 @@
       "yes_ask_cents": "47.0",
       "no_ask_cents": "54.0",
       "spread_cents": "1.0",
-      "volume_24h": "481.58",
+      "volume_24h": "485.68",
       "close_time": "2026-11-10T02:00:00Z"
     },
     {
@@ -504,6 +534,16 @@
       "close_time": "2026-11-10T03:00:00Z"
     },
     {
+      "ticker": "KXNBA1HTOTAL-26NOV07DENIND-112",
+      "title": "1st Half: Over 111.5 points scored",
+      "event_ticker": "KXNBA1HTOTAL-26NOV07DENIND",
+      "yes_ask_cents": "55.0",
+      "no_ask_cents": "46.0",
+      "spread_cents": "1.0",
+      "volume_24h": "466.47",
+      "close_time": "2026-11-09T22:00:00Z"
+    },
+    {
       "ticker": "KXNBASPREAD-26NOV07BKNATL-ATL6",
       "title": "Atlanta wins by over 5.5 points",
       "event_ticker": "KXNBASPREAD-26NOV07BKNATL",
@@ -514,14 +554,14 @@
       "close_time": "2026-11-10T00:30:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV07SASPOR-SAS6",
-      "title": "San Antonio wins by over 5.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV07SASPOR",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "3.0",
-      "volume_24h": "457.5",
-      "close_time": "2026-11-10T03:00:00Z"
+      "ticker": "KXNBASPREAD-26NOV07NYKCLE-NYK6",
+      "title": "New York wins by over 5.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV07NYKCLE",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "2.0",
+      "volume_24h": "460.38",
+      "close_time": "2026-11-10T01:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV07BKNATL-ATL8",
@@ -531,6 +571,26 @@
       "no_ask_cents": "54.0",
       "spread_cents": "2.0",
       "volume_24h": "441.62",
+      "close_time": "2026-11-10T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV07HOUPHX-PHX4",
+      "title": "Phoenix wins by over 3.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV07HOUPHX",
+      "yes_ask_cents": "22.0",
+      "no_ask_cents": "79.0",
+      "spread_cents": "1.0",
+      "volume_24h": "438.05",
+      "close_time": "2026-11-10T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBA1HSPREAD-26NOV07BKNATL-ATL4",
+      "title": "Atlanta wins the 1st half by over 3.5 points",
+      "event_ticker": "KXNBA1HSPREAD-26NOV07BKNATL",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "1.0",
+      "volume_24h": "419.0",
       "close_time": "2026-11-10T00:30:00Z"
     },
     {
@@ -547,70 +607,10 @@
       "ticker": "KXNBASPREAD-26NOV07HOUPHX-HOU4",
       "title": "Houston wins by over 3.5 points",
       "event_ticker": "KXNBASPREAD-26NOV07HOUPHX",
-      "yes_ask_cents": "65.0",
+      "yes_ask_cents": "64.0",
       "no_ask_cents": "38.0",
-      "spread_cents": "3.0",
-      "volume_24h": "379.35",
-      "close_time": "2026-11-10T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAGAME-26NOV10BOSPHI-PHI",
-      "title": "Philadelphia wins",
-      "event_ticker": "KXNBAGAME-26NOV10BOSPHI",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "8.0",
-      "volume_24h": "375.79",
-      "close_time": "2026-11-13T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV07WASOKC-243",
-      "title": "Full Game: Over 242.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV07WASOKC",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "6.0",
-      "volume_24h": "352.0",
-      "close_time": "2026-11-10T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV07HOUPHX-193",
-      "title": "Full Game: Over 192.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV07HOUPHX",
-      "yes_ask_cents": "97.0",
-      "no_ask_cents": "6.0",
-      "spread_cents": "3.0",
-      "volume_24h": "342.0",
-      "close_time": "2026-11-10T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV07ORLGSW-234",
-      "title": "Full Game: Over 233.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV07ORLGSW",
-      "yes_ask_cents": "28.0",
-      "no_ask_cents": "76.0",
-      "spread_cents": "4.0",
-      "volume_24h": "331.0",
-      "close_time": "2026-11-10T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV07DENIND-DEN6",
-      "title": "Denver wins by over 5.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV07DENIND",
-      "yes_ask_cents": "58.0",
-      "no_ask_cents": "43.0",
-      "spread_cents": "1.0",
-      "volume_24h": "322.37",
-      "close_time": "2026-11-09T22:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV07HOUPHX-HOU17",
-      "title": "Houston wins by over 16.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV07HOUPHX",
-      "yes_ask_cents": "24.0",
-      "no_ask_cents": "77.0",
-      "spread_cents": "1.0",
-      "volume_24h": "318.95",
+      "spread_cents": "2.0",
+      "volume_24h": "394.36",
       "close_time": "2026-11-10T02:00:00Z"
     }
   ],
