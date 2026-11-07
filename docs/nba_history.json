@@ -1,27 +1,27 @@
 {
-  "generated_utc": "2026-11-07T05:54:50.011410+00:00",
+  "generated_utc": "2026-11-07T07:08:21.117811+00:00",
   "source": "ESPN public scoreboard; not Kalshi settlement source",
   "historical_dates_checked": 402,
   "historical_dates_target": 402,
   "dates_requested_this_run": 3,
   "failed_daily_fetches": 0,
-  "completed_games": 1595,
+  "completed_games": 1596,
   "by_phase": {
     "preseason": 138,
-    "regular": 1366,
+    "regular": 1367,
     "postseason": 85,
     "unknown": 6
   },
-  "backtest_games": 1283,
+  "backtest_games": 1284,
   "model_brier": 0.2282,
   "neutral_50_50_brier": 0.25,
-  "paired_backtest_games": 1207,
+  "paired_backtest_games": 1208,
   "chronological_holdout": {
     "games": 242,
-    "form_brier": 0.2185,
-    "elo_brier": 0.1896,
+    "form_brier": 0.2173,
+    "elo_brier": 0.1892,
     "neutral_brier": 0.25,
-    "first_game_date": "2026-03-30T23:00Z"
+    "first_game_date": "2026-03-30T23:30Z"
   },
   "elo_holdout_calibration": [
     {
@@ -38,15 +38,15 @@
     },
     {
       "bin": "0.4-0.6",
-      "games": 72,
-      "mean_predicted": 0.511,
-      "actual_home_win_rate": 0.486
+      "games": 71,
+      "mean_predicted": 0.51,
+      "actual_home_win_rate": 0.479
     },
     {
       "bin": "0.6-0.8",
-      "games": 85,
-      "mean_predicted": 0.691,
-      "actual_home_win_rate": 0.682
+      "games": 86,
+      "mean_predicted": 0.69,
+      "actual_home_win_rate": 0.686
     },
     {
       "bin": "0.8-1.0",
@@ -58,35 +58,28 @@
   "calibration_experiment": {
     "status": "RETROSPECTIVE_RESEARCH_ONLY",
     "training_games": 724,
-    "validation_games": 241,
+    "validation_games": 242,
     "evaluation_games": 242,
     "selected_log_odds_slope": 1.4,
     "selected_log_odds_offset": -0.25,
-    "evaluation_raw_elo_brier": 0.1896,
-    "evaluation_calibrated_brier": 0.1852,
+    "evaluation_raw_elo_brier": 0.1892,
+    "evaluation_calibrated_brier": 0.1846,
     "note": "Parameters selected using middle 20% only; final 20% used for evaluation. Both historical periods were previously examined during development. Not untouched prospective validation and not live probabilities."
   },
   "calibration_diagnostics": {
     "minimum_bin_games": 20,
-    "weighted_absolute_gap": 0.0474,
+    "weighted_absolute_gap": 0.0473,
     "largest_bin_gap": 0.165,
     "validation": "DESCRIPTIVE_ONLY_NO_RECALIBRATION"
   },
   "paired_form_brier": 0.2277,
-  "paired_elo_brier": 0.2118,
+  "paired_elo_brier": 0.2117,
   "historical_backfill_complete": true,
-  "elo_backtest_games": 1207,
-  "elo_brier": 0.2118,
+  "elo_backtest_games": 1208,
+  "elo_brier": 0.2117,
   "status": "EXPLORATORY_NOT_VALIDATED",
   "warning": "Regular-season-only strictly chronological simple form model, with backfill potentially incomplete. No market odds, injuries, opponent adjustments, game matching or validated profitability.",
   "examples": [
-    {
-      "game_id": "401909926",
-      "date": "2026-11-05T00:30Z",
-      "predicted_home_win": 0.7357,
-      "actual_home_win": 1,
-      "brier": 0.06985
-    },
     {
       "game_id": "401909927",
       "date": "2026-11-05T01:00Z",
@@ -214,6 +207,13 @@
       "brier": 0.33474
     },
     {
+      "game_id": "401909294",
+      "date": "2026-11-07T03:00Z",
+      "predicted_home_win": 0.5,
+      "actual_home_win": 1,
+      "brier": 0.25
+    },
+    {
       "game_id": "401909295",
       "date": "2026-11-07T03:00Z",
       "predicted_home_win": 0.1857,
@@ -222,13 +222,6 @@
     }
   ],
   "elo_examples": [
-    {
-      "game_id": "401909926",
-      "date": "2026-11-05T00:30Z",
-      "predicted_home_win": 0.8315,
-      "actual_home_win": 1,
-      "brier": 0.02839
-    },
     {
       "game_id": "401909927",
       "date": "2026-11-05T01:00Z",
@@ -354,6 +347,13 @@
       "predicted_home_win": 0.358,
       "actual_home_win": 0,
       "brier": 0.12818
+    },
+    {
+      "game_id": "401909294",
+      "date": "2026-11-07T03:00Z",
+      "predicted_home_win": 0.6668,
+      "actual_home_win": 1,
+      "brier": 0.111
     },
     {
       "game_id": "401909295",
