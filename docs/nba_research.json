@@ -1,14 +1,14 @@
 {
-  "generated_utc": "2026-11-08T17:03:48.074825+00:00",
+  "generated_utc": "2026-11-08T21:11:19.357215+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 404,
+  "qualifying_nba_markets": 740,
   "scoreboard_games": [
     {
       "event_id": "401909945",
       "date": "2026-11-08T20:30Z",
       "name": "Philadelphia 76ers at Chicago Bulls",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "season_type": 2,
       "teams": [
         {
@@ -16,14 +16,14 @@
           "team": "Chicago Bulls",
           "abbreviation": "CHI",
           "home_away": "home",
-          "score": "0"
+          "score": "40"
         },
         {
           "team_id": "20",
           "team": "Philadelphia 76ers",
           "abbreviation": "PHI",
           "home_away": "away",
-          "score": "0"
+          "score": "40"
         }
       ]
     },
@@ -168,234 +168,24 @@
   ],
   "market_samples": [
     {
-      "ticker": "KXNBATOTAL-26NOV08BOSMIL-223",
-      "title": "Full Game: Over 222.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV08BOSMIL",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "1.0",
-      "volume_24h": "113973.64",
-      "close_time": "2026-11-11T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV08BKNDAL-DAL10",
-      "title": "Dallas wins by over 9.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV08BKNDAL",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "58.0",
-      "spread_cents": "1.0",
-      "volume_24h": "25204.76",
-      "close_time": "2026-11-11T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV08MIASAC-239",
-      "title": "Full Game: Over 238.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV08MIASAC",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "1.0",
-      "volume_24h": "23165.9",
-      "close_time": "2026-11-11T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV08UTAMIN-MIN12",
-      "title": "Minnesota wins by over 11.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV08UTAMIN",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "1.0",
-      "volume_24h": "18452.86",
-      "close_time": "2026-11-11T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV08NOPLAC-228",
-      "title": "Full Game: Over 227.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV08NOPLAC",
-      "yes_ask_cents": "48.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "1.0",
-      "volume_24h": "18274.16",
-      "close_time": "2026-11-11T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HSPREAD-26NOV08PHICHI-PHI5",
-      "title": "Philadelphia wins the 1st half by over 4.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26NOV08PHICHI",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "1.0",
-      "volume_24h": "15015.01",
-      "close_time": "2026-11-10T20:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV08LALDET-DET5",
-      "title": "Detroit wins by over 4.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV08LALDET",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "1.0",
-      "volume_24h": "14436.93",
-      "close_time": "2026-11-10T23:00:00Z"
-    },
-    {
       "ticker": "KXNBASPREAD-26NOV08PHICHI-PHI10",
       "title": "Philadelphia wins by over 9.5 points",
       "event_ticker": "KXNBASPREAD-26NOV08PHICHI",
+      "yes_ask_cents": "47.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "1.0",
+      "volume_24h": "167058.81",
+      "close_time": "2026-11-10T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV08BOSMIL-223",
+      "title": "Full Game: Over 222.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV08BOSMIL",
       "yes_ask_cents": "50.0",
       "no_ask_cents": "51.0",
       "spread_cents": "1.0",
-      "volume_24h": "14436.03",
-      "close_time": "2026-11-10T20:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV08LALDET-LALLDONCIC77-35",
-      "title": "Luka Don\u010di\u0107: 35+ points",
-      "event_ticker": "KXNBAPTS-26NOV08LALDET",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "1.0",
-      "volume_24h": "12793.76",
-      "close_time": "2026-11-10T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV08PHICHI-238",
-      "title": "Full Game: Over 237.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV08PHICHI",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "1.0",
-      "volume_24h": "12737.76",
-      "close_time": "2026-11-10T20:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV08MIASAC-MIA9",
-      "title": "Miami wins by over 8.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV08MIASAC",
-      "yes_ask_cents": "58.0",
-      "no_ask_cents": "43.0",
-      "spread_cents": "1.0",
-      "volume_24h": "12160.18",
-      "close_time": "2026-11-11T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV08UTAMIN-225",
-      "title": "Full Game: Over 224.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV08UTAMIN",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "1.0",
-      "volume_24h": "10942.33",
-      "close_time": "2026-11-11T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV08NOPLAC-230",
-      "title": "Full Game: Over 229.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV08NOPLAC",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "1.0",
-      "volume_24h": "9508.99",
-      "close_time": "2026-11-11T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV08UTAMIN-MIN11",
-      "title": "Minnesota wins by over 10.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV08UTAMIN",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "2.0",
-      "volume_24h": "9045.96",
-      "close_time": "2026-11-11T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV08BOSMIL-BOS31",
-      "title": "Boston wins by over 30.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV08BOSMIL",
-      "yes_ask_cents": "11.0",
-      "no_ask_cents": "91.0",
-      "spread_cents": "2.0",
-      "volume_24h": "8362.46",
+      "volume_24h": "117081.04",
       "close_time": "2026-11-11T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV08LALDET-221",
-      "title": "Full Game: Over 220.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV08LALDET",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "1.0",
-      "volume_24h": "7795.56",
-      "close_time": "2026-11-10T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV08BOSMIL-221",
-      "title": "Full Game: Over 220.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV08BOSMIL",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "1.0",
-      "volume_24h": "6826.29",
-      "close_time": "2026-11-11T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV08PHICHI-PHI2",
-      "title": "Philadelphia wins by over 1.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV08PHICHI",
-      "yes_ask_cents": "77.0",
-      "no_ask_cents": "24.0",
-      "spread_cents": "1.0",
-      "volume_24h": "5909.85",
-      "close_time": "2026-11-10T20:30:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV08LALDET-223",
-      "title": "Full Game: Over 222.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV08LALDET",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "2.0",
-      "volume_24h": "5081.71",
-      "close_time": "2026-11-10T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV08PHICHI-PHI9",
-      "title": "Philadelphia wins by over 8.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV08PHICHI",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "1.0",
-      "volume_24h": "5062.32",
-      "close_time": "2026-11-10T20:30:00Z"
-    },
-    {
-      "ticker": "KXNBA1HSPREAD-26NOV08LALDET-DET5",
-      "title": "Detroit wins the 1st half by over 4.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26NOV08LALDET",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "59.0",
-      "spread_cents": "2.0",
-      "volume_24h": "4653.28",
-      "close_time": "2026-11-10T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV08BOSMIL-BOS33",
-      "title": "Boston wins by over 32.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV08BOSMIL",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "95.0",
-      "spread_cents": "3.0",
-      "volume_24h": "4503.25",
-      "close_time": "2026-11-11T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV08NOPLAC-198",
-      "title": "Full Game: Over 197.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV08NOPLAC",
-      "yes_ask_cents": "96.0",
-      "no_ask_cents": "6.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3771.14",
-      "close_time": "2026-11-11T02:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV08MIASAC-MIA11",
@@ -404,117 +194,147 @@
       "yes_ask_cents": "50.0",
       "no_ask_cents": "51.0",
       "spread_cents": "1.0",
-      "volume_24h": "3644.93",
+      "volume_24h": "97088.22",
       "close_time": "2026-11-11T02:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV08PHICHI-PHI11",
-      "title": "Philadelphia wins by over 10.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV08PHICHI",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3628.39",
-      "close_time": "2026-11-10T20:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV08BOSMIL-BOS13",
-      "title": "Boston wins by over 12.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV08BOSMIL",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3573.11",
-      "close_time": "2026-11-11T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV08PHICHI-226",
-      "title": "Full Game: Over 225.5 points scored",
+      "ticker": "KXNBATOTAL-26NOV08PHICHI-238",
+      "title": "Full Game: Over 237.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV08PHICHI",
-      "yes_ask_cents": "75.0",
-      "no_ask_cents": "27.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3552.54",
+      "yes_ask_cents": "59.0",
+      "no_ask_cents": "42.0",
+      "spread_cents": "1.0",
+      "volume_24h": "65603.68",
       "close_time": "2026-11-10T20:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV08LALDET-LALLDONCIC77-40",
-      "title": "Luka Don\u010di\u0107: 40+ points",
-      "event_ticker": "KXNBAPTS-26NOV08LALDET",
-      "yes_ask_cents": "29.0",
-      "no_ask_cents": "74.0",
-      "spread_cents": "3.0",
-      "volume_24h": "3491.1",
-      "close_time": "2026-11-10T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV08LALDET-DET2",
-      "title": "Detroit wins by over 1.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV08LALDET",
-      "yes_ask_cents": "62.0",
-      "no_ask_cents": "39.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3490.86",
-      "close_time": "2026-11-10T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV08BKNDAL-223",
-      "title": "Full Game: Over 222.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV08BKNDAL",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3389.48",
-      "close_time": "2026-11-11T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV08BKNDAL-DAL8",
-      "title": "Dallas wins by over 7.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV08BKNDAL",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "1.0",
-      "volume_24h": "2833.95",
-      "close_time": "2026-11-11T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV08LALDET-LALLDONCIC77-30",
-      "title": "Luka Don\u010di\u0107: 30+ points",
-      "event_ticker": "KXNBAPTS-26NOV08LALDET",
-      "yes_ask_cents": "67.0",
-      "no_ask_cents": "34.0",
-      "spread_cents": "1.0",
-      "volume_24h": "2721.69",
-      "close_time": "2026-11-10T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBAREB-26NOV08MIASAC-MIAGANTETOKOUNMPO7-12",
-      "title": "Giannis Antetokounmpo: 12+ rebounds",
-      "event_ticker": "KXNBAREB-26NOV08MIASAC",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "1.0",
-      "volume_24h": "2425.38",
-      "close_time": "2026-11-11T02:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26NOV08PHICHI-240",
       "title": "Full Game: Over 239.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV08PHICHI",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "56.0",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "50.0",
       "spread_cents": "1.0",
-      "volume_24h": "2388.7",
+      "volume_24h": "41779.84",
       "close_time": "2026-11-10T20:30:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26NOV08LALDET-DETDROBINSON55-15",
-      "title": "Duncan Robinson: 15+ points",
-      "event_ticker": "KXNBAPTS-26NOV08LALDET",
-      "yes_ask_cents": "58.0",
-      "no_ask_cents": "45.0",
+      "ticker": "KXNBASPREAD-26NOV08PHICHI-PHI7",
+      "title": "Philadelphia wins by over 6.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV08PHICHI",
+      "yes_ask_cents": "61.0",
+      "no_ask_cents": "40.0",
+      "spread_cents": "1.0",
+      "volume_24h": "32086.82",
+      "close_time": "2026-11-10T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV08PHICHI-PHI9",
+      "title": "Philadelphia wins by over 8.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV08PHICHI",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "1.0",
+      "volume_24h": "29720.06",
+      "close_time": "2026-11-10T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBA1HTOTAL-26NOV08PHICHI-123",
+      "title": "1st Half: Over 122.5 points scored",
+      "event_ticker": "KXNBA1HTOTAL-26NOV08PHICHI",
+      "yes_ask_cents": "64.0",
+      "no_ask_cents": "41.0",
+      "spread_cents": "5.0",
+      "volume_24h": "28452.6",
+      "close_time": "2026-11-10T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV08MIASAC-239",
+      "title": "Full Game: Over 238.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV08MIASAC",
+      "yes_ask_cents": "46.0",
+      "no_ask_cents": "55.0",
+      "spread_cents": "1.0",
+      "volume_24h": "26319.81",
+      "close_time": "2026-11-11T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV08PHICHI-248",
+      "title": "Full Game: Over 247.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV08PHICHI",
+      "yes_ask_cents": "34.0",
+      "no_ask_cents": "67.0",
+      "spread_cents": "1.0",
+      "volume_24h": "25949.52",
+      "close_time": "2026-11-10T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV08NOPLAC-228",
+      "title": "Full Game: Over 227.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV08NOPLAC",
+      "yes_ask_cents": "48.0",
+      "no_ask_cents": "53.0",
+      "spread_cents": "1.0",
+      "volume_24h": "25392.51",
+      "close_time": "2026-11-11T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV08BKNDAL-DAL10",
+      "title": "Dallas wins by over 9.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV08BKNDAL",
+      "yes_ask_cents": "43.0",
+      "no_ask_cents": "59.0",
+      "spread_cents": "2.0",
+      "volume_24h": "25349.31",
+      "close_time": "2026-11-11T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBA1HSPREAD-26NOV08PHICHI-PHI5",
+      "title": "Philadelphia wins the 1st half by over 4.5 points",
+      "event_ticker": "KXNBA1HSPREAD-26NOV08PHICHI",
+      "yes_ask_cents": "47.0",
+      "no_ask_cents": "56.0",
       "spread_cents": "3.0",
-      "volume_24h": "2337.73",
+      "volume_24h": "24700.86",
+      "close_time": "2026-11-10T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV08PHICHI-PHI8",
+      "title": "Philadelphia wins by over 7.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV08PHICHI",
+      "yes_ask_cents": "56.0",
+      "no_ask_cents": "45.0",
+      "spread_cents": "1.0",
+      "volume_24h": "23287.0",
+      "close_time": "2026-11-10T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV08LALDET-221",
+      "title": "Full Game: Over 220.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV08LALDET",
+      "yes_ask_cents": "42.0",
+      "no_ask_cents": "59.0",
+      "spread_cents": "1.0",
+      "volume_24h": "21869.27",
+      "close_time": "2026-11-10T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV08UTAMIN-MIN12",
+      "title": "Minnesota wins by over 11.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV08UTAMIN",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "1.0",
+      "volume_24h": "21589.47",
+      "close_time": "2026-11-11T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV08LALDET-DET6",
+      "title": "Detroit wins by over 5.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV08LALDET",
+      "yes_ask_cents": "57.0",
+      "no_ask_cents": "44.0",
+      "spread_cents": "1.0",
+      "volume_24h": "19724.06",
       "close_time": "2026-11-10T23:00:00Z"
     },
     {
@@ -524,48 +344,228 @@
       "yes_ask_cents": "65.0",
       "no_ask_cents": "36.0",
       "spread_cents": "1.0",
-      "volume_24h": "2304.91",
+      "volume_24h": "19180.81",
       "close_time": "2026-11-10T20:30:00Z"
     },
     {
-      "ticker": "KXNBAAST-26NOV08LALDET-LALLDONCIC77-8",
-      "title": "Luka Don\u010di\u0107: 8+ assists",
-      "event_ticker": "KXNBAAST-26NOV08LALDET",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "58.0",
-      "spread_cents": "1.0",
-      "volume_24h": "2292.36",
-      "close_time": "2026-11-10T23:00:00Z"
-    },
-    {
-      "ticker": "KXNBAAST-26NOV08BKNDAL-BKNDSHARPE20-4",
-      "title": "Day'Ron Sharpe: 4+ assists",
-      "event_ticker": "KXNBAAST-26NOV08BKNDAL",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "57.0",
-      "spread_cents": "1.0",
-      "volume_24h": "2257.85",
-      "close_time": "2026-11-11T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV08LALDET-DET6",
-      "title": "Detroit wins by over 5.5 points",
+      "ticker": "KXNBASPREAD-26NOV08LALDET-DET5",
+      "title": "Detroit wins by over 4.5 points",
       "event_ticker": "KXNBASPREAD-26NOV08LALDET",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "53.0",
-      "spread_cents": "2.0",
-      "volume_24h": "2236.72",
+      "yes_ask_cents": "60.0",
+      "no_ask_cents": "41.0",
+      "spread_cents": "1.0",
+      "volume_24h": "18803.9",
       "close_time": "2026-11-10T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV08PHICHI-250",
+      "title": "Full Game: Over 249.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV08PHICHI",
+      "yes_ask_cents": "29.0",
+      "no_ask_cents": "72.0",
+      "spread_cents": "1.0",
+      "volume_24h": "17890.61",
+      "close_time": "2026-11-10T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBA1HSPREAD-26NOV08PHICHI-PHI7",
+      "title": "Philadelphia wins the 1st half by over 6.5 points",
+      "event_ticker": "KXNBA1HSPREAD-26NOV08PHICHI",
+      "yes_ask_cents": "36.0",
+      "no_ask_cents": "70.0",
+      "spread_cents": "6.0",
+      "volume_24h": "17637.14",
+      "close_time": "2026-11-10T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV08PHICHI-PHI5",
+      "title": "Philadelphia wins by over 4.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV08PHICHI",
+      "yes_ask_cents": "68.0",
+      "no_ask_cents": "33.0",
+      "spread_cents": "1.0",
+      "volume_24h": "17511.89",
+      "close_time": "2026-11-10T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV08LALDET-219",
+      "title": "Full Game: Over 218.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV08LALDET",
+      "yes_ask_cents": "47.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "1.0",
+      "volume_24h": "15381.87",
+      "close_time": "2026-11-10T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBATEAMTOTAL-26NOV08PHICHI-CHI115",
+      "title": "Chicago over 114.5 points scored",
+      "event_ticker": "KXNBATEAMTOTAL-26NOV08PHICHI",
+      "yes_ask_cents": "57.0",
+      "no_ask_cents": "44.0",
+      "spread_cents": "1.0",
+      "volume_24h": "15197.52",
+      "close_time": "2026-11-10T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV08BOSMIL-BOS31",
+      "title": "Boston wins by over 30.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV08BOSMIL",
+      "yes_ask_cents": "10.0",
+      "no_ask_cents": "91.0",
+      "spread_cents": "1.0",
+      "volume_24h": "14445.51",
+      "close_time": "2026-11-11T01:00:00Z"
     },
     {
       "ticker": "KXNBATOTAL-26NOV08PHICHI-236",
       "title": "Full Game: Over 235.5 points scored",
       "event_ticker": "KXNBATOTAL-26NOV08PHICHI",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "46.0",
+      "yes_ask_cents": "65.0",
+      "no_ask_cents": "36.0",
       "spread_cents": "1.0",
-      "volume_24h": "2197.3",
+      "volume_24h": "12944.87",
       "close_time": "2026-11-10T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV08PHICHI-242",
+      "title": "Full Game: Over 241.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV08PHICHI",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "3.0",
+      "volume_24h": "12497.64",
+      "close_time": "2026-11-10T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBA1HSPREAD-26NOV08LALDET-DET2",
+      "title": "Detroit wins the 1st half by over 1.5 points",
+      "event_ticker": "KXNBA1HSPREAD-26NOV08LALDET",
+      "yes_ask_cents": "58.0",
+      "no_ask_cents": "43.0",
+      "spread_cents": "1.0",
+      "volume_24h": "12296.72",
+      "close_time": "2026-11-10T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV08MIASAC-MIA9",
+      "title": "Miami wins by over 8.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV08MIASAC",
+      "yes_ask_cents": "57.0",
+      "no_ask_cents": "45.0",
+      "spread_cents": "2.0",
+      "volume_24h": "12167.58",
+      "close_time": "2026-11-11T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV08PHICHI-PHI2",
+      "title": "Philadelphia wins by over 1.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV08PHICHI",
+      "yes_ask_cents": "76.0",
+      "no_ask_cents": "25.0",
+      "spread_cents": "1.0",
+      "volume_24h": "11253.13",
+      "close_time": "2026-11-10T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV08UTAMIN-225",
+      "title": "Full Game: Over 224.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV08UTAMIN",
+      "yes_ask_cents": "45.0",
+      "no_ask_cents": "57.0",
+      "spread_cents": "2.0",
+      "volume_24h": "10976.65",
+      "close_time": "2026-11-11T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV08LALDET-DET8",
+      "title": "Detroit wins by over 7.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV08LALDET",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "1.0",
+      "volume_24h": "10569.75",
+      "close_time": "2026-11-10T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV08PHICHI-PHI11",
+      "title": "Philadelphia wins by over 10.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV08PHICHI",
+      "yes_ask_cents": "43.0",
+      "no_ask_cents": "58.0",
+      "spread_cents": "1.0",
+      "volume_24h": "10455.39",
+      "close_time": "2026-11-10T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV08BKNDAL-DAL8",
+      "title": "Dallas wins by over 7.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV08BKNDAL",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "50.0",
+      "spread_cents": "1.0",
+      "volume_24h": "9744.86",
+      "close_time": "2026-11-11T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV08PHICHI-246",
+      "title": "Full Game: Over 245.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV08PHICHI",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "62.0",
+      "spread_cents": "1.0",
+      "volume_24h": "9716.51",
+      "close_time": "2026-11-10T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV08LALDET-217",
+      "title": "Full Game: Over 216.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV08LALDET",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "1.0",
+      "volume_24h": "9668.11",
+      "close_time": "2026-11-10T23:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV08NOPLAC-230",
+      "title": "Full Game: Over 229.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV08NOPLAC",
+      "yes_ask_cents": "44.0",
+      "no_ask_cents": "57.0",
+      "spread_cents": "1.0",
+      "volume_24h": "9653.11",
+      "close_time": "2026-11-11T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBA1HTOTAL-26NOV08PHICHI-129",
+      "title": "1st Half: Over 128.5 points scored",
+      "event_ticker": "KXNBA1HTOTAL-26NOV08PHICHI",
+      "yes_ask_cents": "31.0",
+      "no_ask_cents": "71.0",
+      "spread_cents": "2.0",
+      "volume_24h": "9604.9",
+      "close_time": "2026-11-10T20:30:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV08UTAMIN-MIN11",
+      "title": "Minnesota wins by over 10.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV08UTAMIN",
+      "yes_ask_cents": "56.0",
+      "no_ask_cents": "45.0",
+      "spread_cents": "1.0",
+      "volume_24h": "9081.12",
+      "close_time": "2026-11-11T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV08BKNDAL-223",
+      "title": "Full Game: Over 222.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV08BKNDAL",
+      "yes_ask_cents": "54.0",
+      "no_ask_cents": "47.0",
+      "spread_cents": "1.0",
+      "volume_24h": "8685.81",
+      "close_time": "2026-11-11T00:30:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
