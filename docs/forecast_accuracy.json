@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-11-12T11:07:47.457763+00:00",
-  "finalized_contracts": 396,
-  "independent_city_days": 66,
-  "model_brier": 0.197,
-  "rough_market_baseline_brier": 0.1488,
+  "generated_utc": "2026-11-12T18:55:58.690034+00:00",
+  "finalized_contracts": 408,
+  "independent_city_days": 68,
+  "model_brier": 0.1933,
+  "rough_market_baseline_brier": 0.1456,
   "enough_data_for_conclusions": false,
   "sample_size_gate_passed": true,
   "additional_independent_city_days_needed": 0,
@@ -15,15 +15,15 @@
   "reliability_bins": [
     {
       "range": "0%\u201320%",
-      "count": 40,
-      "mean_predicted": 0.09,
-      "observed_yes_rate": 0.225
+      "count": 41,
+      "mean_predicted": 0.092,
+      "observed_yes_rate": 0.22
     },
     {
       "range": "20%\u201340%",
-      "count": 19,
-      "mean_predicted": 0.27,
-      "observed_yes_rate": 0.263
+      "count": 20,
+      "mean_predicted": 0.273,
+      "observed_yes_rate": 0.25
     },
     {
       "range": "40%\u201360%",
