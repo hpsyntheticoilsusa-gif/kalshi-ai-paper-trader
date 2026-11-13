@@ -1,14 +1,14 @@
 {
-  "generated_utc": "2026-11-12T18:55:42.291188+00:00",
+  "generated_utc": "2026-11-13T00:23:22.501568+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 510,
+  "qualifying_nba_markets": 31,
   "scoreboard_games": [
     {
       "event_id": "401909976",
       "date": "2026-11-13T00:00Z",
       "name": "Toronto Raptors at Philadelphia 76ers",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "season_type": 2,
       "teams": [
         {
@@ -16,14 +16,14 @@
           "team": "Philadelphia 76ers",
           "abbreviation": "PHI",
           "home_away": "home",
-          "score": "0"
+          "score": "9"
         },
         {
           "team_id": "28",
           "team": "Toronto Raptors",
           "abbreviation": "TOR",
           "home_away": "away",
-          "score": "0"
+          "score": "16"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "event_id": "401909977",
       "date": "2026-11-13T00:00Z",
       "name": "Detroit Pistons at Washington Wizards",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "season_type": 2,
       "teams": [
         {
@@ -39,14 +39,14 @@
           "team": "Washington Wizards",
           "abbreviation": "WSH",
           "home_away": "home",
-          "score": "0"
+          "score": "24"
         },
         {
           "team_id": "8",
           "team": "Detroit Pistons",
           "abbreviation": "DET",
           "home_away": "away",
-          "score": "0"
+          "score": "17"
         }
       ]
     },
@@ -99,404 +99,314 @@
   ],
   "market_samples": [
     {
-      "ticker": "KXNBASPREAD-26NOV12DETWAS-DET11",
-      "title": "Detroit wins by over 10.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV12DETWAS",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "1.0",
-      "volume_24h": "84900.1",
+      "ticker": "KXNBAPRA-26NOV12TORPHI-TORJSHEAD1-25",
+      "title": "Jamal Shead: 25+ combined points, rebounds, and assists",
+      "event_ticker": "KXNBAPRA-26NOV12TORPHI",
+      "yes_ask_cents": "14.0",
+      "no_ask_cents": "92.0",
+      "spread_cents": "6.0",
+      "volume_24h": "3545.11",
       "close_time": "2026-11-15T00:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV12TORPHI-PHI9",
-      "title": "Philadelphia wins by over 8.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV12TORPHI",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "2.0",
-      "volume_24h": "40036.42",
+      "ticker": "KXNBAPRA-26NOV12TORPHI-TORJSHEAD1-20",
+      "title": "Jamal Shead: 20+ combined points, rebounds, and assists",
+      "event_ticker": "KXNBAPRA-26NOV12TORPHI",
+      "yes_ask_cents": "35.0",
+      "no_ask_cents": "73.0",
+      "spread_cents": "8.0",
+      "volume_24h": "2309.31",
       "close_time": "2026-11-15T00:00:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26NOV12TORPHI-223",
-      "title": "Full Game: Over 222.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV12TORPHI",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "2.0",
-      "volume_24h": "35039.06",
-      "close_time": "2026-11-15T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV12TORPHI-PHI10",
-      "title": "Philadelphia wins by over 9.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV12TORPHI",
-      "yes_ask_cents": "42.0",
-      "no_ask_cents": "59.0",
-      "spread_cents": "1.0",
-      "volume_24h": "34423.67",
-      "close_time": "2026-11-15T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV12TORPHI-219",
-      "title": "Full Game: Over 218.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV12TORPHI",
-      "yes_ask_cents": "64.0",
-      "no_ask_cents": "38.0",
-      "spread_cents": "2.0",
-      "volume_24h": "24676.93",
-      "close_time": "2026-11-15T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV12CHAPHX-PHX8",
-      "title": "Phoenix wins by over 7.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV12CHAPHX",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "1.0",
-      "volume_24h": "23594.77",
-      "close_time": "2026-11-15T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV12DALMIN-MIN6",
-      "title": "Minnesota wins by over 5.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV12DALMIN",
-      "yes_ask_cents": "53.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "2.0",
-      "volume_24h": "23341.09",
+      "ticker": "KXNBA3PT-26NOV12DALMIN-MINJCLARK7-1",
+      "title": "Jaylen Clark: 1+ threes",
+      "event_ticker": "KXNBA3PT-26NOV12DALMIN",
+      "yes_ask_cents": "47.0",
+      "no_ask_cents": "57.0",
+      "spread_cents": "4.0",
+      "volume_24h": "2280.08",
       "close_time": "2026-11-15T01:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV12TORPHI-PHI11",
-      "title": "Philadelphia wins by over 10.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV12TORPHI",
-      "yes_ask_cents": "40.0",
-      "no_ask_cents": "62.0",
-      "spread_cents": "2.0",
-      "volume_24h": "21900.3",
-      "close_time": "2026-11-15T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV12TORPHI-225",
-      "title": "Full Game: Over 224.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV12TORPHI",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "2.0",
-      "volume_24h": "18284.22",
-      "close_time": "2026-11-15T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV12TORPHI-PHI8",
-      "title": "Philadelphia wins by over 7.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV12TORPHI",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "1.0",
-      "volume_24h": "17372.16",
-      "close_time": "2026-11-15T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV12DETWAS-DET10",
-      "title": "Detroit wins by over 9.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV12DETWAS",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "2.0",
-      "volume_24h": "17295.38",
-      "close_time": "2026-11-15T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV12CHAPHX-PHX7",
-      "title": "Phoenix wins by over 6.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV12CHAPHX",
-      "yes_ask_cents": "50.0",
-      "no_ask_cents": "51.0",
-      "spread_cents": "1.0",
-      "volume_24h": "14160.93",
-      "close_time": "2026-11-15T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV12DETWAS-221",
-      "title": "Full Game: Over 220.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV12DETWAS",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "1.0",
-      "volume_24h": "9852.99",
-      "close_time": "2026-11-15T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HSPREAD-26NOV12TORPHI-PHI4",
-      "title": "Philadelphia wins the 1st half by over 3.5 points",
-      "event_ticker": "KXNBA1HSPREAD-26NOV12TORPHI",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "2.0",
-      "volume_24h": "8671.89",
-      "close_time": "2026-11-15T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV12CHAPHX-PHXMBRIDGES22-15",
-      "title": "Miles Bridges: 15+ points",
-      "event_ticker": "KXNBAPTS-26NOV12CHAPHX",
-      "yes_ask_cents": "58.0",
-      "no_ask_cents": "43.0",
-      "spread_cents": "1.0",
-      "volume_24h": "8167.13",
-      "close_time": "2026-11-15T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV12CHAPHX-PHX5",
-      "title": "Phoenix wins by over 4.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV12CHAPHX",
+      "ticker": "KXNBAAST-26NOV12TORPHI-TORJSHEAD1-6",
+      "title": "Jamal Shead: 6+ assists",
+      "event_ticker": "KXNBAAST-26NOV12TORPHI",
       "yes_ask_cents": "58.0",
       "no_ask_cents": "44.0",
       "spread_cents": "2.0",
-      "volume_24h": "8024.58",
-      "close_time": "2026-11-15T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV12DETWAS-DET7",
-      "title": "Detroit wins by over 6.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV12DETWAS",
-      "yes_ask_cents": "65.0",
-      "no_ask_cents": "36.0",
-      "spread_cents": "1.0",
-      "volume_24h": "7854.01",
+      "volume_24h": "1952.74",
       "close_time": "2026-11-15T00:00:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26NOV12TORPHI-221",
-      "title": "Full Game: Over 220.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV12TORPHI",
+      "ticker": "KXNBA3PT-26NOV12TORPHI-TORJBATTLE77-3",
+      "title": "Jamison Battle: 3+ threes",
+      "event_ticker": "KXNBA3PT-26NOV12TORPHI",
+      "yes_ask_cents": "35.0",
+      "no_ask_cents": "73.0",
+      "spread_cents": "8.0",
+      "volume_24h": "863.35",
+      "close_time": "2026-11-15T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV12TORPHI-PHIJBROWN7-35",
+      "title": "Jaylen Brown: 35+ points",
+      "event_ticker": "KXNBAPTS-26NOV12TORPHI",
+      "yes_ask_cents": "13.0",
+      "no_ask_cents": "90.0",
+      "spread_cents": "3.0",
+      "volume_24h": "822.33",
+      "close_time": "2026-11-15T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBAAST-26NOV12DALMIN-MINTSHANNON4-2",
+      "title": "Terrence Shannon Jr.: 2+ assists",
+      "event_ticker": "KXNBAAST-26NOV12DALMIN",
+      "yes_ask_cents": "56.0",
+      "no_ask_cents": "45.0",
+      "spread_cents": "1.0",
+      "volume_24h": "669.22",
+      "close_time": "2026-11-15T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26NOV12TORPHI-TORJBATTLE77-2",
+      "title": "Jamison Battle: 2+ threes",
+      "event_ticker": "KXNBA3PT-26NOV12TORPHI",
+      "yes_ask_cents": "56.0",
+      "no_ask_cents": "47.0",
+      "spread_cents": "3.0",
+      "volume_24h": "655.92",
+      "close_time": "2026-11-15T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV12DETWAS-DETRHOLLAND5-10",
+      "title": "Ronald Holland II: 10+ points",
+      "event_ticker": "KXNBAPTS-26NOV12DETWAS",
+      "yes_ask_cents": "18.0",
+      "no_ask_cents": "90.0",
+      "spread_cents": "8.0",
+      "volume_24h": "562.0",
+      "close_time": "2026-11-15T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPRA-26NOV12DALMIN-MINTSHANNON4-15",
+      "title": "Terrence Shannon Jr.: 15+ combined points, rebounds, and assists",
+      "event_ticker": "KXNBAPRA-26NOV12DALMIN",
+      "yes_ask_cents": "47.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "1.0",
+      "volume_24h": "468.09",
+      "close_time": "2026-11-15T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26NOV12DALMIN-DALSALDAMA34-1",
+      "title": "Santi Aldama: 1+ threes",
+      "event_ticker": "KXNBA3PT-26NOV12DALMIN",
       "yes_ask_cents": "59.0",
       "no_ask_cents": "43.0",
       "spread_cents": "2.0",
-      "volume_24h": "7476.89",
-      "close_time": "2026-11-15T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV12DALMIN-MIN7",
-      "title": "Minnesota wins by over 6.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV12DALMIN",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "1.0",
-      "volume_24h": "7080.61",
+      "volume_24h": "427.95",
       "close_time": "2026-11-15T01:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV12DALMIN-MIN4",
-      "title": "Minnesota wins by over 3.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV12DALMIN",
-      "yes_ask_cents": "60.0",
-      "no_ask_cents": "42.0",
+      "ticker": "KXNBA3PT-26NOV12DALMIN-MINTLYLES41-2",
+      "title": "Trey Lyles: 2+ threes",
+      "event_ticker": "KXNBA3PT-26NOV12DALMIN",
+      "yes_ask_cents": "31.0",
+      "no_ask_cents": "71.0",
       "spread_cents": "2.0",
-      "volume_24h": "7012.33",
+      "volume_24h": "404.31",
       "close_time": "2026-11-15T01:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV12DETWAS-DET9",
-      "title": "Detroit wins by over 8.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV12DETWAS",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "45.0",
+      "ticker": "KXNBAPTSPROT-26NOV12CHAPHX-CHATSALAUN31-10",
+      "title": "Tidjane Sala\u00fcn: 10+ points",
+      "event_ticker": "KXNBAPTSPROT-26NOV12CHAPHX",
+      "yes_ask_cents": "22.0",
+      "no_ask_cents": "79.0",
       "spread_cents": "1.0",
-      "volume_24h": "6203.31",
-      "close_time": "2026-11-15T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV12DALMIN-226",
-      "title": "Full Game: Over 225.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV12DALMIN",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "1.0",
-      "volume_24h": "6016.3",
-      "close_time": "2026-11-15T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV12CHAPHX-CHANREID0-30",
-      "title": "Naz Reid: 30+ points",
-      "event_ticker": "KXNBAPTS-26NOV12CHAPHX",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "88.0",
-      "spread_cents": "2.0",
-      "volume_24h": "5900.29",
+      "volume_24h": "395.63",
       "close_time": "2026-11-15T02:00:00Z"
     },
     {
-      "ticker": "KXNBAGAME-26NOV16GSWNOP-NOP",
-      "title": "New Orleans wins",
-      "event_ticker": "KXNBAGAME-26NOV16GSWNOP",
+      "ticker": "KXNBASTL-26NOV12CHAPHX-CHACWHITE3-1",
+      "title": "Coby White: 1+ steals",
+      "event_ticker": "KXNBASTL-26NOV12CHAPHX",
+      "yes_ask_cents": "41.0",
+      "no_ask_cents": "62.0",
+      "spread_cents": "3.0",
+      "volume_24h": "311.8",
+      "close_time": "2026-11-15T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV13ATLCHI-ATL7",
+      "title": "Atlanta wins by over 6.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV13ATLCHI",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "3.0",
+      "volume_24h": "246.95",
+      "close_time": "2026-11-16T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV13ATLCHI-245",
+      "title": "Full Game: Over 244.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV13ATLCHI",
       "yes_ask_cents": "54.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "1.0",
-      "volume_24h": "5293.52",
-      "close_time": "2026-11-19T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV12DALMIN-MIN5",
-      "title": "Minnesota wins by over 4.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV12DALMIN",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "45.0",
-      "spread_cents": "1.0",
-      "volume_24h": "5140.27",
-      "close_time": "2026-11-15T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBA1HTOTAL-26NOV12TORPHI-109",
-      "title": "1st Half: Over 108.5 points scored",
-      "event_ticker": "KXNBA1HTOTAL-26NOV12TORPHI",
-      "yes_ask_cents": "50.0",
       "no_ask_cents": "53.0",
+      "spread_cents": "7.0",
+      "volume_24h": "222.84",
+      "close_time": "2026-11-16T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV13PORSAC-231",
+      "title": "Full Game: Over 230.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV13PORSAC",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "6.0",
+      "volume_24h": "208.19",
+      "close_time": "2026-11-16T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPRA-26NOV12DALMIN-DALMJOHNSON14-15",
+      "title": "Morez Johnson Jr.: 15+ combined points, rebounds, and assists",
+      "event_ticker": "KXNBAPRA-26NOV12DALMIN",
+      "yes_ask_cents": "39.0",
+      "no_ask_cents": "64.0",
       "spread_cents": "3.0",
-      "volume_24h": "5056.58",
-      "close_time": "2026-11-15T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV12TORPHI-PHI4",
-      "title": "Philadelphia wins by over 3.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV12TORPHI",
-      "yes_ask_cents": "65.0",
-      "no_ask_cents": "37.0",
-      "spread_cents": "2.0",
-      "volume_24h": "4889.93",
-      "close_time": "2026-11-15T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBAAST-26NOV12CHAPHX-CHACWHITE3-4",
-      "title": "Coby White: 4+ assists",
-      "event_ticker": "KXNBAAST-26NOV12CHAPHX",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4859.97",
-      "close_time": "2026-11-15T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV12DALMIN-228",
-      "title": "Full Game: Over 227.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV12DALMIN",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4642.41",
+      "volume_24h": "206.79",
       "close_time": "2026-11-15T01:00:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26NOV12CHAPHX-CHACWHITE3-10",
-      "title": "Coby White: 10+ points",
-      "event_ticker": "KXNBAPTS-26NOV12CHAPHX",
-      "yes_ask_cents": "76.0",
-      "no_ask_cents": "25.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4450.66",
-      "close_time": "2026-11-15T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV12TORPHI-PHIJBROWN7-20",
-      "title": "Jaylen Brown: 20+ points",
-      "event_ticker": "KXNBAPTS-26NOV12TORPHI",
-      "yes_ask_cents": "71.0",
-      "no_ask_cents": "31.0",
+      "ticker": "KXNBAAST-26NOV12TORPHI-TORJSHEAD1-8",
+      "title": "Jamal Shead: 8+ assists",
+      "event_ticker": "KXNBAAST-26NOV12TORPHI",
+      "yes_ask_cents": "29.0",
+      "no_ask_cents": "73.0",
       "spread_cents": "2.0",
-      "volume_24h": "4361.25",
+      "volume_24h": "205.28",
       "close_time": "2026-11-15T00:00:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26NOV12CHAPHX-CHANREID0-20",
-      "title": "Naz Reid: 20+ points",
-      "event_ticker": "KXNBAPTS-26NOV12CHAPHX",
-      "yes_ask_cents": "57.0",
-      "no_ask_cents": "44.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4358.58",
-      "close_time": "2026-11-15T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV12CHAPHX-215",
-      "title": "Full Game: Over 214.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV12CHAPHX",
-      "yes_ask_cents": "51.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4022.18",
-      "close_time": "2026-11-15T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBA3PT-26NOV12CHAPHX-PHXCGILLESPIE12-5",
-      "title": "Collin Gillespie: 5+ threes",
+      "ticker": "KXNBA3PT-26NOV12CHAPHX-CHATSALAUN31-3",
+      "title": "Tidjane Sala\u00fcn: 3+ threes",
       "event_ticker": "KXNBA3PT-26NOV12CHAPHX",
-      "yes_ask_cents": "8.0",
-      "no_ask_cents": "93.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3953.0",
-      "close_time": "2026-11-15T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV12CHAPHX-PHX6",
-      "title": "Phoenix wins by over 5.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV12CHAPHX",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "48.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3900.99",
-      "close_time": "2026-11-15T02:00:00Z"
-    },
-    {
-      "ticker": "KXNBAPTS-26NOV12TORPHI-PHITMAXEY0-25",
-      "title": "Tyrese Maxey: 25+ points",
-      "event_ticker": "KXNBAPTS-26NOV12TORPHI",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "47.0",
+      "yes_ask_cents": "14.0",
+      "no_ask_cents": "89.0",
       "spread_cents": "3.0",
-      "volume_24h": "3776.79",
-      "close_time": "2026-11-15T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV12DETWAS-DET34",
-      "title": "Detroit wins by over 33.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV12DETWAS",
-      "yes_ask_cents": "5.0",
-      "no_ask_cents": "96.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3754.89",
-      "close_time": "2026-11-15T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBAAST-26NOV12CHAPHX-CHAGALLEN8-8",
-      "title": "Grayson Allen: 8+ assists",
-      "event_ticker": "KXNBAAST-26NOV12CHAPHX",
-      "yes_ask_cents": "9.0",
-      "no_ask_cents": "92.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3731.48",
+      "volume_24h": "202.11",
       "close_time": "2026-11-15T02:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV12TORPHI-PHI6",
-      "title": "Philadelphia wins by over 5.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV12TORPHI",
+      "ticker": "KXNBAREB-26NOV12DALMIN-MINJBERINGER19-8",
+      "title": "Joan Beringer: 8+ rebounds",
+      "event_ticker": "KXNBAREB-26NOV12DALMIN",
+      "yes_ask_cents": "20.0",
+      "no_ask_cents": "83.0",
+      "spread_cents": "3.0",
+      "volume_24h": "200.73",
+      "close_time": "2026-11-15T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBAREB-26NOV12DALMIN-MINTLYLES41-4",
+      "title": "Trey Lyles: 4+ rebounds",
+      "event_ticker": "KXNBAREB-26NOV12DALMIN",
       "yes_ask_cents": "57.0",
       "no_ask_cents": "44.0",
       "spread_cents": "1.0",
-      "volume_24h": "3551.93",
+      "volume_24h": "180.36",
+      "close_time": "2026-11-15T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPTS-26NOV12DETWAS-WASBCOULIBALY0-15",
+      "title": "Bilal Coulibaly: 15+ points",
+      "event_ticker": "KXNBAPTS-26NOV12DETWAS",
+      "yes_ask_cents": "7.0",
+      "no_ask_cents": "96.0",
+      "spread_cents": "3.0",
+      "volume_24h": "169.18",
       "close_time": "2026-11-15T00:00:00Z"
     },
     {
-      "ticker": "KXNBAPTS-26NOV12TORPHI-PHITMAXEY0-35",
-      "title": "Tyrese Maxey: 35+ points",
-      "event_ticker": "KXNBAPTS-26NOV12TORPHI",
-      "yes_ask_cents": "15.0",
-      "no_ask_cents": "87.0",
+      "ticker": "KXNBASPREAD-26NOV13NYKIND-NYK7",
+      "title": "New York wins by over 6.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV13NYKIND",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "3.0",
+      "volume_24h": "135.03",
+      "close_time": "2026-11-16T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26NOV12CHAPHX-CHATSALAUN31-4",
+      "title": "Tidjane Sala\u00fcn: 4+ threes",
+      "event_ticker": "KXNBA3PT-26NOV12CHAPHX",
+      "yes_ask_cents": "7.0",
+      "no_ask_cents": "97.0",
+      "spread_cents": "4.0",
+      "volume_24h": "134.12",
+      "close_time": "2026-11-15T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBAPRA-26NOV12DALMIN-MINJCLARK7-10",
+      "title": "Jaylen Clark: 10+ combined points, rebounds, and assists",
+      "event_ticker": "KXNBAPRA-26NOV12DALMIN",
+      "yes_ask_cents": "40.0",
+      "no_ask_cents": "65.0",
+      "spread_cents": "5.0",
+      "volume_24h": "123.0",
+      "close_time": "2026-11-15T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV13GSWSAS-SAS15",
+      "title": "San Antonio wins by over 14.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV13GSWSAS",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "54.0",
+      "spread_cents": "4.0",
+      "volume_24h": "110.12",
+      "close_time": "2026-11-16T02:30:00Z"
+    },
+    {
+      "ticker": "KXNBA3PT-26NOV12CHAPHX-CHATSALAUN31-2",
+      "title": "Tidjane Sala\u00fcn: 2+ threes",
+      "event_ticker": "KXNBA3PT-26NOV12CHAPHX",
+      "yes_ask_cents": "32.0",
+      "no_ask_cents": "70.0",
       "spread_cents": "2.0",
-      "volume_24h": "3450.5",
-      "close_time": "2026-11-15T00:00:00Z"
+      "volume_24h": "106.31",
+      "close_time": "2026-11-15T02:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV13UTAHOU-191",
+      "title": "Full Game: Over 190.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV13UTAHOU",
+      "yes_ask_cents": "94.0",
+      "no_ask_cents": "14.0",
+      "spread_cents": "8.0",
+      "volume_24h": "100.01",
+      "close_time": "2026-11-16T01:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV13MILORL-195",
+      "title": "Full Game: Over 194.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV13MILORL",
+      "yes_ask_cents": "95.0",
+      "no_ask_cents": "10.0",
+      "spread_cents": "5.0",
+      "volume_24h": "100.0",
+      "close_time": "2026-11-16T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV13NYKIND-192",
+      "title": "Full Game: Over 191.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV13NYKIND",
+      "yes_ask_cents": "95.0",
+      "no_ask_cents": "13.0",
+      "spread_cents": "8.0",
+      "volume_24h": "100.0",
+      "close_time": "2026-11-16T00:00:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
