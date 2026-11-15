@@ -1,13 +1,13 @@
 {
-  "generated_utc": "2026-11-15T01:55:11.384155+00:00",
+  "generated_utc": "2026-11-15T09:24:50.730529+00:00",
   "predictions_saved": 200,
   "new_predictions": 0,
-  "scored_games": 195,
-  "regular_season_scored_games": 183,
+  "scored_games": 200,
+  "regular_season_scored_games": 188,
   "nonregular_scored_games_excluded": 12,
   "preseason_scored_games": 12,
-  "newly_scored": 0,
-  "raw_elo_forward_brier": 0.204,
+  "newly_scored": 5,
+  "raw_elo_forward_brier": 0.2055,
   "status": "FORWARD_RESEARCH_ONLY",
   "note": "Only strict pre-tipoff predictions scored against exact ESPN game IDs. No Kalshi market mapping, no trade signals. Unmatched games are skipped, never guessed."
 }
