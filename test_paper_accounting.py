@@ -32,4 +32,19 @@ class PaperAccountingTests(unittest.TestCase):
         a=settle_once(dict(price=55,qty=1,fee=2,side="yes"),"no")
         b=settle_once(dict(price=30,qty=2,fee=3,side="no"),"no")
         self.assertEqual(cash([a,b]),100080)
+class RepositoryPaperEngineTests(unittest.TestCase):
+    def test_size_respects_depth_budget_and_exposure(self):
+        import paper_engine as p
+        self.assertEqual(p.quantity_for(47,100,100000,0),10)
+        self.assertEqual(p.quantity_for(47,2,100000,0),2)
+        self.assertEqual(p.quantity_for(47,100,49,0),0)
+        self.assertEqual(p.quantity_for(47,100,100000,9999),0)
+    def test_multi_contract_accounting(self):
+        import paper_engine as p
+        x=dict(ask_cents=47,quantity=10,estimated_fees_cents=30,side="yes",status="SETTLED",result="yes",forecast_probability=.7,net_pnl_cents=500)
+        self.assertEqual(p.settlement_pnl(x,"yes"),500)
+        self.assertEqual(p.settlement_pnl(x,"no"),-500)
+        self.assertEqual(p.metrics([x])["available_cash_cents"],100500)
+        x.update(status="OPEN")
+        self.assertEqual(p.metrics([x])["available_cash_cents"],99500)
 if __name__=="__main__":unittest.main()
