@@ -22,7 +22,7 @@ def main():
         cat=category(r.get("ticker"),r.get("title"))
         grouped[cat]+=1
         out.append({**r,"category":cat})
-    (DOCS/"market_categories.json").write_text(json.dumps({"generated_utc":datetime.datetime.now(datetime.timezone.utc).isoformat(),"scope":"Only saved markets passing liquidity/spread filters; all qualifying saved from up to 20,000 scanned","categories":dict(grouped),"markets":out},indent=2),encoding="utf-8")
+    (DOCS/"market_categories.json").write_text(json.dumps({"generated_utc":datetime.datetime.now(datetime.timezone.utc).isoformat(),"scope":"Only saved markets passing liquidity/spread filters; all qualifying saved from standalone and published combo discovery lanes; see status.json for coverage limits","categories":dict(grouped),"markets":out},indent=2),encoding="utf-8")
     # Publish full filtered dataset. The phone renders a limited page at a time.
     section='''<section id="all-markets" style="margin:20px 0;background:#1c2c42;padding:18px;border-radius:14px">
 <h2>All-market explorer (Step 11)</h2><p>Search all saved qualifying markets from the latest scan. These are filtered snapshots, NOT every Kalshi market, live quotes, or validated trading signals. Categories use conservative ticker-prefix heuristics.</p>
