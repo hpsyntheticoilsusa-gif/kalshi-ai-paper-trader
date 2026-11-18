@@ -1,36 +1,16 @@
 {
-  "generated_utc": "2026-11-18T04:20:55.986849+00:00",
-  "regular_season_games": 1443,
-  "chronological_scoring_tests": 1360,
-  "margin_mean_absolute_error_points": 12.29,
-  "total_mean_absolute_error_points": 15.48,
+  "generated_utc": "2026-11-18T13:59:23.494053+00:00",
+  "regular_season_games": 1445,
+  "chronological_scoring_tests": 1362,
+  "margin_mean_absolute_error_points": 12.3,
+  "total_mean_absolute_error_points": 15.47,
   "margin_zero_baseline_mae": 13.39,
-  "paired_total_games": 1360,
-  "paired_model_total_mae": 15.48,
-  "paired_baseline_total_mae": 15.9,
+  "paired_total_games": 1362,
+  "paired_model_total_mae": 15.47,
+  "paired_baseline_total_mae": 15.88,
   "test_gate": "RESEARCH_ONLY",
   "limitations": "Prior five regular-season games per team. No injuries, opponent adjustment, rest, pace, market lines, fees, or verified Kalshi game matching. Errors describe score projections only, NOT profitable spread/total trades.",
   "examples": [
-    {
-      "baseline_margin": 0.0,
-      "baseline_total": 230.27,
-      "game_id": "401909993",
-      "date": "2026-11-16T02:00Z",
-      "projected_margin": -9.3,
-      "actual_margin": -22,
-      "projected_total": 219.9,
-      "actual_total": 228
-    },
-    {
-      "baseline_margin": 0.0,
-      "baseline_total": 230.28,
-      "game_id": "401909994",
-      "date": "2026-11-17T00:00Z",
-      "projected_margin": 11.3,
-      "actual_margin": -10,
-      "projected_total": 216.3,
-      "actual_total": 220
-    },
     {
       "baseline_margin": 0.0,
       "baseline_total": 230.28,
@@ -130,6 +110,26 @@
       "actual_margin": -12,
       "projected_total": 233.5,
       "actual_total": 198
+    },
+    {
+      "baseline_margin": 0.0,
+      "baseline_total": 230.29,
+      "game_id": "401910006",
+      "date": "2026-11-18T03:30Z",
+      "projected_margin": 5.2,
+      "actual_margin": -25,
+      "projected_total": 230.6,
+      "actual_total": 239
+    },
+    {
+      "baseline_margin": 0.0,
+      "baseline_total": 230.29,
+      "game_id": "401910005",
+      "date": "2026-11-18T04:00Z",
+      "projected_margin": 9.0,
+      "actual_margin": 4,
+      "projected_total": 227.4,
+      "actual_total": 232
     }
   ]
 }
