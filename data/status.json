@@ -1,7 +1,7 @@
 {
-  "last_scan_utc": "2026-11-18T21:56:18.474354+00:00",
+  "last_scan_utc": "2026-11-19T03:26:36.373226+00:00",
   "fetched": 120000,
-  "passing_filters": 6439,
+  "passing_filters": 5314,
   "pages_fetched": 120,
   "discovery_cap_markets": 120000,
   "more_pages_possible": true,
@@ -19,7 +19,7 @@
       "stop": "page_cap"
     }
   },
-  "saved_filtered_markets": 6439,
+  "saved_filtered_markets": 5314,
   "paper_trades": 0,
   "note": "Experimental forecast-led paper simulations. Assumed 3c per contract; displayed depth is not a guaranteed fill; series fee exceptions unverified.",
   "settled_trades": 0,
@@ -31,7 +31,7 @@
   "realized_bankroll_cents": 100000,
   "settled_brier": null,
   "forecast_inputs": 0,
-  "weather_research_observations": 3558,
+  "weather_research_observations": 3510,
   "new_weather_observations": 12,
   "verified_weather_signals": 0,
   "weather_paper_trades": 0,
