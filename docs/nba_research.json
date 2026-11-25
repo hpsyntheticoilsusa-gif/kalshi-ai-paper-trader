@@ -1,14 +1,14 @@
 {
-  "generated_utc": "2026-11-24T17:44:25.894080+00:00",
+  "generated_utc": "2026-11-25T02:28:56.515466+00:00",
   "independent_feed_available": true,
   "independent_source": "ESPN public NBA scoreboard (not a settlement authority)",
-  "qualifying_nba_markets": 252,
+  "qualifying_nba_markets": 550,
   "scoreboard_games": [
     {
       "event_id": "401909314",
       "date": "2026-11-25T00:00Z",
       "name": "Detroit Pistons at Orlando Magic",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "season_type": 2,
       "teams": [
         {
@@ -16,14 +16,14 @@
           "team": "Orlando Magic",
           "abbreviation": "ORL",
           "home_away": "home",
-          "score": "0"
+          "score": "86"
         },
         {
           "team_id": "8",
           "team": "Detroit Pistons",
           "abbreviation": "DET",
           "home_away": "away",
-          "score": "0"
+          "score": "104"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "event_id": "401909315",
       "date": "2026-11-25T01:00Z",
       "name": "Boston Celtics at Washington Wizards",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "season_type": 2,
       "teams": [
         {
@@ -39,14 +39,14 @@
           "team": "Washington Wizards",
           "abbreviation": "WSH",
           "home_away": "home",
-          "score": "0"
+          "score": "49"
         },
         {
           "team_id": "2",
           "team": "Boston Celtics",
           "abbreviation": "BOS",
           "home_away": "away",
-          "score": "0"
+          "score": "80"
         }
       ]
     },
@@ -76,24 +76,24 @@
   ],
   "market_samples": [
     {
-      "ticker": "KXNBAGAME-26NOV24BOSWAS-WAS",
-      "title": "Washington wins",
-      "event_ticker": "KXNBAGAME-26NOV24BOSWAS",
-      "yes_ask_cents": "22.0",
-      "no_ask_cents": "79.0",
-      "spread_cents": "1.0",
-      "volume_24h": "537240.04",
-      "close_time": "2026-11-27T01:00:00Z"
-    },
-    {
       "ticker": "KXNBAGAME-26NOV24DALDEN-DAL",
       "title": "Dallas wins",
       "event_ticker": "KXNBAGAME-26NOV24DALDEN",
       "yes_ask_cents": "29.0",
-      "no_ask_cents": "73.0",
-      "spread_cents": "2.0",
-      "volume_24h": "206168.34",
+      "no_ask_cents": "72.0",
+      "spread_cents": "1.0",
+      "volume_24h": "808328.09",
       "close_time": "2026-11-27T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV24BOSWAS-BOS12",
+      "title": "Boston wins by over 11.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV24BOSWAS",
+      "yes_ask_cents": "95.0",
+      "no_ask_cents": "6.0",
+      "spread_cents": "1.0",
+      "volume_24h": "384925.01",
+      "close_time": "2026-11-27T01:00:00Z"
     },
     {
       "ticker": "KXNBAGAME-26NOV24DALDEN-DEN",
@@ -102,128 +102,18 @@
       "yes_ask_cents": "72.0",
       "no_ask_cents": "29.0",
       "spread_cents": "1.0",
-      "volume_24h": "114650.81",
+      "volume_24h": "372982.64",
       "close_time": "2026-11-27T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAGAME-26NOV24BOSWAS-BOS",
-      "title": "Boston wins",
-      "event_ticker": "KXNBAGAME-26NOV24BOSWAS",
-      "yes_ask_cents": "79.0",
-      "no_ask_cents": "22.0",
-      "spread_cents": "1.0",
-      "volume_24h": "102323.4",
-      "close_time": "2026-11-27T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBAGAME-26NOV24DETORL-DET",
-      "title": "Detroit wins",
-      "event_ticker": "KXNBAGAME-26NOV24DETORL",
-      "yes_ask_cents": "55.0",
-      "no_ask_cents": "46.0",
-      "spread_cents": "1.0",
-      "volume_24h": "96993.79",
-      "close_time": "2026-11-27T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBAGAME-26NOV24DETORL-ORL",
-      "title": "Orlando wins",
-      "event_ticker": "KXNBAGAME-26NOV24DETORL",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "2.0",
-      "volume_24h": "80087.44",
-      "close_time": "2026-11-27T00:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV24BOSWAS-BOS11",
       "title": "Boston wins by over 10.5 points",
       "event_ticker": "KXNBASPREAD-26NOV24BOSWAS",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "49.0",
+      "yes_ask_cents": "97.0",
+      "no_ask_cents": "4.0",
       "spread_cents": "1.0",
-      "volume_24h": "63758.92",
+      "volume_24h": "293161.76",
       "close_time": "2026-11-27T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV24DALDEN-234",
-      "title": "Full Game: Over 233.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV24DALDEN",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "49.0",
-      "spread_cents": "1.0",
-      "volume_24h": "44379.14",
-      "close_time": "2026-11-27T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV24DETORL-DET3",
-      "title": "Detroit wins by over 2.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV24DETORL",
-      "yes_ask_cents": "49.0",
-      "no_ask_cents": "52.0",
-      "spread_cents": "1.0",
-      "volume_24h": "39055.03",
-      "close_time": "2026-11-27T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBAGAME-26NOV25MINOKC-MIN",
-      "title": "Minnesota wins",
-      "event_ticker": "KXNBAGAME-26NOV25MINOKC",
-      "yes_ask_cents": "46.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "2.0",
-      "volume_24h": "35403.35",
-      "close_time": "2026-11-28T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV24DALDEN-232",
-      "title": "Full Game: Over 231.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV24DALDEN",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "45.0",
-      "spread_cents": "1.0",
-      "volume_24h": "29160.69",
-      "close_time": "2026-11-27T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAGAME-26NOV25MINOKC-OKC",
-      "title": "Oklahoma City wins",
-      "event_ticker": "KXNBAGAME-26NOV25MINOKC",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "45.0",
-      "spread_cents": "1.0",
-      "volume_24h": "25232.32",
-      "close_time": "2026-11-28T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV24DETORL-213",
-      "title": "Full Game: Over 212.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV24DETORL",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "2.0",
-      "volume_24h": "23267.79",
-      "close_time": "2026-11-27T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBAGAME-26NOV25MIAPHI-MIA",
-      "title": "Miami wins",
-      "event_ticker": "KXNBAGAME-26NOV25MIAPHI",
-      "yes_ask_cents": "43.0",
-      "no_ask_cents": "58.0",
-      "spread_cents": "1.0",
-      "volume_24h": "21248.56",
-      "close_time": "2026-11-27T22:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV24DETORL-215",
-      "title": "Full Game: Over 214.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV24DETORL",
-      "yes_ask_cents": "47.0",
-      "no_ask_cents": "55.0",
-      "spread_cents": "2.0",
-      "volume_24h": "16961.0",
-      "close_time": "2026-11-27T00:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV24DALDEN-DEN9",
@@ -232,248 +122,358 @@
       "yes_ask_cents": "49.0",
       "no_ask_cents": "52.0",
       "spread_cents": "1.0",
-      "volume_24h": "15178.76",
+      "volume_24h": "163888.69",
       "close_time": "2026-11-27T03:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV24BOSWAS-BOS12",
-      "title": "Boston wins by over 11.5 points",
+      "ticker": "KXNBATOTAL-26NOV24BOSWAS-219",
+      "title": "Full Game: Over 218.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV24BOSWAS",
+      "yes_ask_cents": "94.0",
+      "no_ask_cents": "7.0",
+      "spread_cents": "1.0",
+      "volume_24h": "146465.12",
+      "close_time": "2026-11-27T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV24BOSWAS-BOS13",
+      "title": "Boston wins by over 12.5 points",
       "event_ticker": "KXNBASPREAD-26NOV24BOSWAS",
+      "yes_ask_cents": "95.0",
+      "no_ask_cents": "7.0",
+      "spread_cents": "2.0",
+      "volume_24h": "101590.12",
+      "close_time": "2026-11-27T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV24BOSWAS-BOS15",
+      "title": "Boston wins by over 14.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV24BOSWAS",
+      "yes_ask_cents": "92.0",
+      "no_ask_cents": "10.0",
+      "spread_cents": "2.0",
+      "volume_24h": "81438.01",
+      "close_time": "2026-11-27T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV24DALDEN-234",
+      "title": "Full Game: Over 233.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV24DALDEN",
+      "yes_ask_cents": "53.0",
+      "no_ask_cents": "48.0",
+      "spread_cents": "1.0",
+      "volume_24h": "77494.19",
+      "close_time": "2026-11-27T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV24BOSWAS-221",
+      "title": "Full Game: Over 220.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV24BOSWAS",
+      "yes_ask_cents": "91.0",
+      "no_ask_cents": "10.0",
+      "spread_cents": "1.0",
+      "volume_24h": "68870.72",
+      "close_time": "2026-11-27T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV24DALDEN-DEN8",
+      "title": "Denver wins by over 7.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV24DALDEN",
+      "yes_ask_cents": "52.0",
+      "no_ask_cents": "49.0",
+      "spread_cents": "1.0",
+      "volume_24h": "62634.2",
+      "close_time": "2026-11-27T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBAGAME-26NOV25MINOKC-MIN",
+      "title": "Minnesota wins",
+      "event_ticker": "KXNBAGAME-26NOV25MINOKC",
       "yes_ask_cents": "48.0",
       "no_ask_cents": "53.0",
       "spread_cents": "1.0",
-      "volume_24h": "12898.03",
+      "volume_24h": "59190.75",
+      "close_time": "2026-11-28T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBAGAME-26NOV25MIAPHI-MIA",
+      "title": "Miami wins",
+      "event_ticker": "KXNBAGAME-26NOV25MIAPHI",
+      "yes_ask_cents": "50.0",
+      "no_ask_cents": "51.0",
+      "spread_cents": "1.0",
+      "volume_24h": "58437.34",
+      "close_time": "2026-11-27T22:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV24BOSWAS-223",
+      "title": "Full Game: Over 222.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV24BOSWAS",
+      "yes_ask_cents": "89.0",
+      "no_ask_cents": "13.0",
+      "spread_cents": "2.0",
+      "volume_24h": "57428.79",
       "close_time": "2026-11-27T01:00:00Z"
     },
     {
       "ticker": "KXNBAGAME-26NOV25MIAPHI-PHI",
       "title": "Philadelphia wins",
       "event_ticker": "KXNBAGAME-26NOV25MIAPHI",
-      "yes_ask_cents": "57.0",
-      "no_ask_cents": "44.0",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "50.0",
       "spread_cents": "1.0",
-      "volume_24h": "11242.49",
+      "volume_24h": "47674.72",
       "close_time": "2026-11-27T22:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV24BOSWAS-BOS13",
-      "title": "Boston wins by over 12.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV24BOSWAS",
-      "yes_ask_cents": "45.0",
-      "no_ask_cents": "56.0",
-      "spread_cents": "1.0",
-      "volume_24h": "10758.18",
+      "ticker": "KXNBAREB-26NOV24BOSWAS-WASADYBANTSA4-6",
+      "title": "AJ Dybantsa: 6+ rebounds",
+      "event_ticker": "KXNBAREB-26NOV24BOSWAS",
+      "yes_ask_cents": "99.0",
+      "no_ask_cents": "5.0",
+      "spread_cents": "4.0",
+      "volume_24h": "44836.25",
       "close_time": "2026-11-27T01:00:00Z"
     },
     {
-      "ticker": "KXNBAGAME-26NOV25CHICHA-CHI",
-      "title": "Chicago wins",
-      "event_ticker": "KXNBAGAME-26NOV25CHICHA",
-      "yes_ask_cents": "44.0",
-      "no_ask_cents": "58.0",
+      "ticker": "KXNBATOTAL-26NOV24DALDEN-232",
+      "title": "Full Game: Over 231.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV24DALDEN",
+      "yes_ask_cents": "58.0",
+      "no_ask_cents": "43.0",
+      "spread_cents": "1.0",
+      "volume_24h": "40232.05",
+      "close_time": "2026-11-27T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV24BOSWAS-BOS31",
+      "title": "Boston wins by over 30.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV24BOSWAS",
+      "yes_ask_cents": "49.0",
+      "no_ask_cents": "53.0",
       "spread_cents": "2.0",
-      "volume_24h": "10187.54",
-      "close_time": "2026-11-28T00:00:00Z"
+      "volume_24h": "39337.52",
+      "close_time": "2026-11-27T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV24BOSWAS-BOS16",
+      "title": "Boston wins by over 15.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV24BOSWAS",
+      "yes_ask_cents": "90.0",
+      "no_ask_cents": "11.0",
+      "spread_cents": "1.0",
+      "volume_24h": "34220.72",
+      "close_time": "2026-11-27T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV24DALDEN-DEN11",
+      "title": "Denver wins by over 10.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV24DALDEN",
+      "yes_ask_cents": "41.0",
+      "no_ask_cents": "60.0",
+      "spread_cents": "1.0",
+      "volume_24h": "34002.05",
+      "close_time": "2026-11-27T03:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV24BOSWAS-BOS14",
+      "title": "Boston wins by over 13.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV24BOSWAS",
+      "yes_ask_cents": "93.0",
+      "no_ask_cents": "8.0",
+      "spread_cents": "1.0",
+      "volume_24h": "33339.84",
+      "close_time": "2026-11-27T01:00:00Z"
     },
     {
       "ticker": "KXNBAGAME-26NOV25SACGSW-SAC",
       "title": "Sacramento wins",
       "event_ticker": "KXNBAGAME-26NOV25SACGSW",
-      "yes_ask_cents": "32.0",
-      "no_ask_cents": "69.0",
+      "yes_ask_cents": "33.0",
+      "no_ask_cents": "68.0",
       "spread_cents": "1.0",
-      "volume_24h": "10126.49",
+      "volume_24h": "30003.13",
       "close_time": "2026-11-28T03:00:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26NOV24DETORL-217",
-      "title": "Full Game: Over 216.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV24DETORL",
-      "yes_ask_cents": "41.0",
-      "no_ask_cents": "60.0",
-      "spread_cents": "1.0",
-      "volume_24h": "6867.7",
-      "close_time": "2026-11-27T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBAGAME-26NOV25CLENYK-NYK",
-      "title": "New York wins",
-      "event_ticker": "KXNBAGAME-26NOV25CLENYK",
-      "yes_ask_cents": "67.0",
-      "no_ask_cents": "34.0",
-      "spread_cents": "1.0",
-      "volume_24h": "6539.92",
-      "close_time": "2026-11-28T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBAGAME-26NOV27LALSAS-LAL",
-      "title": "Los Angeles L wins",
-      "event_ticker": "KXNBAGAME-26NOV27LALSAS",
-      "yes_ask_cents": "40.0",
-      "no_ask_cents": "61.0",
-      "spread_cents": "1.0",
-      "volume_24h": "5505.39",
-      "close_time": "2026-11-30T02:30:00Z"
-    },
-    {
-      "ticker": "KXNBAGAME-26NOV25SACGSW-GSW",
-      "title": "Golden State wins",
-      "event_ticker": "KXNBAGAME-26NOV25SACGSW",
-      "yes_ask_cents": "70.0",
-      "no_ask_cents": "31.0",
-      "spread_cents": "1.0",
-      "volume_24h": "5086.79",
-      "close_time": "2026-11-28T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV24DALDEN-DEN6",
-      "title": "Denver wins by over 5.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV24DALDEN",
-      "yes_ask_cents": "61.0",
-      "no_ask_cents": "41.0",
+      "ticker": "KXNBASPREAD-26NOV24BOSWAS-BOS23",
+      "title": "Boston wins by over 22.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV24BOSWAS",
+      "yes_ask_cents": "75.0",
+      "no_ask_cents": "27.0",
       "spread_cents": "2.0",
-      "volume_24h": "4948.35",
-      "close_time": "2026-11-27T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV24DETORL-DET2",
-      "title": "Detroit wins by over 1.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV24DETORL",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4770.11",
-      "close_time": "2026-11-27T00:00:00Z"
-    },
-    {
-      "ticker": "KXNBAGAME-26NOV25CLENYK-CLE",
-      "title": "Cleveland wins",
-      "event_ticker": "KXNBAGAME-26NOV25CLENYK",
-      "yes_ask_cents": "34.0",
-      "no_ask_cents": "67.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4498.88",
-      "close_time": "2026-11-28T00:30:00Z"
-    },
-    {
-      "ticker": "KXNBAGAME-26NOV25LACMEM-MEM",
-      "title": "Memphis wins",
-      "event_ticker": "KXNBAGAME-26NOV25LACMEM",
-      "yes_ask_cents": "70.0",
-      "no_ask_cents": "31.0",
-      "spread_cents": "1.0",
-      "volume_24h": "4320.1",
-      "close_time": "2026-11-28T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBAGAME-26NOV25PHXHOU-HOU",
-      "title": "Houston wins",
-      "event_ticker": "KXNBAGAME-26NOV25PHXHOU",
-      "yes_ask_cents": "76.0",
-      "no_ask_cents": "25.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3921.44",
-      "close_time": "2026-11-28T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBASPREAD-26NOV24DALDEN-DEN8",
-      "title": "Denver wins by over 7.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV24DALDEN",
-      "yes_ask_cents": "54.0",
-      "no_ask_cents": "47.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3726.59",
-      "close_time": "2026-11-27T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAGAME-26NOV25PHXHOU-PHX",
-      "title": "Phoenix wins",
-      "event_ticker": "KXNBAGAME-26NOV25PHXHOU",
-      "yes_ask_cents": "24.0",
-      "no_ask_cents": "77.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3447.09",
-      "close_time": "2026-11-28T01:30:00Z"
-    },
-    {
-      "ticker": "KXNBAGAME-26NOV25SASPOR-SAS",
-      "title": "San Antonio wins",
-      "event_ticker": "KXNBAGAME-26NOV25SASPOR",
-      "yes_ask_cents": "61.0",
-      "no_ask_cents": "40.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3434.17",
-      "close_time": "2026-11-28T03:00:00Z"
-    },
-    {
-      "ticker": "KXNBAGAME-26NOV25BKNMIL-MIL",
-      "title": "Milwaukee wins",
-      "event_ticker": "KXNBAGAME-26NOV25BKNMIL",
-      "yes_ask_cents": "52.0",
-      "no_ask_cents": "50.0",
-      "spread_cents": "2.0",
-      "volume_24h": "3383.64",
-      "close_time": "2026-11-28T01:00:00Z"
-    },
-    {
-      "ticker": "KXNBATOTAL-26NOV24BOSWAS-217",
-      "title": "Full Game: Over 216.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV24BOSWAS",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "45.0",
-      "spread_cents": "1.0",
-      "volume_24h": "3250.83",
+      "volume_24h": "29546.42",
       "close_time": "2026-11-27T01:00:00Z"
     },
     {
-      "ticker": "KXNBATEAMTOTAL-26NOV24BOSWAS-BOS115",
-      "title": "Boston over 114.5 points scored",
-      "event_ticker": "KXNBATEAMTOTAL-26NOV24BOSWAS",
-      "yes_ask_cents": "54.0",
+      "ticker": "KXNBAGAME-26NOV25MINOKC-OKC",
+      "title": "Oklahoma City wins",
+      "event_ticker": "KXNBAGAME-26NOV25MINOKC",
+      "yes_ask_cents": "53.0",
       "no_ask_cents": "48.0",
+      "spread_cents": "1.0",
+      "volume_24h": "28486.55",
+      "close_time": "2026-11-28T00:30:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV24BOSWAS-225",
+      "title": "Full Game: Over 224.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV24BOSWAS",
+      "yes_ask_cents": "84.0",
+      "no_ask_cents": "17.0",
+      "spread_cents": "1.0",
+      "volume_24h": "26127.37",
+      "close_time": "2026-11-27T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV24BOSWAS-BOS19",
+      "title": "Boston wins by over 18.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV24BOSWAS",
+      "yes_ask_cents": "85.0",
+      "no_ask_cents": "17.0",
       "spread_cents": "2.0",
-      "volume_24h": "3182.14",
+      "volume_24h": "25842.28",
       "close_time": "2026-11-27T01:00:00Z"
     },
     {
       "ticker": "KXNBASPREAD-26NOV24BOSWAS-BOS10",
       "title": "Boston wins by over 9.5 points",
       "event_ticker": "KXNBASPREAD-26NOV24BOSWAS",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "45.0",
+      "yes_ask_cents": "97.0",
+      "no_ask_cents": "4.0",
       "spread_cents": "1.0",
-      "volume_24h": "3025.99",
+      "volume_24h": "25488.75",
       "close_time": "2026-11-27T01:00:00Z"
     },
     {
-      "ticker": "KXNBASPREAD-26NOV24DETORL-ORL3",
-      "title": "Orlando wins by over 2.5 points",
-      "event_ticker": "KXNBASPREAD-26NOV24DETORL",
-      "yes_ask_cents": "39.0",
-      "no_ask_cents": "62.0",
+      "ticker": "KXNBAPTS-26NOV24BOSWAS-BOSJTATUM0-30",
+      "title": "Jayson Tatum: 30+ points",
+      "event_ticker": "KXNBAPTS-26NOV24BOSWAS",
+      "yes_ask_cents": "95.0",
+      "no_ask_cents": "6.0",
       "spread_cents": "1.0",
-      "volume_24h": "3005.99",
-      "close_time": "2026-11-27T00:00:00Z"
+      "volume_24h": "25256.52",
+      "close_time": "2026-11-27T01:00:00Z"
     },
     {
-      "ticker": "KXNBAGAME-26NOV27MILDET-MIL",
-      "title": "Milwaukee wins",
-      "event_ticker": "KXNBAGAME-26NOV27MILDET",
-      "yes_ask_cents": "14.0",
-      "no_ask_cents": "88.0",
+      "ticker": "KXNBAPTS-26NOV24BOSWAS-WASADYBANTSA4-15",
+      "title": "AJ Dybantsa: 15+ points",
+      "event_ticker": "KXNBAPTS-26NOV24BOSWAS",
+      "yes_ask_cents": "57.0",
+      "no_ask_cents": "47.0",
+      "spread_cents": "4.0",
+      "volume_24h": "23204.82",
+      "close_time": "2026-11-27T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV24BOSWAS-BOS9",
+      "title": "Boston wins by over 8.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV24BOSWAS",
+      "yes_ask_cents": "98.0",
+      "no_ask_cents": "3.0",
+      "spread_cents": "1.0",
+      "volume_24h": "22856.88",
+      "close_time": "2026-11-27T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV24BOSWAS-229",
+      "title": "Full Game: Over 228.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV24BOSWAS",
+      "yes_ask_cents": "75.0",
+      "no_ask_cents": "26.0",
+      "spread_cents": "1.0",
+      "volume_24h": "22130.74",
+      "close_time": "2026-11-27T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV24BOSWAS-227",
+      "title": "Full Game: Over 226.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV24BOSWAS",
+      "yes_ask_cents": "80.0",
+      "no_ask_cents": "22.0",
       "spread_cents": "2.0",
-      "volume_24h": "2992.39",
-      "close_time": "2026-11-30T00:30:00Z"
+      "volume_24h": "21972.84",
+      "close_time": "2026-11-27T01:00:00Z"
     },
     {
-      "ticker": "KXNBATOTAL-26NOV24DETORL-211",
-      "title": "Full Game: Over 210.5 points scored",
-      "event_ticker": "KXNBATOTAL-26NOV24DETORL",
-      "yes_ask_cents": "56.0",
-      "no_ask_cents": "45.0",
+      "ticker": "KXNBASPREAD-26NOV24BOSWAS-BOS17",
+      "title": "Boston wins by over 16.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV24BOSWAS",
+      "yes_ask_cents": "89.0",
+      "no_ask_cents": "13.0",
+      "spread_cents": "2.0",
+      "volume_24h": "20763.06",
+      "close_time": "2026-11-27T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBAGAME-26NOV25CHICHA-CHI",
+      "title": "Chicago wins",
+      "event_ticker": "KXNBAGAME-26NOV25CHICHA",
+      "yes_ask_cents": "42.0",
+      "no_ask_cents": "60.0",
+      "spread_cents": "2.0",
+      "volume_24h": "19658.43",
+      "close_time": "2026-11-28T00:00:00Z"
+    },
+    {
+      "ticker": "KXNBATOTAL-26NOV24BOSWAS-237",
+      "title": "Full Game: Over 236.5 points scored",
+      "event_ticker": "KXNBATOTAL-26NOV24BOSWAS",
+      "yes_ask_cents": "51.0",
+      "no_ask_cents": "50.0",
       "spread_cents": "1.0",
-      "volume_24h": "2738.14",
-      "close_time": "2026-11-27T00:00:00Z"
+      "volume_24h": "19498.8",
+      "close_time": "2026-11-27T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBATEAMTOTAL-26NOV24BOSWAS-BOS115",
+      "title": "Boston over 114.5 points scored",
+      "event_ticker": "KXNBATEAMTOTAL-26NOV24BOSWAS",
+      "yes_ask_cents": "99.0",
+      "no_ask_cents": "2.0",
+      "spread_cents": "1.0",
+      "volume_24h": "18825.0",
+      "close_time": "2026-11-27T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV24BOSWAS-BOS29",
+      "title": "Boston wins by over 28.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV24BOSWAS",
+      "yes_ask_cents": "55.0",
+      "no_ask_cents": "46.0",
+      "spread_cents": "1.0",
+      "volume_24h": "18697.31",
+      "close_time": "2026-11-27T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV24BOSWAS-BOS21",
+      "title": "Boston wins by over 20.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV24BOSWAS",
+      "yes_ask_cents": "80.0",
+      "no_ask_cents": "21.0",
+      "spread_cents": "1.0",
+      "volume_24h": "18302.68",
+      "close_time": "2026-11-27T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBASPREAD-26NOV24BOSWAS-BOS33",
+      "title": "Boston wins by over 32.5 points",
+      "event_ticker": "KXNBASPREAD-26NOV24BOSWAS",
+      "yes_ask_cents": "41.0",
+      "no_ask_cents": "60.0",
+      "spread_cents": "1.0",
+      "volume_24h": "17925.57",
+      "close_time": "2026-11-27T01:00:00Z"
+    },
+    {
+      "ticker": "KXNBAGAME-26NOV25PHXHOU-PHX",
+      "title": "Phoenix wins",
+      "event_ticker": "KXNBAGAME-26NOV25PHXHOU",
+      "yes_ask_cents": "23.0",
+      "no_ask_cents": "78.0",
+      "spread_cents": "1.0",
+      "volume_24h": "17852.72",
+      "close_time": "2026-11-28T01:30:00Z"
     }
   ],
   "validation_status": "RESEARCH_ONLY_NO_PROBABILITIES",
